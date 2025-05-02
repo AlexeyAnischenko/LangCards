@@ -1,0 +1,5503 @@
+﻿1
+Γεια σου!
+Yia sou!
+Hello!
+
+2
+Τι κάνεις;
+Ti kanis?
+How are you?
+
+3
+Καλά είμαι, ευχαριστώ.
+Kala ime, efharisto.
+I am fine, thank you.
+
+4
+Πώς σε λένε;
+Pos se lene?
+What is your name?
+
+5
+Με λένε [your name].
+Me lene [your name].
+My name is [your name].
+
+6
+Χαίρω πολύ.
+Herō poli.
+Nice to meet you.
+
+7
+Αντίο!
+Adio!
+Goodbye!
+
+8
+Τα λέμε!
+Ta leme!
+See you later!
+
+9
+Παρακαλώ.
+Parakalo.
+Please / You're welcome.
+
+10
+Ευχαριστώ πολύ.
+Efharisto poli.
+Thank you very much.
+
+11
+Δεν καταλαβαίνω.
+Den katalaveno.
+I don't understand.
+
+12
+Μιλάτε αγγλικά;
+Milate anglika?
+Do you speak English?
+
+13
+Ναι, μιλάω λίγα ελληνικά.
+Ne, milao liga ellinika.
+Yes, I speak a little Greek.
+
+14
+Πόσο κοστίζει αυτό;
+Poso kostizei afto?
+How much does this cost?
+
+15
+Είναι πολύ ακριβό.
+Ine poli akrivo.
+It is very expensive.
+
+16
+Μπορώ να πληρώσω με κάρτα;
+Boro na pliroso me karta?
+Can I pay by card?
+
+17
+Πού είναι η τουαλέτα;
+Pou ine i toualeta?
+Where is the toilet?
+
+18
+Μπορείτε να με βοηθήσετε;
+Borite na me voithisete?
+Can you help me?
+
+19
+Χρειάζομαι βοήθεια.
+Hriazome voithia.
+I need help.
+
+20
+Πού είναι το αεροδρόμιο;
+Pou ine to aerodromio?
+Where is the airport?
+
+21
+Πού είναι το ξενοδοχείο μου;
+Pou ine to xenodoheio mou?
+Where is my hotel?
+
+22
+Μια μπύρα, παρακαλώ.
+Mia bira, parakalo.
+A beer, please.
+
+23
+Ένα ποτήρι νερό, παρακαλώ.
+Ena potiri nero, parakalo.
+A glass of water, please.
+
+24
+Πεινάω.
+Pinao.
+I am hungry.
+
+25
+Διψάω.
+Dipsao.
+I am thirsty.
+
+26
+Τι ώρα είναι;
+Ti ora ine?
+What time is it?
+
+27
+Σήμερα.
+Simera.
+Today.
+
+28
+Αύριο.
+Avrio.
+Tomorrow.
+
+29
+Χθες.
+Hthes.
+Yesterday.
+
+30
+Ναι.
+Ne.
+Yes.
+
+31
+Όχι.
+Ohi.
+No.
+
+32
+Εντάξει.
+Endaxi.
+Okay.
+
+33
+Συγνώμη.
+Signomi.
+Sorry / Excuse me.
+
+34
+Καλημέρα.
+Kalimera.
+Good morning / Good day.
+
+35
+Καλησπέρα.
+Kalispera.
+Good evening / Good afternoon.
+
+36
+Καληνύχτα.
+Kalinichta.
+Good night.
+
+37
+Τι νέα;
+Ti nea?
+What's new? / What's up?
+
+38
+Όλα καλά.
+Ola kala.
+Everything is fine.
+
+39
+Μου λείπεις.
+Mou lipis.
+I miss you.
+
+40
+Σ' αγαπώ.
+S'agapo.
+I love you.
+
+41
+Τι ώρα θα συναντηθούμε;
+Ti ora tha sinantithoume?
+What time shall we meet?
+
+42
+Πού θα συναντηθούμε;
+Pou tha sinantithoume?
+Where shall we meet?
+
+43
+Περίμενε με, σε παρακαλώ.
+Perimene me, se parakalo.
+Wait for me, please.
+
+44
+Έρχομαι αμέσως.
+Erhome amesos.
+I'm coming immediately.
+
+45
+Μην βιάζεσαι.
+Min viazese.
+Don't hurry.
+
+46
+Πάμε!
+Pame!
+Let's go!
+
+47
+Φύγαμε!
+Figame!
+We left! / Let's go! (informal)
+
+48
+Είμαι κουρασμένος/η.
+Ime kourasmenos/i.
+I am tired (male/female).
+
+49
+Δεν είμαι σίγουρος/η.
+Den ime sigouros/i.
+I am not sure (male/female).
+
+50
+Μπορεί.
+Bori.
+Maybe.
+
+51
+Σίγουρα.
+Sigoura.
+Certainly / Sure.
+
+52
+Φυσικά.
+Fisika.
+Of course.
+
+53
+Δεν πειράζει.
+Den pirazi.
+It doesn't matter / Never mind.
+
+54
+Τι συμβαίνει;
+Ti simveni?
+What's happening?
+
+55
+Τίποτα.
+Tipota.
+Nothing.
+
+56
+Έχω μια ερώτηση.
+Eho mia erotisi.
+I have a question.
+
+57
+Μπορείτε να το επαναλάβετε;
+Borite na to epanalavete?
+Can you repeat that?
+
+58
+Πιο αργά, παρακαλώ.
+Pio arga, parakalo.
+Slower, please.
+
+59
+Γράψτε το, παρακαλώ.
+Grapste to, parakalo.
+Write it down, please.
+
+60
+Τι σημαίνει αυτό;
+Ti simenei afto?
+What does this mean?
+
+61
+Καταλαβαίνω.
+Katalaveno.
+I understand.
+
+62
+Δεν ξέρω.
+Den xero.
+I don't know.
+
+63
+Νομίζω πως ναι.
+Nomizo pos ne.
+I think so.
+
+64
+Νομίζω πως όχι.
+Nomizo pos ohi.
+I don't think so.
+
+65
+Πιστεύω πως ναι.
+Pistevo pos ne.
+I believe so.
+
+66
+Πιστεύω πως όχι.
+Pistevo pos ohi.
+I don't believe so.
+
+67
+Έχω δίκιο;
+Eho dikio?
+Am I right?
+
+68
+Έχεις δίκιο.
+Ehis dikio.
+You are right.
+
+69
+Έχω λάθος;
+Eho lathos?
+Am I wrong?
+
+70
+Έχεις λάθος.
+Ehis lathos.
+You are wrong.
+
+71
+Είναι ενδιαφέρον.
+Ine endiaferon.
+It is interesting.
+
+72
+Είναι σημαντικό.
+Ine simantiko.
+It is important.
+
+73
+Είναι εύκολο.
+Ine efkolo.
+It is easy.
+
+74
+Είναι δύσκολο.
+Ine diskolo.
+It is difficult.
+
+75
+Είναι ωραίο.
+Ine oreo.
+It is nice / beautiful.
+
+76
+Είναι κακό.
+Ine kako.
+It is bad.
+
+77
+Είναι μεγάλο.
+Ine megalo.
+It is big.
+
+78
+Είναι μικρό.
+Ine mikro.
+It is small.
+
+79
+Είναι καινούργιο.
+Ine kenourgio.
+It is new.
+
+80
+Είναι παλιό.
+Ine palio.
+It is old.
+
+81
+Πού μένεις;
+Pou menis?
+Where do you live / stay?
+
+82
+Μένω [location].
+Meno [location].
+I live / stay [location].
+
+83
+Από πού είσαι;
+Apo pou ise?
+Where are you from?
+
+84
+Είμαι από [country].
+Ime apo [country].
+I am from [country].
+
+85
+Πόσο χρονών είσαι;
+Poso hronon ise?
+How old are you?
+
+86
+Είμαι [age] χρονών.
+Ime [age] hronon.
+I am [age] years old.
+
+87
+Τι δουλειά κάνεις;
+Ti doulia kanis?
+What is your job?
+
+88
+Είμαι [job].
+Ime [job].
+I am a/an [job].
+
+89
+Μου αρέσει αυτό.
+Mou aresi afto.
+I like this.
+
+90
+Δεν μου αρέσει αυτό.
+Den mou aresi afto.
+I don't like this.
+
+91
+Τι ώρα είναι το λεωφορείο;
+Ti ora ine to leoforio?
+What time is the bus?
+
+92
+Πού είναι ο σταθμός των λεωφορείων;
+Pou ine o stathmos ton leoforion?
+Where is the bus station?
+
+93
+Ένα εισιτήριο για [destination], παρακαλώ.
+Ena εισιτήριο ya [destination], parakalo.
+One ticket to [destination], please.
+
+94
+Ποιος;
+Pios?
+Who?
+
+95
+Τι;
+Ti?
+What?
+
+96
+Γιατί;
+Giati?
+Why?
+
+97
+Πότε;
+Pote?
+When?
+
+98
+Πώς;
+Pos?
+How?
+
+99
+Πόσο;
+Poso?
+How much / How many?
+
+100
+Ποιον;
+Pion?
+Whom?
+
+101
+Πού είναι ένα καλό εστιατόριο;
+Pou ine ena kalo estiatorio?
+Where is a good restaurant?
+
+102
+Θα ήθελα ένα τραπέζι για δύο, παρακαλώ.
+Tha ithela ena trapezi ya dio, parakalo.
+I would like a table for two, please.
+
+103
+Έχετε ελεύθερο τραπέζι;
+Ehete elefthero trapezi?
+Do you have a free table?
+
+104
+Θα πάρω αυτό.
+Tha paro afto.
+I will have this.
+
+105
+Τον λογαριασμό, παρακαλώ.
+Ton logariasmo, parakalo.
+The bill, please.
+
+106
+Τα ρέστα σας.
+Ta resta sas.
+Your change.
+
+107
+Είναι πολύ νόστιμο.
+Ine poli nostimo.
+It is very delicious.
+
+108
+Δεν μου αρέσει.
+Den mou aresi.
+I don't like it.
+
+109
+Μπορώ να έχω λίγο νερό;
+Boro na echo ligo nero?
+Can I have some water?
+
+110
+Μια σαλάτα, παρακαλώ.
+Mia salata, parakalo.
+A salad, please.
+
+111
+Ένα ψωμί, παρακαλώ.
+Ena psomi, parakalo.
+A bread, please.
+
+112
+Είμαι χορτοφάγος.
+Ime hortofagos.
+I am a vegetarian (male/female).
+
+113
+Έχετε επιδόρπιο;
+Ehete epidorpio?
+Do you have dessert?
+
+114
+Τι θα μου προτείνατε;
+Ti tha mou proteinate?
+What would you recommend to me?
+
+115
+Μου αρέσει η ελληνική κουζίνα.
+Mou aresi i elliniki kouzina.
+I like Greek cuisine.
+
+116
+Πού είναι ένα φαρμακείο;
+Pou ine ena farmakeio?
+Where is a pharmacy?
+
+117
+Χρειάζομαι αυτό το φάρμακο.
+Hriazome afto to farmako.
+I need this medicine.
+
+118
+Έχω πονοκέφαλο.
+Eho ponokefalo.
+I have a headache.
+
+119
+Δεν νιώθω καλά.
+Den niotho kala.
+I don't feel well.
+
+120
+Χρειάζομαι έναν γιατρό.
+Hriazome enan yatro.
+I need a doctor.
+
+121
+Πού είναι ένα νοσοκομείο;
+Pou ine ena nosokomeio?
+Where is a hospital?
+
+122
+Έχω ένα πρόβλημα.
+Eho ena provlima.
+I have a problem.
+
+123
+Μπορείτε να με βοηθήσετε; Είναι επείγον.
+Borite na me voithisete? Ine epeigon.
+Can you help me? It's urgent.
+
+124
+Χάθηκα.
+Hathika.
+I am lost.
+
+125
+Μπορείτε να μου δείξετε τον δρόμο;
+Borite na mou deixete ton dromo?
+Can you show me the way?
+
+126
+Πού είναι ο χάρτης;
+Pou ine o hartis?
+Where is the map?
+
+127
+Πηγαίνετε ευθεία.
+Pigainete efthia.
+Go straight.
+
+128
+Στρίψτε αριστερά.
+Stripste aristera.
+Turn left.
+
+129
+Στρίψτε δεξιά.
+Stripste dexia.
+Turn right.
+
+130
+Είναι κοντά.
+Ine konta.
+It is near.
+
+131
+Είναι μακριά.
+Ine makria.
+It is far.
+
+132
+Στην γωνία.
+Stin gonia.
+On the corner.
+
+133
+Δίπλα στο [place].
+Dipla sto [place].
+Next to [place].
+
+134
+Απέναντι από [place].
+Apenanti apo [place].
+Opposite [place].
+
+135
+Πόσο απέχει;
+Poso apehi?
+How far is it?
+
+136
+Πάω με τα πόδια.
+Pao me ta podia.
+I am going on foot.
+
+137
+Θέλω να πάω [place].
+Thelo na pao [place].
+I want to go to [place].
+
+138
+Ποιο λεωφορείο πάει για [place];
+Pio leoforio paei ya [place]?
+Which bus goes to [place]?
+
+139
+Πού είναι η στάση του λεωφορείου;
+Pou ine i stasi tou leoforiou?
+Where is the bus stop?
+
+140
+Πόσο κάνει το εισιτήριο;
+Poso kani to εισιτήριο?
+How much does the ticket cost?
+
+141
+Πού είναι ο σταθμός του τρένου;
+Pou ine o stathmos tou trenou?
+Where is the train station?
+
+142
+Πότε φεύγει το τρένο;
+Pote fevgi to treno?
+When does the train leave?
+
+143
+Πότε φτάνει το τρένο;
+Pote ftanei to treno?
+When does the train arrive?
+
+144
+Θέλω να νοικιάσω ένα αυτοκίνητο.
+Thelo na nikiase ena aftokinito.
+I want to rent a car.
+
+145
+Πού είναι ένα πρατήριο βενζίνης;
+Pou ine ena pratirio venzinis?
+Where is a gas station?
+
+146
+Μπορώ να χρησιμοποιήσω το τηλέφωνό σας;
+Boro na hrisimopoiiso to tilefono sas?
+Can I use your phone?
+
+147
+Ποιος είναι ο αριθμός τηλεφώνου;
+Pios ine o arithmos tilefonou?
+What is the phone number?
+
+148
+Καλέστε την αστυνομία.
+Kaleste tin astynomia.
+Call the police.
+
+149
+Καλέστε το ασθενοφόρο.
+Kaleste to asthenoforo.
+Call the ambulance.
+
+150
+Φωτιά!
+Fotia!
+Fire!
+
+151
+Βοήθεια!
+Voithia!
+Help!
+
+152
+Προσέχετε!
+Prosehete!
+Be careful!
+
+153
+Καλή τύχη!
+Kali tihi!
+Good luck!
+
+154
+Συγχαρητήρια!
+Sinharitiria!
+Congratulations!
+
+155
+Χρόνια πολλά!
+Hronia polla!
+Happy birthday! / Many years!
+
+156
+Καλά Χριστούγεννα!
+Kala Hristougenna!
+Merry Christmas!
+
+157
+Καλό Πάσχα!
+Kalo Pasha!
+Happy Easter!
+
+158
+Καλή χρονιά!
+Kali hronia!
+Happy New Year!
+
+159
+Τι καιρό κάνει σήμερα;
+Ti kero kani simera?
+What's the weather like today?
+
+160
+Κάνει ζέστη.
+Kani zesti.
+It's hot.
+
+161
+Κάνει κρύο.
+Kani krio.
+It's cold.
+
+162
+Έχει ήλιο.
+Ehi ilio.
+It's sunny.
+
+163
+Έχει σύννεφα.
+Ehi sinefa.
+It's cloudy.
+
+164
+Βρέχει.
+Vrehi.
+It's raining.
+
+165
+Χιονίζει.
+Hionizei.
+It's snowing.
+
+166
+Έχει αέρα.
+Ehi aera.
+It's windy.
+
+167
+Μου αρέσει η Ελλάδα.
+Mou aresi i Ellada.
+I like Greece.
+
+168
+Οι Έλληνες είναι φιλόξενοι.
+I Ellines ine filoxenoi.
+Greeks are hospitable.
+
+169
+Μαθαίνω ελληνικά.
+Mathaino ellinika.
+I am learning Greek.
+
+170
+Είναι η πρώτη μου φορά εδώ.
+Ine i proti mou fora edo.
+It's my first time here.
+
+171
+Έχω περάσει υπέροχα.
+Eho perasei iperocha.
+I had a wonderful time.
+
+172
+Θα ήθελα να αγοράσω [something].
+Tha ithela na agoraso [something].
+I would like to buy [something].
+
+173
+Πού είναι ένα κατάστημα με [item]?
+Pou ine ena katastima me [item]?
+Where is a shop selling [item]?
+
+174
+Μπορώ να το δοκιμάσω;
+Boro na to dokimaso?
+Can I try it on?
+
+175
+Τι μέγεθος είναι αυτό;
+Ti megethos ine afto?
+What size is this?
+
+176
+Έχετε σε άλλο χρώμα;
+Ehete se allo chroma?
+Do you have it in another color?
+
+177
+Το παίρνω.
+To perno.
+I'll take it.
+
+178
+Δεν το παίρνω.
+Den to perno.
+I won't take it.
+
+179
+Είναι δώρο.
+Ine doro.
+It is a gift.
+
+180
+Χρειάζομαι μια τσάντα.
+Hriazome mia tsanta.
+I need a bag.
+
+181
+Ευχαριστώ για τη βοήθεια.
+Efharisto ya ti voithia.
+Thank you for your help.
+
+182
+Δεν πειράζει.
+Den pirazi.
+No problem.
+
+183
+Συγχαρητήρια για τη δουλειά σου.
+Sinharitiria ya ti doulia sou.
+Congratulations on your work.
+
+184
+Καλή συνέχεια!
+Kali sinehia!
+Have a good continuation!
+
+185
+Καλό ταξίδι!
+Kalo taxidi!
+Have a good trip!
+
+186
+Ελπίζω να σε ξαναδώ σύντομα.
+Elpizo na se xanado σύντομα.
+I hope to see you again soon.
+
+187
+Μου άρεσε πολύ η συζήτηση μας.
+Mou arese poli i sizitisi mas.
+I really enjoyed our conversation.
+
+188
+Μπορώ να σου κάνω μια ερώτηση;
+Boro na sou kano mia erotisi?
+Can I ask you a question?
+
+189
+Φυσικά, ρωτήστε.
+Fisika, rotiste.
+Of course, ask away.
+
+190
+Τι γνώμη έχετε για [topic];
+Ti gnomi ehete ya [topic]?
+What is your opinion on [topic]?
+
+191
+Συμφωνώ μαζί σου.
+Simfono mazi sou.
+I agree with you.
+
+192
+Δεν συμφωνώ μαζί σου.
+Den simfono mazi sou.
+I disagree with you.
+
+193
+Καταλαβαίνω την άποψή σου.
+Katalaveno tin άποψή sou.
+I understand your point of view.
+
+194
+Έχετε δίκιο σε αυτό.
+Ehete dikio se afto.
+You are right about that.
+
+195
+Δεν το είχα σκεφτεί έτσι.
+Den to iha skeftei etsi.
+I hadn't thought of it that way.
+
+196
+Είναι ενδιαφέρουσα ιδέα.
+Ine endiaferousa idea.
+It's an interesting idea.
+
+197
+Χαίρομαι που σε γνωρίζω.
+Herome pou se gnorizo.
+I'm happy to know you.
+
+198
+Μου αρέσει η παρέα σου.
+Mou aresi i parea sou.
+I enjoy your company.
+
+199
+Είσαι πολύ ευγενικός/η.
+Ise poli evgenikos/i.
+You are very kind (male/female).
+
+200
+Σας ευχαριστώ για τον χρόνο σας.
+Sas efharisto ya ton chrono sas.
+Thank you for your time.
+
+201
+Μπορώ να σου μιλήσω για ένα λεπτό;
+Boro na sou miliso ya ena lepto?
+Can I talk to you for a minute?
+
+202
+Έχω κάτι να σου πω.
+Eho kati na sou po.
+I have something to tell you.
+
+203
+Μπορώ να σε ρωτήσω κάτι προσωπικό;
+Boro na se rotiso kati prosopiko?
+Can I ask you something personal?
+
+204
+Δεν είναι δική σου δουλειά.
+Den ine diki sou doulia.
+It's none of your business.
+
+205
+Άφησέ με ήσυχο/η.
+Afise me isyho/i.
+Leave me alone (male/female).
+
+206
+Μην το κάνεις αυτό.
+Min to kanis afto.
+Don't do that.
+
+207
+Σταμάτα!
+Stamata!
+Stop!
+
+208
+Φύγε από εδώ!
+Fighe apo edo!
+Get out of here!
+
+209
+Είμαι πολύ χαρούμενος/η.
+Ime poli haroumenos/i.
+I am very happy (male/female).
+
+210
+Είμαι λυπημένος/η.
+Ime lipimenos/i.
+I am sad (male/female).
+
+211
+Είμαι θυμωμένος/η.
+Ime thimomenos/i.
+I am angry (male/female).
+
+212
+Είμαι ενθουσιασμένος/η.
+Ime enthousiasmenos/i.
+I am excited (male/female).
+
+213
+Είμαι φοβισμένος/η.
+Ime fovismenos/i.
+I am scared (male/female).
+
+214
+Μην ανησυχείς.
+Min anisihis.
+Don't worry.
+
+215
+Όλα θα πάνε καλά.
+Ola tha pane kala.
+Everything will be alright.
+
+216
+Έχω μια καλή μέρα.
+Eho mia kali mera.
+I am having a good day.
+
+217
+Έχω μια κακή μέρα.
+Eho mia kaki mera.
+I am having a bad day.
+
+218
+Τι θα κάνεις το Σαββατοκύριακο;
+Ti tha kanis to Savvatokiriako?
+What will you do this weekend?
+
+219
+Θα πάω για [activity].
+Tha pao ya [activity].
+I will go [activity].
+
+220
+Θα μείνω σπίτι.
+Tha mino spiti.
+I will stay home.
+
+221
+Θα συναντήσω φίλους.
+Tha sinantiso filous.
+I will meet friends.
+
+222
+Πάμε για καφέ;
+Pame ya kafe?
+Shall we go for a coffee?
+
+223
+Πάμε για φαγητό;
+Pame ya fagito?
+Shall we go for food?
+
+224
+Θέλεις να πας σινεμά;
+Thelis na pas sinema?
+Do you want to go to the cinema?
+
+225
+Τι ταινία παίζει;
+Ti tenia pezei?
+What movie is playing?
+
+226
+Ποιο είναι το αγαπημένο σου φαγητό;
+Pio ine to agapimeno sou fagito?
+What is your favorite food?
+
+227
+Μου αρέσει πολύ το [food].
+Mou aresi poli to [food].
+I really like [food].
+
+228
+Τι μουσική σου αρέσει;
+Ti mousiki sou aresi?
+What kind of music do you like?
+
+229
+Μου αρέσει η [music genre] μουσική.
+Mou aresi i [music genre] mousiki.
+I like [music genre] music.
+
+230
+Παίζεις κάποιο μουσικό όργανο;
+Paizeis kapoio mousiko organo?
+Do you play any musical instrument?
+
+231
+Μου αρέσει να διαβάζω βιβλία.
+Mou aresi na diavazo vivlia.
+I like to read books.
+
+232
+Ποιο είναι το αγαπημένο σου βιβλίο;
+Pio ine to agapimeno sou vivlio?
+What is your favorite book?
+
+233
+Μου αρέσει να βλέπω τηλεόραση.
+Mou aresi na vlepo tileorasi.
+I like to watch television.
+
+234
+Ποια είναι η αγαπημένη σου σειρά;
+Pia ine i agapimeni sou sira?
+What is your favorite TV series?
+
+235
+Μου αρέσει να ταξιδεύω.
+Mou aresi na taxidevo.
+I like to travel.
+
+236
+Πού έχεις ταξιδέψει;
+Pou ehis taxidepsei?
+Where have you traveled?
+
+237
+Θα ήθελα να επισκεφθώ [place].
+Tha ithela na episkeftho [place].
+I would like to visit [place].
+
+238
+Ποια είναι η αγαπημένη σου πόλη;
+Pia ine i agapimeni sou poli?
+What is your favorite city?
+
+239
+Μου αρέσει η φύση.
+Mou aresi i fysi.
+I like nature.
+
+240
+Πάμε μια βόλτα;
+Pame mia volta?
+Shall we go for a walk?
+
+241
+Κάνει ωραίο καιρό για περπάτημα.
+Kani oreo kero ya perpatima.
+It's nice weather for a walk.
+
+242
+Μου αρέσει να κάνω αθλήματα.
+Mou aresi na kano athlimata.
+I like to play sports.
+
+243
+Ποιο είναι το αγαπημένο σου άθλημα;
+Pio ine to agapimeno sou athlima?
+What is your favorite sport?
+
+244
+Υποστηρίζεις κάποια ομάδα;
+Ypostirizeis kapoia omada?
+Do you support any team?
+
+245
+Τι ώρα ανοίγει αυτό;
+Ti ora anigi afto?
+What time does this open?
+
+246
+Τι ώρα κλείνει αυτό;
+Ti ora klini afto?
+What time does this close?
+
+247
+Πού μπορώ να βρω [something]?
+Pou boro na vro [something]?
+Where can I find [something]?
+
+248
+Ψάχνω για [something].
+Psahno ya [something].
+I am looking for [something].
+
+249
+Μπορώ να δω το μενού;
+Boro na do to menou?
+Can I see the menu?
+
+250
+Έχετε Wi-Fi εδώ;
+Ehete Wi-Fi edo?
+Do you have Wi-Fi here?
+
+251
+Ποιος είναι ο κωδικός του Wi-Fi;
+Pios ine o kodikos tou Wi-Fi?
+What is the Wi-Fi password?
+
+252
+Μπορώ να φορτίσω το τηλέφωνό μου εδώ;
+Boro na fortiso to tilefono mou edo?
+Can I charge my phone here?
+
+253
+Μπορώ να χρησιμοποιήσω την τουαλέτα σας;
+Boro na hrisimopoiiso tin toualeta sas?
+Can I use your toilet?
+
+254
+Είναι κοντά εδώ;
+Ine konta edo?
+Is it near here?
+
+255
+Είναι μακριά από εδώ;
+Ine makria apo edo?
+Is it far from here?
+
+256
+Πόσο χρόνο χρειάζεται για να πάω εκεί;
+Poso chrono hriazete ya na pao eki?
+How long does it take to get there?
+
+257
+Μπορώ να περπατήσω εκεί;
+Boro na perpatiso eki?
+Can I walk there?
+
+258
+Ποια είναι η καλύτερη ώρα για να πάω;
+Pia ine i kaliteri ora ya na pao?
+What is the best time to go?
+
+259
+Υπάρχει κάποια είσοδος;
+Yparhi kapoia eisodos?
+Is there an entrance fee?
+
+260
+Πόσο κοστίζει η είσοδος;
+Poso kostizei i eisodos?
+How much is the entrance fee?
+
+261
+Είναι ανοιχτό σήμερα;
+Ine anihto simera?
+Is it open today?
+
+262
+Είναι κλειστό σήμερα;
+Ine klisto simera?
+Is it closed today?
+
+263
+Μπορώ να βγάλω μια φωτογραφία;
+Boro na vgallo mia fotografia?
+Can I take a picture?
+
+264
+Μπορείτε να μας βγάλετε μια φωτογραφία;
+Borite na mas vgalete mia fotografia?
+Can you take a picture of us?
+
+265
+Αυτό είναι ένα ωραίο μέρος.
+Afto ine ena oreo meros.
+This is a nice place.
+
+266
+Μου αρέσει πολύ αυτό το μέρος.
+Mou aresi poli afto to meros.
+I really like this place.
+
+267
+Θα ήθελα να αγοράσω ένα σουβενίρ.
+Tha ithela na agoraso ena souvenir.
+I would like to buy a souvenir.
+
+268
+Έχετε εκπτώσεις;
+Ehete ekptoseis?
+Do you have any discounts?
+
+269
+Ποια είναι η καλύτερη τιμή που μπορείτε να μου κάνετε;
+Pia ine i kaliteri timi pou borite na mou kanete?
+What is the best price you can give me?
+
+270
+Είναι πολύ ακριβό για μένα.
+Ine poli akrivo ya mena.
+It is too expensive for me.
+
+271
+Θα το σκεφτώ.
+Tha to skefto.
+I will think about it.
+
+272
+Επιστρέφω αύριο.
+Epistrefo avrio.
+I am returning tomorrow.
+
+273
+Φεύγω σήμερα.
+Fevgo simera.
+I am leaving today.
+
+274
+Θα μου λείψετε.
+Tha mou lipsete.
+I will miss you.
+
+275
+Ήταν χαρά μου.
+Itan hara mou.
+It was a pleasure.
+
+276
+Ελπίζω να τα ξαναπούμε.
+Elpizo na ta xanapoume.
+I hope we meet again.
+
+277
+Μείνε σε επαφή!
+Mine se epafi!
+Keep in touch!
+
+278
+Δώσε μου τον αριθμό σου.
+Dose mou ton arithmo sou.
+Give me your number.
+
+279
+Μπορώ να σου στείλω ένα μήνυμα;
+Boro na sou stilo ena minima?
+Can I send you a message?
+
+280
+Έχω περάσει υπέροχα μαζί σου.
+Eho perasei iperocha mazi sou.
+I had a wonderful time with you.
+
+281
+Είσαι πολύ φιλικός/ή.
+Ise poli filikos/i.
+You are very friendly (male/female).
+
+282
+Μου έκανες την ημέρα καλύτερη.
+Mou ekanes tin imera kaliteri.
+You made my day better.
+
+283
+Σε ευχαριστώ για όλα.
+Se efharisto ya ola.
+Thank you for everything.
+
+284
+Δεν έχω λόγια.
+Den eho logia.
+I have no words.
+
+285
+Είσαι πολύ γενναιόδωρος/η.
+Ise poli gennaiodoros/i.
+You are very generous (male/female).
+
+286
+Μου αρέσει ο τρόπος που σκέφτεσαι.
+Mou aresi o tropos pou skeftese.
+I like the way you think.
+
+287
+Έχεις πολύ καλό γούστο.
+Ehis poli kalo gusto.
+You have very good taste.
+
+288
+Είσαι πολύ ταλαντούχος/α.
+Ise poli talantouhos/a.
+You are very talented (male/female).
+
+289
+Μου αρέσει η αισιοδοξία σου.
+Mou aresi i aisiodoxia sou.
+I like your optimism.
+
+290
+Έχεις ένα όμορφο χαμόγελο.
+Ehis ena omorfo hamogelo.
+You have a beautiful smile.
+
+291
+Μου αρέσει η φωνή σου.
+Mou aresi i foni sou.
+I like your voice.
+
+292
+Έχεις ωραία μαλλιά.
+Ehis orea mallia.
+You have nice hair.
+
+293
+Μου αρέσει το στυλ σου.
+Mou aresi to stil sou.
+I like your style.
+
+294
+Είσαι πολύ έξυπνος/η.
+Ise poli exipnos/i.
+You are very smart (male/female).
+
+295
+Έχεις πολύ χιούμορ.
+Ehis poli hioumor.
+You have a great sense of humor.
+
+296
+Μου αρέσει η αυτοπεποίθησή σου.
+Mou aresi i aftopepithisi sou.
+I like your confidence.
+
+297
+Είσαι πηγή έμπνευσης.
+Ise pigi empnefsis.
+You are a source of inspiration.
+
+298
+Σε θαυμάζω.
+Se thavmazo.
+I admire you.
+
+299
+Είσαι πολύ σημαντικός/ή για μένα.
+Ise poli simantikos/i ya mena.
+You are very important to me.
+
+300
+Είσαι ο καλύτερος/η.
+Ise o kaliteros/i.
+You are the best (male/female).
+
+301
+Τι κάνεις στον ελεύθερο χρόνο σου;
+Ti kanis ston elefthero chrono sou?
+What do you do in your free time?
+
+302
+Μου αρέσει να [activity] στον ελεύθερο χρόνο μου.
+Mou aresi na [activity] ston elefthero chrono mou.
+I like to [activity] in my free time.
+
+303
+Έχεις κάποιο χόμπι;
+Ehis kapoio hobi?
+Do you have any hobbies?
+
+304
+Το χόμπι μου είναι [hobby].
+To hobi mou ine [hobby].
+My hobby is [hobby].
+
+305
+Μου αρέσει να μαγειρεύω.
+Mou aresi na mageirevo.
+I like to cook.
+
+306
+Μου αρέσει να ακούω μουσική.
+Mou aresi na akouo mousiki.
+I like to listen to music.
+
+307
+Μου αρέσει να βλέπω ταινίες.
+Mou aresi na vlepo tenies.
+I like to watch movies.
+
+308
+Μου αρέσει να περπατάω στην φύση.
+Mou aresi na perpatao stin fysi.
+I like to walk in nature.
+
+309
+Μου αρέσει να περνάω χρόνο με την οικογένειά μου.
+Mou aresi na pernao chrono me tin ikogenia mou.
+I like to spend time with my family.
+
+310
+Μου αρέσει να περνάω χρόνο με τους φίλους μου.
+Mou aresi na pernao chrono me tous filous mou.
+I like to spend time with my friends.
+
+311
+Πώς είναι η οικογένειά σου;
+Pos ine i ikogenia sou?
+How is your family?
+
+312
+Η οικογένειά μου είναι καλά, ευχαριστώ.
+I ikogenia mou ine kala, efharisto.
+My family is fine, thank you.
+
+313
+Έχεις αδέλφια;
+Ehis adelfia?
+Do you have siblings?
+
+314
+Έχω έναν αδελφό/μια αδελφή.
+Eho enan adelfo/mia adelfi.
+I have a brother/a sister.
+
+315
+Είμαι μοναχοπαίδι.
+Ime monohopaidi.
+I am an only child.
+
+316
+Πού μένουν οι γονείς σου;
+Pou menoun i goneis sou?
+Where do your parents live?
+
+317
+Οι γονείς μου μένουν [location].
+I goneis mou menoun [location].
+My parents live [location].
+
+318
+Είμαι παντρεμένος/η.
+Ime pantremenos/i.
+I am married (male/female).
+
+319
+Είμαι ελεύθερος/η.
+Ime eleftheros/i.
+I am single (male/female).
+
+320
+Έχω παιδιά.
+Eho pedia.
+I have children.
+
+321
+Δεν έχω παιδιά.
+Den eho pedia.
+I don't have children.
+
+322
+Πόσα παιδιά έχεις;
+Posa pedia ehis?
+How many children do you have?
+
+323
+Έχω [number] παιδιά.
+Eho [number] pedia.
+I have [number] children.
+
+324
+Πώς λένε τα παιδιά σου;
+Pos lene ta pedia sou?
+What are your children's names?
+
+325
+Τα παιδιά μου τα λένε [names].
+Ta pedia mou ta lene [names].
+My children's names are [names].
+
+326
+Είναι μικρά/μεγάλα;
+Ine mikra/megala?
+Are they young/old?
+
+327
+Πηγαίνουν σχολείο;
+Pigainoun sholeio?
+Do they go to school?
+
+328
+Τι σπουδάζεις;
+Ti spoudazeis?
+What are you studying?
+
+329
+Σπουδάζω [subject].
+Spoudazo [subject].
+I am studying [subject].
+
+330
+Ποιο είναι το αγαπημένο σου μάθημα;
+Pio ine to agapimeno sou mathima?
+What is your favorite subject?
+
+331
+Μου αρέσει πολύ η [subject].
+Mou aresi poli i [subject].
+I really like [subject].
+
+332
+Πού πήγες διακοπές;
+Pou piges diakopes?
+Where did you go on vacation?
+
+333
+Πήγα [location] για διακοπές.
+Piga [location] ya diakopes.
+I went to [location] for vacation.
+
+334
+Πότε πήγες διακοπές;
+Pote piges diakopes?
+When did you go on vacation?
+
+335
+Πήγα [time] για διακοπές.
+Piga [time] ya diakopes.
+I went on vacation [time].
+
+336
+Με ποιον πήγες διακοπές;
+Me pion piges diakopes?
+Who did you go on vacation with?
+
+337
+Πήγα με [person] για διακοπές.
+Piga me [person] ya diakopes.
+I went on vacation with [person].
+
+338
+Σου άρεσαν οι διακοπές σου;
+Sou aresan i diakopes sou?
+Did you enjoy your vacation?
+
+339
+Ναι, μου άρεσαν πολύ.
+Ne, mou aresan poli.
+Yes, I enjoyed them very much.
+
+340
+Όχι, δεν μου άρεσαν πολύ.
+Ohi, den mou aresan poli.
+No, I didn't enjoy them very much.
+
+341
+Τι θα κάνεις αύριο;
+Ti tha kanis avrio?
+What will you do tomorrow?
+
+342
+Αύριο θα [activity].
+Avrio tha [activity].
+Tomorrow I will [activity].
+
+343
+Θα δουλέψω αύριο.
+Tha doulepso avrio.
+I will work tomorrow.
+
+344
+Δεν θα δουλέψω αύριο.
+Den tha doulepso avrio.
+I will not work tomorrow.
+
+345
+Θα μείνω σπίτι αύριο.
+Tha mino spiti avrio.
+I will stay home tomorrow.
+
+346
+Θα συναντήσω κάποιον αύριο.
+Tha sinantiso kapoion avrio.
+I will meet someone tomorrow.
+
+347
+Τι ώρα θα ξυπνήσεις αύριο;
+Ti ora tha xypnisis avrio?
+What time will you wake up tomorrow?
+
+348
+Θα ξυπνήσω στις [time] αύριο.
+Tha xypniso stis [time] avrio.
+I will wake up at [time] tomorrow.
+
+349
+Τι ώρα θα πας για ύπνο απόψε;
+Ti ora tha pas ya ypno apopse?
+What time will you go to bed tonight?
+
+350
+Θα πάω για ύπνο στις [time] απόψε.
+Tha pao ya ypno stis [time] apopse.
+I will go to bed at [time] tonight.
+
+351
+Ποιο είναι το αγαπημένο σου χρώμα;
+Pio ine to agapimeno sou chroma?
+What is your favorite color?
+
+352
+Το αγαπημένο μου χρώμα είναι το [color].
+To agapimeno mou chroma ine to [color].
+My favorite color is [color].
+
+353
+Ποιο είναι το αγαπημένο σου ζώο;
+Pio ine to agapimeno sou zoo?
+What is your favorite animal?
+
+354
+Το αγαπημένο μου ζώο είναι ο/η [animal].
+To agapimeno mou zoo ine o/i [animal].
+My favorite animal is the [animal].
+
+355
+Ποιο είναι το αγαπημένο σου φρούτο;
+Pio ine to agapimeno sou frouto?
+What is your favorite fruit?
+
+356
+Το αγαπημένο μου φρούτο είναι το [fruit].
+To agapimeno mou frouto ine to [fruit].
+My favorite fruit is the [fruit].
+
+357
+Ποιο είναι το αγαπημένο σου ποτό;
+Pio ine to agapimeno sou poto?
+What is your favorite drink?
+
+358
+Το αγαπημένο μου ποτό είναι το [drink].
+To agapimeno mou poto ine to [drink].
+My favorite drink is [drink].
+
+359
+Τι ώρα είναι τώρα;
+Ti ora ine tora?
+What time is it now?
+
+360
+Είναι [time].
+Ine [time].
+It is [time].
+
+361
+Τι μέρα είναι σήμερα;
+Ti mera ine simera?
+What day is today?
+
+362
+Σήμερα είναι [day].
+Simera ine [day].
+Today is [day].
+
+363
+Ποιος μήνας είναι;
+Pios minas ine?
+What month is it?
+
+364
+Είναι ο μήνας [month].
+Ine o minas [month].
+It is the month of [month].
+
+365
+Τι χρονιά είναι;
+Ti hronia ine?
+What year is it?
+
+366
+Είναι το έτος [year].
+Ine to etos [year].
+It is the year [year].
+
+367
+Ποια είναι η διεύθυνσή σου;
+Pia ine i diefthinsi sou?
+What is your address?
+
+368
+Η διεύθυνσή μου είναι [address].
+I diefthinsi mou ine [address].
+My address is [address].
+
+369
+Ποιος είναι ο ταχυδρομικός σου κώδικας;
+Pios ine o tahydromikos sou kodikas?
+What is your postal code?
+
+370
+Ο ταχυδρομικός μου κώδικας είναι [postal code].
+O tahydromikos mou kodikas ine [postal code].
+My postal code is [postal code].
+
+371
+Ποια είναι η ηλεκτρονική σου διεύθυνση;
+Pia ine i ilektroniki sou diefthinsi?
+What is your email address?
+
+372
+Η ηλεκτρονική μου διεύθυνση είναι [email].
+I ilektroniki mou diefthinsi ine [email].
+My email address is [email].
+
+373
+Ποιος είναι ο αριθμός της κλήσης σου;
+Pios ine o arithmos tis klisis sou?
+What is your calling code?
+
+374
+Ο αριθμός της κλήσης μου είναι [calling code].
+O arithmos tis klisis mou ine [calling code].
+My calling code is [calling code].
+
+375
+Ποιος είναι ο αριθμός τηλεφώνου σου;
+Pios ine o arithmos tilefonou sou?
+What is your phone number?
+
+376
+Ο αριθμός τηλεφώνου μου είναι [phone number].
+O arithmos tilefonou mou ine [phone number].
+My phone number is [phone number].
+
+377
+Μπορώ να σου δανείσω [something].
+Boro na sou daniso [something].
+I can lend you [something].
+
+378
+Χρειάζεσαι κάτι;
+Hriazese kati?
+Do you need anything?
+
+379
+Όχι, ευχαριστώ.
+Ohi, efharisto.
+No, thank you.
+
+380
+Ναι, χρειάζομαι [something].
+Ne, hriazome [something].
+Yes, I need [something].
+
+381
+Μπορώ να σε βοηθήσω σε κάτι;
+Boro na se voithiso se kati?
+Can I help you with anything?
+
+382
+Ναι, σε παρακαλώ.
+Ne, se parakalo.
+Yes, please.
+
+383
+Όχι, ευχαριστώ, είμαι καλά.
+Ohi, efharisto, ime kala.
+No, thank you, I'm fine.
+
+384
+Πού είναι η έξοδος;
+Pou ine i exodos?
+Where is the exit?
+
+385
+Πού είναι η είσοδος;
+Pou ine i eisodos?
+Where is the entrance?
+
+386
+Πού είναι η υποδοχή;
+Pou ine i υποδοχή?
+Where is the reception?
+
+387
+Μπορώ να αλλάξω χρήματα εδώ;
+Boro na allaxo hrimata edo?
+Can I exchange money here?
+
+388
+Ποια είναι η ισοτιμία;
+Pia ine i isotimia?
+What is the exchange rate?
+
+389
+Δέχεστε πιστωτικές κάρτες;
+Deheste pistotikes kartes?
+Do you accept credit cards?
+
+390
+Μπορώ να έχω μια απόδειξη;
+Boro na echo mia apodixi?
+Can I have a receipt?
+
+391
+Σας ευχαριστώ για την εξυπηρέτηση.
+Sas efharisto ya tin exipiretisi.
+Thank you for the service.
+
+392
+Ήταν υπέροχο.
+Itan iperoho.
+It was wonderful.
+
+393
+Δεν ήταν καλό.
+Den itan kalo.
+It was not good.
+
+394
+Ήταν μέτριο.
+Itan metrio.
+It was average.
+
+395
+Θα ήθελα να κάνω μια κράτηση.
+Tha ithela na kano mia kratisi.
+I would like to make a reservation.
+
+396
+Έχετε δωμάτια διαθέσιμα;
+Ehete domatia diathesima?
+Do you have any rooms available?
+
+397
+Θα ήθελα ένα δωμάτιο για [number] άτομα.
+Tha ithela ena domatio ya [number] atoma.
+I would like a room for [number] people.
+
+398
+Για πόσες νύχτες;
+Ya poses nihtes?
+For how many nights?
+
+399
+Θα μείνω για [number] νύχτες.
+Tha mino ya [number] nihtes.
+I will stay for [number] nights.
+
+400
+Πόσο κοστίζει η νύχτα;
+Poso kostizei i nihta?
+How much does it cost per night?
+
+401
+Πού είναι η παραλία;
+Pou ine i paralia?
+Where is the beach?
+
+402
+Πάμε στην παραλία;
+Pame stin paralia?
+Shall we go to the beach?
+
+403
+Κάνει καλό καιρό για μπάνιο.
+Kani kalo kero ya banio.
+The weather is good for swimming.
+
+404
+Μου αρέσει να κολυμπάω.
+Mou aresi na kolymbao.
+I like to swim.
+
+405
+Το νερό είναι κρύο.
+To nero ine krio.
+The water is cold.
+
+406
+Το νερό είναι ζεστό.
+To nero ine zesto.
+The water is warm.
+
+407
+Μπορώ να νοικιάσω μια ξαπλώστρα;
+Boro na nikiase mia xaplostra?
+Can I rent a sunbed?
+
+408
+Μπορώ να νοικιάσω μια ομπρέλα;
+Boro na nikiase mia ombrela?
+Can I rent an umbrella?
+
+409
+Μην ξεχάσεις την αντηλιακή σου κρέμα.
+Min xechasis tin antiliaki sou krema.
+Don't forget your sunscreen.
+
+410
+Πού είναι το πλησιέστερο ATM;
+Pou ine to plisiestero ATM?
+Where is the nearest ATM?
+
+411
+Χρειάζομαι να κάνω ανάληψη χρημάτων.
+Hriazome na kano analipsi hrimaton.
+I need to withdraw money.
+
+412
+Ποια είναι η τράπεζά σου;
+Pia ine i trapeza sou?
+What is your bank?
+
+413
+Έχω έναν λογαριασμό σε αυτή την τράπεζα.
+Eho enan logariasmo se afti tin trapeza.
+I have an account at this bank.
+
+414
+Θέλω να ανοίξω έναν λογαριασμό.
+Thelo na anixo enan logariasmo.
+I want to open an account.
+
+415
+Θέλω να κλείσω τον λογαριασμό μου.
+Thelo na kliso ton logariasmo mou.
+I want to close my account.
+
+416
+Μπορώ να πληρώσω με μετρητά;
+Boro na pliroso me metrita?
+Can I pay in cash?
+
+417
+Δεν έχω ψιλά.
+Den eho psila.
+I don't have small change.
+
+418
+Μπορώ να σπάσω αυτό το χαρτονόμισμα;
+Boro na spaso afto to hartonomisma?
+Can you break this bill?
+
+419
+Είναι ανοιχτό το κατάστημα;
+Ine anihto to katastima?
+Is the shop open?
+
+420
+Τι ώρα ανοίγει το κατάστημα;
+Ti ora anigi to katastima?
+What time does the shop open?
+
+421
+Τι ώρα κλείνει το κατάστημα;
+Ti ora klini to katastima?
+What time does the shop close?
+
+422
+Μπορώ να δω κάτι άλλο;
+Boro na do kati allo?
+Can I see something else?
+
+423
+Αυτό είναι ακριβό.
+Afto ine akrivo.
+This is expensive.
+
+424
+Αυτό είναι φθηνό.
+Afto ine fthino.
+This is cheap.
+
+425
+Ψάχνω για μια προσφορά.
+Psahno ya mia prosfora.
+I am looking for a deal.
+
+426
+Μπορείτε να μου δώσετε μια καλύτερη τιμή;
+Borite na mou dosete mia kaliteri timi?
+Can you give me a better price?
+
+427
+Δεν είμαι σίγουρος/η αν το θέλω.
+Den ime sigouros/i an to thelo.
+I am not sure if I want it.
+
+428
+Θα το πάρω.
+Tha to paro.
+I will take it.
+
+429
+Δεν θα το πάρω.
+Den tha to paro.
+I will not take it.
+
+430
+Σας ευχαριστώ για την αγορά.
+Sas efharisto ya tin agora.
+Thank you for your purchase.
+
+431
+Έχετε αποδείξεις;
+Ehete apodixeis?
+Do you have receipts?
+
+432
+Μπορώ να επιστρέψω αυτό;
+Boro na epistrepso afto?
+Can I return this?
+
+433
+Ποια είναι η πολιτική επιστροφών σας;
+Pia ine i politiki epistrofon sas?
+What is your return policy?
+
+434
+Χρειάζομαι μια μεγαλύτερη/μικρότερη μέγεθος.
+Hriazome mia megaliteri/mikroteri megethos.
+I need a bigger/smaller size.
+
+435
+Αυτό δεν μου ταιριάζει.
+Afto den mou tairiazi.
+This doesn't fit me.
+
+436
+Μου αρέσει το χρώμα.
+Mou aresi to chroma.
+I like the color.
+
+437
+Δεν μου αρέσει το στυλ.
+Den mou aresi to stil.
+I don't like the style.
+
+438
+Είναι πολύ ωραίο.
+Ine poli oreo.
+It is very nice.
+
+439
+Είναι τέλειο.
+Ine teleio.
+It is perfect.
+
+440
+Μπορώ να το κρατήσω για λίγο;
+Boro na to kratiso ya ligo?
+Can I hold it for a moment?
+
+441
+Ψάχνω για ένα δώρο για [person].
+Psahno ya ena doro ya [person].
+I am looking for a gift for [person].
+
+442
+Τι θα μου προτείνατε για δώρο;
+Ti tha mou proteinate ya doro?
+What would you recommend as a gift?
+
+443
+Έχει καλή ποιότητα;
+Ehi kali piotita?
+Is it good quality?
+
+444
+Είναι χειροποίητο;
+Ine hiropoiito?
+Is it handmade?
+
+445
+Είναι τοπικό προϊόν;
+Ine topiko proion?
+Is it a local product?
+
+446
+Σας ευχαριστώ για τη βοήθεια σας.
+Sas efharisto ya ti voithia sas.
+Thank you for your help.
+
+447
+Να έχετε μια ωραία μέρα!
+Na ehete mia orea mera!
+Have a nice day!
+
+448
+Να έχετε ένα ωραίο βράδυ!
+Na ehete ena oreo vradi!
+Have a nice evening!
+
+449
+Καλή εβδομάδα!
+Kali evdomada!
+Have a good week!
+
+450
+Καλό Σαββατοκύριακο!
+Kalo Savvatokiriako!
+Have a good weekend!
+
+451
+Περάστε καλά!
+Peraste kala!
+Have a good time!
+
+452
+Καλές διακοπές!
+Kales diakopes!
+Have a good vacation!
+
+453
+Καλό απόγευμα!
+Kalo apogevma!
+Good afternoon!
+
+454
+Τι ώρα είναι το check-in;
+Ti ora ine to check-in?
+What time is check-in?
+
+455
+Τι ώρα είναι το check-out;
+Ti ora ine to check-out?
+What time is check-out?
+
+456
+Μπορώ να κάνω check-in νωρίτερα;
+Boro na kano check-in noritera?
+Can I check in earlier?
+
+457
+Μπορώ να κάνω check-out αργότερα;
+Boro na kano check-out argotera?
+Can I check out later?
+
+458
+Έχω μια κράτηση στο όνομα [name].
+Eho mia kratisi sto onoma [name].
+I have a reservation under the name [name].
+
+459
+Θα ήθελα το κλειδί του δωματίου μου, παρακαλώ.
+Tha ithela to klidi tou domatiou mou, parakalo.
+I would like the key to my room, please.
+
+460
+Πού είναι το ασανσέρ;
+Pou ine to asanser?
+Where is the elevator?
+
+461
+Πού είναι οι σκάλες;
+Pou ine i skales?
+Where are the stairs?
+
+462
+Το δωμάτιό μου δεν είναι έτοιμο.
+To domatio mou den ine etoimo.
+My room is not ready.
+
+463
+Δεν λειτουργεί το κλιματιστικό.
+Den λειτουργεί to klimatistikο.
+The air conditioning is not working.
+
+464
+Δεν λειτουργεί η θέρμανση.
+Den λειτουργεί i thermansi.
+The heating is not working.
+
+465
+Δεν έχω πετσέτες.
+Den eho petsetes.
+I don't have towels.
+
+466
+Δεν έχω σαπούνι.
+Den eho sapouni.
+I don't have soap.
+
+467
+Δεν έχω χαρτί υγείας.
+Den eho harti igias.
+I don't have toilet paper.
+
+468
+Μπορείτε να καθαρίσετε το δωμάτιό μου;
+Borite na katharisete to domatio mou?
+Can you clean my room?
+
+469
+Θα ήθελα να αλλάξω δωμάτιο.
+Tha ithela na allaxo domatio.
+I would like to change rooms.
+
+470
+Έχετε δωμάτια με θέα στη θάλασσα;
+Ehete domatia me thea sti thalassa?
+Do you have rooms with a sea view?
+
+471
+Έχετε δωμάτια για μη καπνίζοντες;
+Ehete domatia ya mi kapnizontes?
+Do you have non-smoking rooms?
+
+472
+Πού είναι το πρωινό;
+Pou ine to proino?
+Where is breakfast?
+
+473
+Τι ώρα σερβίρεται το πρωινό;
+Ti ora servirete to proino?
+What time is breakfast served?
+
+474
+Είναι νόστιμο το πρωινό;
+Ine nostimo to proino?
+Is the breakfast delicious?
+
+475
+Θα ήθελα έναν καφέ.
+Tha ithela enan kafe.
+I would like a coffee.
+
+476
+Έναν ελληνικό καφέ, παρακαλώ.
+Enan elliniko kafe, parakalo.
+A Greek coffee, please.
+
+477
+Ένα τσάι, παρακαλώ.
+Ena tsai, parakalo.
+A tea, please.
+
+478
+Ένα χυμό πορτοκάλι, παρακαλώ.
+Ena himo portokali, parakalo.
+An orange juice, please.
+
+479
+Μπορώ να έχω λίγο γάλα;
+Boro na echo ligo gala?
+Can I have some milk?
+
+480
+Μπορώ να έχω λίγη ζάχαρη;
+Boro na echo lighi zahari?
+Can I have some sugar?
+
+481
+Αυτό είναι πολύ γλυκό.
+Afto ine poli glyko.
+This is too sweet.
+
+482
+Αυτό δεν έχει αλάτι.
+Afto den ehi alati.
+This doesn't have salt.
+
+483
+Μπορώ να έχω λίγο αλάτι;
+Boro na echo ligo alati?
+Can I have some salt?
+
+484
+Μπορώ να έχω λίγο πιπέρι;
+Boro na echo ligo piperi?
+Can I have some pepper?
+
+485
+Σας ευχαριστώ πολύ για τη φιλοξενία.
+Sas efharisto poli ya ti filoxenia.
+Thank you very much for your hospitality.
+
+486
+Θα σας θυμόμαστε.
+Tha sas thimomaste.
+We will remember you.
+
+487
+Ελπίζουμε να σας ξαναδούμε.
+Elpizume na sas xanadoume.
+We hope to see you again.
+
+488
+Σας ευχόμαστε καλή συνέχεια.
+Sas ευχόμαστε kali sinehia.
+We wish you a good continuation.
+
+489
+Είναι πολύ όμορφο εδώ.
+Ine poli omorfo edo.
+It is very beautiful here.
+
+490
+Μου αρέσει η ατμόσφαιρα.
+Mou aresi i atmosfaira.
+I like the atmosphere.
+
+491
+Οι άνθρωποι είναι πολύ φιλικοί.
+I anthropoi ine poli filikoi.
+The people are very friendly.
+
+492
+Η θάλασσα είναι καταγάλαζη.
+I thalassa ine katagalazi.
+The sea is crystal blue.
+
+493
+Ο ουρανός είναι καθαρός.
+O ouranos ine katharos.
+The sky is clear.
+
+494
+Τα βουνά είναι επιβλητικά.
+Ta vouna ine epivlitika.
+The mountains are majestic.
+
+495
+Η ιστορία αυτού του μέρους είναι συναρπαστική.
+I istoria aftou tou merous ine συναρπαστική.
+The history of this place is fascinating.
+
+496
+Θα ήθελα να μάθω περισσότερα για αυτό.
+Tha ithela na matho perissotera ya afto.
+I would like to learn more about this.
+
+497
+Μπορείτε να μου προτείνετε κάτι να δω;
+Borite na mou proteinete kati na do?
+Can you recommend something for me to see?
+
+498
+Ποια είναι τα πιο δημοφιλή μέρη εδώ;
+Pia ine ta pio dimofili meri edo?
+What are the most popular places here?
+
+499
+Μου αρέσουν τα αρχαία ερείπια.
+Mou aresoun ta arhea eripia.
+I like ancient ruins.
+
+500
+Μου αρέσουν τα μουσεία.
+Mou aresoun ta mouseia.
+I like museums.
+
+501
+Μου αρέσουν οι παραδοσιακοί χοροί.
+Mou aresoun i paradosiakoi horoi.
+I like traditional dances.
+
+502
+Μου αρέσει η παραδοσιακή μουσική.
+Mou aresi i paradosiaki mousiki.
+I like traditional music.
+
+503
+Μπορώ να δοκιμάσω αυτό το τοπικό προϊόν;
+Boro na dokimaso afto to topiko proion?
+Can I try this local product?
+
+504
+Τι είναι αυτό;
+Ti ine afto?
+What is this?
+
+505
+Πώς λέγεται αυτό στα ελληνικά;
+Pos legete afto στα ellinika?
+How do you say this in Greek?
+
+506
+Μπορείτε να μου το γράψετε;
+Borite na mou to grapste?
+Can you write it down for me?
+
+507
+Προσπαθώ να μάθω ελληνικά.
+Prospatho na matho ellinika.
+I am trying to learn Greek.
+
+508
+Είναι δύσκολη γλώσσα;
+Ine diskoli glossa?
+Is it a difficult language?
+
+509
+Με βοηθάτε πολύ.
+Me voithate poli.
+You are helping me a lot.
+
+510
+Είστε πολύ υπομονετικός/ή.
+Iste poli ypomoneikos/i.
+You are very patient (male/female).
+
+511
+Μου αρέσει η προφορά σου.
+Mou aresi i profora sou.
+I like your pronunciation.
+
+512
+Πρέπει να εξασκηθώ περισσότερο.
+Prepi na exaskitho perissotero.
+I need to practice more.
+
+513
+Μπορείς να με διορθώσεις;
+Boris na me diorthosis?
+Can you correct me?
+
+514
+Σας ευχαριστώ για τη διόρθωση.
+Sas efharisto ya ti diorthosi.
+Thank you for the correction.
+
+515
+Μαθαίνω πολλά από εσάς.
+Mathaino polla apo esas.
+I am learning a lot from you.
+
+516
+Είναι ενδιαφέρουσα η ιστορία της Ελλάδας.
+Ine endiaferousa i istoria tis Elladas.
+The history of Greece is interesting.
+
+517
+Μου αρέσουν οι αρχαίοι μύθοι.
+Mou aresoun i arheoi mithoi.
+I like ancient myths.
+
+518
+Έχετε διαβάσει ελληνική μυθολογία;
+Ehete diavasei elliniki mithologia?
+Have you read Greek mythology?
+
+519
+Ποιος είναι ο αγαπημένος σου μυθικός ήρωας;
+Pios ine o agapimeno sou mithikos iroas?
+Who is your favorite mythical hero?
+
+520
+Μου αρέσουν οι ελληνικές ταινίες.
+Mou aresoun i ellinikes tenies.
+I like Greek movies.
+
+521
+Έχεις δει κάποια ελληνική ταινία;
+Ehis dei kapoia elliniki tenia?
+Have you seen any Greek movies?
+
+522
+Ποιος είναι ο αγαπημένος σου Έλληνας ηθοποιός;
+Pios ine o agapimeno sou Ellinas ithopoios?
+Who is your favorite Greek actor?
+
+523
+Μου αρέσει η ελληνική λογοτεχνία.
+Mou aresi i elliniki logotehnia.
+I like Greek literature.
+
+524
+Έχεις διαβάσει κάποιο ελληνικό βιβλίο;
+Ehis diavasei kapoio elliniko vivlio?
+Have you read any Greek books?
+
+525
+Ποιος είναι ο αγαπημένος σου Έλληνας συγγραφέας;
+Pios ine o agapimeno sou Ellinas singrafeas?
+Who is your favorite Greek writer?
+
+526
+Μου αρέσει η ελληνική τέχνη.
+Mou aresi i elliniki tehni.
+I like Greek art.
+
+527
+Έχεις επισκεφθεί κάποιο ελληνικό μουσείο τέχνης;
+Ehis episkefthiei kapoio elliniko mouseio tehnis?
+Have you visited any Greek art museums?
+
+528
+Ποιος είναι ο αγαπημένος σου Έλληνας καλλιτέχνης;
+Pios ine o agapimeno sou Ellinas kallitehnis?
+Who is your favorite Greek artist?
+
+529
+Μου αρέσει η ελληνική ιστορία.
+Mou aresi i elliniki istoria.
+I like Greek history.
+
+530
+Έχεις επισκεφθεί κάποιον αρχαιολογικό χώρο;
+Ehis episkefthiei kapoion arheologiko horo?
+Have you visited any archaeological sites?
+
+531
+Ποιος είναι ο αγαπημένος σου αρχαιολογικός χώρος;
+Pios ine o agapimeno sou arheologikos horos?
+What is your favorite archaeological site?
+
+532
+Μου αρέσουν τα ελληνικά νησιά.
+Mou aresoun ta ellinika nisia.
+I like the Greek islands.
+
+533
+Ποιο είναι το αγαπημένο σου ελληνικό νησί;
+Pio ine to agapimeno sou elliniko nisi?
+What is your favorite Greek island?
+
+534
+Θα ήθελα να επισκεφθώ την Κύπρο.
+Tha ithela na episkeftho tin Kypro.
+I would like to visit Cyprus.
+
+535
+Έχεις πάει ποτέ στην Κύπρο;
+Ehis paei pote stin Kypro?
+Have you ever been to Cyprus?
+
+536
+Τι σου αρέσει στην Κύπρο;
+Ti sou aresi stin Kypro?
+What do you like about Cyprus?
+
+537
+Μου αρέσει η ελληνική φιλοσοφία.
+Mou aresi i elliniki filosofia.
+I like Greek philosophy.
+
+538
+Ποιος είναι ο αγαπημένος σου Έλληνας φιλόσοφος;
+Pios ine o agapimeno sou Ellinas filosofos?
+Who is your favorite Greek philosopher?
+
+539
+Μου αρέσουν τα ελληνικά γλυκά.
+Mou aresoun ta ellinika glyka.
+I like Greek sweets.
+
+540
+Έχεις δοκιμάσει κάποιο ελληνικό γλυκό;
+Ehis dokimasei kapoio elliniko glyko?
+Have you tried any Greek sweets?
+
+541
+Ποιο είναι το αγαπημένο σου ελληνικό γλυκό;
+Pio ine to agapimeno sou elliniko glyko?
+What is your favorite Greek sweet?
+
+542
+Μου αρέσουν τα ελληνικά κρασιά.
+Mou aresoun ta ellinika krasia.
+I like Greek wines.
+
+543
+Έχεις δοκιμάσει κάποιο ελληνικό κρασί;
+Ehis dokimasei kapoio elliniko krasi?
+Have you tried any Greek wines?
+
+544
+Ποιο είναι το αγαπημένο σου ελληνικό κρασί;
+Pio ine to agapimeno sou elliniko krasi?
+What is your favorite Greek wine?
+
+545
+Μου αρέσει η ελληνική γλώσσα.
+Mou aresi i elliniki glossa.
+I like the Greek language.
+
+546
+Είναι μια όμορφη γλώσσα.
+Ine mia omorfi glossa.
+It is a beautiful language.
+
+547
+Θέλω να μιλήσω ελληνικά με ευχέρεια.
+Thelo na miliso ellinika me efheria.
+I want to speak Greek fluently.
+
+548
+Κάθε πότε εξασκείσαι;
+Kathe pote exaskise?
+How often do you practice?
+
+549
+Προσπαθώ να εξασκούμαι κάθε μέρα.
+Prospatho na exaskoume kathe mera.
+I try to practice every day.
+
+550
+Έχω έναν Έλληνα φίλο/μια Ελληνίδα φίλη.
+Eho enan Ellina filo/mia Ellinida fili.
+I have a Greek friend (male/female).
+
+551
+Μου αρέσει να μιλάω μαζί του/της.
+Mou aresi na milao mazi tou/tis.
+I like to talk with him/her.
+
+552
+Μου μαθαίνει πολλά ελληνικά.
+Mou mathaine polla ellinika.
+He/She teaches me a lot of Greek.
+
+553
+Είναι καλός/ή δάσκαλος/α.
+Ine kalos/i daskalos/a.
+He/She is a good teacher.
+
+554
+Μου αρέσει η ελληνική κουλτούρα.
+Mou aresi i elliniki koultoura.
+I like Greek culture.
+
+555
+Είναι μια πλούσια κουλτούρα.
+Ine mia plousia koultoura.
+It is a rich culture.
+
+556
+Θα ήθελα να μάθω περισσότερα για την ελληνική κουλτούρα.
+Tha ithela na matho perissotera ya tin elliniki koultoura.
+I would like to learn more about Greek culture.
+
+557
+Μου αρέσουν οι ελληνικές γιορτές.
+Mou aresoun i ellinikes giortes.
+I like Greek festivals.
+
+558
+Ποια είναι η αγαπημένη σου ελληνική γιορτή;
+Pia ine i agapimeni sou elliniki giorti?
+What is your favorite Greek festival?
+
+559
+Μου αρέσει το ελληνικό φαγητό.
+Mou aresi to elliniko fagito.
+I like Greek food.
+
+560
+Ποιο είναι το αγαπημένο σου ελληνικό φαγητό;
+Pio ine to agapimeno sou elliniko fagito?
+What is your favorite Greek food?
+
+561
+Έχω δοκιμάσει [Greek dish].
+Eho dokimasei [Greek dish].
+I have tried [Greek dish].
+
+562
+Μου άρεσε πολύ.
+Mou arese poli.
+I liked it very much.
+
+563
+Δεν μου άρεσε πολύ.
+Den mou arese poli.
+I didn't like it very much.
+
+564
+Θα ήθελα να δοκιμάσω [another Greek dish].
+Tha ithela na dokimaso [another Greek dish].
+I would like to try [another Greek dish].
+
+565
+Μπορείς να μου προτείνεις ένα καλό ελληνικό εστιατόριο;
+Boris na mou proteinis ena kalo elliniko estiatorio?
+Can you recommend a good Greek restaurant?
+
+566
+Υπάρχει ένα καλό ελληνικό εστιατόριο κοντά εδώ.
+Yparhi ena kalo elliniko estiatorio konta edo.
+There is a good Greek restaurant near here.
+
+567
+Πού βρίσκεται;
+Pou vriskete?
+Where is it located?
+
+568
+Είναι εύκολο να το βρω;
+Ine efkolo na to vro?
+Is it easy to find?
+
+569
+Σας ευχαριστώ για την πληροφορία.
+Sas efharisto ya tin πληροφορία.
+Thank you for the information.
+
+570
+Καλό μεσημέρι!
+Kalo mesimeri!
+Good noon!
+
+571
+Τι θα κάνεις σήμερα το απόγευμα;
+Ti tha kanis simera to apogevma?
+What will you do this afternoon?
+
+572
+Σήμερα το απόγευμα θα [activity].
+Simera to apogevma tha [activity].
+This afternoon I will [activity].
+
+573
+Θα πας πουθενά απόψε;
+Tha pas pouthena apopse?
+Will you go anywhere tonight?
+
+574
+Απόψε θα [activity].
+Apopse tha [activity].
+Tonight I will [activity].
+
+575
+Θα μείνεις σπίτι απόψε;
+Tha minis spiti apopse?
+Will you stay home tonight?
+
+576
+Ναι, θα μείνω σπίτι απόψε.
+Ne, tha mino spiti apopse.
+Yes, I will stay home tonight.
+
+577
+Όχι, θα βγω έξω απόψε.
+Ohi, tha vgo exo apopse.
+No, I will go out tonight.
+
+578
+Πού θα πας;
+Pou tha pas?
+Where will you go?
+
+579
+Θα πάω [place].
+Tha pao [place].
+I will go to [place].
+
+580
+Με ποιον θα πας;
+Me pion tha pas?
+Who will you go with?
+
+581
+Θα πάω με [person].
+Tha pao me [person].
+I will go with [person].
+
+582
+Τι ώρα θα επιστρέψεις;
+Ti ora tha epistrepsis?
+What time will you return?
+
+583
+Θα επιστρέψω στις [time].
+Tha epistrepso stis [time].
+I will return at [time].
+
+584
+Μην αργήσεις.
+Min argisis.
+Don't be late.
+
+585
+Θα προσπαθήσω να μην αργήσω.
+Tha prospathiso na min argiso.
+I will try not to be late.
+
+586
+Περάσαμε υπέροχα μαζί.
+Perasame iperocha mazi.
+We had a wonderful time together.
+
+587
+Θα ήθελα να σε γνωρίσω καλύτερα.
+Tha ithela na se gnoriso kalitera.
+I would like to get to know you better.
+
+588
+Μπορούμε να βγούμε ραντεβού;
+Boroume na vgoume rantevou?
+Can we go on a date?
+
+589
+Θα μου άρεσε πολύ.
+Tha mou arese poli.
+I would like that very much.
+
+590
+Πότε είσαι ελεύθερος/η;
+Pote ise eleftheros/i?
+When are you free (male/female)?
+
+591
+Είμαι ελεύθερος/η [day].
+Ime eleftheros/i [day].
+I am free on [day].
+
+592
+Τι θα ήθελες να κάνουμε;
+Ti tha itheles na kanoume?
+What would you like to do?
+
+593
+Μου είναι εντάξει ό,τι θέλεις.
+Mou ine endaxi o,ti thelis.
+Whatever you want is fine with me.
+
+594
+Θα σε πάρω τηλέφωνο.
+Tha se paro tilefono.
+I will call you.
+
+595
+Στείλε μου ένα μήνυμα.
+Steile mou ena minima.
+Send me a message.
+
+596
+Έχω τα στοιχεία σου.
+Eho ta stihia sou.
+I have your contact information.
+
+597
+Δεν έχω τα στοιχεία σου.
+Den eho ta stihia sou.
+I don't have your contact information.
+
+598
+Μπορώ να σου δώσω τα στοιχεία μου;
+Boro na sou doso ta stihia mou?
+Can I give you my contact information?
+
+599
+Ναι, σε παρακαλώ.
+Ne, se parakalo.
+Yes, please.
+
+600
+Σου άρεσε η μέρα σου;
+Sou arese i mera sou?
+Did you enjoy your day?
+
+601
+Ναι, μου άρεσε πολύ.
+Ne, mou arese poli.
+Yes, I enjoyed it very much.
+
+602
+Όχι, δεν μου άρεσε πολύ.
+Ohi, den mou arese poli.
+No, I didn't enjoy it very much.
+
+603
+Τι έκανες σήμερα;
+Ti ekanes simera?
+What did you do today?
+
+604
+Σήμερα έκανα [activity].
+Simera ekana [activity].
+Today I did [activity].
+
+605
+Ήταν μια κουραστική μέρα.
+Itan mia kourastiki mera.
+It was a tiring day.
+
+606
+Ήταν μια χαλαρωτική μέρα.
+Itan mia halarotiki mera.
+It was a relaxing day.
+
+607
+Έμαθα κάτι καινούργιο σήμερα.
+Ematha kati kenourgio simera.
+I learned something new today.
+
+608
+Είδα κάτι ενδιαφέρον σήμερα.
+Eida kati endiaferon simera.
+I saw something interesting today.
+
+609
+Άκουσα κάτι αστείο σήμερα.
+Akousa kati asteio simera.
+I heard something funny today.
+
+610
+Μου συνέβη κάτι περίεργο σήμερα.
+Mou sinevi kati periergo simera.
+Something strange happened to me today.
+
+611
+Έχω μια ερώτηση για εσένα.
+Eho mia erotisi ya esena.
+I have a question for you.
+
+612
+Ρώτησε!
+Rotise!
+Ask away!
+
+613
+Τι σκέφτεσαι;
+Ti skeftese?
+What are you thinking about?
+
+614
+Σκέφτομαι [something].
+Skeftomai [something].
+I am thinking about [something].
+
+615
+Είσαι καλά;
+Ise kala?
+Are you okay?
+
+616
+Ναι, είμαι καλά, ευχαριστώ.
+Ne, ime kala, efharisto.
+Yes, I'm okay, thank you.
+
+617
+Όχι, δεν είμαι καλά.
+Ohi, den ime kala.
+No, I'm not okay.
+
+618
+Τι συμβαίνει;
+Ti simveni?
+What's wrong?
+
+619
+Δεν ξέρω τι να κάνω.
+Den xero ti na kano.
+I don't know what to do.
+
+620
+Μπορώ να σου δώσω μια συμβουλή;
+Boro na sou doso mia συμβουλή?
+Can I give you some advice?
+
+621
+Ναι, σε παρακαλώ.
+Ne, se parakalo.
+Yes, please.
+
+622
+Κατά τη γνώμη μου, θα πρέπει να [do something].
+Kata ti gnomi mou, tha prepi na [do something].
+In my opinion, you should [do something].
+
+623
+Σε ευχαριστώ για τη συμβουλή.
+Se efharisto ya ti συμβουλή.
+Thank you for the advice.
+
+624
+Θα το σκεφτώ.
+Tha to skefto.
+I will think about it.
+
+625
+Ελπίζω να πάνε όλα καλά.
+Elpizo na pane ola kala.
+I hope everything goes well.
+
+626
+Εγώ επίσης το ελπίζω.
+Ego episis to elpizo.
+I hope so too.
+
+627
+Μην απογοητεύεσαι.
+Min apogoitevese.
+Don't get discouraged.
+
+628
+Πρέπει να είσαι δυνατός/ή.
+Prepi na ise dinatos/i.
+You need to be strong (male/female).
+
+629
+Πιστεύω σε εσένα.
+Pistevo se esena.
+I believe in you.
+
+630
+Σε στηρίζω.
+Se stirizo.
+I support you.
+
+631
+Είμαι εδώ για εσένα.
+Ime edo ya esena.
+I am here for you.
+
+632
+Μπορείς να μου μιλήσεις για ό,τι σε απασχολεί.
+Boris na mou milisis ya o,ti se apasholei.
+You can talk to me about whatever is bothering you.
+
+633
+Σε ακούω.
+Se akouo.
+I am listening to you.
+
+634
+Προσπαθώ να καταλάβω.
+Prospatho na katalavo.
+I am trying to understand.
+
+635
+Μου λείπει η οικογένειά μου.
+Mou lipi i ikogenia mou.
+I miss my family.
+
+636
+Μου λείπουν οι φίλοι μου.
+Mou lipoun i filoi mou.
+I miss my friends.
+
+637
+Μου λείπει το σπίτι μου.
+Mou lipi to spiti mou.
+I miss my home.
+
+638
+Αισθάνομαι νοσταλγία.
+Esthanome nostalyia.
+I feel homesick.
+
+639
+Θα περάσει.
+Tha perasei.
+It will pass.
+
+640
+Μην τα παρατάς.
+Min ta paratas.
+Don't give up.
+
+641
+Συνέχισε έτσι!
+Sinehise etsi!
+Keep going!
+
+642
+Κάνεις καλή δουλειά.
+Kanis kali doulia.
+You are doing a good job.
+
+643
+Είμαι περήφανος/η για εσένα.
+Ime perifanos/i ya esena.
+I am proud of you (male/female).
+
+644
+Μου δίνεις έμπνευση.
+Mou dinis empnefsi.
+You inspire me.
+
+645
+Είσαι πολύ σημαντικός/ή.
+Ise poli simantikos/i.
+You are very important.
+
+646
+Σε ευχαριστώ που είσαι φίλος/η μου.
+Se efharisto pou ise filos/fili mou.
+Thank you for being my friend.
+
+647
+Είσαι ο καλύτερος/η φίλος/η που θα μπορούσα να έχω.
+Ise o kaliteros/i filos/fili pou tha mborousa na eho.
+You are the best friend I could have.
+
+648
+Η φιλία σου σημαίνει πολλά για μένα.
+I filia sou simenei polla ya mena.
+Your friendship means a lot to me.
+
+649
+Είμαι τυχερός/ή που σε έχω στη ζωή μου.
+Ime tiheros/i pou se eho sti zoi mou.
+I am lucky to have you in my life.
+
+650
+Σε εκτιμώ πολύ.
+Se εκτιμώ poli.
+I appreciate you very much.
+
+651
+Τι ώρα θα φτάσεις;
+Ti ora tha ftaseis?
+What time will you arrive?
+
+652
+Θα φτάσω στις [time].
+Tha ftaso stis [time].
+I will arrive at [time].
+
+653
+Πού μένεις συνήθως όταν ταξιδεύεις;
+Pou menis sinithos otan taxideveis?
+Where do you usually stay when you travel?
+
+654
+Συνήθως μένω σε ξενοδοχεία.
+Sinithos meno se xenodoheia.
+I usually stay in hotels.
+
+655
+Μερικές φορές μένω σε ξενώνες.
+Merikes fores meno se xenones.
+Sometimes I stay in hostels.
+
+656
+Προτιμώ να νοικιάζω ένα διαμέρισμα.
+Protimo na nikiazo ena diamerisma.
+I prefer to rent an apartment.
+
+657
+Σου αρέσει να ταξιδεύεις μόνος/η ή με παρέα;
+Sou aresi na taxideveis monos/moni i me parea?
+Do you like to travel alone or with company?
+
+658
+Μου αρέσει να ταξιδεύω με παρέα.
+Mou aresi na taxidevo me parea.
+I like to travel with company.
+
+659
+Μερικές φορές μου αρέσει να ταξιδεύω μόνος/η.
+Merikes fores mou aresi na taxidevo monos/moni.
+Sometimes I like to travel alone.
+
+660
+Ποιο είναι το αγαπημένο σου μέρος για να χαλαρώσεις;
+Pio ine to agapimeno sou meros ya na halaroseis?
+What is your favorite place to relax?
+
+661
+Μου αρέσει να χαλαρώνω στην παραλία.
+Mou aresi na halarono stin paralia.
+I like to relax on the beach.
+
+662
+Μου αρέσει να χαλαρώνω στο σπίτι.
+Mou aresi na halarono sto spiti.
+I like to relax at home.
+
+663
+Μου αρέσει να χαλαρώνω σε ένα καφέ.
+Mou aresi na halarono se ena kafe.
+I like to relax in a cafe.
+
+664
+Τι κάνεις για να διασκεδάσεις;
+Ti kanis ya na diaskedaseis?
+What do you do for fun?
+
+665
+Μου αρέσει να βγαίνω με φίλους.
+Mou aresi na vgaino me filous.
+I like to go out with friends.
+
+666
+Μου αρέσει να πηγαίνω σε συναυλίες.
+Mou aresi na pigaino se συναυλίες.
+I like to go to concerts.
+
+667
+Μου αρέσει να πηγαίνω στο θέατρο.
+Mou aresi na pigaino sto theatro.
+I like to go to the theater.
+
+668
+Μου αρέσει να πηγαίνω σε μουσεία.
+Mou aresi na pigaino se mouseia.
+I like to go to museums.
+
+669
+Μου αρέσει να πηγαίνω για ψώνια.
+Mou aresi na pigaino ya psonia.
+I like to go shopping.
+
+670
+Ποιο είναι το αγαπημένο σου κατάστημα;
+Pio ine to agapimeno sou katastima?
+What is your favorite store?
+
+671
+Μου αρέσει να ψωνίζω [type of store].
+Mou aresi na psonizo [type of store].
+I like to shop at [type of store].
+
+672
+Ψάχνω για ένα [item].
+Psahno ya ena [item].
+I am looking for a [item].
+
+673
+Έχετε αυτό σε άλλο μέγεθος;
+Ehete afto se allo megethos?
+Do you have this in another size?
+
+674
+Έχετε αυτό σε άλλο χρώμα;
+Ehete afto se allo chroma?
+Do you have this in another color?
+
+675
+Μπορώ να το δοκιμάσω;
+Boro na to dokimaso?
+Can I try it on?
+
+676
+Πού είναι τα δοκιμαστήρια;
+Pou ine ta dokimastiria?
+Where are the fitting rooms?
+
+677
+Μου πάει αυτό;
+Mou paei afto?
+Does this suit me?
+
+678
+Ναι, σου πάει πολύ.
+Ne, sou paei poli.
+Yes, it suits you very well.
+
+679
+Όχι, δεν σου πάει πολύ.
+Ohi, den sou paei poli.
+No, it doesn't suit you very well.
+
+680
+Είναι πολύ μεγάλο/μικρό/στενό/φαρδύ.
+Ine poli megalo/mikro/steno/fardi.
+It is too big/small/tight/loose.
+
+681
+Έχετε κάτι παρόμοιο;
+Ehete kati paromoio?
+Do you have something similar?
+
+682
+Αυτό είναι αυτό που έψαχνα.
+Afto ine afto pou epsahna.
+This is what I was looking for.
+
+683
+Θα το πάρω, ευχαριστώ.
+Tha to paro, efharisto.
+I will take it, thank you.
+
+684
+Δεν το θέλω, ευχαριστώ.
+Den to thelo, efharisto.
+I don't want it, thank you.
+
+685
+Μπορώ να πληρώσω με κάρτα;
+Boro na pliroso me karta?
+Can I pay by card?
+
+686
+Δέχεστε χρεωστικές κάρτες;
+Deheste hreostikes kartes?
+Do you accept debit cards?
+
+687
+Ποιο είναι το PIN σου;
+Pio ine to PIN sou?
+What is your PIN?
+
+688
+Έχετε κάποια έκπτωση για φοιτητές;
+Ehete kapoia ekptosi ya foitites?
+Do you have any student discounts?
+
+689
+Έχετε κάποια έκπτωση για ηλικιωμένους;
+Ehete kapoia ekptosi ya ilikiomenous?
+Do you have any senior discounts?
+
+690
+Μπορώ να έχω μια σακούλα, παρακαλώ;
+Boro na echo mia sakoula, parakalo?
+Can I have a bag, please?
+
+691
+Σας ευχαριστώ για την εξυπηρέτηση.
+Sas efharisto ya tin exipiretisi.
+Thank you for your service.
+
+692
+Να έχετε μια καλή μέρα!
+Na ehete mia kali mera!
+Have a good day!
+
+693
+Εσείς επίσης!
+Eseis episis!
+You too!
+
+694
+Τι ώρα είναι το επόμενο λεωφορείο για [place];
+Ti ora ine to epomeno leoforio ya [place]?
+What time is the next bus to [place]?
+
+695
+Πού μπορώ να αγοράσω ένα εισιτήριο;
+Pou boro na agoraso ena εισιτήριο?
+Where can I buy a ticket?
+
+696
+Το εισιτήριο ισχύει για πόσο χρόνο;
+To εισιτήριο ishii ya poso chrono?
+How long is the ticket valid for?
+
+697
+Πρέπει να επικυρώσω το εισιτήριο;
+Prepi na epikyroso to εισιτήριο?
+Do I need to validate the ticket?
+
+698
+Πού είναι ο έλεγχος εισιτηρίων;
+Pou ine o elegchos εισιτηρίων?
+Where is the ticket inspection?
+
+699
+Ποια είναι η επόμενη στάση;
+Pia ine i epomeni stasi?
+What is the next stop?
+
+700
+Πρέπει να κατέβω εδώ;
+Prepi na katevo edo?
+Do I need to get off here?
+
+701
+Μπορείτε να μου πείτε πότε να κατέβω;
+Borite na mou pite pote na katevo?
+Can you tell me when to get off?
+
+702
+Σας ευχαριστώ για τη βοήθεια σας.
+Sas efharisto ya ti voithia sas.
+Thank you for your help.
+
+703
+Δεν είμαι από εδώ.
+Den ime apo edo.
+I am not from here.
+
+704
+Είμαι τουρίστας/τρια.
+Ime touristas/touristria.
+I am a tourist (male/female).
+
+705
+Επισκέπτομαι την Ελλάδα για πρώτη φορά.
+Episkeptome tin Ellada ya proti fora.
+I am visiting Greece for the first time.
+
+706
+Μου αρέσει πολύ η Ελλάδα.
+Mou aresi poli i Ellada.
+I like Greece very much.
+
+707
+Οι άνθρωποι είναι πολύ φιλόξενοι.
+I anthropoi ine poli filoxenoi.
+The people are very hospitable.
+
+708
+Το φαγητό είναι υπέροχο.
+To fagito ine iperoho.
+The food is wonderful.
+
+709
+Η ιστορία είναι συναρπαστική.
+I istoria ine συναρπαστική.
+The history is fascinating.
+
+710
+Τα τοπία είναι μαγευτικά.
+Ta topia ine mageftika.
+The landscapes are magical.
+
+711
+Θα ήθελα να μάθω περισσότερα για την ελληνική κουλτούρα.
+Tha ithela na matho perissotera ya tin elliniki koultoura.
+I would like to learn more about Greek culture.
+
+712
+Μπορείτε να μου προτείνετε κάποιο βιβλίο για την ελληνική ιστορία;
+Borite na mou proteinete kapoio vivlio ya tin elliniki istoria?
+Can you recommend a book about Greek history?
+
+713
+Μπορείτε να μου προτείνετε κάποια ελληνική ταινία;
+Borite na mou proteinete kapoia elliniki tenia?
+Can you recommend a Greek movie?
+
+714
+Μπορείτε να μου προτείνετε κάποιο ελληνικό μουσείο;
+Borite na mou proteinete kapoio elliniko mouseio?
+Can you recommend a Greek museum?
+
+715
+Ποιο είναι το αγαπημένο σου ελληνικό νησί;
+Pio ine to agapimeno sou elliniko nisi?
+What is your favorite Greek island?
+
+716
+Έχω ακούσει καλά λόγια για την Κρήτη/τη Σαντορίνη/τη Ρόδο.
+Eho akousei kala logia ya tin Kriti/ti Santorini/ti Rodo.
+I have heard good things about Crete/Santorini/Rhodes.
+
+717
+Θα ήθελα να επισκεφθώ την Αθήνα.
+Tha ithela na episkeftho tin Athina.
+I would like to visit Athens.
+
+718
+Τι αξίζει να δω στην Αθήνα;
+Ti axizei na do stin Athina?
+What is worth seeing in Athens?
+
+719
+Η Ακρόπολη είναι εντυπωσιακή.
+I Akropoli ine entyposiaki.
+The Acropolis is impressive.
+
+720
+Το μουσείο της Ακρόπολης είναι υπέροχο.
+To mouseio tis Akropolis ine iperoho.
+The Acropolis Museum is wonderful.
+
+721
+Η Πλάκα είναι μια όμορφη περιοχή.
+I Plaka ine mia omorfi periohi.
+Plaka is a beautiful area.
+
+722
+Μου αρέσει η ατμόσφαιρα στην Μοναστηρακίου.
+Mou aresi i atmosfaira sto Monastirakiou.
+I like the atmosphere in Monastiraki.
+
+723
+Θα ήθελα να δοκιμάσω σουβλάκι/μουσακά/χωριάτικη σαλάτα.
+Tha ithela na dokimaso souvlaki/mousaka/horiatiki salata.
+I would like to try souvlaki/moussaka/Greek salad.
+
+724
+Πού μπορώ να βρω καλό σουβλάκι;
+Pou boro na vro kalo souvlaki?
+Where can I find good souvlaki?
+
+725
+Αυτό το εστιατόριο φαίνεται καλό.
+Afto to estiatorio fenete kalo.
+This restaurant looks good.
+
+726
+Μπορώ να δω τον κατάλογο;
+Boro na do ton katalogο?
+Can I see the menu?
+
+727
+Τι προτείνετε;
+Ti proteinete?
+What do you recommend?
+
+728
+Έχετε πιάτα ημέρας;
+Ehete piata imeras?
+Do you have daily specials?
+
+729
+Θα ήθελα ένα ποτήρι κόκκινο/λευκό κρασί.
+Tha ithela ena potiri kokkino/lefko krasi.
+I would like a glass of red/white wine.
+
+730
+Μια μπύρα ελληνική, παρακαλώ.
+Mia bira elliniki, parakalo.
+A Greek beer, please.
+
+731
+Στην υγειά μας!
+Stin iyia mas!
+Cheers!
+
+732
+Αυτό είναι πολύ νόστιμο.
+Afto ine poli nostimo.
+This is very delicious.
+
+733
+Μπορώ να έχω λίγο λάδι/λεμόνι;
+Boro na echo ligo lathi/lemoni?
+Can I have some oil/lemon?
+
+734
+Σας ευχαριστώ για το υπέροχο γεύμα.
+Sas efharisto ya to iperoho gevma.
+Thank you for the wonderful meal.
+
+735
+Ήταν όλα εξαιρετικά.
+Itan ola exairetika.
+Everything was excellent.
+
+736
+Θα ήθελα να κάνω μια κράτηση για αύριο βράδυ.
+Tha ithela na kano mia kratisi ya avrio vradi.
+I would like to make a reservation for tomorrow night.
+
+737
+Για πόσα άτομα;
+Ya posa atoma?
+For how many people?
+
+738
+Στις τι;
+Stis ti?
+At what time?
+
+739
+Έχετε ζωντανή μουσική;
+Ehete zontani mousiki?
+Do you have live music?
+
+740
+Μου αρέσει η ατμόσφαιρα εδώ.
+Mou aresi i atmosfaira edo.
+I like the atmosphere here.
+
+741
+Είναι ένα πολύ δημοφιλές μέρος.
+Ine ena poli dimofiles meros.
+It is a very popular place.
+
+742
+Πρέπει να κάνουμε κράτηση εκ των προτέρων.
+Prepi na kanoume kratisi ek ton proteron.
+We should make a reservation in advance.
+
+743
+Τι ώρα ανοίγει η κουζίνα;
+Ti ora anigi i kouzina?
+What time does the kitchen open?
+
+744
+Τι ώρα κλείνει η κουζίνα;
+Ti ora klini i kouzina?
+What time does the kitchen close?
+
+745
+Έχετε επιλογές για χορτοφάγους;
+Ehete epiloges ya hortofagous?
+Do you have vegetarian options?
+
+746
+Έχετε επιλογές για vegans;
+Ehete epiloges ya vegans?
+Do you have vegan options?
+
+747
+Μπορώ να έχω το μενού στα αγγλικά;
+Boro na echo to menou στα anglika?
+Can I have the menu in English?
+
+748
+Μπορείτε να μου εξηγήσετε αυτό το πιάτο;
+Borite na mou exigisete afto to piato?
+Can you explain this dish to me?
+
+749
+Έχει καρυκεύματα;
+Ehi karykevata?
+Is it spicy?
+
+750
+Δεν μου αρέσουν τα πολύ καυτερά.
+Den mou aresoun ta poli kaftera.
+I don't like very spicy food.
+
+751
+Μπορώ να έχω χωρίς κρεμμύδια;
+Boro na echo horis kremmidia?
+Can I have it without onions?
+
+752
+Έχω αλλεργία σε [allergy].
+Eho alergia se [allergy].
+I am allergic to [allergy].
+
+753
+Είναι φρέσκα τα θαλασσινά;
+Ine freska ta thalassina?
+Is the seafood fresh?
+
+754
+Ποιο είναι το ψάρι της ημέρας;
+Pio ine to psari tis imeras?
+What is the fish of the day?
+
+755
+Θα ήθελα ένα ορεκτικό.
+Tha ithela ena orektiko.
+I would like an appetizer.
+
+756
+Θα ήθελα ένα κυρίως πιάτο.
+Tha ithela ena kyrios piato.
+I would like a main course.
+
+757
+Θα ήθελα ένα επιδόρπιο.
+Tha ithela ena epidorpio.
+I would like a dessert.
+
+758
+Τι γλυκά έχετε;
+Ti glyka ehete?
+What sweets do you have?
+
+759
+Μπορώ να έχω έναν λογαριασμό ξεχωριστά;
+Boro na echo enan logariasmo xehorista
+Can I have a separate bill?
+
+```
+760
+Boro na echo enan logariasmo xehorista?
+Can I have a separate bill?
+
+761
+Όλα μαζί, παρακαλώ.
+Ola mazi, parakalo.
+All together, please.
+
+762
+Μπορώ να αφήσω φιλοδώρημα με την κάρτα;
+Boro na afiso filodorima me tin karta?
+Can I leave a tip with the card?
+
+763
+Σας ευχαριστούμε για την επίσκεψη.
+Sas efharistoume ya tin episkepsi.
+Thank you for your visit.
+
+764
+Ελπίζουμε να σας ξαναδούμε σύντομα.
+Elpizume na sas xanadoume σύντομα.
+We hope to see you again soon.
+
+765
+Πού είναι η στάση ταξί;
+Pou ine i stasi taxi?
+Where is the taxi stand?
+
+766
+Μπορείτε να μου καλέσετε ένα ταξί;
+Borite na mou kalesete ena taxi?
+Can you call me a taxi?
+
+767
+Προς τα πού πάτε;
+Pros ta pou paτε?
+Where are you going?
+
+768
+Πηγαίνω [destination].
+Pigaino [destination].
+I am going to [destination].
+
+769
+Πόσο κοστίζει για να πάω στο [place];
+Poso kostizei ya na pao sto [place]?
+How much does it cost to go to [place]?
+
+770
+Μπορείτε να χρησιμοποιήσετε τον ταξιμέτρη;
+Borite na hrisimopoiisete ton taximetro?
+Can you use the meter?
+
+771
+Περιμένετε εδώ, παρακαλώ.
+Perimenete edo, parakalo.
+Wait here, please.
+
+772
+Σας ευχαριστώ πολύ για τη διαδρομή.
+Sas efharisto poli ya ti diadromi.
+Thank you very much for the ride.
+
+773
+Κρατήστε τα ρέστα.
+Kratiste ta resta.
+Keep the change.
+
+774
+Μπορείτε να με πάτε σε αυτό το ξενοδοχείο;
+Borite na me pate se afto to xenodoheio?
+Can you take me to this hotel?
+
+775
+Γνωρίζετε πού βρίσκεται αυτό;
+Gnorizete pou vriskete afto?
+Do you know where this is?
+
+776
+Όχι, δεν είμαι σίγουρος/η.
+Ohi, den ime sigouros/i.
+No, I am not sure.
+
+777
+Μπορώ να χρησιμοποιήσω το GPS σας;
+Boro na hrisimopoiiso to GPS sas?
+Can I use your GPS?
+
+778
+Φτάσαμε.
+Ftasame.
+We have arrived.
+
+779
+Σας ευχαριστώ και πάλι.
+Sas efharisto ke pali.
+Thank you again.
+
+780
+Να έχετε μια καλή μέρα/νύχτα.
+Na ehete mia kali mera/nihta.
+Have a good day/night.
+
+781
+Πού είναι η πρεσβεία της [country];
+Pou ine i presveia tis [country]?
+Where is the embassy of [country]?
+
+782
+Χρειάζομαι βοήθεια με το διαβατήριό μου.
+Hriazome voithia me to diavatirio mou.
+I need help with my passport.
+
+783
+Έχασα το διαβατήριό μου.
+Ehasa to diavatirio mou.
+I lost my passport.
+
+784
+Έκλεψαν τα χρήματά μου.
+Eklepsan ta hrimata mou.
+My money was stolen.
+
+785
+Χρειάζομαι να αναφέρω μια κλοπή.
+Hriazome na anafero mia klopi.
+I need to report a theft.
+
+786
+Πού είναι το αστυνομικό τμήμα;
+Pou ine to astynomiko tmima?
+Where is the police station?
+
+787
+Μπορείτε να μου δώσετε έναν αριθμό έκτακτης ανάγκης;
+Borite na mou dosete enan arithmo έκτακτης ανάγκης?
+Can you give me an emergency number?
+
+788
+Υπάρχει κάποιος που μιλάει [language];
+Yparhi kapoios pou milaei [language]?
+Is there someone who speaks [language]?
+
+789
+Δεν καταλαβαίνω τι λέτε.
+Den katalaveno ti lete.
+I don't understand what you are saying.
+
+790
+Μπορείτε να μιλήσετε πιο αργά;
+Borite na milisete pio arga?
+Can you speak slower?
+
+791
+Μπορείτε να το γράψετε;
+Borite na to grapste?
+Can you write it down?
+
+792
+Τι συμβαίνει; Υπάρχει κάποιο πρόβλημα;
+Ti simveni? Yparhi kapoio provlima?
+What's happening? Is there a problem?
+
+793
+Όλα είναι εντάξει.
+Ola ine endaxi.
+Everything is okay.
+
+794
+Μην ανησυχείτε.
+Min anisihite.
+Don't worry.
+
+795
+Θα το φροντίσω εγώ.
+Tha to frontiso ego.
+I will take care of it.
+
+796
+Χρειάζεστε βοήθεια;
+Hriazeste voithia?
+Do you need help?
+
+797
+Ναι, σε παρακαλώ.
+Ne, se parakalo.
+Yes, please.
+
+798
+Όχι, ευχαριστώ.
+Ohi, efharisto.
+No, thank you.
+
+799
+Είμαι χαρούμενος/η που σας γνώρισα.
+Ime haroumenos/i pou sas gnorisa.
+I am happy to have met you.
+
+800
+Ήταν χαρά μου να σας βοηθήσω.
+Itan hara mou na sas voithiso.
+It was a pleasure to help you.
+
+801
+Να έχετε ένα όμορφο ταξίδι!
+Na ehete ena omorfo taxidi!
+Have a beautiful trip!
+
+802
+Ελπίζω να επιστρέψετε σύντομα.
+Elpizo na epistrepsete σύντομα.
+I hope you return soon.
+
+803
+Θα σας περιμένουμε.
+Tha sas perimenoume.
+We will be waiting for you.
+
+804
+Μου άρεσε πολύ η παρέα σας.
+Mou arese poli i parea sas.
+I really enjoyed your company.
+
+805
+Αν χρειαστείτε κάτι, μη διστάσετε να ρωτήσετε.
+An hriastite kati, mi distasete na rotisete.
+If you need anything, don't hesitate to ask.
+
+806
+Είμαστε πάντα εδώ για εσάς.
+Imaste panta edo ya esas.
+We are always here for you.
+
+807
+Να προσέχετε τον εαυτό σας.
+Na prosehete ton eafto sas.
+Take care of yourself.
+
+808
+Και εσείς επίσης.
+Ke eseis episis.
+You too.
+
+809
+Μείνετε ασφαλείς.
+Minete asfaleis.
+Stay safe.
+
+810
+Θα σας στείλω μήνυμα.
+Tha sas stilo minima.
+I will send you a message.
+
+811
+Μπορώ να σας ακολουθήσω στα μέσα κοινωνικής δικτύωσης;
+Boro na sas akolouthiso sta mesa kinonikis diktyosis?
+Can I follow you on social media?
+
+812
+Φυσικά!
+Fisika!
+Of course!
+
+813
+Ποιο είναι το όνομά σας [στο μέσο κοινωνικής δικτύωσης];
+Pio ine to onoma sas [sto meso kinonikis diktyosis]?
+What is your name [on social media]?
+
+814
+Θα σας προσθέσω τώρα.
+Tha sas prostheso tora.
+I will add you now.
+
+815
+Ήταν ωραία που μιλήσαμε.
+Itan orea pou milisame.
+It was nice talking to you.
+
+816
+Ελπίζω να τα ξαναπούμε σύντομα.
+Elpizo na ta xanapoume σύντομα.
+I hope we talk again soon.
+
+817
+Καλό βράδυ.
+Kalo vradi.
+Good evening.
+
+818
+Όνειρα γλυκά!
+Onira glyka!
+Sweet dreams!
+
+819
+Καληνύχτα και όνειρα όμορφα.
+Kalinichta ke onira omorfa.
+Good night and beautiful dreams.
+
+820
+Κοιμήσου καλά.
+Kimisou kala.
+Sleep well.
+
+821
+Ξύπνα!
+Xypna!
+Wake up!
+
+822
+Καλημέρα! Τι ώρα είναι;
+Kalimera! Ti ora ine?
+Good morning! What time is it?
+
+823
+Έχω αργήσει;
+Eho argisei?
+Am I late?
+
+824
+Όχι, είσαι στην ώρα σου.
+Ohi, ise stin ora sou.
+No, you are on time.
+
+825
+Πρέπει να φύγω τώρα.
+Prepi na figo tora.
+I have to leave now.
+
+826
+Λυπάμαι που πρέπει να φύγεις.
+Lipamai pou prepi na figis.
+I'm sorry you have to leave.
+
+827
+Θα σε δω σύντομα.
+Tha se do σύντομα.
+I will see you soon.
+
+828
+Μέχρι την επόμενη φορά!
+Mehri tin epomeni fora!
+Until next time!
+
+829
+Φιλιά!
+Filia!
+Kisses!
+
+830
+Αγκαλιές!
+Agkalies!
+Hugs!
+
+831
+Να είσαι καλά!
+Na ise kala!
+Be well!
+
+832
+Περαστικά!
+Perastika!
+Get well soon!
+
+833
+Σου εύχομαι τα καλύτερα.
+Sou ehome ta kalitera.
+I wish you the best.
+
+834
+Είμαι πολύ χαρούμενος/η για εσένα.
+Ime poli haroumenos/i ya esena.
+I am very happy for you.
+
+835
+Συγχαρητήρια για την επιτυχία σου!
+Sinharitiria ya tin epitihia sou!
+Congratulations on your success!
+
+836
+Μπράβο σου!
+Bravo sou!
+Well done!
+
+837
+Συνέχισε την καλή δουλειά!
+Sinehise tin kali doulia!
+Keep up the good work!
+
+838
+Μην αλλάξεις ποτέ!
+Min allaxis pote!
+Never change!
+
+839
+Είσαι μοναδικός/ή.
+Ise monadikos/i.
+You are unique.
+
+840
+Μου αρέσει ο τρόπος που είσαι.
+Mou aresi o tropos pou ise.
+I like the way you are.
+
+841
+Έχεις μια θετική επιρροή.
+Ehis mia thetiki epiroi.
+You have a positive influence.
+
+842
+Μου φτιάχνεις τη μέρα.
+Mou ftiachneis ti mera.
+You make my day.
+
+843
+Σε ευχαριστώ που είσαι ο εαυτός σου.
+Se efharisto pou ise o eaftos sou.
+Thank you for being yourself.
+
+844
+Είσαι ένας/μια αληθινός/ή φίλος/η.
+Ise enas/mia alithinos/i filos/fili.
+You are a true friend.
+
+845
+Δεν ξέρω τι θα έκανα χωρίς εσένα.
+Den xero ti tha ekana horis esena.
+I don't know what I would do without you.
+
+846
+Είσαι αναντικατάστατος/η.
+Ise anantikatastatos/i.
+You are irreplaceable.
+
+847
+Μου δίνεις δύναμη.
+Mou dinis dinami.
+You give me strength.
+
+848
+Σε ευχαριστώ που με καταλαβαίνεις.
+Se efharisto pou me katalavenis.
+Thank you for understanding me.
+
+849
+Είσαι πολύτιμος/η για μένα.
+Ise polytimos/i ya mena.
+You are precious to me.
+
+850
+Θα είμαι πάντα εδώ για εσένα.
+Tha ime panta edo ya esena.
+I will always be here for you.
+
+851
+Μπορώ να σου κάνω μια χάρη;
+Boro na sou kano mia hari?
+Can I do you a favor?
+
+852
+Τι μπορώ να κάνω για εσένα;
+Ti boro na kano ya esena?
+What can I do for you?
+
+853
+Δεν χρειάζεται, ευχαριστώ.
+Den hriazete, efharisto.
+It's not necessary, thank you.
+
+854
+Θα το εκτιμούσα πολύ.
+Tha to ekimousa poli.
+I would appreciate it very much.
+
+855
+Είσαι πολύ εξυπηρετικός/ή.
+Ise poli exipiretikos/i.
+You are very helpful.
+
+856
+Χρωστάω χάρη.
+Hrostao hari.
+I owe you one.
+
+857
+Μην το αναφέρεις.
+Min to anaferis.
+Don't mention it.
+
+858
+Δεν έκανε τίποτα.
+Den ekane tipota.
+It was nothing.
+
+859
+Ήταν το λιγότερο που μπορούσα να κάνω.
+Itan to ligotero pou mborousa na kano.
+It was the least I could do.
+
+860
+Χάρηκα που βοήθησα.
+Harika pou voithisa.
+I was happy to help.
+
+861
+Σου χρωστάω μια.
+Sou hrostao mia.
+I owe you one.
+
+862
+Θα σου το ανταποδώσω.
+Tha sou to antapodoso.
+I will return the favor.
+
+863
+Δεν χρειάζεται.
+Den hriazete.
+It's not necessary.
+
+864
+Είμαστε φίλοι.
+Imaste filoi.
+We are friends.
+
+865
+Οι φίλοι βοηθούν ο ένας τον άλλον.
+I filoi voithoun o enas ton allon.
+Friends help each other.
+
+866
+Μπορώ να σου ζητήσω μια χάρη;
+Boro na sou zitiso mia hari?
+Can I ask you a favor?
+
+867
+Φυσικά, τι χρειάζεσαι;
+Fisika, ti hriazese?
+Of course, what do you need?
+
+868
+Θα ήθελα τη βοήθειά σου με [something].
+Tha ithela ti voithia sou me [something].
+I would like your help with [something].
+
+869
+Δεν είμαι σίγουρος/η αν μπορώ.
+Den ime sigouros/i an boro.
+I am not sure if I can.
+
+870
+Θα κάνω ό,τι μπορώ.
+Tha kano o,ti boro.
+I will do what I can.
+
+871
+Σε ευχαριστώ εκ των προτέρων.
+Se efharisto ek ton proteron.
+Thank you in advance.
+
+872
+Μην ανησυχείς για αυτό.
+Min anisihis ya afto.
+Don't worry about it.
+
+873
+Θα το χειριστώ εγώ.
+Tha to hiristo ego.
+I will handle it.
+
+874
+Έχω μια ιδέα.
+Eho mia idea.
+I have an idea.
+
+875
+Τι λες;
+Ti les?
+What do you say?
+
+876
+Μου αρέσει η ιδέα σου.
+Mou aresi i idea sou.
+I like your idea.
+
+877
+Δεν είμαι σίγουρος/η για αυτή την ιδέα.
+Den ime sigouros/i ya afti tin idea.
+I am not sure about this idea.
+
+878
+Μπορούμε να δοκιμάσουμε κάτι άλλο;
+Mboroume na dokimasoume kati allo?
+Can we try something else?
+
+879
+Έχω μια καλύτερη ιδέα.
+Eho mia kaliteri idea.
+I have a better idea.
+
+880
+Άκουσε αυτό.
+Akouse afto.
+Listen to this.
+
+881
+Κοίτα αυτό.
+Koita afto.
+Look at this.
+
+882
+Μάντεψε τι έγινε.
+Mantepse ti egine.
+Guess what happened.
+
+883
+Δεν θα το πιστέψεις.
+Den tha to pistepsis.
+You won't believe it.
+
+884
+Έχω μια έκπληξη για εσένα.
+Eho mia ekplixi ya esena.
+I have a surprise for you.
+
+Okay, here's the next batch of 200 common Greek sentences for your learning:
+
+```
+885
+Έχω μια έκπληξη για εσένα.
+Eho mia ekplixi ya esena.
+I have a surprise for you.
+
+886
+Μάντεψε τι!
+Mantepse ti!
+Guess what!
+
+887
+Έχω καλά νέα!
+Eho kala nea!
+I have good news!
+
+888
+Έχω κακά νέα.
+Eho kaka nea.
+I have bad news.
+
+889
+Λυπάμαι που το ακούς αυτό.
+Lipamai pou to akous afto.
+I'm sorry to hear that.
+
+890
+Ελπίζω να πάνε όλα καλύτερα.
+Elpizo na pane ola kalitera.
+I hope everything gets better.
+
+891
+Μην στεναχωριέσαι.
+Min stenahoriese.
+Don't be sad.
+
+892
+Θα περάσει γρήγορα.
+Tha perasei grigora.
+It will pass quickly.
+
+893
+Πρέπει να είμαστε δυνατοί/ές.
+Prepi na imaste dinatoi/es.
+We need to be strong.
+
+894
+Μαζί μπορούμε να το ξεπεράσουμε.
+Mazi boroume na to xeperasoume.
+Together we can overcome it.
+
+895
+Σε ευχαριστώ για την υποστήριξη.
+Se efharisto ya tin ypostirixi.
+Thank you for your support.
+
+896
+Είμαι ευγνώμων/ευγνώμων για εσένα.
+Ime evgnomon/evgnomon ya esena.
+I am grateful for you.
+
+897
+Δεν ξέρω πώς να σε ευχαριστήσω.
+Den xero pos na se efharistiso.
+I don't know how to thank you.
+
+898
+Η παρουσία σου κάνει τη διαφορά.
+I parousia sou kanei ti diafora.
+Your presence makes a difference.
+
+899
+Είσαι ένας/μια σπουδαίος/α άνθρωπος.
+Ise enas/mia spoudeos/a anthropos.
+You are a great person.
+
+900
+Μου αρέσει η θετική σου ενέργεια.
+Mou aresi i thetiki sou energeia.
+I like your positive energy.
+
+901
+Έχεις μια καρδιά από χρυσό.
+Ehis mia kardia apo hryso.
+You have a heart of gold.
+
+902
+Είσαι πολύ γενναιόδωρος/η με τον χρόνο σου.
+Ise poli gennaiodoros/i me ton chrono sou.
+You are very generous with your time.
+
+903
+Σε ευχαριστώ που με ακούς πάντα.
+Se efharisto pou me akous panta.
+Thank you for always listening to me.
+
+904
+Μπορώ να σου εμπιστευτώ τα πάντα.
+Boro na sou empisteyto ta panta.
+I can trust you with everything.
+
+905
+Είσαι ένας/μια αληθινός/ή φίλος/η για πάντα.
+Ise enas/mia alithinos/i filos/fili ya panta.
+You are a true friend forever.
+
+906
+Η φιλία μας είναι πολύ σημαντική για μένα.
+I filia mas ine poli simantiki ya mena.
+Our friendship is very important to me.
+
+907
+Είσαι σαν αδελφός/αδελφή για μένα.
+Ise san adelfos/adelfi ya mena.
+You are like a brother/sister to me.
+
+908
+Θα είμαστε πάντα μαζί.
+Tha imaste panta mazi.
+We will always be together.
+
+909
+Τίποτα δεν μπορεί να μας χωρίσει.
+Tipota den bori na mas horisei.
+Nothing can separate us.
+
+910
+Είμαστε μια ομάδα.
+Imaste mia omada.
+We are a team.
+
+911
+Μαζί είμαστε πιο δυνατοί/ές.
+Mazi imaste pio dinatoi/es.
+Together we are stronger.
+
+912
+Σε ευχαριστώ που είσαι εκεί για μένα.
+Se efharisto pou ise ekei ya mena.
+Thank you for being there for me.
+
+913
+Δεν θα το ξεχάσω ποτέ.
+Den tha to xechaso pote.
+I will never forget it.
+
+914
+Είσαι ένας/μια σωτήρας.
+Ise enas/mia sotiras/sotira.
+You are a lifesaver.
+
+915
+Μου έσωσες τη ζωή.
+Mou esoses ti zoi.
+You saved my life.
+
+916
+Είσαι ένας/μια άγγελος.
+Ise enas/mia angelos/angelos.
+You are an angel.
+
+917
+Δεν ξέρω τι να πω.
+Den xero ti na po.
+I don't know what to say.
+
+918
+Είμαι συγκινημένος/η.
+Ime sinkinimenos/i.
+I am touched.
+
+919
+Μου έφτιαξες την ημέρα/εβδομάδα/χρονιά.
+Mou eftiaxes tin imera/evdomada/hronia.
+You made my day/week/year.
+
+920
+Είσαι το καλύτερο πράγμα που μου έχει συμβεί.
+Ise to kalitero pragma pou mou ehi simvei.
+You are the best thing that has ever happened to me.
+
+921
+Σε αγαπώ περισσότερο από οτιδήποτε άλλο.
+S'agapo perissotero apo otidipote allo.
+I love you more than anything else.
+
+922
+Είσαι ο/η μόνος/η για μένα.
+Ise o/i monos/moni ya mena.
+You are the only one for me.
+
+923
+Θέλω να περάσω την υπόλοιπη ζωή μου μαζί σου.
+Thelo na peraso tin ipolipi zoi mou mazi sou.
+I want to spend the rest of my life with you.
+
+924
+Θα με παντρευτείς;
+Tha me pantrefteis?
+Will you marry me?
+
+925
+Ναι!
+Ne!
+Yes!
+
+926
+Είμαι τόσο χαρούμενος/η!
+Ime toso haroumenos/i!
+I am so happy!
+
+927
+Αυτό είναι το πιο ευτυχισμένο μου λεπτό.
+Afto ine to pio eftihismeno mou lepto.
+This is my happiest moment.
+
+928
+Δεν μπορώ να περιμένω να παντρευτούμε.
+Den boro na perimeno na pantreftoume.
+I can't wait to get married.
+
+929
+Θα είναι ένας/μια υπέροχος/η γάμος.
+Tha ine enas/mia iperoho/i gamos.
+It will be a wonderful wedding.
+
+930
+Θα έχουμε μια όμορφη οικογένεια.
+Tha ehoume mia omorfi ikogenia.
+We will have a beautiful family.
+
+931
+Αγαπώ κάθε λεπτό που περνάω μαζί σου.
+Agapo kathe lepto pou pernao mazi sou.
+I love every minute I spend with you.
+
+932
+Είσαι το άλλο μου μισό.
+Ise to allo mou miso.
+You are my other half.
+
+933
+Δεν μπορώ να φανταστώ τη ζωή μου χωρίς εσένα.
+Den boro na fantasto ti zoi mou horis esena.
+I can't imagine my life without you.
+
+934
+Είσαι το φως της ζωής μου.
+Ise to fos tis zois mou.
+You are the light of my life.
+
+935
+Σε ευχαριστώ που είσαι ο/η σύντροφός μου.
+Se efharisto pou ise o/i syntrofos mou.
+Thank you for being my partner.
+
+936
+Είσαι ο/η καλύτερος/η σύζυγος που θα μπορούσα να έχω.
+Ise o/i kaliteros/i syzygos pou tha mborousa na eho.
+You are the best spouse I could have.
+
+937
+Αγαπώ την οικογένειά μας.
+Agapo tin ikogenia mas.
+I love our family.
+
+938
+Είμαστε τόσο τυχεροί/ές που έχουμε ο ένας τον άλλον.
+Imaste toso tiheroi/es pou ehoume o enas ton allon.
+We are so lucky to have each other.
+
+939
+Η αγάπη μας θα διαρκέσει για πάντα.
+I agapi mas tha diarkesei ya panta.
+Our love will last forever.
+
+940
+Είσαι το παν για μένα.
+Ise to pan ya mena.
+You are everything to me.
+
+941
+Μου λείπεις ήδη.
+Mou lipis idi.
+I already miss you.
+
+942
+Επιστρέψτε σύντομα.
+Epistrepste σύντομα.
+Come back soon.
+
+943
+Δεν μπορώ να περιμένω να σε ξαναδώ.
+Den boro na perimeno na se xanado.
+I can't wait to see you again.
+
+944
+Η αναμονή αξίζει τον κόπο για εσένα.
+I anomoni axizei ton kopo ya esena.
+The wait is worth it for you.
+
+945
+Σκέφτομαι συνεχώς εσένα.
+Skeftomai sinehos esena.
+I think about you constantly.
+
+946
+Είσαι πάντα στο μυαλό μου.
+Ise panta sto μυαλό mou.
+You are always on my mind.
+
+947
+Θα σε ονειρεύομαι.
+Tha se onirevome.
+I will dream about you.
+
+948
+Να έχεις όμορφα όνειρα.
+Na eheis omorfa onira.
+Have beautiful dreams.
+
+949
+Σε φιλώ.
+Se filo.
+I kiss you.
+
+950
+Σου στέλνω την αγάπη μου.
+Sou stello tin agapi mou.
+I send you my love.
+
+951
+Είσαι η ζωή μου.
+Ise i zoi mou.
+You are my life.
+
+952
+Είσαι ο/η καλύτερος/η μου φίλος/η.
+Ise o/i kaliteros/i mou filos/fili.
+You are my best friend.
+
+953
+Σε ευχαριστώ που είσαι ο εαυτός σου.
+Se efharisto pou ise o eaftos sou.
+Thank you for being yourself.
+
+954
+Μου αρέσει να περνάω χρόνο μαζί σου.
+Mou aresi na pernao chrono mazi sou.
+I like spending time with you.
+
+955
+Έχουμε τόσα πολλά κοινά.
+Ehoume tosa polla koina.
+We have so much in common.
+
+956
+Καταλαβαίνουμε ο ένας τον άλλον.
+Katalavenoume o enas ton allon.
+We understand each other.
+
+957
+Μπορούμε να μιλάμε για ώρες.
+Mboroume na milame ya ores.
+We can talk for hours.
+
+958
+Ποτέ δεν βαριέμαι όταν είμαι μαζί σου.
+Pote den vierame otan ime mazi sou.
+I never get bored when I am with you.
+
+959
+Κάνεις τα πάντα καλύτερα.
+Kanis ta panta kalitera.
+You make everything better.
+
+960
+Είσαι η χαρά της ζωής μου.
+Ise i hara tis zois mou.
+You are the joy of my life.
+
+961
+Σε ευχαριστώ που με κάνεις να γελάω.
+Se efharisto pou me kanis na gelao.
+Thank you for making me laugh.
+
+962
+Έχεις ένα υπέροχο χιούμορ.
+Ehis ena iperoho hioumor.
+You have a wonderful sense of humor.
+
+963
+Μου αρέσει ο τρόπος που σκέφτεσαι.
+Mou aresi o tropos pou skeftese.
+I like the way you think.
+
+964
+Έχεις πολύ καλές ιδέες.
+Ehis poli kales idees.
+You have very good ideas.
+
+965
+Είσαι πολύ δημιουργικός/ή.
+Ise poli dimiourgikos/i.
+You are very creative.
+
+966
+Έχεις ένα όμορφο μυαλό.
+Ehis ena omorfo μυαλό.
+You have a beautiful mind.
+
+967
+Μου αρέσει να μαθαίνω από εσένα.
+Mou aresi na mathaino apo esena.
+I like learning from you.
+
+968
+Είσαι πολύ έξυπνος/η και μορφωμένος/η.
+Ise poli exipnos/i ke morfomenos/i.
+You are very smart and educated.
+
+969
+Σέβομαι τη γνώμη σου.
+Sevomai ti gnomi sou.
+I respect your opinion.
+
+970
+Έχεις πολύ καλή κρίση.
+Ehis poli kali krise.
+You have very good judgment.
+
+971
+Μου αρέσει η αυτοπεποίθησή σου.
+Mou aresi i aftopepithisi sou.
+I like your confidence.
+
+972
+Είσαι πολύ δυνατός/ή και ανεξάρτητος/η.
+Ise poli dinatos/i ke anexartitos/i.
+You are very strong and independent.
+
+973
+Μου αρέσει η αποφασιστικότητά σου.
+Mou aresi i apofasistikotita sou.
+I like your determination.
+
+974
+Δεν τα παρατάς ποτέ.
+Den ta paratas pote.
+You never give up.
+
+975
+Είσαι πηγή έμπνευσης για μένα.
+Ise pigi empnefsis ya mena.
+You are a source of inspiration for me.
+
+976
+Θαυμάζω την επιμονή σου.
+Thavmazo tin epimoni sou.
+I admire your persistence.
+
+977
+Είσαι ένα εξαιρετικό παράδειγμα.
+Ise ena exairetiko paradeigma.
+You are an excellent example.
+
+978
+Μου δίνεις ελπίδα.
+Mou dinis elpida.
+You give me hope.
+
+979
+Σε ευχαριστώ που είσαι ο εαυτός σου.
+Se efharisto pou ise o eaftos sou.
+Thank you for being yourself.
+
+980
+Είσαι μοναδικός/ή στο είδος σου.
+Ise monadikos/i sto eidos sou.
+You are one of a kind.
+
+981
+Δεν υπάρχει κανείς σαν εσένα.
+Den yparhi kanis san esena.
+There is no one like you.
+
+982
+Είσαι πολύ ξεχωριστός/ή για μένα.
+Ise poli xehoristos/i ya mena.
+You are very special to me.
+
+983
+Θα σε θυμάμαι πάντα.
+Tha se thimamai panta.
+I will always remember you.
+
+984
+Έχεις αφήσει ένα ανεξίτηλο σημάδι στην καρδιά μου.
+Ehis afisei ena anexitilo simadi stin kardia mou.
+You have left an indelible mark on my heart.
+
+985
+Σε ευχαριστώ για τις αναμνήσεις.
+Se efharisto ya tis anamnisies.
+Thank you for the memories.
+
+986
+Θα τις κρατήσω για πάντα.
+Tha tis kratiso ya panta.
+I will keep them forever.
+
+987
+Είσαι ένα δώρο στη ζωή μου.
+Ise ena doro sti zoi mou.
+You are a gift in my life.
+
+988
+Είμαι τόσο τυχερός/ή που σε έχω.
+Ime toso tiheros/i pou se eho.
+I am so lucky to have you.
+
+989
+Σε ευχαριστώ που είσαι εδώ.
+Se efharisto pou ise edo.
+Thank you for being here.
+
+990
+Η παρουσία σου σημαίνει τα πάντα για μένα.
+I parousia sou simenei ta panta ya mena.
+Your presence means everything to me.
+
+991
+Δεν θέλω να σε χάσω ποτέ.
+Den thelo na se haso pote.
+I never want to lose you.
+
+992
+Θα είμαστε πάντα φίλοι/σύντροφοι.
+Tha imaste panta filoi/syntrofoi.
+We will always be friends/partners.
+
+993
+Η σχέση μας είναι πολύ δυνατή.
+I shesi mas ine poli dinati.
+Our relationship is very strong.
+
+994
+Μπορούμε να ξεπεράσουμε τα πάντα μαζί.
+Mboroume na xeperasoume ta panta mazi.
+We can overcome anything together.
+
+995
+Σε ευχαριστώ που είσαι εσύ.
+Se efharisto pou ise esi.
+Thank you for being you.
+
+996
+Είσαι αρκετός/ή.
+Ise arketos/i.
+You are enough.
+
+997
+Μην αλλάξεις για κανέναν.
+Min allaxis ya kanenan.
+Don't change for anyone.
+
+998
+Σ' αγαπώ όπως είσαι.
+S'agapo opos ise.
+I love you just the way you are.
+
+999
+Είσαι τέλειος/α στα μάτια μου.
+Ise teleios/a στα matia mou.
+You are perfect in my eyes.
+
+1000
+Δεν θα μπορούσα να ζητήσω καλύτερο/η.
+Den tha mborousa na zitiso kalitero/i.
+I couldn't ask for better.
+
+1001
+Είσαι το άλλο μου μισό.
+Ise to allo mou miso.
+You are my other half.
+
+1002
+Μαζί είμαστε ένα.
+Mazi imaste ena.
+Together we are one.
+
+1003
+Η αγάπη μας είναι αιώνια.
+I agapi mas ine aionia.
+Our love is eternal.
+
+1004
+Θα σε αγαπώ για πάντα.
+Tha s'agapo ya panta.
+I will love you forever.
+
+1005
+Είσαι η πρώτη και η τελευταία μου σκέψη κάθε μέρα.
+Ise i proti ke i teleftaia mou skepsi kathe mera.
+You are my first and last thought every day.
+
+1006
+Είσαι το όνειρό μου που έγινε πραγματικότητα.
+Ise to oniro mou pou egine pragmatikotita.
+You are my dream come true.
+
+1007
+Δεν μπορώ να φανταστώ τη ζωή μου χωρίς εσένα.
+Den boro na fantasto ti zoi mou horis esena.
+I can't imagine my life without you.
+
+1008
+Είσαι ο λόγος που χαμογελάω.
+Ise o logos pou hamogelo.
+You are the reason I smile.
+
+1009
+Κάνεις την καρδιά μου να χτυπά πιο γρήγορα.
+Kanis tin kardia mou na htypa pio grigora.
+You make my heart beat faster.
+
+1010
+Είσαι ο ήλιος μου τις σκοτεινές μέρες.
+Ise o ilios mou tis skoteines meres.
+You are my sunshine on dark days.
+
+1011
+Σε ευχαριστώ που είσαι πάντα εκεί για μένα.
+Se efharisto pou ise panta ekei ya mena.
+Thank you for always being there for me.
+
+1012
+Μπορώ να βασιστώ σε εσένα για τα πάντα.
+Boro na vasisto se esena ya ta panta.
+I can rely on you for everything.
+
+1013
+Είσαι ο βράχος μου.
+Ise o vrahos mou.
+You are my rock.
+
+1014
+Μου δίνεις δύναμη όταν είμαι αδύναμος/η.
+Mou dinis dinami otan ime adinamos/i.
+You give me strength when I am weak.
+
+1015
+Σε ευχαριστώ που με κάνεις να νιώθω ασφαλής/ής.
+Se efharisto pou me kanis na niotho asfalis/asfalis.
+Thank you for making me feel safe.
+
+1016
+Μαζί μπορούμε να αντιμετωπίσουμε τα πάντα.
+Mazi boroume na antimeto pisoume ta panta.
+Together we can face anything.
+
+1017
+Η αγάπη μας είναι η δύναμή μας.
+I agapi mas ine i dinami mas.
+Our love is our strength.
+
+1018
+Είσαι το στήριγμά μου.
+Ise to stirigma mou.
+You are my support.
+
+1019
+Σε ευχαριστώ που με καταλαβαίνεις χωρίς λόγια.
+Se efharisto pou me katalavenis horis logia.
+Thank you for understanding me without words.
+
+1020
+Έχουμε μια βαθιά σύνδεση.
+Ehoume mia vathia syndesi.
+We have a deep connection.
+
+1021
+Μπορώ να είμαι ο εαυτός μου μαζί σου.
+Boro na ime o eaftos mou mazi sou.
+I can be myself with you.
+
+1022
+Δεν χρειάζεται να προσποιούμαι όταν είμαι μαζί σου.
+Den hriazete na prospoioyme otan ime mazi sou.
+I don't need to pretend when I am with you.
+
+1023
+Μου αρέσει η αλήθεια μας.
+Mou aresi i alithia mas.
+I like our truth.
+
+1024
+Είσαι ο καλύτερός μου φίλος/η και ο/η εραστής/ερωμένης μου.
+Ise o kaliteros/i mou filos/fili ke o/i erastis/eromeni mou.
+You are my best friend and my lover.
+
+1025
+Είσαι τα πάντα για μένα.
+Ise ta panta ya mena.
+You are everything to me.
+
+1026
+Δεν μπορώ να φανταστώ τη ζωή μου χωρίς εσένα.
+Den boro na fantasto ti zoi mou horis esena.
+I can't imagine my life without you.
+
+1027
+Σε ευχαριστώ που είσαι ο/η σύντροφός μου στη ζωή.
+Se efharisto pou ise o/i syntrofos mou sti zoi.
+Thank you for being my partner in life.
+
+1028
+Ανυπομονώ για το μέλλον μας μαζί.
+Anipomono ya to mellon mas mazi.
+I look forward to our future together.
+
+1029
+Θα κάνουμε πολλά όμορφα πράγματα μαζί.
+Tha kanoume polla omorfa pragmata mazi.
+We will do many beautiful things together.
+
+1030
+Η ζωή είναι καλύτερη μαζί σου.
+I zoi ine kaliteri mazi sou.
+Life is better with you.
+
+1031
+Σ' αγαπώ περισσότερο από χθες, λιγότερο από αύριο.
+S'agapo perissotero apo hthes, ligotero apo avrio.
+I love you more than yesterday, less than tomorrow.
+
+1032
+Η αγάπη μας μεγαλώνει κάθε μέρα.
+I agapi mas megalonei kathe mera.
+Our love grows every day.
+
+1033
+Είσαι το παν για μένα.
+Ise to pan ya mena.
+You are everything to me.
+
+1034
+Δεν θα σε αφήσω ποτέ.
+Den tha s'afiso pote.
+I will never leave you.
+
+1035
+Θα είμαι πάντα δίπλα σου.
+Tha ime panta dipla sou.
+I will always be by your side.
+
+1036
+Μαζί για πάντα.
+Mazi ya panta.
+Together forever.
+
+1037
+Είσαι το πεπρωμένο μου.
+Ise to pepromeno mou.
+You are my destiny.
+
+1038
+Ήμασταν γραφτό να είμαστε μαζί.
+Imastan grafto na imaste mazi.
+We were meant to be together.
+
+1039
+Η συνάντησή μας δεν ήταν τυχαία.
+I synantisi mas den itan tihea.
+Our meeting was not accidental.
+
+1040
+Ήταν η μοίρα.
+Itan i mira.
+It was fate.
+
+1041
+Σε ευχαριστώ που μπήκες στη ζωή μου.
+Se efharisto pou mpikes sti zoi mou.
+Thank you for coming into my life.
+
+1042
+Η ζωή μου είναι πολύ καλύτερη από τότε που σε γνώρισα.
+I zoi mou ine poli kaliteri apo tote pou se gnorisa.
+My life is so much better since I met you.
+
+1043
+Δεν μπορώ να φανταστώ τη ζωή μου χωρίς εσένα.
+Den boro na fantasto ti zoi mou horis esena.
+I can't imagine my life without you.
+
+1044
+Είσαι το παν για μένα.
+Ise to pan ya mena.
+You are everything to me.
+
+1045
+Σ' αγαπώ.
+S'agapo.
+I love you.
+
+1046
+Κι εγώ σ' αγαπώ.
+Ki ego s'agapo.
+I love you too.
+
+1047
+Πάρα πολύ.
+Para poli.
+Very much.
+
+1048
+Μου λείπεις.
+Mou lipis.
+I miss you.
+
+1049
+Και εμένα μου λείπεις.
+Ke emena mou lipis.
+I miss you too.
+
+1050
+Πότε θα σε ξαναδώ;
+Pote tha se xanado?
+When will I see you again?
+
+1051
+Σύντομα, ελπίζω.
+Syntoma, elpizo.
+Soon, I hope.
+
+1052
+Δεν μπορώ να περιμένω.
+Den boro na perimeno.
+I can't wait.
+
+1053
+Η ώρα περνάει αργά όταν δεν είσαι εδώ.
+I ora pernaei arga otan den ise edo.
+Time passes slowly when you are not here.
+
+1054
+Θα μετράω τις μέρες μέχρι να σε ξαναδώ.
+Tha metrao tis meres mehri na se xanado.
+I will count the days until I see you again.
+
+1055
+Να προσέχεις.
+Na prosehis.
+Take care.
+
+1056
+Και εσύ να προσέχεις.
+Ke esi na prosehis.
+You take care too.
+
+1057
+Να είσαι καλά.
+Na ise kala.
+Be well.
+
+1058
+Και εσύ να είσαι καλά.
+Ke esi na ise kala.
+You be well too.
+
+1059
+Μην ξεχνάς πόσο σ' αγαπώ.
+Min xehnas poso s'agapo.
+Don't forget how much I love you.
+
+1060
+Ποτέ δεν θα το ξεχάσω.
+Pote den tha to xechaso.
+I will never forget it.
+
+1061
+Είσαι πάντα στην καρδιά μου.
+Ise panta stin kardia mou.
+You are always in my heart.
+
+1062
+Και εσύ στην δική μου.
+Ke esi stin diki mou.
+And you in mine.
+
+1063
+Σου στέλνω όλη μου την αγάπη.
+Sou stello oli mou tin agapi.
+I send you all my love.
+
+1064
+Και εγώ τη δική μου.
+Ke ego ti diki mou.
+And I mine.
+
+1065
+Αντίο για τώρα.
+Antio ya tora.
+Goodbye for now.
+
+1066
+Θα τα πούμε σύντομα.
+Tha ta poume σύντομα.
+We'll talk soon.
+
+1067
+Μείνε όπως είσαι.
+Mine opos ise.
+Stay the way you are.
+
+1068
+Είσαι υπέροχος/η.
+Ise iperoho/i.
+You are wonderful.
+
+1069
+Μην αμφιβάλλεις ποτέ για τον εαυτό σου.
+Min amfivallis pote ya ton eafto sou.
+Never doubt yourself.
+
+1070
+Είσαι ικανός/ή για σπουδαία πράγματα.
+Ise ikanos/i ya spoudaia pragmata.
+You are capable of great things.
+
+1071
+Πιστεύω σε εσένα.
+Pistevo se esena.
+I believe in you.
+
+1072
+Μπορείς να κάνεις τα πάντα.
+Boris na kanis ta panta.
+You can do anything.
+
+1073
+Να έχεις αυτοπεποίθηση.
+Na ehis aftopepithisi.
+Have confidence.
+
+1074
+Μην φοβάσαι να είσαι ο εαυτός σου.
+Min fovase na ise o eaftos sou.
+Don't be afraid to be yourself.
+
+1075
+Ο κόσμος χρειάζεται αυτό που έχεις να προσφέρεις.
+O kosmos hriazete afto pou ehis na prosferis.
+The world needs what you have to offer.
+
+1076
+Μην αφήνεις κανέναν να σε μειώσει.
+Min afinis kanenan na se miosei.
+Don't let anyone put you down.
+
+1077
+Είσαι πολύτιμος/η.
+Ise polytimos/i.
+You are valuable.
+
+1078
+Σε εκτιμούν.
+Se ekimoun.
+You are appreciated.
+
+1079
+Μην ξεχνάς πόσο αγαπητός/ή είσαι.
+Min xehnas poso agapitos/i ise.
+Don't forget how loved you are.
+
+1080
+Υπάρχουν πολλοί που νοιάζονται για εσένα.
+Yparhoun polloi pou noiazontai ya esena.
+There are many who care about you.
+
+1081
+Δεν είσαι μόνος/η.
+Den ise monos/moni.
+You are not alone.
+
+1082
+Είμαστε όλοι μαζί σε αυτό.
+Imaste oloi mazi se afto.
+We are all in this together.
+
+1083
+Μπορείς να μου μιλήσεις για οτιδήποτε.
+Boris na mou milisis ya otidipote.
+You can talk to me about anything.
+
+1084
+Είμαι εδώ για να σε ακούσω.
+Ime edo ya na s'akouso.
+I am here to listen to you.
+
+1085
+Μην κρατάς τίποτα μέσα σου.
+Min kratas tipota mesa sou.
+Don't keep anything inside.
+
+1086
+Είναι εντάξει να μην είσαι εντάξει.
+Ine endaxi na min ise endaxi.
+It's okay not to be okay.
+
+1087
+Μην φοβάσαι να ζητήσεις βοήθεια.
+Min fovase na zitisis voithia.
+Don't be afraid to ask for help.
+
+1088
+Υπάρχουν άνθρωποι που θέλουν να σε βοηθήσουν.
+Yparhoun anthropoi pou theloun na se voithisoun.
+There are people who want to help you.
+
+1089
+Δεν είναι σημάδι αδυναμίας να ζητάς βοήθεια.
+Den ine simadi adinamias na zitas voithia.
+It's not a sign of weakness to ask for help.
+
+1090
+Χρειάζεται δύναμη για να ζητήσεις βοήθεια.
+Hriazete dinami ya na zitisis voithia.
+It takes strength to ask for help.
+
+1091
+Να είσαι ευγενικός/ή με τον εαυτό σου.
+Na ise evgenikos/i me ton eafto sou.
+Be kind to yourself.
+
+1092
+Φρόντισε τον εαυτό σου.
+Frontise ton eafto sou.
+Take care of yourself.
+
+1093
+Είσαι σημαντικός/ή.
+Ise simantikos/i.
+You are important.
+
+1094
+Η ευτυχία σου έχει σημασία.
+I eftihia sou ehi simasia.
+Your happiness matters.
+
+1095
+Κάνε πράγματα που σε κάνουν χαρούμενο/η.
+Kane pragmata pou se kanoun haroumeno/i.
+Do things that make you happy.
+
+1096
+Μην αφήνεις κανέναν να σου στερήσει τη χαρά.
+Min afinis kanenan na sou sterisei ti hara.
+Don't let anyone steal your joy.
+
+1097
+Η ζωή είναι πολύ μικρή για να μην είσαι χαρούμενος/η.
+I zoi ine poli mikri ya na min ise haroumenos/i.
+Life is too short not to be happy.
+
+1098
+Βρες την ομορφιά σε κάθε μέρα.
+Vres tin omorfia se kathe mera.
+Find the beauty in every day.
+
+1099
+Υπάρχουν πάντα λόγοι για να είσαι ευγνώμων/ευγνώμων.
+Yparhoun panta logoi ya na ise evgnomon/evgnomon.
+There are always reasons to be grateful.
+
+1100
+Ακόμα και στις δύσκολες στιγμές.
+Akoma ke stis diskoles stigmes.
+Even in difficult times.
+

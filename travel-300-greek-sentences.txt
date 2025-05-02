@@ -1,0 +1,1459 @@
+﻿1
+Πάω ένα ταξίδι.
+Pao ena taxidi.
+I'm going on a trip.
+
+2
+Θέλω να ταξιδέψω.
+Thelo na taxidepso.
+I want to travel.
+
+3
+Μου αρέσει να ταξιδεύω.
+Mou aresi na taxidevo.
+I like to travel.
+
+4
+Πού θα πας;
+Pou tha pas?
+Where are you going?
+
+5
+Πηγαίνω [destination].
+Pigaino [destination].
+I am going to [destination].
+
+6
+Πότε θα πας;
+Pote tha pas?
+When will you go?
+
+7
+Θα πάω [time].
+Tha pao [time].
+I will go [time].
+
+8
+Με ποιον θα πας;
+Me pion tha pas?
+Who will you go with?
+
+9
+Θα πάω με [person].
+Tha pao me [person].
+I will go with [person].
+
+10
+Για πόσο καιρό θα πας;
+Ya poso kero tha pas?
+For how long will you go?
+
+11
+Θα πάω για [duration].
+Tha pao ya [duration].
+I will go for [duration].
+
+12
+Πώς θα πας εκεί;
+Pos tha pas ekei?
+How will you get there?
+
+13
+Θα πάω με αεροπλάνο.
+Tha pao me aeroplano.
+I will go by plane.
+
+14
+Θα πάω με αυτοκίνητο.
+Tha pao me aftokinito.
+I will go by car.
+
+15
+Θα πάω με τρένο.
+Tha pao me treno.
+I will go by train.
+
+16
+Θα πάω με λεωφορείο.
+Tha pao me leoforio.
+I will go by bus.
+
+17
+Έχω κλείσει τα εισιτήριά μου.
+Eho klisei ta isitiria mou.
+I have booked my tickets.
+
+18
+Πρέπει να κλείσω ένα ξενοδοχείο.
+Prepi na kliso ena xenodoheio.
+I need to book a hotel.
+
+19
+Έχω κάνει κράτηση σε ένα ξενοδοχείο.
+Eho kanei kratisi se ena xenodoheio.
+I have made a reservation at a hotel.
+
+20
+Πού θα μείνεις;
+Pou tha minis?
+Where will you stay?
+
+21
+Θα μείνω σε ένα ξενοδοχείο.
+Tha mino se ena xenodoheio.
+I will stay in a hotel.
+
+22
+Θα μείνω σε έναν ξενώνα.
+Tha mino se enan xenona.
+I will stay in a hostel.
+
+23
+Θα μείνω σε ένα διαμέρισμα.
+Tha mino se ena diamerisma.
+I will stay in an apartment.
+
+24
+Θα μείνω με φίλους/συγγενείς.
+Tha mino me filous/syngenis.
+I will stay with friends/relatives.
+
+25
+Πρέπει να πακετάρω τις βαλίτσες μου.
+Prepi na paketaro tis valitses mou.
+I need to pack my suitcases.
+
+26
+Έχω πακετάρει τις βαλίτσες μου.
+Eho paketarei tis valitses mou.
+I have packed my suitcases.
+
+27
+Μην ξεχάσεις το διαβατήριό σου.
+Min xechasis to diavatirio sou.
+Don't forget your passport.
+
+28
+Έχω το διαβατήριό μου.
+Eho to diavatirio mou.
+I have my passport.
+
+29
+Χρειάζομαι μια βίζα;
+Hriazome mia viza?
+Do I need a visa?
+
+30
+Έχω τη βίζα μου.
+Eho ti viza mou.
+I have my visa.
+
+31
+Πρέπει να αλλάξω χρήματα.
+Prepi na allaxo hrimata.
+I need to exchange money.
+
+32
+Έχω αλλάξει χρήματα.
+Eho allaxei hrimata.
+I have exchanged money.
+
+33
+Ποια είναι η ισοτιμία;
+Pia ine i isotimia?
+What is the exchange rate?
+
+34
+Πού είναι το αεροδρόμιο;
+Pou ine to aerodromio?
+Where is the airport?
+
+35
+Πώς μπορώ να πάω στο αεροδρόμιο;
+Pos boro na pao sto aerodromio?
+How can I get to the airport?
+
+36
+Πρέπει να πάρω ένα ταξί.
+Prepi na paro ena taxi.
+I need to take a taxi.
+
+37
+Πρέπει να πάρω το λεωφορείο.
+Prepi na paro to leoforio.
+I need to take the bus.
+
+38
+Πού είναι ο έλεγχος ασφαλείας;
+Pou ine o elegchos asfaleias?
+Where is the security check?
+
+39
+Πού είναι η πύλη μου;
+Pou ine i pyli mou?
+Where is my gate?
+
+40
+Η πτήση μου έχει καθυστέρηση.
+I ptisi mou ehi kathisterisi.
+My flight is delayed.
+
+41
+Η πτήση μου ακυρώθηκε.
+I ptisi mou akurothike.
+My flight was cancelled.
+
+42
+Πού μπορώ να παραλάβω τις αποσκευές μου;
+Pou boro na paralavo tis aposkeves mou?
+Where can I collect my luggage?
+
+43
+Έχω χάσει τις αποσκευές μου.
+Eho hasei tis aposkeves mou.
+I have lost my luggage.
+
+44
+Πού είναι το γραφείο πληροφοριών;
+Pou ine to grafio πληροφοριών?
+Where is the information desk?
+
+45
+Μπορείτε να με βοηθήσετε;
+Borite na me voithisete?
+Can you help me?
+
+46
+Ψάχνω για [place].
+Psahno ya [place].
+I am looking for [place].
+
+47
+Πού είναι η τουαλέτα;
+Pou ine i τουαλέτα?
+Where is the toilet?
+
+48
+Πού είναι το εστιατόριο;
+Pou ine to estiatorio?
+Where is the restaurant?
+
+49
+Πού είναι το καφέ;
+Pou ine to kafe?
+Where is the cafe?
+
+50
+Πού είναι το κατάστημα αφορολογήτων ειδών;
+Pou ine to katastima aforologiton eidon?
+Where is the duty-free shop?
+
+51
+Μπορώ να νοικιάσω ένα αυτοκίνητο;
+Boro na nikiase ena aftokinito?
+Can I rent a car?
+
+52
+Πού είναι η ενοικίαση αυτοκινήτων;
+Pou ine i enikiase aftokiniton?
+Where is the car rental?
+
+53
+Θέλω να νοικιάσω ένα αυτοκίνητο για [duration].
+Thelo na nikiase ena aftokinito ya [duration].
+I want to rent a car for [duration].
+
+54
+Ποιο είναι το κόστος;
+Pio ine to kostos?
+What is the cost?
+
+55
+Έχει ασφάλεια;
+Ehi asfaleia?
+Does it have insurance?
+
+56
+Πρέπει να γεμίσω το ρεζερβουάρ;
+Prepi na gemiso to rezervouar?
+Do I need to fill the tank?
+
+57
+Πού είναι ο σταθμός τρένων;
+Pou ine o stathmos trenon?
+Where is the train station?
+
+58
+Πότε φεύγει το επόμενο τρένο για [place];
+Pote fevgi to epomeno treno ya [place]?
+When does the next train to [place] leave?
+
+59
+Από ποια αποβάθρα φεύγει;
+Apo pia apovathra fevgi?
+From which platform does it leave?
+
+60
+Πού είναι ο σταθμός λεωφορείων;
+Pou ine o stathmos leoforion?
+Where is the bus station?
+
+61
+Πότε φεύγει το επόμενο λεωφορείο για [place];
+Pote fevgi to epomeno leoforio ya [place]?
+When does the next bus to [place] leave?
+
+62
+Από ποια στάση φεύγει;
+Apo pia stasi fevgi?
+From which stop does it leave?
+
+63
+Πού μπορώ να βρω ένα ταξί;
+Pou boro na vro ena taxi?
+Where can I find a taxi?
+
+64
+Καλέστε ένα ταξί για μένα, παρακαλώ.
+Kalesete ena taxi ya mena, parakalo.
+Call a taxi for me, please.
+
+65
+Πόσο κοστίζει για να πάω στο [place];
+Poso kostizei ya na pao sto [place]?
+How much does it cost to go to [place]?
+
+66
+Μπορείτε να με πάτε σε αυτή τη διεύθυνση;
+Borite na me pate se afti ti diefthinsi?
+Can you take me to this address?
+
+67
+Πού είναι το ξενοδοχείο μου;
+Pou ine to xenodoheio mou?
+Where is my hotel?
+
+68
+Πώς μπορώ να πάω στο ξενοδοχείο μου;
+Pos boro na pao sto xenodoheio mou?
+How can I get to my hotel?
+
+69
+Είναι μακριά από εδώ;
+Ine makria apo edo?
+Is it far from here?
+
+70
+Είναι κοντά από εδώ.
+Ine konta apo edo.
+It is near here.
+
+71
+Πηγαίνετε ευθεία.
+Pigainete efthia.
+Go straight.
+
+72
+Στρίψτε αριστερά.
+Stripste aristera.
+Turn left.
+
+73
+Στρίψτε δεξιά.
+Stripste dexia.
+Turn right.
+
+74
+Είναι στην αριστερή/δεξιά πλευρά.
+Ine stin aristeri/dexia plevra.
+It is on the left/right side.
+
+75
+Είναι απέναντι.
+Ine apenanti.
+It is opposite.
+
+76
+Είναι δίπλα σε [place].
+Ine dipla se [place].
+It is next to [place].
+
+77
+Χάθηκα.
+Hathika.
+I am lost.
+
+78
+Μπορείτε να με βοηθήσετε να βρω τον δρόμο μου;
+Borite na me voithisete na vro ton dromo mou?
+Can you help me find my way?
+
+79
+Έχω έναν χάρτη.
+Eho enan harti.
+I have a map.
+
+80
+Μπορείτε να μου δείξετε πού είμαστε;
+Borite na mou deixete pou imaste?
+Can you show me where we are?
+
+81
+Μπορείτε να μου δείξετε πώς να πάω εκεί;
+Borite na mou deixete pos na pao ekei?
+Can you show me how to get there?
+
+82
+Σας ευχαριστώ για τη βοήθεια σας.
+Sas efharisto ya ti voithia sas.
+Thank you for your help.
+
+83
+Μιλάτε αγγλικά;
+Milate anglika?
+Do you speak English?
+
+84
+Δεν μιλάω καλά ελληνικά.
+Den milao kala ellinika.
+I don't speak Greek well.
+
+85
+Μπορείτε να μιλήσετε πιο αργά;
+Borite na milisete pio arga?
+Can you speak slower?
+
+86
+Δεν καταλαβαίνω.
+Den katalaveno.
+I don't understand.
+
+87
+Μπορείτε να το επαναλάβετε;
+Borite na to epanalavete?
+Can you repeat that?
+
+88
+Μπορείτε να το γράψετε;
+Borite na to grapste?
+Can you write it down?
+
+89
+Πόσο κοστίζει αυτό;
+Poso kostizei afto?
+How much does this cost?
+
+90
+Δέχεστε πιστωτικές κάρτες;
+Deheste pistotikes kartes?
+Do you accept credit cards?
+
+91
+Μπορώ να πληρώσω με μετρητά;
+Boro na pliroso me metrita?
+Can I pay in cash?
+
+92
+Μπορώ να έχω μια απόδειξη;
+Boro na echo mia apodixi?
+Can I have a receipt?
+
+93
+Πού είναι ένα καλό εστιατόριο;
+Pou ine ena kalo estiatorio?
+Where is a good restaurant?
+
+94
+Μπορείτε να μου προτείνετε ένα καλό εστιατόριο;
+Borite na mou proteinete ena kalo estiatorio?
+Can you recommend a good restaurant?
+
+95
+Θα ήθελα να δοκιμάσω τοπικό φαγητό.
+Tha ithela na dokimaso topiko fagito.
+I would like to try local food.
+
+96
+Τι είναι αυτό;
+Ti ine afto?
+What is this?
+
+97
+Είναι νόστιμο;
+Ine nostimo?
+Is it delicious?
+
+98
+Μου αρέσει πολύ.
+Mou aresi poli.
+I like it very much.
+
+99
+Δεν μου αρέσει.
+Den mou aresi.
+I don't like it.
+
+100
+Σας ευχαριστώ για όλα.
+Sas efharisto ya ola.
+Thank you for everything.
+
+101
+Πού είναι ένα φαρμακείο;
+Pou ine ena farmakeio?
+Where is a pharmacy?
+
+102
+Χρειάζομαι έναν γιατρό.
+Hriazome enan yatro.
+I need a doctor.
+
+103
+Δεν αισθάνομαι καλά.
+Den esthánome kala.
+I don't feel well.
+
+104
+Έχω πονοκέφαλο.
+Eho ponokefalo.
+I have a headache.
+
+105
+Έχω στομαχόπονο.
+Eho stomahopono.
+I have a stomach ache.
+
+106
+Πού είναι το νοσοκομείο;
+Pou ine to nosokomeio?
+Where is the hospital?
+
+107
+Είναι επείγον.
+Ine epeigon.
+It is urgent.
+
+108
+Μπορείτε να καλέσετε την αστυνομία;
+Borite na kalesete tin astynomia?
+Can you call the police?
+
+109
+Έγινε ένα ατύχημα.
+Egine ena atyihima.
+There has been an accident.
+
+110
+Μπορώ να χρησιμοποιήσω το τηλέφωνό σας;
+Boro na hrisimopoiiso to tilefono sas?
+Can I use your phone?
+
+111
+Πού είναι το internet cafe;
+Pou ine to internet kafe?
+Where is the internet cafe?
+
+112
+Έχει Wi-Fi εδώ;
+Ehi Wi-Fi edo?
+Is there Wi-Fi here?
+
+113
+Ποιος είναι ο κωδικός του Wi-Fi;
+Pios ine o kodikos tou Wi-Fi?
+What is the Wi-Fi password?
+
+114
+Μπορώ να φορτίσω το τηλέφωνό μου εδώ;
+Boro na fortiso to tilefono mou edo?
+Can I charge my phone here?
+
+115
+Πού μπορώ να αγοράσω μια κάρτα SIM;
+Pou boro na agoraso mia karta SIM?
+Where can I buy a SIM card?
+
+116
+Θέλω να στείλω μια καρτ-ποστάλ.
+Thelo na stilo mia kart-postal.
+I want to send a postcard.
+
+117
+Πού είναι το ταχυδρομείο;
+Pou ine to tahydromeio?
+Where is the post office?
+
+118
+Χρειάζομαι γραμματόσημα.
+Hriazome grammatosima.
+I need stamps.
+
+119
+Πού μπορώ να βρω έναν τουριστικό οδηγό;
+Pou boro na vro enan touristiko odigo?
+Where can I find a tourist guide?
+
+120
+Μπορείτε να μου προτείνετε μέρη να επισκεφθώ;
+Borite na mou proteinete meri na episkeftho?
+Can you recommend places to visit?
+
+121
+Ποια είναι τα πιο δημοφιλή αξιοθέατα;
+Pia ine ta pio dimofili axiotheata?
+What are the most popular attractions?
+
+122
+Πού μπορώ να πάω για ψώνια;
+Pou boro na pao ya psonia?
+Where can I go shopping?
+
+123
+Υπάρχει κάποια τοπική αγορά;
+Yparhi kapoia topiki agora?
+Is there a local market?
+
+124
+Τι ώρα ανοίγει/κλείνει;
+Ti ora anigi/klini?
+What time does it open/close?
+
+125
+Θέλω να αγοράσω σουβενίρ.
+Thelo na agoraso souvenir.
+I want to buy souvenirs.
+
+126
+Μπορείτε να μου προτείνετε ένα καλό μέρος για να φάω;
+Borite na mou proteinete ena kalo meros ya na fao?
+Can you recommend a good place to eat?
+
+127
+Ψάχνω για ένα οικονομικό εστιατόριο.
+Psahno ya ena oikonomiko estiatorio.
+I am looking for an affordable restaurant.
+
+128
+Θα ήθελα να δοκιμάσω την τοπική κουζίνα.
+Tha ithela na dokimaso tin topiki kouzina.
+I would like to try the local cuisine.
+
+129
+Τι είναι αυτό το πιάτο;
+Ti ine afto to piato?
+What is this dish?
+
+130
+Έχει κρέας;
+Ehi kreas?
+Does it have meat?
+
+131
+Είμαι χορτοφάγος/vegan.
+Ime hortofagos/vegan.
+I am vegetarian/vegan.
+
+132
+Έχετε πιάτα για χορτοφάγους/vegans;
+Ehete piata ya hortofagous/vegans?
+Do you have dishes for vegetarians/vegans?
+
+133
+Μπορώ να έχω λίγο νερό, παρακαλώ;
+Boro na echo ligo nero, parakalo?
+Can I have some water, please?
+
+134
+Λογαριασμό, παρακαλώ.
+Logariasmo, parakalo.
+The bill, please.
+
+135
+Είναι πολύ ωραίο μέρος.
+Ine poli oreo meros.
+It is a very nice place.
+
+136
+Μου αρέσει πολύ εδώ.
+Mou aresi poli edo.
+I like it here very much.
+
+137
+Οι άνθρωποι είναι πολύ φιλικοί.
+I anthropoi ine poli filikoi.
+The people are very friendly.
+
+138
+Η ατμόσφαιρα είναι υπέροχη.
+I atmosfaira ine iperoho.
+The atmosphere is wonderful.
+
+139
+Έχει ωραία θέα.
+Ehi orea thea.
+It has a nice view.
+
+140
+Μπορώ να βγάλω μια φωτογραφία;
+Boro na vgallo mia fotografia?
+Can I take a photo?
+
+141
+Μπορείτε να μας βγάλετε μια φωτογραφία;
+Borite na mas vgalete mia fotografia?
+Can you take a photo of us?
+
+142
+Αυτό είναι ένα όμορφο μέρος για φωτογραφίες.
+Afto ine ena omorfo meros ya fotografies.
+This is a beautiful place for photos.
+
+143
+Θα ήθελα να επισκεφθώ [another place].
+Tha ithela na episkeftho [another place].
+I would like to visit [another place].
+
+144
+Πώς μπορώ να πάω εκεί;
+Pos boro na pao ekei?
+How can I get there?
+
+145
+Είναι μακριά;
+Ine makria?
+Is it far?
+
+146
+Αξίζει να το επισκεφθώ;
+Axizei na to episkeftho?
+Is it worth visiting?
+
+147
+Τι ώρα ανοίγει/κλείνει αυτό το αξιοθέατο;
+Ti ora anigi/klini afto to axiotheato?
+What time does this attraction open/close?
+
+148
+Πόσο κοστίζει η είσοδος;
+Poso kostizei i eisodos?
+How much is the entrance fee?
+
+149
+Έχετε ξεναγήσεις;
+Ehete xenagiseis?
+Do you have guided tours?
+
+150
+Τι ώρα είναι η επόμενη ξενάγηση;
+Ti ora ine i epomeni xenagisi?
+What time is the next guided tour?
+
+151
+Μπορώ να αγοράσω εισιτήρια online;
+Boro na agoraso isitiria online?
+Can I buy tickets online?
+
+152
+Πρέπει να κάνω κράτηση εκ των προτέρων;
+Prepi na kano kratisi ek ton proteron?
+Do I need to book in advance?
+
+153
+Θα ήθελα να νοικιάσω ένα ποδήλατο.
+Tha ithela na nikiase ena podilato.
+I would like to rent a bicycle.
+
+154
+Πού μπορώ να νοικιάσω ένα ποδήλατο;
+Pou boro na nikiase ena podilato?
+Where can I rent a bicycle?
+
+155
+Για πόσο καιρό μπορώ να το νοικιάσω;
+Ya poso kero boro na to nikiase?
+For how long can I rent it?
+
+156
+Πρέπει να αφήσω μια εγγύηση;
+Prepi na afiso mia engyisi?
+Do I need to leave a deposit?
+
+157
+Πού μπορώ να παρκάρω το ποδήλατο;
+Pou boro na parkaro to podilato?
+Where can I park the bicycle?
+
+158
+Θέλω να πάω για μια βόλτα με σκάφος.
+Thelo na pao ya mia volta me skafos.
+I want to go for a boat trip.
+
+159
+Πού μπορώ να βρω εκδρομές με σκάφος;
+Pou boro na vro ekdromes me skafos?
+Where can I find boat trips?
+
+160
+Πόσο διαρκεί η εκδρομή;
+Poso diarkei i ekdromi?
+How long does the trip last?
+
+161
+Ποιο είναι το πρόγραμμα;
+Pio ine to programma?
+What is the schedule?
+
+162
+Μπορώ να κολυμπήσω;
+Boro na kolympiso?
+Can I swim?
+
+163
+Το νερό είναι ασφαλές για κολύμπι;
+To nero ine asfales ya kolymbi?
+Is the water safe for swimming?
+
+164
+Υπάρχουν ναυαγοσώστες;
+Yparhoun navagosostes?
+Are there lifeguards?
+
+165
+Θα ήθελα να κάνω κατάδυση με αναπνευστήρα.
+Tha ithela na kano katadysi me anapnefstira.
+I would like to go snorkeling.
+
+166
+Πού μπορώ να νοικιάσω εξοπλισμό για αναπνευστήρα;
+Pou boro na nikiase exoplismo ya anapnefstira?
+Where can I rent snorkeling equipment?
+
+167
+Θα ήθελα να κάνω καταδύσεις.
+Tha ithela na kano katadyseis.
+I would like to go scuba diving.
+
+168
+Είμαι αρχάριος/α.
+Ime arhiarios/a.
+I am a beginner.
+
+169
+Έχετε μαθήματα για αρχάριους;
+Ehete mathimata ya arhiarious?
+Do you have lessons for beginners?
+
+170
+Πού είναι η πλησιέστερη παραλία;
+Pou ine i plisiesteri paralia?
+Where is the nearest beach?
+
+171
+Είναι μια καλή παραλία για κολύμπι;
+Ine mia kali paralia ya kolymbi?
+Is it a good beach for swimming?
+
+172
+Μπορώ να νοικιάσω μια ξαπλώστρα/ομπρέλα;
+Boro na nikiase mia xaplostra/ombrela?
+Can I rent a sunbed/umbrella?
+
+173
+Μην ξεχάσω την αντηλιακή μου κρέμα.
+Min xechaso tin antiliaki mou krema.
+I mustn't forget my sunscreen.
+
+174
+Πρέπει να προσέχω τον ήλιο.
+Prepi na proseho ton ilio.
+I need to be careful in the sun.
+
+175
+Έχω καεί από τον ήλιο.
+Eho kaei apo ton ilio.
+I have sunburn.
+
+176
+Πού είναι ένα ATM;
+Pou ine ena ATM?
+Where is an ATM?
+
+177
+Χρειάζομαι να κάνω ανάληψη χρημάτων.
+Hriazome na kano analipsi hrimaton.
+I need to withdraw money.
+
+178
+Δέχεστε ξένα νομίσματα;
+Deheste xena nomismata?
+Do you accept foreign currency?
+
+179
+Πού μπορώ να αλλάξω χρήματα;
+Pou boro na allaxo hrimata?
+Where can I exchange money?
+
+180
+Ποια είναι η συναλλαγματική ισοτιμία σήμερα;
+Pia ine i συναλλαγματική isotimia simera?
+What is the exchange rate today?
+
+181
+Μπορώ να χρησιμοποιήσω την πιστωτική μου κάρτα;
+Boro na hrisimopoiiso tin pistotiki mou karta?
+Can I use my credit card?
+
+182
+Υπάρχει κάποια τράπεζα κοντά εδώ;
+Yparhi kapoia trapeza konta edo?
+Is there a bank near here?
+
+183
+Θα ήθελα να αγοράσω μια ταξιδιωτική κάρτα SIM.
+Tha ithela na agoraso mia taxidiotiki karta SIM.
+I would like to buy a travel SIM card.
+
+184
+Πόσο κοστίζει;
+Poso kostizei?
+How much does it cost?
+
+185
+Ποιο είναι το καλύτερο δίκτυο εδώ;
+Pio ine to kalitero diktyo edo?
+What is the best network here?
+
+186
+Έχω πρόβλημα με το τηλέφωνό μου.
+Eho provlima me to tilefono mou.
+I have a problem with my phone.
+
+187
+Πού μπορώ να το επισκευάσω;
+Pou boro na to episkevaso?
+Where can I get it repaired?
+
+188
+Χρειάζομαι βοήθεια με τη μετάφραση.
+Hriazome voithia me ti metafrasi.
+I need help with translation.
+
+189
+Υπάρχει κάποια εφαρμογή μετάφρασης που προτείνετε;
+Yparhi kapoia efarmogi metafrasis pou proteinete?
+Is there a translation app you recommend?
+
+190
+Μπορείτε να μου μεταφράσετε αυτό;
+Borite na mou metafrasete afto?
+Can you translate this for me?
+
+191
+Τι σημαίνει αυτό;
+Ti simenei afto?
+What does this mean?
+
+192
+Πώς το λένε αυτό στα ελληνικά;
+Pos to lene afto στα ellinika?
+How do you say this in Greek?
+
+193
+Είναι εύκολο να μετακινηθείς εδώ;
+Ine efkolo na metakinithis edo?
+Is it easy to get around here?
+
+194
+Ποιο είναι το καλύτερο μέσο μεταφοράς;
+Pio ine to kalitero meso metaforas?
+What is the best mode of transport?
+
+195
+Υπάρχει μετρό/λεωφορείο/τραμ;
+Yparhi metro/leoforio/tram?
+Is there a metro/bus/tram?
+
+196
+Πού είναι η πλησιέστερη στάση;
+Pou ine i plisiesteri stasi?
+Where is the nearest stop?
+
+197
+Πόσο κοστίζει ένα εισιτήριο;
+Poso kostizei ena isitirio?
+How much does a ticket cost?
+
+198
+Πρέπει να αλλάξω γραμμή;
+Prepi na allaxo grammi?
+Do I need to change lines?
+
+199
+Ποια είναι η επόμενη στάση;
+Pia ine i epomeni stasi?
+What is the next stop?
+
+200
+Σας ευχαριστώ για τις συμβουλές ταξιδιού.
+Sas efharisto ya tis symvoules taxidiou.
+Thank you for the travel tips.
+
+201
+Μπορώ να έχω έναν χάρτη της περιοχής;
+Boro na echo enan harti tis periohis?
+Can I have a map of the area?
+
+202
+Μπορείτε να μου δείξετε πού είναι η Τάλα/η Πάφος;
+Borite na mou deixete pou ine i Tala/i Pafos?
+Can you show me where Tala/Paphos is?
+
+203
+Ποια είναι τα πιο όμορφα μέρη κοντά στην Τάλα/την Πάφο;
+Pia ine ta pio omorfa meri konta stin Tala/tin Pafo?
+What are the most beautiful places near Tala/Paphos?
+
+204
+Πώς μπορώ να πάω στα Λουτρά της Αφροδίτης;
+Pos boro na pao sta Loutra tis Afroditis?
+How can I get to the Baths of Aphrodite?
+
+205
+Αξίζει να επισκεφθώ τον Αρχαιολογικό Χώρο της Πάφου;
+Axizei na episkeftho ton Arheologiko Horo tis Pafou?
+Is the Paphos Archaeological Site worth visiting?
+
+206
+Ποια είναι η καλύτερη παραλία κοντά εδώ;
+Pia ine i kaliteri paralia konta edo?
+What is the best beach near here?
+
+207
+Πώς μπορώ να πάω στην παραλία Κοράλλι;
+Pos boro na pao stin paralia Koralli?
+How can I get to Coral Bay beach?
+
+208
+Υπάρχουν λεωφορεία για την Πάφο;
+Yparhoun leoforia ya tin Pafo?
+Are there buses to Paphos?
+
+209
+Πού είναι η στάση του λεωφορείου για την Πάφο;
+Pou ine i stasi tou leoforiou ya tin Pafo?
+Where is the bus stop for Paphos?
+
+210
+Πόσο συχνά περνάει το λεωφορείο;
+Poso sihna pernaei to leoforio?
+How often does the bus come?
+
+211
+Πόσο κοστίζει ένα εισιτήριο για την Πάφο;
+Poso kostizei ena isitirio ya tin Pafo?
+How much does a ticket to Paphos cost?
+
+212
+Μπορώ να αγοράσω ένα ημερήσιο πάσο;
+Boro na agoraso ena imerisio paso?
+Can I buy a day pass?
+
+213
+Πού μπορώ να βρω ταξί στην Τάλα;
+Pou boro na vro taxi stin Tala?
+Where can I find a taxi in Tala?
+
+214
+Μπορείτε να μου καλέσετε ένα ταξί;
+Borite na mou kalesete ena taxi?
+Can you call me a taxi?
+
+215
+Θα ήθελα να νοικιάσω ένα αυτοκίνητο για να εξερευνήσω την περιοχή.
+Tha ithela na nikiase ena aftokinito ya na exerevniso tin periohi.
+I would like to rent a car to explore the area.
+
+216
+Ποιο είναι το όριο ταχύτητας εδώ;
+Pio ine to orio tahytitas edo?
+What is the speed limit here?
+
+217
+Πρέπει να πληρώσω για πάρκινγκ;
+Prepi na pliroso ya parking?
+Do I need to pay for parking?
+
+218
+Πού μπορώ να παρκάρω;
+Pou boro na parkaro?
+Where can I park?
+
+219
+Υπάρχουν καλά μέρη για πεζοπορία κοντά εδώ;
+Yparhoun kala meri ya pezoporia konta edo?
+Are there good places for hiking near here?
+
+220
+Ποια είναι η καλύτερη εποχή για να επισκεφθώ την Κύπρο;
+Pia ine i kaliteri epohi ya na episkeftho tin Kypro?
+What is the best time to visit Cyprus?
+
+221
+Ο καιρός είναι καλός τώρα;
+O keros ine kalos tora?
+Is the weather good now?
+
+222
+Τι θερμοκρασία έχει;
+Ti thermokrasia ehi?
+What is the temperature?
+
+223
+Θα βρέξει;
+Tha vrexi?
+Will it rain?
+
+224
+Πρέπει να φοράω αντηλιακό;
+Prepi na forao antiliako?
+Should I wear sunscreen?
+
+225
+Πού μπορώ να αγοράσω αντηλιακό;
+Pou boro na agoraso antiliako?
+Where can I buy sunscreen?
+
+226
+Υπάρχουν πολλά κουνούπια;
+Yparhoun polla kounoupia?
+Are there many mosquitoes?
+
+227
+Χρειάζομαι εντομοαπωθητικό;
+Hriazome entomoapothitiko?
+Do I need insect repellent?
+
+228
+Πού μπορώ να αγοράσω εντομοαπωθητικό;
+Pou boro na agoraso entomoapothitiko?
+Where can I buy insect repellent?
+
+229
+Είναι ασφαλές να πίνω το νερό της βρύσης;
+Ine asfales na pino to nero tis vrysis?
+Is it safe to drink tap water?
+
+230
+Πού μπορώ να αγοράσω εμφιαλωμένο νερό;
+Pou boro na agoraso emialomeno nero?
+Where can I buy bottled water?
+
+231
+Υπάρχουν καλά μέρη για να δοκιμάσω κυπριακό κρασί;
+Yparhoun kala meri ya na dokimaso kypriako krasi?
+Are there good places to try Cypriot wine?
+
+232
+Μπορείτε να μου προτείνετε ένα τοπικό οινοποιείο;
+Borite na mou proteinete ena topiko oinopiio?
+Can you recommend a local winery?
+
+233
+Τι τοπικά προϊόντα μπορώ να αγοράσω;
+Ti topika proionta boro na agoraso?
+What local products can I buy?
+
+234
+Πού μπορώ να βρω χειροτεχνίες;
+Pou boro na vro hirotehnimata?
+Where can I find handicrafts?
+
+235
+Υπάρχουν παραδοσιακές γιορτές ή πανηγύρια κατά τη διάρκεια της επίσκεψής μου;
+Yparhoun paradosiakes giortes i panigyria kata ti diarkeia tis episkepsis mou?
+Are there traditional festivals or fairs during my visit?
+
+236
+Τι ώρα είναι το ηλιοβασίλεμα;
+Ti ora ine to iliovasilema?
+What time is the sunset?
+
+237
+Ποιο είναι ένα καλό μέρος για να δω το ηλιοβασίλεμα;
+Pio ine ena kalo meros ya na do to iliovasilema?
+What is a good place to watch the sunset?
+
+238
+Υπάρχουν οργανωμένες εκδρομές από την Τάλα/την Πάφο;
+Yparhoun organomenes ekdromes apo tin Tala/tin Pafo?
+Are there organized tours from Tala/Paphos?
+
+239
+Πού μπορώ να κλείσω μια εκδρομή;
+Pou boro na kliso mia ekdromi?
+Where can I book a tour?
+
+240
+Πόσο κοστίζει μια ημερήσια εκδρομή;
+Poso kostizei mia imerisia ekdromi?
+How much does a day trip cost?
+
+241
+Μπορώ να πάω μια εκδρομή με σκάφος από την Πάφο;
+Boro na pao mia ekdromi me skafos apo tin Pafo?
+Can I take a boat trip from Paphos?
+
+242
+Υπάρχουν θαλάσσια σπορ στην περιοχή;
+Yparhoun thalassia spor stin periohi?
+Are there water sports in the area?
+
+243
+Πού μπορώ να κάνω θαλάσσιο σκι/windsurfing/jet ski;
+Pou boro na kano thalassio ski/windsurfing/jet ski?
+Where can I go water skiing/windsurfing/jet skiing?
+
+244
+Είναι ασφαλές να κολυμπήσω στη θάλασσα εδώ;
+Ine asfales na kolympiso sti thalassa edo?
+Is it safe to swim in the sea here?
+
+245
+Υπάρχουν δυνατά ρεύματα;
+Yparhoun dynata revmata?
+Are there strong currents?
+
+246
+Πού είναι η πλησιέστερη τράπεζα;
+Pou ine i plisiesteri trapeza?
+Where is the nearest bank?
+
+247
+Τι ώρα ανοίγει η τράπεζα;
+Ti ora anigi i trapeza?
+What time does the bank open?
+
+248
+Μπορώ να αλλάξω λίγα χρήματα εδώ;
+Boro na allaxo liga hrimata edo?
+Can I exchange some money here?
+
+249
+Ποια είναι η πολιτική για τις επιστροφές;
+Pia ine i politiki ya tis epistrofes?
+What is the return policy?
+
+250
+Μπορώ να έχω μια τσάντα για αυτά;
+Boro na echo mia tsanta ya afta?
+Can I have a bag for these?
+
+251
+Σας ευχαριστώ για τις τοπικές συμβουλές.
+Sas efharisto ya tis topikes symvoules.
+Thank you for the local tips.
+
+252
+Απολαμβάνω πολύ την επίσκεψή μου.
+Apolamvano poli tin episkepsi mou.
+I am really enjoying my visit.
+
+253
+Η Κύπρος είναι ένα όμορφο νησί.
+I Kypros ine ena omorfo nisi.
+Cyprus is a beautiful island.
+
+254
+Οι άνθρωποι είναι πολύ φιλόξενοι εδώ.
+I anthropoi ine poli filoxenoi edo.
+The people are very hospitable here.
+
+255
+Το φαγητό είναι υπέροχο.
+To fagito ine iperoho.
+The food is wonderful.
+
+256
+Θα ήθελα να μάθω περισσότερα για την κυπριακή κουλτούρα.
+Tha ithela na matho perissotera ya tin kypriaki koultoura.
+I would like to learn more about Cypriot culture.
+
+257
+Υπάρχουν μουσεία κοντά εδώ;
+Yparhoun mouseia konta edo?
+Are there museums near here?
+
+258
+Τι παραδοσιακά κυπριακά προϊόντα μπορώ να αγοράσω ως δώρα;
+Ti paradosiaka kypriaka proionta boro na agoraso os dora?
+What traditional Cypriot products can I buy as gifts?
+
+259
+Πού μπορώ να βρω λουκούμια/χαλούμι/κρασί κουμανταρία;
+Pou boro na vro loukoumia/haloumi/krasi koumantaria?
+Where can I find Turkish delight/halloumi cheese/Commandaria wine?
+
+260
+Έχετε κάποια έκπτωση για τουρίστες;
+Ehete kapoia ekptosi ya touristes?
+Do you have any discounts for tourists?
+
+261
+Μπορώ να χρησιμοποιήσω ευρώ εδώ;
+Boro na hrisimopoiiso evro edo?
+Can I use euros here?
+
+262
+Ποια είναι η ώρα στην Κύπρο;
+Pia ine i ora stin Kypro?
+What time is it in Cyprus?
+
+263
+Έχετε κάποιον χάρτη με τα μονοπάτια πεζοπορίας;
+Ehete kapoion harti me ta monopatia pezoporias?
+Do you have a map of the hiking trails?
+
+264
+Είναι δύσκολα τα μονοπάτια;
+Ine diskola ta monopatia?
+Are the trails difficult?
+
+265
+Χρειάζομαι ειδικό εξοπλισμό για πεζοπορία;
+Hriazome eidiko exoplismo ya pezoporia?
+Do I need special equipment for hiking?
+
+266
+Πρέπει να προσέχω κάτι συγκεκριμένο στην περιοχή;
+Prepi na proseho kati sygkekrimeno stin periohi?
+Is there anything specific I should be careful about in the area?
+
+267
+Υπάρχουν άγρια ζώα;
+Yparhoun agria zoa?
+Are there wild animals?
+
+268
+Είναι ασφαλές να περπατάω μόνος/η τη νύχτα;
+Ine asfales na perpatao monos/moni ti nihta?
+Is it safe to walk alone at night?
+
+269
+Πού είναι η πλησιέστερη στάση ταξί;
+Pou ine i plisiesteri stasi taxi?
+Where is the nearest taxi rank?
+
+270
+Μπορείτε να μου γράψετε τη διεύθυνση στα ελληνικά;
+Borite na mou grapste ti diefthinsi στα ellinika?
+Can you write down the address in Greek for me?
+
+271
+Σας ευχαριστώ για τη φιλοξενία.
+Sas efharisto ya ti filoxenia.
+Thank you for your hospitality.
+
+272
+Ήταν υπέροχη η επίσκεψή μου.
+Itan iperoho i episkepsi mou.
+My visit was wonderful.
+
+273
+Ελπίζω να ξαναέρθω σύντομα.
+Elpizo na xanaertho σύντομα.
+I hope to come back soon.
+
+274
+Θα θυμάμαι πάντα την Κύπρο.
+Tha thimamai panta tin Kypro.
+I will always remember Cyprus.
+
+275
+Έχω περάσει υπέροχα.
+Eho perasei iperocha.
+I had a wonderful time.
+
+276
+Σας ευχαριστώ για τις όμορφες αναμνήσεις.
+Sas efharisto ya tis omorfes anamnisies.
+Thank you for the beautiful memories.
+
+277
+Θα συστήσω την Κύπρο στους φίλους μου.
+Tha systiso tin Kypro stous filous mou.
+I will recommend Cyprus to my friends.
+
+278
+Είναι ένας κρυμμένος παράδεισος.
+Ine enas krymmenos paradeisos.
+It is a hidden paradise.
+
+279
+Μου άρεσε πολύ η φύση εδώ.
+Mou arese poli i fysi edo.
+I really liked the nature here.
+
+280
+Θα ήθελα να επισκεφθώ και άλλα μέρη της Κύπρου την επόμενη φορά.
+Tha ithela na episkeftho ke alla meri tis Kyproy tin epomeni fora.
+I would like to visit other parts of Cyprus next time.
+
+281
+Έχετε κάποια συμβουλή για την επόμενη μου επίσκεψη;
+Ehete kapoia symvouli ya tin epomeni mou episkepsi?
+Do you have any advice for my next visit?
+
+282
+Ποια είναι η καλύτερη εποχή για να δω τα λουλούδια της άνοιξης;
+Pia ine i kaliteri epohi ya na do ta loulouda tis anoixis?
+What is the best time to see the spring flowers?
+
+283
+Υπάρχουν μέρη για παρατήρηση πουλιών κοντά εδώ;
+Yparhoun meri ya paratirisi poulion konta edo?
+Are there places for birdwatching near here?
+
+284
+Μπορώ να νοικιάσω ένα σκάφος για μια μέρα;
+Boro na nikiase ena skafos ya mia mera?
+Can I rent a boat for a day?
+
+285
+Χρειάζεται άδεια για να νοικιάσω σκάφος;
+Hriazete adia ya na nikiase skafos?
+Do I need a license to rent a boat?
+
+286
+Ποια είναι τα πιο όμορφα χωριά στην περιοχή;
+Pia ine ta pio omorfa horia stin periohi?
+What are the most beautiful villages in the area?
+
+287
+Πώς μπορώ να πάω στα βουνά του Τροόδους;
+Pos boro na pao sta vouna tou Troodous?
+How can I get to the Troodos Mountains?
+
+288
+Αξίζει να πάω μια ημερήσια εκδρομή στα βουνά;
+Axizei na pao mia imerisia ekdromi sta vouna?
+Is it worth taking a day trip to the mountains?
+
+289
+Τι μπορώ να κάνω στα βουνά;
+Ti boro na kano sta vouna?
+What can I do in the mountains?
+
+290
+Υπάρχουν μονοπάτια για ποδήλατα βουνού;
+Yparhoun monopatia ya podilata vounou?
+Are there mountain bike trails?
+
+291
+Μπορώ να βρω τοπικά προϊόντα απευθείας από τους παραγωγούς;
+Boro na vro topika proionta apefthias apo tous paragogous?
+Can I find local products directly from the producers?
+
+292
+Υπάρχουν αγροτουριστικά καταλύματα στην περιοχή;
+Yparhoun agrotouristika katalymata stin periohi?
+Are there agrotourism accommodations in the area?

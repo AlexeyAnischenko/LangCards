@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Greek Vocabulary Flashcards</title>
+  <style>
+    :root {
+      --bg-color: #f3f4f6;
+      --card-bg: #ffffff;
+      --text-color: #1f2937;
+      --text-secondary: #4b5563;
+      --text-muted: #6b7280;
+      --primary: #2563eb;
+      --primary-hover: #1d4ed8;
+      --gray-50: #f9fafb;
+      --gray-100: #f3f4f6;
+      --gray-700: #374151;
+      --gray-800: #1f2937;
+      --tooltip-bg: #1f2937;
+      --tooltip-text: #ffffff;
+    }
+
+    .dark {
+      --bg-color: #111827;
+      --card-bg: #1f2937;
+      --text-color: #f9fafb;
+      --text-secondary: #d1d5db;
+      --text-muted: #9ca3af;
+      --primary: #3b82f6;
+      --primary-hover: #2563eb;
+      --gray-50: #374151;
+      --gray-100: #1f2937;
+      --gray-700: #d1d5db;
+      --gray-800: #f9fafb;
+      --tooltip-bg: #f9fafb;
+      --tooltip-text: #111827;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, sans-serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .container {
+      max-width: 48rem;
+      width: 100%;
+      padding: 2rem 1rem;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: var(--text-color);
+    }
+
+    .theme-switch {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .theme-label {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .switch {
+      position: relative;
+      width: 3rem;
+      height: 1.5rem;
+    }
+
+    .switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .slider {
+      position: absolute;
+      cursor: pointer;
+      inset: 0;
+      background-color: var(--text-muted);
+      transition: 0.3s;
+      border-radius: 999px;
+    }
+
+    .slider:before {
+      content: "";
+      position: absolute;
+      height: 1rem;
+      width: 1rem;
+      left: 0.25rem;
+      bottom: 0.25rem;
+      background-color: white;
+      transition: 0.3s;
+      border-radius: 50%;
+    }
+
+    input:checked + .slider {
+      background-color: var(--primary);
+    }
+
+    input:checked + .slider:before {
+      transform: translateX(1.5rem);
+    }
+
+    .upload-section {
+      background: var(--card-bg);
+      border-radius: 0.5rem;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .upload-container {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .upload-wrapper {
+      position: relative;
+    }
+
+    .upload-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 0.375rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      white-space: nowrap;
+    }
+
+    .upload-button:hover {
+      background: var(--primary-hover);
+    }
+
+    .help-tooltip {
+      position: absolute;
+      left: 0;
+      top: calc(100% + 0.75rem);
+      width: 24rem;
+      background: var(--card-bg);
+      padding: 1rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+      z-index: 50;
+      display: none;
+      border: 1px solid var(--text-muted);
+    }
+
+    .file-info {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      flex-grow: 1;
+    }
+
+    .file-name {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .cards-loaded {
+      white-space: nowrap;
+    }
+
+    .debug-toggle {
+      color: var(--primary);
+      text-decoration: underline;
+      cursor: pointer;
+      font-size: 0.875rem;
+      margin-top: 0.5rem;
+    }
+
+    .debug-info {
+      margin-top: 0.75rem;
+      background: var(--gray-100);
+      border: 1px solid var(--text-muted);
+      padding: 0.75rem;
+      border-radius: 0.375rem;
+      max-height: 10rem;
+      overflow-y: auto;
+      font-family: monospace;
+      font-size: 0.75rem;
+      display: none;
+    }
+
+    .progress {
+      text-align: center;
+      margin-bottom: 1rem;
+      color: var(--text-secondary);
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    .checkbox-container {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .flashcard {
+      background: var(--card-bg);
+      border-radius: 0.5rem;
+      padding: 2rem;
+      min-height: 12rem;
+      position: relative;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .flashcard:hover {
+      background: var(--gray-50);
+    }
+
+    .card-number {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+
+    .greek-text {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      color: var(--text-color);
+      position: relative;
+      display: inline-block;
+    }
+
+    .transcription {
+      display: none;
+      position: absolute;
+      top: -2.5rem;
+      left: 0;
+      background: var(--tooltip-bg);
+      color: var(--tooltip-text);
+      padding: 0.25rem 0.5rem;
+      border-radius: 0.25rem;
+      font-size: 1rem;
+      white-space: nowrap;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      border: 1px solid var(--text-muted);
+    }
+
+    .greek-text:hover .transcription {
+      display: block;
+    }
+
+    .english-text {
+      font-size: 1.25rem;
+      color: var(--text-secondary);
+      margin-top: 1rem;
+    }
+
+    #file-input {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">LangCards</h1>
+      <div class="theme-switch">
+        <span class="theme-label">Dark Mode</span>
+        <label class="switch">
+          <input type="checkbox" id="theme-toggle">
+          <span class="slider"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="upload-section">
+      <div class="upload-container">
+        <div class="upload-wrapper" id="upload-wrapper">
+          <button class="upload-button" id="upload-button">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="17 8 12 3 7 8"/>
+              <line x1="12" y1="3" x2="12" y2="15"/>
+            </svg>
+            Upload Dictionary File
+          </button>
+          <div class="help-tooltip">
+            <p>Upload a text file with vocabulary in the following format:</p>
+            <pre>1
+Greek Word: Γεια.
+Transcription: Ya.
+Translation: Hello.
+
+2
+Greek Word: Συγγνώμη.
+Transcription: Signómi.
+Translation: Excuse me.</pre>
+            <p>Each card should have 4 lines: card number, Greek text, transcription (to be displayed as a tooltip), English translation.</p>
+          </div>
+        </div>
+        <div class="file-info">
+          <span class="file-name" id="file-name">No file selected</span>
+          <span class="cards-loaded" id="status"></span>
+        </div>
+      </div>
+      <input type="file" id="file-input" accept=".txt">
+      <div class="debug-toggle" id="debug-toggle">Show parsing details</div>
+      <div class="debug-info" id="debug-info"></div>
+    </div>
+
+    <div id="flashcard-ui" style="display: none;">
+      <div class="progress">
+        Card <span id="current-card">0</span> of <span id="total-cards">0</span>
+      </div>
+
+      <div class="controls">
+        <div class="checkbox-container">
+          <input type="checkbox" id="greek-only" checked>
+          <label for="greek-only">Greek-only mode</label>
+        </div>
+        <button class="upload-button" id="next-button">Next Card</button>
+      </div>
+
+      <div class="flashcard" id="flashcard">
+        <div class="card-number" id="card-number"></div>
+        <div class="greek-text" id="greek-text"></div>
+        <div class="english-text" id="english-text"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // State
+    let cards = [];
+    let currentCardIndex = -1;
+    let isGreekOnly = true;
+    let showTranslation = false;
+    let showGreek = true;
+    let debugMessages = [];
+    let helpTimeout;
+
+    // DOM Elements
+    const fileInput = document.getElementById('file-input');
+    const uploadButton = document.getElementById('upload-button');
+    const uploadWrapper = document.getElementById('upload-wrapper');
+    const fileNameDisplay = document.getElementById('file-name');
+    const statusDisplay = document.getElementById('status');
+    const debugToggle = document.getElementById('debug-toggle');
+    const debugInfo = document.getElementById('debug-info');
+    const flashcardUI = document.getElementById('flashcard-ui');
+    const currentCardElement = document.getElementById('current-card');
+    const totalCardsElement = document.getElementById('total-cards');
+    const cardNumberElement = document.getElementById('card-number');
+    const greekText = document.getElementById('greek-text');
+    const englishText = document.getElementById('english-text');
+    const nextButton = document.getElementById('next-button');
+    const greekOnlyCheckbox = document.getElementById('greek-only');
+    const themeToggle = document.getElementById('theme-toggle');
+    const flashcard = document.getElementById('flashcard');
+    const helpTooltip = document.querySelector('.help-tooltip');
+
+    // Theme handling
+    function initTheme() {
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark') {
+        document.documentElement.classList.add('dark');
+        themeToggle.checked = true;
+      }
+    }
+
+    themeToggle.addEventListener('change', function() {
+      if (this.checked) {
+        document.documentElement.classList.add('dark');
+        localStorage.setItem('theme', 'dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+        localStorage.setItem('theme', 'light');
+      }
+    });
+
+    initTheme();
+
+    // Help tooltip handling
+    uploadWrapper.addEventListener('mouseenter', () => {
+      helpTimeout = setTimeout(() => {
+        helpTooltip.style.display = 'block';
+      }, 500);
+    });
+
+    uploadWrapper.addEventListener('mouseleave', () => {
+      clearTimeout(helpTimeout);
+      helpTooltip.style.display = 'none';
+    });
+
+    // File handling
+    uploadButton.addEventListener('click', () => fileInput.click());
+
+    fileInput.addEventListener('change', function(event) {
+      const file = event.target.files[0];
+      if (!file) {
+        statusDisplay.textContent = '';
+        fileNameDisplay.textContent = 'No file selected';
+        return;
+      }
+
+      fileNameDisplay.textContent = file.name;
+      statusDisplay.textContent = 'Reading file...';
+
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const content = e.target.result;
+        const newCards = parseVocabularyData(content);
+
+        if (newCards.length > 0) {
+          cards = newCards;
+          statusDisplay.textContent = `${cards.length} cards loaded`;
+          flashcardUI.style.display = 'block';
+          totalCardsElement.textContent = cards.length;
+          displayRandomCard();
+        } else {
+          statusDisplay.textContent = 'No valid cards found';
+          fileNameDisplay.textContent = 'Please check the file format';
+        }
+      };
+
+      reader.onerror = () => {
+        statusDisplay.textContent = '';
+        fileNameDisplay.textContent = 'Error reading file';
+      };
+
+      reader.readAsText(file);
+    });
+
+    function parseVocabularyData(data) {
+      const lines = data.split('\n');
+      const newCards = [];
+      let skippedCards = 0;
+      let totalExpectedCards = Math.floor(lines.length / 4);
+
+      debugMessages = [];
+      debugMessages.push(`Total lines in file: ${lines.length}`);
+      debugMessages.push(`Expected cards (lines ÷ 4): ~${totalExpectedCards}`);
+
+      for (let i = 0; i < lines.length; i += 4) {
+        if (i + 3 >= lines.length) {
+          debugMessages.push(`Skipping incomplete card at line ${i+1}: Not enough lines left`);
+          skippedCards++;
+          continue;
+        }
+
+        const cardNumberLine = lines[i].trim();
+        const greek = lines[i + 1].trim();
+        const transcription = lines[i + 2].trim();
+        const english = lines[i + 3].trim();
+
+        const cardNumber = parseInt(cardNumberLine);
+
+        if (isNaN(cardNumber)) {
+          debugMessages.push(`Skipping card at line ${i+1}: Invalid card number "${cardNumberLine}"`);
+          skippedCards++;
+
+          let foundNextNumber = false;
+          for (let j = i + 1; j < Math.min(i + 10, lines.length); j++) {
+            if (!isNaN(parseInt(lines[j].trim()))) {
+              const offset = j - i;
+              debugMessages.push(`  Resyncing: Found next number at offset +${offset}`);
+              i = j - 4;
+              foundNextNumber = true;
+              break;
+            }
+          }
+
+          if (!foundNextNumber) {
+            debugMessages.push(`  Could not find next number within 10 lines`);
+          }
+
+          continue;
+        }
+
+        if (!greek || !transcription || !english) {
+          debugMessages.push(`Skipping card #${cardNumber} at line ${i+1}: Missing required field`);
+          if (!greek) debugMessages.push(`  Greek text is empty`);
+          if (!transcription) debugMessages.push(`  Transcription is empty`);
+          if (!english) debugMessages.push(`  English text is empty`);
+          skippedCards++;
+          continue;
+        }
+
+        newCards.push({ number: cardNumber, greek, transcription, english });
+
+        if (newCards.length % 100 === 0) {
+          debugMessages.push(`Processed ${newCards.length} cards so far`);
+        }
+      }
+
+      debugMessages.push(`Parsing complete: ${newCards.length} cards loaded, ${skippedCards} cards skipped`);
+
+      const cardNumbers = newCards.map(card => card.number);
+      const uniqueCardNumbers = new Set(cardNumbers);
+      if (cardNumbers.length !== uniqueCardNumbers.size) {
+        debugMessages.push(`Warning: Found ${cardNumbers.length - uniqueCardNumbers.size} duplicate card numbers`);
+      }
+
+      debugInfo.innerHTML = debugMessages.map(msg => `<div>${msg}</div>`).join('');
+      return newCards;
+    }
+
+    function displayRandomCard() {
+      if (cards.length === 0) {
+        statusDisplay.textContent = '';
+        fileNameDisplay.textContent = 'No cards available';
+        return;
+      }
+
+      const randomIndex = Math.floor(Math.random() * cards.length);
+      currentCardIndex = randomIndex;
+      const currentCard = cards[currentCardIndex];
+
+      currentCardElement.textContent = currentCard.number;
+      cardNumberElement.textContent = `#${currentCard.number}`;
+
+      showTranslation = false;
+      if (!isGreekOnly) {
+        showGreek = Math.random() > 0.5;
+      } else {
+        showGreek = true;
+      }
+
+      updateCardDisplay();
+    }
+
+    function updateCardDisplay() {
+      const currentCard = cards[currentCardIndex];
+      if (!currentCard) return;
+
+      if (showGreek || showTranslation) {
+        greekText.innerHTML = `${currentCard.greek}<span class="transcription">${currentCard.transcription}</span>`;
+        greekText.style.display = 'inline-block';
+      } else {
+        greekText.style.display = 'none';
+      }
+
+      if (!showGreek || showTranslation) {
+        englishText.textContent = currentCard.english;
+        englishText.style.display = 'block';
+      } else {
+        englishText.style.display = 'none';
+      }
+    }
+
+    // Event Listeners
+    debugToggle.addEventListener('click', function() {
+      const isVisible = debugInfo.style.display === 'block';
+      debugInfo.style.display = isVisible ? 'none' : 'block';
+      this.textContent = isVisible ? 'Show parsing details' : 'Hide parsing details';
+    });
+
+    nextButton.addEventListener('click', displayRandomCard);
+
+    flashcard.addEventListener('click', function() {
+      showTranslation = !showTranslation;
+      updateCardDisplay();
+    });
+
+    greekOnlyCheckbox.addEventListener('change', function() {
+      isGreekOnly = this.checked;
+      showGreek = true;
+      showTranslation = false;
+      updateCardDisplay();
+    });
+  </script>
+</body>
+</html>

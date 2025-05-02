@@ -1,0 +1,2304 @@
+﻿1
+Καλημέρα σας. Πώς είστε σήμερα;
+Kalimera sas. Pos iste simera?
+Good morning. How are you today?
+
+2
+Είμαι καλά, ευχαριστώ. Και εσείς;
+Ime kala, efharisto. Ke eseis?
+I am well, thank you. And you?
+
+3
+Πώς σε λένε;
+Pos se lene?
+What is your name?
+
+4
+Με λένε [your name].
+Me lene [your name].
+My name is [your name].
+
+5
+Από πού είσαι;
+Apo pou ise?
+Where are you from?
+
+6
+Είμαι από [your country].
+Ime apo [your country].
+I am from [your country].
+
+7
+Πού μένεις;
+Pou menis?
+Where do you live?
+
+8
+Μένω στην [city/area].
+Meno stin [city/area].
+I live in [city/area].
+
+9
+Τι δουλειά κάνεις;
+Ti doulia kanis?
+What is your job?
+
+10
+Είμαι [your profession].
+Ime [your profession].
+I am a [your profession].
+
+11
+Πόσο χρονών είσαι;
+Poso hronon ise?
+How old are you?
+
+12
+Είμαι [your age] χρονών.
+Ime [your age] hronon.
+I am [your age] years old.
+
+13
+Μιλάς ελληνικά;
+Milas ellinika?
+Do you speak Greek?
+
+14
+Ναι, μιλάω λίγα ελληνικά.
+Ne, milao liga ellinika.
+Yes, I speak a little Greek.
+
+15
+Όχι, δεν μιλάω ελληνικά.
+Ohi, den milao ellinika.
+No, I don't speak Greek.
+
+16
+Μπορείτε να μιλήσετε πιο αργά, παρακαλώ;
+Borite na milisete pio arga, parakalo?
+Can you speak slower, please?
+
+17
+Δεν καταλαβαίνω.
+Den katalaveno.
+I don't understand.
+
+18
+Μπορείτε να το επαναλάβετε;
+Borite na to epanalavete?
+Can you repeat that?
+
+19
+Τι σημαίνει αυτό;
+Ti simenei afto?
+What does this mean?
+
+20
+Πώς το λένε αυτό στα ελληνικά;
+Pos to lene afto στα ellinika?
+How do you say this in Greek?
+
+21
+Πού είναι η τουαλέτα;
+Pou ine i τουαλέτα?
+Where is the toilet?
+
+22
+Πού είναι το λεωφορείο για το κέντρο;
+Pou ine to leoforio ya to kentro?
+Where is the bus to the center?
+
+23
+Πόσο κοστίζει ένα εισιτήριο;
+Poso kostizei ena isitirio?
+How much does a ticket cost?
+
+24
+Τι ώρα είναι;
+Ti ora ine?
+What time is it?
+
+25
+Τι ώρα ανοίγει το κατάστημα;
+Ti ora anigi to katastima?
+What time does the store open?
+
+26
+Μπορώ να σας βοηθήσω;
+Boro na sas voithiso?
+Can I help you?
+
+27
+Ψάχνω για [something].
+Psahno ya [something].
+I am looking for [something].
+
+28
+Έχετε [something];
+Ehete [something]?
+Do you have [something]?
+
+29
+Πόσο κοστίζει αυτό;
+Poso kostizei afto?
+How much does this cost?
+
+30
+Θα το πάρω.
+Tha to paro.
+I will take it.
+
+31
+Δεν το θέλω, ευχαριστώ.
+Den to thelo, efharisto.
+I don't want it, thank you.
+
+32
+Μπορώ να πληρώσω με κάρτα;
+Boro na pliroso me karta?
+Can I pay by card?
+
+33
+Πού είναι ένα ATM;
+Pou ine ena ATM?
+Where is an ATM?
+
+34
+Πού είναι ένα καλό εστιατόριο;
+Pou ine ena kalo estiatorio?
+Where is a good restaurant?
+
+35
+Τι προτείνετε;
+Ti proteinete?
+What do you recommend?
+
+36
+Θα ήθελα [food/drink], παρακαλώ.
+Tha ithela [food/drink], parakalo.
+I would like [food/drink], please.
+
+37
+Λογαριασμό, παρακαλώ.
+Logariasmo, parakalo.
+The bill, please.
+
+38
+Σας ευχαριστώ πολύ.
+Sas efharisto poli.
+Thank you very much.
+
+39
+Παρακαλώ.
+Parakalo.
+You're welcome/Please.
+
+40
+Τι θα κάνεις αύριο;
+Ti tha kanis avrio?
+What will you do tomorrow?
+
+41
+Αύριο θα [activity].
+Avrio tha [activity].
+Tomorrow I will [activity].
+
+42
+Ποιο είναι το αγαπημένο σου φαγητό;
+Pio ine to agapimeno sou fagito?
+What is your favorite food?
+
+43
+Το αγαπημένο μου φαγητό είναι [food].
+To agapimeno mou fagito ine [food].
+My favorite food is [food].
+
+44
+Σου αρέσει η μουσική;
+Sou aresi i mousiki?
+Do you like music?
+
+45
+Ναι, μου αρέσει πολύ η μουσική.
+Ne, mou aresi poli i mousiki.
+Yes, I like music very much.
+
+46
+Τι είδους μουσική σου αρέσει;
+Ti idous mousiki sou aresi?
+What kind of music do you like?
+
+47
+Μου αρέσει [type of music] μουσική.
+Mou aresi [type of music] mousiki.
+I like [type of music] music.
+
+48
+Έχεις αδέλφια;
+Ehis adelfia?
+Do you have siblings?
+
+49
+Ναι, έχω έναν αδελφό/μια αδελφή/αδέλφια.
+Ne, eho enan adelfo/mia adelfi/adelfia.
+Yes, I have a brother/a sister/siblings.
+
+50
+Όχι, δεν έχω αδέλφια.
+Ohi, den eho adelfia.
+No, I don't have siblings.
+
+51
+Τι κάνεις στον ελεύθερο χρόνο σου;
+Ti kanis ston elefthero hrono sou?
+What do you do in your free time?
+
+52
+Στον ελεύθερο χρόνο μου μου αρέσει να [activity].
+Ston elefthero hrono mou mou aresi na [activity].
+In my free time I like to [activity].
+
+53
+Ποιο είναι το αγαπημένο σου χρώμα;
+Pio ine to agapimeno sou chroma?
+What is your favorite color?
+
+54
+Το αγαπημένο μου χρώμα είναι το [color].
+To agapimeno mou chroma ine to [color].
+My favorite color is [color].
+
+55
+Ποιο είναι το αγαπημένο σου ζώο;
+Pio ine to agapimeno sou zoo?
+What is your favorite animal?
+
+56
+Το αγαπημένο μου ζώο είναι [animal].
+To agapimeno mou zoo ine [animal].
+My favorite animal is [animal].
+
+57
+Τι καιρό κάνει σήμερα;
+Ti kero kanei simera?
+What's the weather like today?
+
+58
+Σήμερα κάνει [weather].
+Simera kanei [weather].
+Today it is [weather].
+
+59
+Ποια είναι η αγαπημένη σου εποχή;
+Pia ine i agapimeni sou epohi?
+What is your favorite season?
+
+60
+Η αγαπημένη μου εποχή είναι [season].
+I agapimeni mou epohi ine [season].
+My favorite season is [season].
+
+61
+Σου αρέσει να διαβάζεις;
+Sou aresi na diavazis?
+Do you like to read?
+
+62
+Ναι, μου αρέσει πολύ να διαβάζω.
+Ne, mou aresi poli na diavazo.
+Yes, I like to read very much.
+
+63
+Τι είδους βιβλία σου αρέσουν;
+Ti idous vivlia sou aresoun?
+What kind of books do you like?
+
+64
+Μου αρέσουν [type of books] βιβλία.
+Mou aresoun [type of books] vivlia.
+I like [type of books] books.
+
+65
+Σου αρέσει να βλέπεις τηλεόραση;
+Sou aresi na vlepeis tileorasi?
+Do you like to watch television?
+
+66
+Ναι, μου αρέσει να βλέπω τηλεόραση.
+Ne, mou aresi na vlepo tileorasi.
+Yes, I like to watch television.
+
+67
+Τι είδους εκπομπές σου αρέσουν;
+Ti idous ekpompes sou aresoun?
+What kind of shows do you like?
+
+68
+Μου αρέσουν [type of shows] εκπομπές.
+Mou aresoun [type of shows] ekpompes.
+I like [type of shows] shows.
+
+69
+Σου αρέσει ο αθλητισμός;
+Sou aresi o athlitismos?
+Do you like sports?
+
+70
+Ναι, μου αρέσει ο αθλητισμός.
+Ne, mou aresi o athlitismos.
+Yes, I like sports.
+
+71
+Τι άθλημα σου αρέσει;
+Ti athlima sou aresi?
+What sport do you like?
+
+72
+Μου αρέσει το [sport].
+Mou aresi to [sport].
+I like [sport].
+
+73
+Έχεις κατοικίδιο;
+Ehis katikidio?
+Do you have a pet?
+
+74
+Ναι, έχω ένα [pet].
+Ne, eho ena [pet].
+Yes, I have a [pet].
+
+75
+Όχι, δεν έχω κατοικίδιο.
+Ohi, den eho katikidio.
+No, I don't have a pet.
+
+76
+Ποιο είναι το αγαπημένο σου μέρος;
+Pio ine to agapimeno sou meros?
+What is your favorite place?
+
+77
+Το αγαπημένο μου μέρος είναι [place].
+To agapimeno mou meros ine [place].
+My favorite place is [place].
+
+78
+Έχεις ταξιδέψει ποτέ;
+Ehis taxidepsei pote?
+Have you ever traveled?
+
+79
+Ναι, έχω ταξιδέψει σε [country/place].
+Ne, eho taxidepsei se [country/place].
+Yes, I have traveled to [country/place].
+
+80
+Όχι, δεν έχω ταξιδέψει ποτέ.
+Ohi, den eho taxidepsei pote.
+No, I have never traveled.
+
+81
+Σου αρέσει να μαγειρεύεις;
+Sou aresi na mageireveis?
+Do you like to cook?
+
+82
+Ναι, μου αρέσει να μαγειρεύω.
+Ne, mou aresi na mageirevo.
+Yes, I like to cook.
+
+83
+Ποιο είναι το αγαπημένο σου φαγητό να μαγειρεύεις;
+Pio ine to agapimeno sou fagito na mageireveis?
+What is your favorite food to cook?
+
+84
+Το αγαπημένο μου φαγητό να μαγειρεύω είναι [food].
+To agapimeno mou fagito na mageirevo ine [food].
+My favorite food to cook is [food].
+
+85
+Σου αρέσει να βγαίνεις έξω;
+Sou aresi na vgenis exo?
+Do you like to go out?
+
+86
+Ναι, μου αρέσει να βγαίνω έξω με φίλους.
+Ne, mou aresi na vgeno exo me filous.
+Yes, I like to go out with friends.
+
+87
+Πού σου αρέσει να πηγαίνεις;
+Pou sou aresi na pigainis?
+Where do you like to go?
+
+88
+Μου αρέσει να πηγαίνω σε [place].
+Mou aresi na pigaino se [place].
+I like to go to [place].
+
+89
+Τι ώρα ξυπνάς συνήθως;
+Ti ora xypnas sinithos?
+What time do you usually wake up?
+
+90
+Ξυπνάω στις [time].
+Xypnao stis [time].
+I wake up at [time].
+
+91
+Τι ώρα κοιμάσαι συνήθως;
+Ti ora kimase sinithos?
+What time do you usually go to sleep?
+
+92
+Κοιμάμαι στις [time].
+Kimame stis [time].
+I go to sleep at [time].
+
+93
+Πώς πέρασες τη μέρα σου;
+Pos perases ti mera sou?
+How was your day?
+
+94
+Η μέρα μου ήταν [adjective].
+I mera mou itan [adjective].
+My day was [adjective].
+
+95
+Τι θα κάνεις το Σαββατοκύριακο;
+Ti tha kanis to Savvatokyriako?
+What will you do this weekend?
+
+96
+Το Σαββατοκύριακο θα [activity].
+To Savvatokyriako tha [activity].
+This weekend I will [activity].
+
+97
+Ποιο είναι το αγαπημένο σου μάθημα;
+Pio ine to agapimeno sou mathima?
+What is your favorite subject?
+
+98
+Το αγαπημένο μου μάθημα είναι [subject].
+To agapimeno mou mathima ine [subject].
+My favorite subject is [subject].
+
+99
+Γιατί μαθαίνεις ελληνικά;
+Yati mathaineis ellinika?
+Why are you learning Greek?
+
+100
+Μαθαίνω ελληνικά γιατί [reason].
+Mathaino ellinika yati [reason].
+I am learning Greek because [reason].
+
+101
+Πού μπορώ να αγοράσω φρούτα και λαχανικά;
+Pou boro na agoraso frouta ke lahanika?
+Where can I buy fruits and vegetables?
+
+102
+Υπάρχει ένα σούπερ μάρκετ κοντά εδώ;
+Yparhi ena souper market konta edo?
+Is there a supermarket near here?
+
+103
+Τι ώρα κλείνει το σούπερ μάρκετ;
+Ti ora klini to souper market?
+What time does the supermarket close?
+
+104
+Χρειάζομαι λίγο ψωμί.
+Hriazome ligo psomi.
+I need some bread.
+
+105
+Θα ήθελα ένα κιλό πατάτες.
+Tha ithela ena kilo patates.
+I would like one kilo of potatoes.
+
+106
+Έχετε φρέσκο γάλα;
+Ehete fresco gala?
+Do you have fresh milk?
+
+107
+Πόσο κάνει το ένα;
+Poso kanei to ena?
+How much is one?
+
+108
+Είναι φρέσκα;
+Ine freska?
+Are they fresh?
+
+109
+Μπορώ να έχω μια σακούλα, παρακαλώ;
+Boro na echo mia sakoula, parakalo?
+Can I have a bag, please?
+
+110
+Πού είναι το φαρμακείο;
+Pou ine to farmakeio?
+Where is the pharmacy?
+
+111
+Χρειάζομαι κάτι για τον πονοκέφαλο.
+Hriazome kati ya ton ponokefalo.
+I need something for a headache.
+
+112
+Μπορείτε να μου δώσετε κάτι για τον βήχα;
+Borite na mou dosete kati ya ton viha?
+Can you give me something for a cough?
+
+113
+Πρέπει να δω έναν γιατρό.
+Prepi na do enan yatro.
+I need to see a doctor.
+
+114
+Πού είναι το πλησιέστερο νοσοκομείο;
+Pou ine to plisiestero nosokomeio?
+Where is the nearest hospital?
+
+115
+Έχω ένα ραντεβού με τον γιατρό στις [time].
+Eho ena rantevou me ton yatro stis [time].
+I have a doctor's appointment at [time].
+
+116
+Πώς αισθάνεσαι;
+Pos esthánese?
+How do you feel?
+
+117
+Δεν αισθάνομαι πολύ καλά.
+Den esthánome poli kala.
+I don't feel very well.
+
+118
+Έχω πυρετό.
+Eho pyreto.
+I have a fever.
+
+119
+Μου πονάει εδώ.
+Mou ponai edo.
+It hurts here.
+
+120
+Πρέπει να ξεκουραστείς.
+Prepi na xekourasteis.
+You need to rest.
+
+121
+Τι ώρα είναι το επόμενο λεωφορείο για την Πάφο;
+Ti ora ine to epomeno leoforio ya tin Pafo?
+What time is the next bus to Paphos?
+
+122
+Από πού φεύγει το λεωφορείο;
+Apo pou fevgi to leoforio?
+Where does the bus leave from?
+
+123
+Πόσο διαρκεί το ταξίδι;
+Poso diarkei to taxidi?
+How long is the journey?
+
+124
+Πρέπει να αλλάξω λεωφορείο;
+Prepi na allaxo leoforio?
+Do I need to change buses?
+
+125
+Ποια είναι η επόμενη στάση;
+Pia ine i epomeni stasi?
+What is the next stop?
+
+126
+Θα ήθελα ένα εισιτήριο για [destination], παρακαλώ.
+Tha ithela ena isitirio ya [destination], parakalo.
+I would like a ticket to [destination], please.
+
+127
+Μπορώ να αγοράσω ένα εισιτήριο από τον οδηγό;
+Boro na agoraso ena isitirio apo ton odigo?
+Can I buy a ticket from the driver?
+
+128
+Πού μπορώ να βρω έναν χάρτη της πόλης;
+Pou boro na vro enan harti tis polis?
+Where can I find a city map?
+
+129
+Μπορείτε να μου δείξετε πού είμαστε στον χάρτη;
+Borite na mou deixete pou imaste ston harti?
+Can you show me where we are on the map?
+
+130
+Πώς μπορώ να πάω στο [place];
+Pos boro na pao sto [place]?
+How can I get to [place]?
+
+131
+Είναι μακριά από εδώ;
+Ine makria apo edo?
+Is it far from here?
+
+132
+Πρέπει να πάρω ταξί;
+Prepi na paro taxi?
+Do I need to take a taxi?
+
+133
+Πού είναι η στάση ταξί;
+Pou ine i stasi taxi?
+Where is the taxi rank?
+
+134
+Μπορείτε να μου καλέσετε ένα ταξί;
+Borite na mou kalesete ena taxi?
+Can you call me a taxi?
+
+135
+Πόσο κοστίζει για να πάω στο [hotel name];
+Poso kostizei ya na pao sto [hotel name]?
+How much does it cost to go to [hotel name]?
+
+136
+Έχετε ελεύθερα δωμάτια;
+Ehete elefthera domatia?
+Do you have any free rooms?
+
+137
+Θα ήθελα ένα δίκλινο δωμάτιο.
+Tha ithela ena diklino domatio.
+I would like a double room.
+
+138
+Για πόσες νύχτες;
+Ya poses nihtes?
+For how many nights?
+
+139
+Πόσο κοστίζει η νύχτα;
+Poso kostizei i nihta?
+How much does it cost per night?
+
+140
+Περιλαμβάνεται το πρωινό;
+Perilamvanete to proino?
+Is breakfast included?
+
+141
+Τι ώρα είναι το πρωινό;
+Ti ora ine to proino?
+What time is breakfast?
+
+142
+Πού είναι το εστιατόριο του ξενοδοχείου;
+Pou ine to estiatorio tou xenodoheiou?
+Where is the hotel restaurant?
+
+143
+Έχει Wi-Fi στο δωμάτιο;
+Ehi Wi-Fi sto domatio?
+Is there Wi-Fi in the room?
+
+144
+Ποιος είναι ο κωδικός του Wi-Fi;
+Pios ine o kodikos tou Wi-Fi?
+What is the Wi-Fi password?
+
+145
+Μπορώ να έχω ένα επιπλέον μαξιλάρι;
+Boro na echo ena epipleon maxilari?
+Can I have an extra pillow?
+
+146
+Δεν λειτουργεί το κλιματιστικό.
+Den λειτουργεί to klimatistikο.
+The air conditioning is not working.
+
+147
+Μπορείτε να το φτιάξετε;
+Borite na to ftiaksete?
+Can you fix it?
+
+148
+Θα ήθελα να κάνω check-out.
+Tha ithela na kano check-out.
+I would like to check out.
+
+149
+Μπορώ να αφήσω τις αποσκευές μου εδώ;
+Boro na afiso tis aposkeves mou edo?
+Can I leave my luggage here?
+
+150
+Σας ευχαριστώ για τη διαμονή.
+Sas efharisto ya ti diamoni.
+Thank you for the stay.
+
+151
+Ποιο είναι το αγαπημένο σου άθλημα;
+Pio ine to agapimeno sou athlima?
+What is your favorite sport?
+
+152
+Παίζεις κάποιο άθλημα;
+Paizeis kapoio athlima?
+Do you play any sports?
+
+153
+Μου αρέσει να παρακολουθώ ποδόσφαιρο.
+Mou aresi na parakoloutho podosfero.
+I like to watch football.
+
+154
+Ποια είναι η αγαπημένη σου ομάδα;
+Pia ine i agapimeni sou omada?
+What is your favorite team?
+
+155
+Πού μπορώ να παρακολουθήσω έναν αγώνα;
+Pou boro na parakoloutho enan agona?
+Where can I watch a match?
+
+156
+Σου αρέσει να χορεύεις;
+Sou aresi na horeveis?
+Do you like to dance?
+
+157
+Ποιο είδος μουσικής σου αρέσει να χορεύεις;
+Pio idos mousikis sou aresi na horeveis?
+What kind of music do you like to dance to?
+
+158
+Υπάρχει κάποιο μπαρ με ζωντανή μουσική κοντά;
+Yparhi kapoio bar me zontani mousiki konta?
+Is there a bar with live music nearby?
+
+159
+Τι ώρα αρχίζει η μουσική;
+Ti ora arhizei i mousiki?
+What time does the music start?
+
+160
+Μπορούμε να πάμε μαζί;
+Boro na pame mazi?
+Can we go together?
+
+161
+Σου αρέσει να πηγαίνεις σινεμά;
+Sou aresi na pigainis sinema?
+Do you like to go to the cinema?
+
+162
+Τι ταινίες παίζουν αυτή την εβδομάδα;
+Ti tenies paizoun afti tin evdomada?
+What movies are playing this week?
+
+163
+Τι είδους ταινίες σου αρέσουν;
+Ti idous tenies sou aresoun?
+What kind of movies do you like?
+
+164
+Ποιος είναι ο αγαπημένος σου ηθοποιός/ηθοποιός;
+Pios ine o agapimenos/i sou ithopoios/ithopoios?
+Who is your favorite actor/actress?
+
+165
+Πού είναι ο πλησιέστερος κινηματογράφος;
+Pou ine o plisiesteros kinimatografos?
+Where is the nearest cinema?
+
+166
+Θα ήθελα δύο εισιτήρια για [movie title], παρακαλώ.
+Tha ithela dyo isitiria ya [movie title], parakalo.
+I would like two tickets for [movie title], please.
+
+167
+Τι ώρα αρχίζει η ταινία;
+Ti ora arhizei i tenia?
+What time does the movie start?
+
+168
+Πού μπορούμε να καθίσουμε;
+Pou boroume na kathisoume?
+Where can we sit?
+
+169
+Θέλεις ποπκόρν;
+Thelis popkorn?
+Do you want popcorn?
+
+170
+Σου αρέσει να πηγαίνεις για καφέ με φίλους;
+Sou aresi na pigainis ya kafe me filous?
+Do you like to go for coffee with friends?
+
+171
+Υπάρχει ένα καλό καφέ κοντά εδώ;
+Yparhi ena kalo kafe konta edo?
+Is there a good cafe near here?
+
+172
+Τι θα πιεις;
+Ti tha piis?
+What will you drink?
+
+173
+Θα ήθελα έναν καφέ.
+Tha ithela enan kafe.
+I would like a coffee.
+
+174
+Με γάλα ή χωρίς;
+Me gala i horis?
+With milk or without?
+
+175
+Θέλεις κάτι να φας;
+Thelis kati na fas?
+Do you want something to eat?
+
+176
+Πόσο χρονών είναι τα παιδιά σου;
+Poso hronon ine ta paidia sou?
+How old are your children?
+
+177
+Έχεις οικογένεια εδώ;
+Ehis ikogenia edo?
+Do you have family here?
+
+178
+Μου λείπει η οικογένειά μου.
+Mou lipi i ikogenia mou.
+I miss my family.
+
+179
+Θα τους τηλεφωνήσω αύριο.
+Tha tous tilefoniso avrio.
+I will call them tomorrow.
+
+180
+Πότε θα τους ξαναδείς;
+Pote tha tous xanadis?
+When will you see them again?
+
+181
+Ποιο είναι το αγαπημένο σου βιβλίο;
+Pio ine to agapimeno sou vivlio?
+What is your favorite book?
+
+182
+Σου αρέσει να διαβάζεις;
+Sou aresi na diavazis?
+Do you like to read?
+
+183
+Τι είδους βιβλία σου αρέσουν;
+Ti idous vivlia sou aresoun?
+What kind of books do you like?
+
+184
+Έχεις διαβάσει κάτι καλό τελευταία;
+Ehis diavasei kati kalo teleftaia?
+Have you read anything good lately?
+
+185
+Μπορείς να μου προτείνεις ένα καλό βιβλίο;
+Boris na mou proteinis ena kalo vivlio?
+Can you recommend a good book?
+
+186
+Σου αρέσει να μαθαίνεις νέες γλώσσες;
+Sou aresi na mathaineis nees glosses?
+Do you like learning new languages?
+
+187
+Γιατί μαθαίνεις ελληνικά;
+Yati mathaineis ellinika?
+Why are you learning Greek?
+
+188
+Είναι δύσκολη γλώσσα;
+Ine diskoli glossa?
+Is it a difficult language?
+
+189
+Προσπαθώ να βελτιώσω τα ελληνικά μου.
+Prospatho na veltioso ta ellinika mou.
+I am trying to improve my Greek.
+
+190
+Μπορείς να με βοηθήσεις με τα ελληνικά μου;
+Boris na me voithisis me ta ellinika mou?
+Can you help me with my Greek?
+
+191
+Σου αρέσει η ιστορία;
+Sou aresi i istoria?
+Do you like history?
+
+192
+Υπάρχει κάποιο μουσείο ιστορίας κοντά;
+Yparhi kapoio mouseio istorias konta?
+Is there a history museum nearby?
+
+193
+Ποια είναι η ιστορία αυτού του μέρους;
+Pia ine i istoria aftou tou merous?
+What is the history of this place?
+
+194
+Μπορείς να μου πεις κάτι για την ιστορία της Κύπρου;
+Boris na mou pis kati ya tin istoria tis Kyproy?
+Can you tell me something about the history of Cyprus?
+
+195
+Σου αρέσει η τέχνη;
+Sou aresi i tehni?
+Do you like art?
+
+196
+Υπάρχει κάποια γκαλερί τέχνης κοντά;
+Yparhi kapoia galeri tehnis konta?
+Is there an art gallery nearby?
+
+197
+Ποιος είναι ο αγαπημένος σου καλλιτέχνης;
+Pios ine o agapimenos sou kallitehnis?
+Who is your favorite artist?
+
+198
+Τι είδους τέχνη σου αρέσει;
+Ti idous tehni sou aresi?
+What kind of art do you like?
+
+199
+Σου αρέσει η φύση;
+Sou aresi i fysi?
+Do you like nature?
+
+200
+Υπάρχει κάποιο όμορφο πάρκο κοντά;
+Yparhi kapoio omorfo parko konta?
+Is there a beautiful park nearby?
+
+201
+Πού μπορώ να βρω ένα καλό καφέ στην Τάλα;
+Pou boro na vro ena kalo kafe stin Tala?
+Where can I find a good cafe in Tala?
+
+202
+Σου αρέσει ο ελληνικός καφές ή ο φραπέ;
+Sou aresi o ellinikos kafes i o frape?
+Do you like Greek coffee or frappé?
+
+203
+Θα ήθελα έναν φραπέ μέτριο, παρακαλώ.
+Tha ithela enan frape metrio, parakalo.
+I would like a medium frappé, please.
+
+204
+Πού είναι η πλατεία του χωριού;
+Pou ine i plateia tou horiou?
+Where is the village square?
+
+205
+Γίνονται καμιά εκδήλωση ή πανηγύρι στην περιοχή αυτό το διάστημα;
+Ginontai kamia ekdilosi i panigyri stin periohi afto to diastima?
+Are there any events or festivals in the area at this time?
+
+206
+Ποια είναι η καλύτερη παραλία για να πάω από την Τάλα;
+Pia ine i kaliteri paralia ya na pao apo tin Tala?
+What is the best beach to go to from Tala?
+
+207
+Πώς μπορώ να πάω στην Πάφο με το λεωφορείο;
+Pos boro na pao stin Pafo me to leoforio?
+How can I get to Paphos by bus?
+
+208
+Πού είναι ο Αρχαιολογικός Χώρος της Πάφου;
+Pou ine o Arheologikos Horos tis Pafou?
+Where is the Paphos Archaeological Site?
+
+209
+Αξίζει να επισκεφθώ τους Τάφους των Βασιλέων;
+Axizei na episkeftho tous Tafous ton Vasileon?
+Is it worth visiting the Tombs of the Kings?
+
+210
+Ποια είναι η καλύτερη ώρα για να επισκεφθώ τα ψηφιδωτά;
+Pia ine i kaliteri ora ya na episkeftho ta psifidota?
+What is the best time to visit the mosaics?
+
+211
+Υπάρχουν ωραία μέρη για περπάτημα στην Τάλα;
+Yparhoun orea meri ya perpatima stin Tala?
+Are there nice places for walking in Tala?
+
+212
+Ποιο είναι το πιο ψηλό σημείο στην περιοχή για θέα;
+Pio ine to pio psilo simio stin periohi ya thea?
+What is the highest point in the area for a view?
+
+213
+Μπορείτε να μου προτείνετε ένα καλό μέρος για να δοκιμάσω σουβλάκι;
+Borite na mou proteinete ena kalo meros ya na dokimaso souvlaki?
+Can you recommend a good place to try souvlaki?
+
+214
+Τι είναι το χαλούμι;
+Ti ine to haloumi?
+What is halloumi?
+
+215
+Πρέπει να δοκιμάσω κουμανταρία;
+Prepi na dokimaso koumantaria?
+Should I try Commandaria wine?
+
+216
+Πού μπορώ να αγοράσω τοπικά προϊόντα όπως ελαιόλαδο;
+Pou boro na agoraso topika proionta opos eleolado?
+Where can I buy local products like olive oil?
+
+217
+Υπάρχει κάποια τοπική αγορά στην Τάλα ή κοντά;
+Yparhi kapoia topiki agora stin Tala i konta?
+Is there a local market in or near Tala?
+
+218
+Τι ώρα ανοίγει η αγορά;
+Ti ora anigi i agora?
+What time does the market open?
+
+219
+Μπορώ να βρω φρέσκα φρούτα στην αγορά;
+Boro na vro freska frouta stin agora?
+Can I find fresh fruits at the market?
+
+220
+Πού είναι το ταχυδρομείο στην Τάλα;
+Pou ine to tahydromeio stin Tala?
+Where is the post office in Tala?
+
+221
+Θέλω να στείλω μια καρτ-ποστάλ στην Ελλάδα.
+Thelo na stilo mia kart-postal stin Ellada.
+I want to send a postcard to Greece.
+
+222
+Πόσο κοστίζει ένα γραμματόσημο για την Ελλάδα;
+Poso kostizei ena grammatosimo ya tin Ellada?
+How much does a stamp to Greece cost?
+
+223
+Υπάρχει τράπεζα ή ATM στην Τάλα;
+Yparhi trapeza i ATM stin Tala?
+Is there a bank or ATM in Tala?
+
+224
+Τι ώρα ανοίγει η τράπεζα;
+Ti ora anigi i trapeza?
+What time does the bank open?
+
+225
+Μπορώ να αλλάξω λίγα χρήματα εδώ;
+Boro na allaxo liga hrimata edo?
+Can I exchange some money here?
+
+226
+Πού είναι το πλησιέστερο φαρμακείο στην Τάλα;
+Pou ine to plisiestero farmakeio stin Tala?
+Where is the nearest pharmacy in Tala?
+
+227
+Χρειάζομαι αντηλιακό με υψηλό δείκτη προστασίας.
+Hriazome antiliako me ypsilo deikti prostasias.
+I need high SPF sunscreen.
+
+228
+Έχω ένα μικρό κόψιμο. Έχετε επιδέσμους;
+Eho ena mikro kopsimo. Ehete epidesmous?
+I have a small cut. Do you have bandages?
+
+229
+Αισθάνομαι λίγο κουρασμένος/η σήμερα.
+Esthánome ligo kourasmenos/i simera.
+I feel a bit tired today.
+
+230
+Πρέπει να πιω περισσότερο νερό.
+Prepi na pio perissotero nero.
+I need to drink more water.
+
+231
+Υπάρχει ένα καλό μέρος για να νοικιάσω ποδήλατο στην Πάφο;
+Yparhi ena kalo meros ya na nikiase podilato stin Pafo?
+Is there a good place to rent a bicycle in Paphos?
+
+232
+Μπορώ να κάνω ποδήλατο στην παραλία;
+Boro na kano podilato stin paralia?
+Can I cycle on the beach?
+
+233
+Ποια είναι τα πιο όμορφα μονοπάτια πεζοπορίας στην περιοχή;
+Pia ine ta pio omorfa monopatia pezoporias stin periohi?
+What are the most beautiful hiking trails in the area?
+
+234
+Χρειάζομαι γερά παπούτσια για περπάτημα;
+Hriazome gera papoutsia ya perpatima?
+Do I need sturdy walking shoes?
+
+235
+Πρέπει να προσέχω για φίδια ή άλλα ζώα;
+Prepi na proseho ya fidia i alla zoa?
+Do I need to watch out for snakes or other animals?
+
+236
+Τι ώρα ανοίγει ο ζωολογικός κήπος της Πάφου;
+Ti ora anigi o zoologikos kipos tis Pafou?
+What time does Paphos Zoo open?
+
+237
+Αξίζει να τον επισκεφθώ;
+Axizei na ton episkeftho?
+Is it worth visiting?
+
+238
+Υπάρχουν θαλάσσια σπορ στην παραλία της Γεροσκήπου;
+Yparhoun thalassia spor stin paralia tis Geroskipou?
+Are there water sports on Geroskipou beach?
+
+239
+Μπορώ να κάνω windsurfing εδώ;
+Boro na kano windsurfing edo?
+Can I go windsurfing here?
+
+240
+Πού μπορώ να πάρω μαθήματα κατάδυσης;
+Pou boro na paro mathimata katadysis?
+Where can I take diving lessons?
+
+241
+Είναι ασφαλείς οι καταδύσεις για αρχάριους;
+Ine asfaleis i katadyseis ya arhiarious?
+Is diving safe for beginners?
+
+242
+Ποια είναι η καλύτερη ώρα της ημέρας για να επισκεφθώ τα μουσεία;
+Pia ine i kaliteri ora tis imeras ya na episkeftho ta mouseia?
+What is the best time of day to visit the museums?
+
+243
+Υπάρχει κάποιο δωρεάν μουσείο;
+Yparhi kapoio dorean mouseio?
+Is there a free museum?
+
+244
+Ποια είναι η ιστορία του κάστρου της Πάφου;
+Pia ine i istoria tou kastrou tis Pafou?
+What is the history of Paphos Castle?
+
+245
+Μπορώ να ανέβω στην κορυφή του κάστρου;
+Boro na anevo stin koryfi tou kastrou?
+Can I go up to the top of the castle?
+
+246
+Υπάρχουν πολλά εστιατόρια με θαλασσινά στην Πάφο;
+Yparhoun polla estiatoria me thalassina stin Pafo?
+Are there many seafood restaurants in Paphos?
+
+247
+Μπορείτε να μου προτείνετε ένα καλό εστιατόριο με ψάρι;
+Borite na mou proteinete ena kalo estiatorio me psari?
+Can you recommend a good fish restaurant?
+
+248
+Τι είναι το "μεζές";
+Ti ine to "mezes"?
+What is "meze"?
+
+249
+Πρέπει να δοκιμάσω μεζέδες;
+Prepi na dokimaso mezedes?
+Should I try meze?
+
+250
+Είναι πικάντικο;
+Ine pikantiko?
+Is it spicy?
+
+251
+Πού μπορώ να βρω ένα κατάστημα με σουβενίρ στην Τάλα;
+Pou boro na vro ena katastima me souvenir stin Tala?
+Where can I find a souvenir shop in Tala?
+
+252
+Ψάχνω για κάτι παραδοσιακό κυπριακό.
+Psahno ya kati paradosiako kypriako.
+I am looking for something traditionally Cypriot.
+
+253
+Μπορώ να διαπραγματευτώ την τιμή;
+Boro na diapragmatefto tin timi?
+Can I negotiate the price?
+
+254
+Είναι χειροποίητο;
+Ine hiropoiito?
+Is it handmade?
+
+255
+Σας ευχαριστώ για τη βοήθεια σας.
+Sas efharisto ya ti voithia sas.
+Thank you for your help.
+
+256
+Ήταν πολύ χρήσιμο.
+Itan poli hrisimo.
+It was very helpful.
+
+257
+Έχετε μια καλή μέρα!
+Ehete mia kali mera!
+Have a good day!
+
+258
+Και εσείς επίσης!
+Ke eseis episis!
+You too!
+
+259
+Ελπίζω να απολαύσετε την παραμονή σας στην Κύπρο.
+Elpizo na apolafsete tin paramoni sas stin Kypro.
+I hope you enjoy your stay in Cyprus.
+
+260
+Σας ευχαριστώ, την απολαμβάνω πολύ.
+Sas efharisto, tin apolamvano poli.
+Thank you, I am enjoying it very much.
+
+261
+Πού είναι το πλησιέστερο πάρκο;
+Pou ine to plisiestero parko?
+Where is the nearest park?
+
+262
+Είναι καλό για παιδιά;
+Ine kalo ya paidia?
+Is it good for children?
+
+263
+Μπορώ να κάνω πικνίκ εκεί;
+Boro na kano piknik ekei?
+Can I have a picnic there?
+
+264
+Υπάρχουν παιδικές χαρές;
+Yparhoun paidikes hares?
+Are there playgrounds?
+
+265
+Ποια είναι η καλύτερη ώρα για να επισκεφθώ το πάρκο;
+Pia ine i kaliteri ora ya na episkeftho to parko?
+What is the best time to visit the park?
+
+266
+Είναι ασφαλές να περπατήσω μόνος/η στο πάρκο;
+Ine asfales na perpathao monos/moni sto parko?
+Is it safe to walk alone in the park?
+
+267
+Υπάρχουν πολλά σκυλιά στο πάρκο;
+Yparhoun polla skylia sto parko?
+Are there many dogs in the park?
+
+268
+Πρέπει να έχω το σκύλο μου με λουρί;
+Prepi na eho to skylo mou me louri?
+Do I need to keep my dog on a leash?
+
+269
+Υπάρχουν κάδοι απορριμμάτων;
+Yparhoun kadoi aporrimaton?
+Are there trash cans?
+
+270
+Πρέπει να καθαρίσω πίσω από το σκύλο μου;
+Prepi na kathariso piso apo to skylo mou?
+Do I need to clean up after my dog?
+
+271
+Σας ευχαριστώ για τις πληροφορίες.
+Sas efharisto ya tis plirofories.
+Thank you for the information.
+
+272
+Χαίρομαι που βοήθησα.
+Herome pou voithisa.
+I'm glad I helped.
+
+273
+Να έχετε μια όμορφη μέρα.
+Na ehete mia omorfi mera.
+Have a beautiful day.
+
+274
+Εσείς επίσης.
+Eseis episis.
+You too.
+
+275
+Αν χρειαστείτε κάτι άλλο, μη διστάσετε να ρωτήσετε.
+An hriastite kati allo, mi distasete na rotisete.
+If you need anything else, don't hesitate to ask.
+
+276
+Θα το θυμάμαι.
+Tha to thimamai.
+I will remember that.
+
+277
+Αντίο.
+Antio.
+Goodbye.
+
+278
+Τα λέμε σύντομα.
+Ta leme σύντομα.
+See you soon.
+
+279
+Να είστε καλά.
+Na iste kala.
+Be well.
+
+280
+Φροντίστε τον εαυτό σας.
+Frontiste ton eafto sas.
+Take care of yourself.
+
+281
+Τι ώρα ανοίγει η βιβλιοθήκη;
+Ti ora anigi i vivliothiki?
+What time does the library open?
+
+282
+Μπορώ να χρησιμοποιήσω το internet εκεί;
+Boro na hrisimopoiiso to internet ekei?
+Can I use the internet there?
+
+283
+Χρειάζομαι μια κάρτα μέλους;
+Hriazome mia karta melous?
+Do I need a membership card?
+
+284
+Μπορώ να δανειστώ βιβλία;
+Boro na daneisto vivlia?
+Can I borrow books?
+
+285
+Για πόσο καιρό μπορώ να τα κρατήσω;
+Ya poso kero boro na ta kratiso?
+For how long can I keep them?
+
+286
+Υπάρχουν βιβλία στα αγγλικά;
+Yparhoun vivlia sta anglika?
+Are there books in English?
+
+287
+Πού είναι το τμήμα με τα ξενόγλωσσα βιβλία;
+Pou ine to tmima me ta xenoglossa vivlia?
+Where is the foreign language books section?
+
+288
+Μπορείτε να μου προτείνετε ένα καλό ελληνικό βιβλίο για αρχάριους;
+Borite na mou proteinete ena kalo elliniko vivlio ya arhiarious?
+Can you recommend a good Greek book for beginners?
+
+289
+Σας ευχαριστώ για τη βοήθεια με τα ελληνικά μου.
+Sas efharisto ya ti voithia me ta ellinika mou.
+Thank you for your help with my Greek.
+
+290
+Κάθε βοήθεια είναι ευπρόσδεκτη.
+Kathe voithia ine evprosdekti.
+Any help is welcome.
+
+291
+Μαθαίνω σιγά σιγά.
+Mathaino siga siga.
+I am learning slowly.
+
+292
+Η ελληνική είναι μια όμορφη γλώσσα.
+I elliniki ine mia omorfi glossa.
+Greek is a beautiful language.
+
+293
+Θέλω να μπορώ να μιλάω με τους ντόπιους.
+Thelo na boro na milao me tous ntopious.
+I want to be able to speak with the locals.
+
+294
+Είναι σημαντικό για μένα να μαθαίνω τη γλώσσα.
+Ine simantiko ya mena na mathaino ti glossa.
+It is important for me to learn the language.
+
+295
+Μου αρέσει η κουλτούρα της Κύπρου.
+Mou aresi i koultoura tis Kyproy.
+I like the culture of Cyprus.
+
+296
+Οι άνθρωποι είναι πολύ φιλόξενοι.
+I anthropoi ine poli filoxenoi.
+The people are very hospitable.
+
+298
+Είμαι πολύ καλά σήμερα, ευχαριστώ που ρωτήσατε.
+Ime poli kala simera, efharisto pou rotisate.
+I am very well today, thank you for asking.
+
+299
+Το όνομά μου είναι [your name].
+To onoma mou ine [your name].
+My name is [your name].
+
+300
+Κατάγομαι από [your country].
+Katagome apo [your country].
+I come from [your country].
+
+301
+Ζω στην [city/area] εδώ και [duration].
+Zo stin [city/area] edo ke [duration].
+I have been living in [city/area] for [duration].
+
+302
+Εργάζομαι ως [your profession] σε μια [type of company].
+Ergazome os [your profession] se mia [type of company].
+I work as a [your profession] in a [type of company].
+
+303
+Είμαι [your age] ετών.
+Ime [your age] eton.
+I am [your age] years old.
+
+304
+Μιλάω λίγα ελληνικά, αλλά προσπαθώ να βελτιωθώ.
+Milao liga ellinika, alla prospatho na veltioso.
+I speak a little Greek, but I am trying to improve.
+
+305
+Δεν καταλαβαίνω καλά όταν μιλάτε γρήγορα.
+Den katalaveno kala otan milate grigora.
+I don't understand well when you speak quickly.
+
+306
+Μπορείτε να μου το γράψετε, σας παρακαλώ;
+Borite na mou to grapste, sas parakalo?
+Can you write it down for me, please?
+
+307
+Αυτό σημαίνει [meaning in Greek].
+Afto simenei [meaning in Greek].
+This means [meaning in Greek].
+
+308
+Στα ελληνικά λέγεται [Greek word].
+Sta ellinika legete [Greek word].
+In Greek it is called [Greek word].
+
+309
+Νομίζω ότι είναι κάπου εκεί.
+Nomizo oti ine kapou ekei.
+I think it is somewhere there.
+
+310
+Θα ήθελα να πάω στο κέντρο της πόλης.
+Tha ithela na pao sto kentro tis polis.
+I would like to go to the city center.
+
+311
+Ένα απλό εισιτήριο, παρακαλώ.
+Ena aplo isitirio, parakalo.
+A single ticket, please.
+
+312
+Είναι [time].
+Ine [time].
+It is [time].
+
+313
+Ανοίγει στις [time].
+Anigi stis [time].
+It opens at [time].
+
+314
+Ναι, σας ευχαριστώ.
+Ne, sas efharisto.
+Yes, thank you.
+
+315
+Ψάχνω για ένα κόκκινο φόρεμα.
+Psahno ya ena kokkino forema.
+I am looking for a red dress.
+
+316
+Ναι, έχουμε [the item you're looking for].
+Ne, ehoume [the item you're looking for].
+Yes, we have [the item you're looking for].
+
+317
+Κοστίζει [amount] ευρώ.
+Kostizei [amount] evro.
+It costs [amount] euros.
+
+318
+Εντάξει, θα το πάρω.
+Endaxi, tha to paro.
+Okay, I will take it.
+
+319
+Όχι, ευχαριστώ, απλώς κοιτάζω.
+Ohi, efharisto, aplos kitazo.
+No, thank you, I am just looking.
+
+320
+Ναι, φυσικά.
+Ne, fysika.
+Yes, of course.
+
+321
+Θα ήθελα ένα τραπέζι για δύο, παρακαλώ.
+Tha ithela ena trapezi ya dyo, parakalo.
+I would like a table for two, please.
+
+322
+Θα ήθελα να δοκιμάσω το [Greek dish].
+Tha ithela na dokimaso to [Greek dish].
+I would like to try the [Greek dish].
+
+323
+Μπορώ να έχω τον λογαριασμό, σας παρακαλώ;
+Boro na echo ton logariasmo, sas parakalo?
+Can I have the bill, please?
+
+324
+Ευχαριστώ πολύ, ήταν υπέροχο.
+Efharisto poli, itan iperoho.
+Thank you very much, it was wonderful.
+
+325
+Τίποτα.
+Tipota.
+Nothing./You're welcome.
+
+326
+Αύριο θα πάω για ψώνια.
+Avrio tha pao ya psonia.
+Tomorrow I will go shopping.
+
+327
+Το αγαπημένο μου φαγητό είναι το μουσακάς.
+To agapimeno mou fagito ine o mousakas.
+My favorite food is moussaka.
+
+328
+Ναι, μου αρέσει πολύ η ελληνική μουσική.
+Ne, mou aresi poli i elliniki mousiki.
+Yes, I really like Greek music.
+
+329
+Μου αρέσει η παραδοσιακή μουσική.
+Mou aresi i paradosiaki mousiki.
+I like traditional music.
+
+330
+Ναι, έχω μια αδελφή και έναν αδελφό.
+Ne, eho mia adelfi ke enan adelfo.
+Yes, I have a sister and a brother.
+
+331
+Στον ελεύθερο χρόνο μου μου αρέσει να διαβάζω και να περπατάω.
+Ston elefthero hrono mou mou aresi na diavazo ke na perpatao.
+In my free time I like to read and walk.
+
+332
+Το αγαπημένο μου χρώμα είναι το μπλε.
+To agapimeno mou chroma ine to ble.
+My favorite color is blue.
+
+333
+Το αγαπημένο μου ζώο είναι η γάτα.
+To agapimeno mou zoo ine i gata.
+My favorite animal is the cat.
+
+334
+Σήμερα κάνει ζέστη και έχει ήλιο.
+Simera kanei zesti ke ehi ilio.
+Today it is hot and sunny.
+
+335
+Η αγαπημένη μου εποχή είναι η άνοιξη.
+I agapimeni mou epohi ine i anoixi.
+My favorite season is spring.
+
+336
+Ναι, μου αρέσει πολύ να διαβάζω βιβλία ιστορίας.
+Ne, mou aresi poli na diavazo vivlia istorias.
+Yes, I really like to read history books.
+
+337
+Μου αρέσουν οι κωμωδίες και οι ταινίες δράσης.
+Mou aresoun oi komodies ke oi tenies drasis.
+I like comedies and action movies.
+
+338
+Μου αρέσει να βλέπω ποδόσφαιρο και τένις.
+Mou aresi na vlepo podosfero ke tenis.
+I like to watch football and tennis.
+
+339
+Ναι, έχω έναν σκύλο που τον λένε [dog's name].
+Ne, eho enan skylo pou ton lene [dog's name].
+Yes, I have a dog called [dog's name].
+
+340
+Το αγαπημένο μου μέρος είναι η παραλία.
+To agapimeno mou meros ine i paralia.
+My favorite place is the beach.
+
+341
+Ναι, έχω ταξιδέψει στην Ιταλία και την Ισπανία.
+Ne, eho taxidepsei stin Italia ke tin Ispania.
+Yes, I have traveled to Italy and Spain.
+
+342
+Ναι, μου αρέσει πολύ να μαγειρεύω ιταλικό φαγητό.
+Ne, mou aresi poli na mageirevo italiko fagito.
+Yes, I really like to cook Italian food.
+
+343
+Το αγαπημένο μου φαγητό να μαγειρεύω είναι η πίτσα.
+To agapimeno mou fagito na mageirevo ine i pizza.
+My favorite food to cook is pizza.
+
+344
+Ναι, μου αρέσει να βγαίνω για φαγητό με τους φίλους μου.
+Ne, mou aresi na vgeno ya fagito me tous filous mou.
+Yes, I like to go out for food with my friends.
+
+345
+Μου αρέσει να πηγαίνω σε καφέ και εστιατόρια.
+Mou aresi na pigaino se kafe ke estiatoria.
+I like to go to cafes and restaurants.
+
+346
+Ξυπνάω συνήθως στις επτά η ώρα.
+Xypnao sinithos stis efta i ora.
+I usually wake up at seven o'clock.
+
+347
+Κοιμάμαι συνήθως στις έντεκα το βράδυ.
+Kimame sinithos stis enteka to vradi.
+I usually go to sleep at eleven in the evening.
+
+348
+Η μέρα μου ήταν πολύ καλή, ευχαριστώ.
+I mera mou itan poli kali, efharisto.
+My day was very good, thank you.
+
+349
+Το Σαββατοκύριακο θα πάω μια εκδρομή.
+To Savvatokyriako tha pao mia ekdromi.
+This weekend I will go on a trip.
+
+350
+Το αγαπημένο μου μάθημα είναι η ιστορία.
+To agapimeno mou mathima ine i istoria.
+My favorite subject is history.
+
+351
+Μαθαίνω ελληνικά γιατί μου αρέσει η γλώσσα και η κουλτούρα.
+Mathaino ellinika yati mou aresi i glossa ke i koultoura.
+I am learning Greek because I like the language and the culture.
+
+352
+Μπορείτε να βρείτε φρέσκα φρούτα και λαχανικά στην λαϊκή αγορά.
+Borite na vreite freska frouta ke lahanika stin laiki agora.
+You can find fresh fruits and vegetables at the farmers' market.
+
+353
+Ναι, υπάρχει ένα σούπερ μάρκετ στην γωνία.
+Ne, yparhi ena souper market stin gonia.
+Yes, there is a supermarket on the corner.
+
+354
+Κλείνει στις εννέα το βράδυ.
+Klini stis ennea to vradi.
+It closes at nine in the evening.
+
+355
+Ναι, είναι πολύ φρέσκα.
+Ne, ine poli freska.
+Yes, they are very fresh.
+
+356
+Ναι, ορίστε μια σακούλα.
+Ne, oriste mia sakoula.
+Yes, here is a bag.
+
+357
+Είναι στην επόμενη γωνία, δίπλα στο φαρμακείο.
+Ine stin epomeni gonia, dipla sto farmakeio.
+It's on the next corner, next to the pharmacy.
+
+358
+Νομίζω ότι πρέπει να πάρετε κάτι για τον πόνο.
+Nomizo oti prepi na parete kati ya ton pono.
+I think you should take something for the pain.
+
+359
+Το πλησιέστερο νοσοκομείο είναι [hospital name].
+To plisiestero nosokomeio ine [hospital name].
+The nearest hospital is [hospital name].
+
+360
+Δεν αισθάνομαι καλά, έχω λίγο πυρετό και βήχα.
+Den esthánome kala, eho ligo pyreto ke viha.
+I don't feel well, I have a slight fever and a cough.
+
+361
+Το επόμενο λεωφορείο για την Πάφο είναι στις [time].
+To epomeno leoforio ya tin Pafo ine stis [time].
+The next bus to Paphos is at [time].
+
+362
+Φεύγει από την κεντρική στάση, στην πλατεία.
+Fevgi apo tin kentriki stasi, stin plateia.
+It leaves from the central station, in the square.
+
+363
+Το ταξίδι διαρκεί περίπου [duration].
+To taxidi diarkei peripou [duration].
+The journey takes about [duration].
+
+364
+Ναι, πρέπει να αλλάξετε λεωφορείο στην [bus stop].
+Ne, prepi na allaxete leoforio stin [bus stop].
+Yes, you need to change buses at [bus stop].
+
+365
+Η επόμενη στάση είναι [next stop].
+I epomeni stasi ine [next stop].
+The next stop is [next stop].
+
+366
+Ένα εισιτήριο απλό για [destination], παρακαλώ.
+Ena isitirio aplo ya [destination], parakalo.
+A single ticket to [destination], please.
+
+367
+Ναι, μπορείτε να αγοράσετε το εισιτήριο από τον οδηγό.
+Ne, borite na agorasete to isitirio apo ton odigo.
+Yes, you can buy the ticket from the driver.
+
+368
+Υπάρχει ένας χάρτης στον τουριστικό οδηγό.
+Yparhi enas hartis ston touristiko odigo.
+There is a map in the tourist guide.
+
+369
+Είμαστε εδώ [point on the map].
+Imaste edo [point on the map].
+We are here [point on the map].
+
+370
+Πρέπει να πάτε ευθεία και μετά να στρίψετε αριστερά.
+Prepi na pate efthia ke meta na stripste aristera.
+You need to go straight and then turn left.
+
+371
+Όχι, δεν είναι πολύ μακριά, είναι περίπου [duration] με τα πόδια.
+Ohi, den ine poli makria, ine peripou [duration] me ta podia.
+No, it's not very far, it's about [duration] on foot.
+
+372
+Ναι, ίσως είναι καλύτερα να πάρετε ταξί αν βιάζεστε.
+Ne, isos ine kalitera na parete taxi an viazeste.
+Yes, it might be better to take a taxi if you are in a hurry.
+
+373
+Η στάση ταξί είναι έξω από το ξενοδοχείο.
+I stasi taxi ine exo apo to xenodoheio.
+The taxi rank is outside the hotel.
+
+374
+Ναι, μπορώ να σας καλέσω ένα ταξί τώρα.
+Ne, boro na sas kaleso ena taxi tora.
+Yes, I can call you a taxi now.
+
+375
+Για το [hotel name] θα κοστίσει περίπου [amount] ευρώ.
+Ya to [hotel name] tha kostisei peripou [amount] evro.
+To [hotel name] will cost about [amount] euros.
+
+376
+Ναι, έχουμε μερικά ελεύθερα δωμάτια.
+Ne, ehoume merika elefthera domatia.
+Yes, we have some free rooms.
+
+377
+Ναι, θα ήθελα ένα δίκλινο με θέα στη θάλασσα.
+Ne, tha ithela ena diklino me thea sti thalassa.
+Yes, I would like a double room with a sea view.
+
+378
+Για τρεις νύχτες.
+Ya treis nihtes.
+For three nights.
+
+379
+Η νύχτα κοστίζει [amount] ευρώ.
+I nihta kostizei [amount] evro.
+It costs [amount] euros per night.
+
+380
+Ναι, το πρωινό περιλαμβάνεται και σερβίρεται από τις [time] έως τις [time].
+Ne, to proino perilamvanete ke servirete apo tis [time] eos tis [time].
+Yes, breakfast is included and is served from [time] to [time].
+
+381
+Είναι στον πρώτο όροφο.
+Ine ston proto orofo.
+It's on the first floor.
+
+382
+Ναι, υπάρχει δωρεάν Wi-Fi σε όλο το ξενοδοχείο.
+Ne, yparhi dorean Wi-Fi se olo to xenodoheio.
+Yes, there is free Wi-Fi throughout the hotel.
+
+383
+Ο κωδικός είναι [password].
+O kodikos ine [password].
+The password is [password].
+
+384
+Ναι, φυσικά, θα σας φέρω ένα αμέσως.
+Ne, fysika, tha sas fero ena amesos.
+Yes, of course, I will bring you one right away.
+
+385
+Θα στείλω κάποιον να το ελέγξει αμέσως.
+Tha stilo kapoion na to elegxei amesos.
+I will send someone to check it immediately.
+
+386
+Ναι, ευχαριστώ πολύ.
+Ne, efharisto poli.
+Yes, thank you very much.
+
+387
+Εντάξει, σας ευχαριστώ.
+Endaxi, sas efharisto.
+Okay, thank you.
+
+388
+Ναι, φυσικά, μπορώ να τις κρατήσω για εσάς.
+Ne, fysika, boro na tis kratiso ya esas.
+Yes, of course, I can keep them for you.
+
+389
+Ήταν υπέροχη, ευχαριστώ.
+Itan iperoho, efharisto.
+It was wonderful, thank you.
+
+390
+Το αγαπημένο μου άθλημα είναι το ποδόσφαιρο.
+To agapimeno mou athlima ine to podosfero.
+My favorite sport is football.
+
+391
+Ναι, παίζω τένις με τους φίλους μου.
+Ne, paizo tenis me tous filous mou.
+Yes, I play tennis with my friends.
+
+392
+Μου αρέσει πολύ να βλέπω τους αγώνες της τοπικής ομάδας.
+Mou aresi poli na vlepo tous agones tis topikis omadas.
+I really like watching the local team's matches.
+
+393
+Δεν έχω κάποια συγκεκριμένη αγαπημένη ομάδα εδώ.
+Den eho kapoia sygkekrimeni agapimeni omada edo.
+I don't have a specific favorite team here.
+
+394
+Μπορείτε να δείτε αγώνες σε πολλές καφετέριες και μπαρ.
+Borite na deite agones se polles kafeteries ke bar.
+You can watch matches in many cafes and bars.
+
+395
+Ναι, μου αρέσει πολύ να χορεύω, ειδικά παραδοσιακούς χορούς.
+Ne, mou aresi poli na horevo, idika paradosiakous horous.
+Yes, I really like to dance, especially traditional dances.
+
+396
+Μου αρέσει η ελληνική λαϊκή μουσική για χορό.
+Mou aresi i elliniki laiki mousiki ya horo.
+I like Greek folk music for dancing.
+
+397
+Ναι, νομίζω ότι υπάρχει ένα στην πλατεία του χωριού.
+Ne, nomizo oti yparhi ena stin plateia tou horiou.
+Yes, I think there is one in the village square.
+
+398
+Ξεκινάει συνήθως γύρω στις εννέα το βράδυ.
+Xekinaei sinithos giro stis ennea to vradi.
+It usually starts around nine in the evening.
+
+399
+Ναι, γιατί όχι; Πάμε μαζί.
+Ne, yati ohi? Pame mazi.
+Yes, why not? Let's go together.
+
+400
+Ναι, μου αρέσει πολύ να πηγαίνω σινεμά.
+Ne, mou aresi poli na pigaino sinema.
+Yes, I really like to go to the cinema.
+
+401
+Δεν ξέρω ακριβώς, αλλά μπορείτε να δείτε το πρόγραμμα online.
+Den xero akrivos, alla borite na deite to programma online.
+I don't know exactly, but you can see the schedule online.
+
+402
+Μου αρέσουν οι κωμωδίες και οι ρομαντικές ταινίες.
+Mou aresoun oi komodies ke oi romantikes tenies.
+I like comedies and romantic movies.
+
+403
+Δεν έχω κάποιον συγκεκριμένο αγαπημένο ηθοποιό.
+Den eho kapoion sygkekrimeno agapimeno ithopoio.
+I don't have a specific favorite actor.
+
+404
+Ο πλησιέστερος κινηματογράφος είναι στην Πάφο.
+O plisiesteros kinimatografos ine stin Pafo.
+The nearest cinema is in Paphos.
+
+405
+Δύο εισιτήρια για την [movie title], παρακαλώ.
+Dyo isitiria ya tin [movie title], parakalo.
+Two tickets for [movie title], please.
+
+406
+Αρχίζει στις [time].
+Arhizei stis [time].
+It starts at [time].
+
+407
+Νομίζω ότι υπάρχουν καλές θέσεις στη μέση.
+Nomizo oti yparhoun kales thesis sti mesi.
+I think there are good seats in the middle.
+
+408
+Ναι, ευχαριστώ. Ένα μεγάλο, παρακαλώ.
+Ne, efharisto. Ena megalo, parakalo.
+Yes, thank you. A large one, please.
+
+409
+Ναι, μου αρέσει πολύ να πηγαίνω για καφέ και να μιλάω με τους φίλους μου.
+Ne, mou aresi poli na pigaino ya kafe ke na milao me tous filous mou.
+Yes, I really like to go for coffee and talk with my friends.
+
+410
+Ναι, υπάρχει ένα πολύ ωραίο καφέ στην πλατεία της Τάλας.
+Ne, yparhi ena poli oreo kafe stin plateia tis Talas.
+Yes, there is a very nice cafe in Tala square.
+
+411
+Θα ήθελα έναν ελληνικό καφέ, μέτριο, παρακαλώ.
+Tha ithela enan elliniko kafe, metrio, parakalo.
+I would like a Greek coffee, medium, please.
+
+412
+Με λίγο γάλα, ευχαριστώ.
+Me ligo gala, efharisto.
+With a little milk, thank you.
+
+413
+Όχι, ευχαριστώ, είμαι εντάξει.
+Ohi, efharisto, ime endaxi.
+No, thank you, I am okay.
+
+414
+Τα παιδιά μου είναι [age] και [age] χρονών.
+Ta paidia mou ine [age] ke [age] hronon.
+My children are [age] and [age] years old.
+
+415
+Ναι, έχω την αδελφή μου που μένει στην Πάφο.
+Ne, eho tin adelfi mou pou meni stin Pafo.
+Yes, I have my sister who lives in Paphos.
+
+416
+Μου λείπουν πολύ, αλλά θα τους δω σύντομα.
+Mou lipoun poli, alla tha tous do σύντομα.
+I miss them a lot, but I will see them soon.
+
+417
+Θα τους τηλεφωνήσω το βράδυ.
+Tha tous tilefoniso to vradi.
+I will call them in the evening.
+
+418
+Θα τους δω τον επόμενο μήνα.
+Tha tous do ton epomeno mina.
+I will see them next month.
+
+419
+Το αγαπημένο μου βιβλίο είναι [book title].
+To agapimeno mou vivlio ine [book title].
+My favorite book is [book title].
+
+420
+Ναι, μου αρέσει πολύ να διαβάζω στον ελεύθερο χρόνο μου.
+Ne, mou aresi poli na diavazo ston elefthero hrono mou.
+Yes, I really like to read in my free time.
+
+421
+Μου αρέσουν τα ιστορικά μυθιστορήματα.
+Mou aresoun ta istorika mythistorimata.
+I like historical novels.
+
+422
+Ναι, διάβασα ένα πολύ καλό βιβλίο ιστορίας πρόσφατα.
+Ne, diavasa ena poli kalo vivlio istorias prosfata.
+Yes, I read a very good history book recently.
+
+423
+Ναι, θα σας πρότεινα το [book title].
+Ne, tha sas proteina to [book title].
+Yes, I would recommend [book title].
+
+424
+Ναι, μου αρέσει πολύ να μαθαίνω για άλλες κουλτούρες.
+Ne, mou aresi poli na mathaino ya alles koultoures.
+Yes, I really like learning about other cultures.
+
+425
+Μαθαίνω ελληνικά γιατί θέλω να μπορώ να μιλάω με τους ντόπιους εδώ στην Κύπρο.
+Mathaino ellinika yati thelo na boro na milao me tous ntopious edo stin Kypro.
+I am learning Greek because I want to be able to speak with the locals here in Cyprus.
+
+426
+Ναι, είναι λίγο δύσκολη στην αρχή, αλλά με εξάσκηση γίνεται πιο εύκολη.
+Ne, ine ligo diskoli stin arhi, alla me exaskisi ginete pio efkoli.
+Yes, it's a bit difficult at the beginning, but with practice it becomes easier.
+
+427
+Προσπαθώ να μιλάω όσο περισσότερο μπορώ.
+Prospatho na milao oso perissotero boro.
+I try to speak as much as I can.
+
+428
+Ναι, ευχαρίστως. Μπορώ να σας βοηθήσω με την προφορά ή τη γραμματική.
+Ne, efharistos. Boro na sas voithiso me tin profora i ti grammatiki.
+Yes, gladly. I can help you with pronunciation or grammar.
+
+429
+Ναι, μου αρέσει πολύ η ιστορία, ειδικά η αρχαία ιστορία.
+Ne, mou aresi poli i istoria, idika i arhea istoria.
+Yes, I really like history, especially ancient history.
+
+430
+Ναι, υπάρχει ένα μικρό μουσείο ιστορίας στην Πάφο.
+Ne, yparhi ena mikro mouseio istorias stin Pafo.
+Yes, there is a small history museum in Paphos.
+
+431
+Δεν ξέρω πολλά, αλλά μπορώ να σας πω όσα γνωρίζω.
+Den xero polla, alla boro na sas po osa gnorizo.
+I don't know much, but I can tell you what I know.
+
+432
+Η Κύπρος έχει μια πολύ πλούσια και ενδιαφέρουσα ιστορία.
+I Kypros ehi mia poli plousia ke endiaferousa istoria.
+Cyprus has a very rich and interesting history.
+
+433
+Ναι, μου αρέσει πολύ να επισκέπτομαι γκαλερί τέχνης.
+Ne, mou aresi poli na episkeptevome galeries tehnis.
+Yes, I really like visiting art galleries.
+
+434
+Ναι, νομίζω ότι υπάρχει μια μικρή γκαλερί στην Παλιά Πόλη.
+Ne, nomizo oti yparhi mia mikri galeri stin Palia Poli.
+Yes, I think there is a small gallery in the Old Town.
+
+435
+Μου αρέσουν πολλοί καλλιτέχνες, αλλά ο αγαπημένος μου είναι ο [artist's name].
+Mou aresoun polloi kallitehnes, alla o agapimenos mou ine o [artist's name].
+I like many artists, but my favorite is [artist's name].
+
+436
+Μου αρέσει η μοντέρνα τέχνη και η γλυπτική.
+Mou aresi i moderna tehni ke i glyptiki.
+I like modern art and sculpture.
+
+437
+Ναι, μου αρέσει πολύ να περνάω χρόνο στη φύση.
+Ne, mou aresi poli na pernao hrono sti fysi.
+Yes, I really like spending time in nature.
+
+438
+Ναι, υπάρχει ένα πολύ ωραίο πάρκο λίγο έξω από την Τάλα.
+Ne, yparhi ena poli oreo parko ligo exo apo tin Tala.
+Yes, there is a very nice park just outside Tala.
+
+439
+Ναι, είναι πολύ καλό για παιδιά, έχει παιδική χαρά.
+Ne, ine poli kalo ya paidia, ehi paidiki hara.
+Yes, it's very good for children, it has a playground.
+
+440
+Ναι, νομίζω ότι επιτρέπεται το πικνίκ.
+Ne, nomizo oti epitrepetai to piknik.
+Yes, I think picnics are allowed.
+
+441
+Ναι, έχει μερικές παιδικές χαρές.
+Ne, ehi merikes paidikes hares.
+Yes, it has a few playgrounds.
+
+442
+Ίσως το πρωί ή αργά το απόγευμα, όταν δεν έχει πολλή ζέστη.
+Isos to proi i arga to apogevma, otan den ehi poli zesti.
+Maybe in the morning or late afternoon, when it's not too hot.
+
+443
+Ναι, είναι συνήθως ασφαλές, αλλά πάντα πρέπει να είστε προσεκτικοί.
+Ne, ine sinithos asfales, alla panta prepi na iste prosektikoi.
+Yes, it's usually safe, but you should always be careful.
+
+444
+Ναι, συνήθως έχει αρκετά σκυλιά, αλλά οι ιδιοκτήτες τους είναι υπεύθυνοι.
+Ne, sinithos ehi arketa skylia, alla oi idioktites tous ine ypefthinoi.
+Yes, it usually has quite a few dogs, but their owners are responsible.
+
+445
+Ναι, πρέπει να έχετε το σκύλο σας με λουρί.
+Ne, prepi na ehete to skylo sas me louri.
+Yes, you need to keep your dog on a leash.
+
+446
+Ναι, υπάρχουν κάδοι απορριμμάτων σε όλο το πάρκο.
+Ne, yparhoun kadoi aporrimaton se olo to parko.
+Yes, there are trash cans throughout the park.
+
+447
+Ναι, φυσικά, πρέπει πάντα να καθαρίζετε πίσω από το σκύλο σας.
+Ne, fysika, prepi panta na katharizete piso apo to skylo sas.
+Yes, of course, you should always clean up after your dog.
+
+448
+Ήταν χαρά μου.
+Itan hara mou.
+It was my pleasure.
+
+449
+Να έχετε μια υπέροχη μέρα!
+Na ehete mia iperoho mera!
+Have a wonderful day!
+
+450
+Θα το θυμάμαι, ευχαριστώ.
+Tha to thimamai, efharisto.
+I will remember that, thank you.
+
+451
+Αντίο σας.
+Antio sas.
+Goodbye to you (formal).
+
+452
+Θα τα πούμε σύντομα.
+Tha ta poume σύντομα.
+We'll talk soon.
+
+453
+Να είστε καλά και να προσέχετε.
+Na iste kala ke na prosehete.
+Be well and take care.
+
+454
+Ευχαριστώ, το ίδιο και εσείς.
+Efharisto, to idio ke eseis.
+Thank you, the same to you.
+
+455
+Ανοίγει στις [time] το πρωί.
+Anigi stis [time] to proi.
+It opens at [time] in the morning.
+
+456
+Ναι, υπάρχει δωρεάν internet για τους επισκέπτες.
+Ne, yparhi dorean internet ya tous episkephtes.
+Yes, there is free internet for visitors.
+
+457
+Ναι, χρειάζεστε μια κάρτα μέλους για να δανειστείτε βιβλία.
+Ne, hriazeste mia karta melous ya na daneistite vivlia.
+Yes, you need a membership card to borrow books.
+
+458
+Ναι, μπορείτε να δανειστείτε βιβλία για δύο εβδομάδες.
+Ne, borite na daneistite vivlia ya dyo evdomades.
+Yes, you can borrow books for two weeks.
+
+459
+Μπορώ να τα κρατήσω για δεκαπέντε μέρες.
+Boro na ta kratiso ya dekapente meres.
+I can keep them for fifteen days.
+
+460
+Ναι, υπάρχει μια μεγάλη συλλογή βιβλίων στα αγγλικά.
+Ne, yparhi mia megali syllogi vivlion sta anglika.
+Yes, there is a large collection of books in English.
+
+461
+Είναι στο πίσω μέρος, στον δεύτερο όροφο.
+Ine sto piso meros, ston deftero orofo.
+It's at the back, on the second floor.
+
+462
+Θα σας πρότεινα ένα βιβλίο με απλές ιστορίες.
+Tha sas proteina ena vivlio me aples istories.
+I would recommend a book with simple stories.
