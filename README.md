@@ -35,6 +35,7 @@ Each card entry must contain exactly 4 lines:
 
 ## Usage
 
+0. Open langcards.html in your browser
 1. Click "Upload Dictionary File" to select your vocabulary file
 2. The application will parse the file and display the number of cards loaded
 3. Use the checkbox to toggle between Greek-only and mixed modes
