@@ -5,8 +5,9 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 
 ## Features
 
-- **File Upload**: Import vocabulary lists from text files
+- **File Upload**: Import vocabulary lists (deck of flashcards, dictionary) from text files
 - **Smart Parsing**: Robust parsing of vocabulary files with detailed error reporting
+- **Embedded Deck**: Export html with current deck embedded - creating a single file flashcards drill trainer
 - **Dark Mode**: Toggle between light and dark themes
 - **Study Modes**:
   - Greek-only mode (show Greek first, click to reveal English)
@@ -46,6 +47,7 @@ Each card entry must contain exactly 4 lines:
 4. Click "Next Card" to get a new random card
 5. Click on the card to reveal its translation
 6. Hover over Greek text to see its transcription
+7. Optionally export the currently loaded deck, embedding it to html file.
 
 ## Error Handling
 
