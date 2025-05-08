@@ -5,7 +5,7 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 
 ## Features
 
-- **File Upload**: Import vocabulary lists (decks of flashcards, dictionaries) from text files
+- **File Upload**: Import vocabulary lists (decks of flashcards, dictionaries) from local text files, or by specifying ?url=http://path/to/your/deck.txt
 - **Smart Parsing**: Robust parsing of vocabulary files with detailed error reporting
 - **Embedded Deck**: Export html with current deck embedded - creating a single file flashcards drill trainer
 - **Dark Mode**: Toggle between light and dark themes
