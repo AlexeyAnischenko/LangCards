@@ -41,7 +41,7 @@ Each card entry must contain exactly 4 lines:
 ## Usage
 
 0. Open [**langcards.html**](https://alexeyanischenko.github.io/LangCards/langcards.html) in your browser.
-1. Click "Upload Dictionary File" to select your vocabulary file. You will need a vocabulary file for that, check the .txt examples in this repository, like [this one](https://alexeyanischenko.github.io/LangCards/common-1100-greek-sentences.txt). You can also specify deck file in URL param [like that](https://alexeyanischenko.github.io/LangCards/langcards.html?url=https://alexeyanischenko.github.io/LangCards/common-1100-greek-sentences.txt).
+1. Click "Upload Dictionary File" to select your vocabulary (deck) file. You will need a deck file for that, check the .txt examples in this repository, like [this one](https://alexeyanischenko.github.io/LangCards/common-1100-greek-sentences.txt). You can also specify the deck file in URL param [like that](https://alexeyanischenko.github.io/LangCards/langcards.html?url=https://alexeyanischenko.github.io/LangCards/common-1100-greek-sentences.txt).
 2. The application will parse the file and display the number of cards loaded (expand parsing details to check for errors).
 3. Use the checkbox to toggle between Greek-only and mixed modes.
 4. Click "Next Card" to get a new random card.
