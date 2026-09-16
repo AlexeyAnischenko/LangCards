@@ -1,6 +1,6 @@
 ﻿1
-Πάω ένα ταξίδι.
-Pao ena taxidi.
+Πάω ταξίδι.
+Pao taxidi.
 I'm going on a trip.
 
 2
@@ -19,8 +19,8 @@ Pou tha pas?
 Where are you going?
 
 5
-Πηγαίνω [destination].
-Pigaino [destination].
+Πηγαίνω στο [destination].
+Pigaino sto [destination].
 I am going to [destination].
 
 6
@@ -200,7 +200,7 @@ My flight is delayed.
 
 41
 Η πτήση μου ακυρώθηκε.
-I ptisi mou akurothike.
+I ptisi mou akyrothike.
 My flight was cancelled.
 
 42
@@ -215,7 +215,7 @@ I have lost my luggage.
 
 44
 Πού είναι το γραφείο πληροφοριών;
-Pou ine to grafio πληροφοριών?
+Pou ine to grafio pliroforion?
 Where is the information desk?
 
 45
@@ -230,7 +230,7 @@ I am looking for [place].
 
 47
 Πού είναι η τουαλέτα;
-Pou ine i τουαλέτα?
+Pou ine i toualeta?
 Where is the toilet?
 
 48
@@ -250,17 +250,17 @@ Where is the duty-free shop?
 
 51
 Μπορώ να νοικιάσω ένα αυτοκίνητο;
-Boro na nikiase ena aftokinito?
+Boro na nikiaso ena aftokinito?
 Can I rent a car?
 
 52
 Πού είναι η ενοικίαση αυτοκινήτων;
-Pou ine i enikiase aftokiniton?
+Pou ine i enikiasi aftokiniton?
 Where is the car rental?
 
 53
 Θέλω να νοικιάσω ένα αυτοκίνητο για [duration].
-Thelo na nikiase ena aftokinito ya [duration].
+Thelo na nikiaso ena aftokinito ya [duration].
 I want to rent a car for [duration].
 
 54
@@ -315,7 +315,7 @@ Where can I find a taxi?
 
 64
 Καλέστε ένα ταξί για μένα, παρακαλώ.
-Kalesete ena taxi ya mena, parakalo.
+Kaleste ena taxi ya mena, parakalo.
 Call a taxi for me, please.
 
 65
@@ -344,8 +344,8 @@ Ine makria apo edo?
 Is it far from here?
 
 70
-Είναι κοντά από εδώ.
-Ine konta apo edo.
+Είναι εδώ κοντά.
+Ine edo konta.
 It is near here.
 
 71
@@ -404,7 +404,7 @@ Borite na mou deixete pos na pao ekei?
 Can you show me how to get there?
 
 82
-Σας ευχαριστώ για τη βοήθεια σας.
+Σας ευχαριστώ για τη βοήθειά σας.
 Sas efharisto ya ti voithia sas.
 Thank you for your help.
 
@@ -435,7 +435,7 @@ Can you repeat that?
 
 88
 Μπορείτε να το γράψετε;
-Borite na to grapste?
+Borite na to grapsete?
 Can you write it down?
 
 89
@@ -510,7 +510,7 @@ I need a doctor.
 
 103
 Δεν αισθάνομαι καλά.
-Den esthánome kala.
+Den esthanome kala.
 I don't feel well.
 
 104
@@ -540,7 +540,7 @@ Can you call the police?
 
 109
 Έγινε ένα ατύχημα.
-Egine ena atyihima.
+Egine ena atihima.
 There has been an accident.
 
 110
@@ -685,7 +685,7 @@ The people are very friendly.
 
 138
 Η ατμόσφαιρα είναι υπέροχη.
-I atmosfaira ine iperoho.
+I atmosfaira ine iperohi.
 The atmosphere is wonderful.
 
 139
@@ -695,7 +695,7 @@ It has a nice view.
 
 140
 Μπορώ να βγάλω μια φωτογραφία;
-Boro na vgallo mia fotografia?
+Boro na vgalo mia fotografia?
 Can I take a photo?
 
 141
@@ -760,17 +760,17 @@ Do I need to book in advance?
 
 153
 Θα ήθελα να νοικιάσω ένα ποδήλατο.
-Tha ithela na nikiase ena podilato.
+Tha ithela na nikiaso ena podilato.
 I would like to rent a bicycle.
 
 154
 Πού μπορώ να νοικιάσω ένα ποδήλατο;
-Pou boro na nikiase ena podilato?
+Pou boro na nikiaso ena podilato?
 Where can I rent a bicycle?
 
 155
 Για πόσο καιρό μπορώ να το νοικιάσω;
-Ya poso kero boro na to nikiase?
+Ya poso kero boro na to nikiaso?
 For how long can I rent it?
 
 156
@@ -835,12 +835,12 @@ I would like to go scuba diving.
 
 168
 Είμαι αρχάριος/α.
-Ime arhiarios/a.
+Ime arharios/a.
 I am a beginner.
 
 169
 Έχετε μαθήματα για αρχάριους;
-Ehete mathimata ya arhiarious?
+Ehete mathimata ya arharious?
 Do you have lessons for beginners?
 
 170
@@ -855,7 +855,7 @@ Is it a good beach for swimming?
 
 172
 Μπορώ να νοικιάσω μια ξαπλώστρα/ομπρέλα;
-Boro na nikiase mia xaplostra/ombrela?
+Boro na nikiaso mia xaplostra/ombrela?
 Can I rent a sunbed/umbrella?
 
 173
@@ -895,7 +895,7 @@ Where can I exchange money?
 
 180
 Ποια είναι η συναλλαγματική ισοτιμία σήμερα;
-Pia ine i συναλλαγματική isotimia simera?
+Pia ine i sinallagmatiki isotimia simera?
 What is the exchange rate today?
 
 181
@@ -950,12 +950,12 @@ Can you translate this for me?
 
 191
 Τι σημαίνει αυτό;
-Ti simenei afto?
+Ti simeni afto?
 What does this mean?
 
 192
 Πώς το λένε αυτό στα ελληνικά;
-Pos to lene afto στα ellinika?
+Pos to lene afto sta ellinika?
 How do you say this in Greek?
 
 193
@@ -1070,7 +1070,7 @@ Can you call me a taxi?
 
 215
 Θα ήθελα να νοικιάσω ένα αυτοκίνητο για να εξερευνήσω την περιοχή.
-Tha ithela na nikiase ena aftokinito ya na exerevniso tin periohi.
+Tha ithela na nikiaso ena aftokinito ya na exerevniso tin periohi.
 I would like to rent a car to explore the area.
 
 216
@@ -1145,7 +1145,7 @@ Is it safe to drink tap water?
 
 230
 Πού μπορώ να αγοράσω εμφιαλωμένο νερό;
-Pou boro na agoraso emialomeno nero?
+Pou boro na agoraso emfialomeno nero?
 Where can I buy bottled water?
 
 231
@@ -1165,7 +1165,7 @@ What local products can I buy?
 
 234
 Πού μπορώ να βρω χειροτεχνίες;
-Pou boro na vro hirotehnimata?
+Pou boro na vro hirotehnies?
 Where can I find handicrafts?
 
 235
@@ -1199,8 +1199,8 @@ Poso kostizei mia imerisia ekdromi?
 How much does a day trip cost?
 
 241
-Μπορώ να πάω μια εκδρομή με σκάφος από την Πάφο;
-Boro na pao mia ekdromi me skafos apo tin Pafo?
+Μπορώ να κάνω μια εκδρομή με σκάφος από την Πάφο;
+Boro na kano mia ekdromi me skafos apo tin Pafo?
 Can I take a boat trip from Paphos?
 
 242
@@ -1345,7 +1345,7 @@ Where is the nearest taxi rank?
 
 270
 Μπορείτε να μου γράψετε τη διεύθυνση στα ελληνικά;
-Borite na mou grapste ti diefthinsi στα ellinika?
+Borite na mou grapsete ti diefthinsi sta ellinika?
 Can you write down the address in Greek for me?
 
 271
@@ -1355,12 +1355,12 @@ Thank you for your hospitality.
 
 272
 Ήταν υπέροχη η επίσκεψή μου.
-Itan iperoho i episkepsi mou.
+Itan iperohi i episkepsi mou.
 My visit was wonderful.
 
 273
 Ελπίζω να ξαναέρθω σύντομα.
-Elpizo na xanaertho σύντομα.
+Elpizo na xanaertho sintoma.
 I hope to come back soon.
 
 274
@@ -1375,7 +1375,7 @@ I had a wonderful time.
 
 276
 Σας ευχαριστώ για τις όμορφες αναμνήσεις.
-Sas efharisto ya tis omorfes anamnisies.
+Sas efharisto ya tis omorfes anamnisis.
 Thank you for the beautiful memories.
 
 277
@@ -1395,11 +1395,11 @@ I really liked the nature here.
 
 280
 Θα ήθελα να επισκεφθώ και άλλα μέρη της Κύπρου την επόμενη φορά.
-Tha ithela na episkeftho ke alla meri tis Kyproy tin epomeni fora.
+Tha ithela na episkeftho ke alla meri tis Kyprou tin epomeni fora.
 I would like to visit other parts of Cyprus next time.
 
 281
-Έχετε κάποια συμβουλή για την επόμενη μου επίσκεψη;
+Έχετε κάποια συμβουλή για την επόμενή μου επίσκεψη;
 Ehete kapoia symvouli ya tin epomeni mou episkepsi?
 Do you have any advice for my next visit?
 
@@ -1415,12 +1415,12 @@ Are there places for birdwatching near here?
 
 284
 Μπορώ να νοικιάσω ένα σκάφος για μια μέρα;
-Boro na nikiase ena skafos ya mia mera?
+Boro na nikiaso ena skafos ya mia mera?
 Can I rent a boat for a day?
 
 285
 Χρειάζεται άδεια για να νοικιάσω σκάφος;
-Hriazete adia ya na nikiase skafos?
+Hriazete adia ya na nikiaso skafos?
 Do I need a license to rent a boat?
 
 286
@@ -1434,8 +1434,8 @@ Pos boro na pao sta vouna tou Troodous?
 How can I get to the Troodos Mountains?
 
 288
-Αξίζει να πάω μια ημερήσια εκδρομή στα βουνά;
-Axizei na pao mia imerisia ekdromi sta vouna?
+Αξίζει να κάνω μια ημερήσια εκδρομή στα βουνά;
+Axizei na kano mia imerisia ekdromi sta vouna?
 Is it worth taking a day trip to the mountains?
 
 289
