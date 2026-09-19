@@ -11,13 +11,14 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 | `langcards.template.html` | **The source.** Same app *without* the embedded dictionaries. Edit this when changing markup, CSS or JS. |
 | `build-langcards.py` | Compresses the `.txt` dictionaries into `langcards.template.html` and writes `langcards.html`. |
 | `*-greek-sentences.txt`, `greek-endings-...-1000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
+| `klik-a2-vocabulary.txt` | The KLIK A2 exam word list, one card per word, each tagged with its part of speech and A2 paradigm. |
 
 Editing `langcards.html` directly is a mistake — the next build overwrites it. Change
 `langcards.template.html` or a `.txt` file, then run `python build-langcards.py`.
 
 ## Features
 
-- **Self-contained**: `langcards.html` is the whole app — the four bundled dictionaries are
+- **Self-contained**: `langcards.html` is the whole app — the five bundled dictionaries are
   compressed into the HTML and chosen from a dropdown next to the file picker, so the page works
   on its own with no `.txt` files alongside it
 - **File Upload**: Import your own vocabulary lists from text files
@@ -55,6 +56,33 @@ Each card entry is exactly 4 lines:
 
 Entries may be separated by a blank line (as the bundled dictionaries are) or run straight
 together — the parser accepts both, along with CRLF line endings and a UTF-8 BOM.
+
+### A2 scope
+
+Two decks are held to the **KLIK A2** word list (`Greek KLIK A2 dictionary.xlsx` in the
+Greek-A2-Basics repo) and to the grammar rules of those sheets:
+
+| Deck | Scope |
+|---|---|
+| **KLIK A2** | the glossary itself — 1,658 cards, every word tagged with its paradigm (`noun, feminine — F1 · -α`, `verb, group B1 (-άω / -ώ)`) |
+| **Grammar** | 1,000 fill-in-the-blank cards built only from glossary words, each one explained |
+
+The other three decks (A2 exam, Common, Travel) are free-range: 7–12% of their words are outside
+that glossary. They are useful, but they are not a model of the exam's vocabulary.
+
+### The explanation line
+
+In the Grammar and KLIK decks the fourth line carries the English **and** the reason:
+
+```
+2
+Αυτό είναι ___ βιβλίο μου.
+Αυτό είναι το βιβλίο μου.
+This is my book. — το → definite article, neuter nominative singular — after είμαι the complement stays nominative
+```
+
+The part after the em dash is generated from the gap itself: which form it is (gender, case,
+number, or person and tense) and why that form is the one required.
 
 ### Fill-in-the-blank decks
 

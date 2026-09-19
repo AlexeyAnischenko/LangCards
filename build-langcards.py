@@ -15,6 +15,7 @@ DICTS = [
     # fill-in-the-blank deck: field 2 holds the completed sentence, not a transcription
     ('grammar', 'greek-endings-articles-prepositions-conjugations-1000.txt',
                 u'Grammar — articles, prepositions, verbs'),
+    ('klik',    'klik-a2-vocabulary.txt', u'KLIK A2 — the exam word list'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
