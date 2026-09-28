@@ -10,7 +10,7 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 | `langcards.html` | **The app.** Generated — open this one. Dictionaries are compressed inside it, so it works on its own. |
 | `langcards.template.html` | **The source.** Same app *without* the embedded dictionaries. Edit this when changing markup, CSS or JS. |
 | `build-langcards.py` | Compresses the `.txt` dictionaries into `langcards.template.html` and writes `langcards.html`. |
-| `*-greek-sentences.txt`, `greek-endings-...-1000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
+| `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-2000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
 | `klik-a2-vocabulary.txt` | The KLIK A2 exam word list, one card per word, each tagged with its part of speech and A2 paradigm. |
 
 Editing `langcards.html` directly is a mistake — the next build overwrites it. Change
@@ -66,6 +66,7 @@ Greek-A2-Basics repo) and to the grammar rules of those sheets:
 |---|---|
 | **KLIK A2** | the glossary itself — 1,658 cards, every word tagged with its paradigm (`noun, feminine — F1 · -α`, `verb, group B1 (-άω / -ώ)`) |
 | **Grammar** | 1,000 fill-in-the-blank cards built only from glossary words, each one explained |
+| **Noun phrases** | 2,000 fill-in-the-blank cards on article + adjective + noun agreement, also built only from glossary words |
 
 The other three decks (A2 exam, Common, Travel) are free-range: 7–12% of their words are outside
 that glossary. They are useful, but they are not a model of the exam's vocabulary.
@@ -97,6 +98,29 @@ line 2 is a prompt with a `___` gap and line 3 is the same sentence with the gap
 I go to school every day.
 ```
 
+### The Noun phrases deck
+
+Each card gives a sentence with one gap and, in brackets, the adjective and the noun in their
+dictionary form. You supply the article, and put the adjective and the noun into the number and
+case the sentence calls for:
+
+```
+1
+Βλέπω ___. (μεγάλος + το σπίτι)
+Βλέπω το μεγάλο σπίτι.
+I see the big house. — το μεγάλο σπίτι → definite article + adjective + noun, neuter accusative singular — the direct object of Βλέπω; το and μεγάλο agree with σπίτι (neuter, N2 · -ι)
+```
+
+Every form is generated from the paradigm the KLIK glossary assigns to the noun, so the deck
+covers nominative, accusative and genitive in both numbers across all eleven noun classes —
+including the accent shifts (`ο άνθρωπος` → `του ανθρώπου`, `η απόφαση` → `οι αποφάσεις`,
+`το πρόβλημα` → `των προβλημάτων`). The genitive plural is left out for the `-ας`, `-ης`, `-α`
+and `-η` classes, where it is lexically unpredictable rather than rule-governed.
+
+Adjective–noun pairings are constrained semantically, so the sentences mean something: relational
+adjectives (`σχολικός`, `ψητός`, `δερμάτινος`) are restricted to explicit noun lists, and size
+adjectives never attach to mass nouns.
+
 ### The bundled dictionaries
 
 | Deck | Cards | Third line holds |
@@ -104,7 +128,9 @@ I go to school every day.
 | A2 exam | 458 | transcription |
 | Common | 1072 | transcription |
 | Travel | 292 | transcription |
-| Grammar | 746 | the completed sentence |
+| Grammar | 1000 | the completed sentence |
+| Noun phrases | 2000 | the completed sentence |
+| KLIK A2 | 1658 | transcription |
 
 They have been cleaned up:
 

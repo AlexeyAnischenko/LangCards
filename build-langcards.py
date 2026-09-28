@@ -15,6 +15,9 @@ DICTS = [
     # fill-in-the-blank deck: field 2 holds the completed sentence, not a transcription
     ('grammar', 'greek-endings-articles-prepositions-conjugations-1000.txt',
                 u'Grammar — articles, prepositions, verbs'),
+    # fill-in-the-blank deck: field 2 holds the completed sentence
+    ('phrases', 'greek-articles-adjectives-nouns-2000.txt',
+                u'Noun phrases — article + adjective + noun'),
     ('klik',    'klik-a2-vocabulary.txt', u'KLIK A2 — the exam word list'),
 ]
 
