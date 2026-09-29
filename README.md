@@ -127,10 +127,15 @@ Adjective–noun pairings are constrained semantically, so the sentences mean so
 adjectives (`σχολικός`, `ψητός`, `δερμάτινος`) are restricted to explicit noun lists, and size
 adjectives never attach to mass nouns. No adjective+noun pair is used more than three times.
 
-**Every Greek word in the deck comes from the KLIK A2 list** — not only the 486 nouns and 147
+**Every Greek word in the deck comes from the KLIK A2 list** — not only the 510 nouns and 147
 adjectives that get inflected, but also the verbs and the fixed words in the sentence frames.
 This is checked mechanically: each token of each finished card has to be a KLIK headword, an
 article, or a form derived from one of them.
+
+Where KLIK lists only one gender of a pair, the other gender is the same word and stays in
+(`ο φίλος` next to KLIK's `η φίλη`). The fifteen professions KLIK gives in `-ος` are carried in
+both genders, which is where this deck earns its keep — `ο καλός γιατρός` and `η καλή γιατρός`
+differ only in the article and the adjective, since the noun itself does not change.
 
 ### The bundled dictionaries
 
