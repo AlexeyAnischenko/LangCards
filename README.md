@@ -10,7 +10,7 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 | `langcards.html` | **The app.** Generated — open this one. Dictionaries are compressed inside it, so it works on its own. |
 | `langcards.template.html` | **The source.** Same app *without* the embedded dictionaries. Edit this when changing markup, CSS or JS. |
 | `build-langcards.py` | Compresses the `.txt` dictionaries into `langcards.template.html` and writes `langcards.html`. |
-| `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-2000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
+| `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-3000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
 | `klik-a2-vocabulary.txt` | The KLIK A2 exam word list, one card per word, each tagged with its part of speech and A2 paradigm. |
 
 Editing `langcards.html` directly is a mistake — the next build overwrites it. Change
@@ -66,7 +66,7 @@ Greek-A2-Basics repo) and to the grammar rules of those sheets:
 |---|---|
 | **KLIK A2** | the glossary itself — 1,658 cards, every word tagged with its paradigm (`noun, feminine — F1 · -α`, `verb, group B1 (-άω / -ώ)`) |
 | **Grammar** | 1,000 fill-in-the-blank cards built only from glossary words, each one explained |
-| **Noun phrases** | 2,000 fill-in-the-blank cards on article + adjective + noun agreement, also built only from glossary words |
+| **Noun phrases** | 3,000 fill-in-the-blank cards on article + adjective + noun agreement, also built only from glossary words, 1,000 in each case |
 
 The other three decks (A2 exam, Common, Travel) are free-range: 7–12% of their words are outside
 that glossary. They are useful, but they are not a model of the exam's vocabulary.
@@ -115,6 +115,8 @@ I see the big house. — το μεγάλο σπίτι → definite article + adj
 so the prompt says which of the three is wanted. What you have to work out is that Βλέπω takes
 an accusative, and then put all three words into it.
 
+The three cases are evenly split: **1,000 nominative, 1,000 accusative, 1,000 genitive.**
+
 Every form is generated from the paradigm the KLIK glossary assigns to the noun, so the deck
 covers nominative, accusative and genitive in both numbers across all eleven noun classes —
 including the accent shifts (`ο άνθρωπος` → `του ανθρώπου`, `η απόφαση` → `οι αποφάσεις`,
@@ -123,7 +125,12 @@ and `-η` classes, where it is lexically unpredictable rather than rule-governed
 
 Adjective–noun pairings are constrained semantically, so the sentences mean something: relational
 adjectives (`σχολικός`, `ψητός`, `δερμάτινος`) are restricted to explicit noun lists, and size
-adjectives never attach to mass nouns.
+adjectives never attach to mass nouns. No adjective+noun pair is used more than three times.
+
+**Every Greek word in the deck comes from the KLIK A2 list** — not only the 486 nouns and 147
+adjectives that get inflected, but also the verbs and the fixed words in the sentence frames.
+This is checked mechanically: each token of each finished card has to be a KLIK headword, an
+article, or a form derived from one of them.
 
 ### The bundled dictionaries
 
@@ -133,7 +140,7 @@ adjectives never attach to mass nouns.
 | Common | 1072 | transcription |
 | Travel | 292 | transcription |
 | Grammar | 1000 | the completed sentence |
-| Noun phrases | 2000 | the completed sentence |
+| Noun phrases | 3000 | the completed sentence |
 | KLIK A2 | 1658 | transcription |
 
 They have been cleaned up:
