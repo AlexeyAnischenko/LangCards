@@ -101,15 +101,19 @@ I go to school every day.
 ### The Noun phrases deck
 
 Each card gives a sentence with one gap and, in brackets, the adjective and the noun in their
-dictionary form. You supply the article, and put the adjective and the noun into the number and
-case the sentence calls for:
+dictionary form, followed by which article to use and which number:
 
 ```
 1
-Βλέπω ___. (μεγάλος + το σπίτι)
+Βλέπω ___. (μεγάλος + το σπίτι - definite, singular)
 Βλέπω το μεγάλο σπίτι.
 I see the big house. — το μεγάλο σπίτι → definite article + adjective + noun, neuter accusative singular — the direct object of Βλέπω; το and μεγάλο agree with σπίτι (neuter, N2 · -ι)
 ```
+
+**The case is the exercise; the number and the article are given.** Nothing in
+`Βλέπω ___.` distinguishes `το μεγάλο σπίτι` from `τα μεγάλα σπίτια` or from `ένα μεγάλο σπίτι`,
+so the prompt says which of the three is wanted. What you have to work out is that Βλέπω takes
+an accusative, and then put all three words into it.
 
 Every form is generated from the paradigm the KLIK glossary assigns to the noun, so the deck
 covers nominative, accusative and genitive in both numbers across all eleven noun classes —
