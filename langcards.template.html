@@ -633,7 +633,7 @@ Translation: Excuse me.</pre>
         <div class="english-text" id="english-text"></div>
       </div>
 
-      <div class="card-hint">Tap the card or press <kbd>Space</kbd> to reveal — again for the next card</div>
+      <div class="card-hint">Tap the card or press <kbd>Space</kbd> to reveal — again for the next card<span id="speak-hint" hidden> · <kbd>V</kbd> to hear it</span></div>
     </div>
   </div>
 
@@ -683,6 +683,7 @@ Translation: Excuse me.</pre>
     const ttsHelpSteps = document.getElementById('tts-help-steps');
     const ttsHelpNote = document.getElementById('tts-help-note');
     const ttsHelpClose = document.getElementById('tts-help-close');
+    const speakHint = document.getElementById('speak-hint');
 
     // Theme handling
     function initTheme() {
@@ -930,8 +931,9 @@ Translation: Excuse me.</pre>
       greekVoice = findGreekVoice();
       speakBtn.classList.toggle('unavailable', !greekVoice);
       speakBtn.title = greekVoice
-        ? `Hear this sentence (${greekVoice.name})`
+        ? `Hear this sentence — V (${greekVoice.name})`
         : 'No Greek voice on this device — tap to see how to add one';
+      speakHint.hidden = !greekVoice;
     }
 
     // A fill-in card holds the gapped prompt and a bracketed hint in field 1,
@@ -940,8 +942,11 @@ Translation: Excuse me.</pre>
       return card.greek.includes('___') ? card.transcription : card.greek;
     }
 
+    let speakReady = false;
+
     function updateSpeakButton() {
       const card = cards[currentCardIndex];
+      speakReady = false;
       if (!card || !ttsSupported) {
         speakBtn.style.display = 'none';
         return;
@@ -949,8 +954,27 @@ Translation: Excuse me.</pre>
       const isFillIn = card.greek.includes('___');
       // Before the reveal a fill-in card has no sentence yet, and reading the
       // answer out would give the exercise away.
-      const ready = (!isFillIn || showTranslation) && (showGreek || showTranslation);
-      speakBtn.style.display = ready ? 'grid' : 'none';
+      speakReady = (!isFillIn || showTranslation) && (showGreek || showTranslation);
+      speakBtn.style.display = speakReady ? 'grid' : 'none';
+    }
+
+    function speakCurrentCard() {
+      if (!ttsSupported) return;
+      if (!greekVoice) {
+        openTtsHelp();
+        return;
+      }
+      const card = cards[currentCardIndex];
+      if (!card || !speakReady) return;
+      speechSynthesis.cancel();      // iOS will not start a second utterance without this
+      const utterance = new SpeechSynthesisUtterance(speakableText(card));
+      utterance.voice = greekVoice;
+      utterance.lang = greekVoice.lang;
+      utterance.rate = 0.9;          // a shade under natural pace, for learners
+      utterance.onstart = () => speakBtn.classList.add('speaking');
+      utterance.onend = () => speakBtn.classList.remove('speaking');
+      utterance.onerror = () => speakBtn.classList.remove('speaking');
+      speechSynthesis.speak(utterance);
     }
 
     function stopSpeaking() {
@@ -983,21 +1007,7 @@ Translation: Excuse me.</pre>
     speakBtn.addEventListener('click', function(event) {
       // the card itself reveals or advances on click; the speaker must not
       event.stopPropagation();
-      if (!greekVoice) {
-        openTtsHelp();
-        return;
-      }
-      const card = cards[currentCardIndex];
-      if (!card) return;
-      speechSynthesis.cancel();      // iOS will not start a second utterance without this
-      const utterance = new SpeechSynthesisUtterance(speakableText(card));
-      utterance.voice = greekVoice;
-      utterance.lang = greekVoice.lang;
-      utterance.rate = 0.9;          // a shade under natural pace, for learners
-      utterance.onstart = () => speakBtn.classList.add('speaking');
-      utterance.onend = () => speakBtn.classList.remove('speaking');
-      utterance.onerror = () => speakBtn.classList.remove('speaking');
-      speechSynthesis.speak(utterance);
+      speakCurrentCard();
     });
 
     ttsHelpClose.addEventListener('click', closeTtsHelp);
@@ -1071,7 +1081,13 @@ Translation: Excuse me.</pre>
         closeTtsHelp();
         return;
       }
-      if (event.code !== 'Space' && event.key !== ' ') return;
+      const isSpace = event.code === 'Space' || event.key === ' ';
+      // V reads the card aloud. Matched on the physical key rather than the
+      // character, so it still works on a Russian layout, where it types "м".
+      // Modifiers are excluded, or Ctrl+V would talk instead of pasting.
+      const isSpeak = event.code === 'KeyV' &&
+                      !event.ctrlKey && !event.metaKey && !event.altKey;
+      if (!isSpace && !isSpeak) return;
       // the dialog owns the keyboard while it is open
       if (ttsHelp.classList.contains('open')) return;
       if (cards.length === 0 || currentCardIndex === -1) return;
@@ -1079,6 +1095,12 @@ Translation: Excuse me.</pre>
       const active = document.activeElement;
       if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA') &&
           active.type !== 'checkbox' && active.type !== 'file') {
+        return;
+      }
+
+      if (isSpeak) {
+        event.preventDefault();
+        speakCurrentCard();
         return;
       }
 

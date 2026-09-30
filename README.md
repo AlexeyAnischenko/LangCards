@@ -39,9 +39,12 @@ Editing `langcards.html` directly is a mistake — the next build overwrites it.
 
 ## Hearing the cards
 
-Each card carries a speaker button. It uses the browser's own `speechSynthesis`, which reads the
-sentence with whatever Greek voice the operating system provides: no API key, no network request,
-nothing leaves the device, and it works offline.
+Each card carries a speaker button, or press <kbd>V</kbd>. It uses the browser's own
+`speechSynthesis`, which reads the sentence with whatever Greek voice the operating system
+provides: no API key, no network request, nothing leaves the device, and it works offline.
+
+<kbd>V</kbd> is matched on the physical key rather than the character it types, so it still works
+on a non-Latin keyboard layout, and it ignores Ctrl/Cmd/Alt so that Ctrl+V still pastes.
 
 The button is greyed out when the device has no Greek voice installed. Tapping it then explains
 how to add one, with the steps for the platform it is actually running on — Android, iOS, Windows,
