@@ -55,6 +55,59 @@ and spells the Greek out letter by letter, which is worse than silence.
 On a fill-in-the-blank card the speaker appears only after the reveal, and reads the **completed**
 sentence from line 3 — never line 2, which holds the gap and the bracketed hint.
 
+### Windows: a Greek voice without a Greek keyboard
+
+Windows will not install a Greek voice on its own — the voice comes bundled with the Greek
+*language*, and adding a language also adds its keyboard to the Win+Space rotation. If you only
+want the voice, this is the way round it.
+
+**1. Install the language and its text-to-speech feature.**
+Settings → Time & language → Language & region → **Add a language** → Ελληνικά. On the next
+screen tick **Text-to-speech**; the language pack, handwriting and OCR are not needed. Windows
+then installs `Microsoft Stefanos`, a local el-GR voice.
+
+**2. Take the keyboard back out.**
+
+```powershell
+$list = Get-WinUserLanguageList
+Set-WinUserLanguageList -LanguageList ($list | Where-Object { $_.LanguageTag -ne 'el' }) -Force
+```
+
+No elevation needed. The voice survives this: it is installed machine-wide under
+`HKLM\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens`, while the language list is only a
+per-user input preference.
+
+**3. Restart the browser properly.** Chrome reads the voice list once at startup and keeps
+background processes alive after the last window closes, so closing it is not enough. Use
+`chrome://restart`, or `taskkill /IM chrome.exe /F`.
+
+Two things that look like mistakes but are not:
+
+- **Greek disappears from Language & region.** Expected. The installed voice is a system
+  capability and is not tied to the input list.
+- **Removing just the keyboard, keeping the language, does not work.** Windows refuses to leave a
+  language in the input list with no keyboard and silently puts the layout back. Removing the
+  whole language from the *list* is what sticks.
+
+⚠️ Do not use the **Remove** button in Settings → Language & region. That uninstalls the language
+*features*, the voice among them. Only the PowerShell route removes the keyboard while keeping
+the voice.
+
+To check the result:
+
+```powershell
+# keyboards actually in the switcher - Greek is 00000408
+Get-ItemProperty 'HKCU:\Keyboard Layout\Preload'
+
+# voices as applications see them
+[Windows.Media.SpeechSynthesis.SpeechSynthesizer, Windows.Media, ContentType=WindowsRuntime] | Out-Null
+[Windows.Media.SpeechSynthesis.SpeechSynthesizer]::AllVoices |
+    ForEach-Object { '{0} / {1}' -f $_.DisplayName, $_.Language }
+```
+
+The second command is the useful one when the speaker stays grey: if `Microsoft Stefanos / el-GR`
+is listed there but the browser does not offer it, the browser has not been fully restarted.
+
 ## File Format
 
 The application expects a text file with vocabulary entries in the following format:
