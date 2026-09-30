@@ -37,6 +37,21 @@ Editing `langcards.html` directly is a mistake — the next build overwrites it.
 - **Random Card Selection**: Cards are presented in random order for better learning
 - **Debug Information**: Optional detailed parsing information for troubleshooting
 
+## Hearing the cards
+
+Each card carries a speaker button. It uses the browser's own `speechSynthesis`, which reads the
+sentence with whatever Greek voice the operating system provides: no API key, no network request,
+nothing leaves the device, and it works offline.
+
+The button is greyed out when the device has no Greek voice installed. Tapping it then explains
+how to add one, with the steps for the platform it is actually running on — Android, iOS, Windows,
+macOS or Linux are each detected and given their own instructions. Greying it out rather than
+hiding it matters: with no Greek voice the speech engine does not fail, it picks a foreign voice
+and spells the Greek out letter by letter, which is worse than silence.
+
+On a fill-in-the-blank card the speaker appears only after the reveal, and reads the **completed**
+sentence from line 3 — never line 2, which holds the gap and the bracketed hint.
+
 ## File Format
 
 The application expects a text file with vocabulary entries in the following format:

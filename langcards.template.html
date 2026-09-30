@@ -236,7 +236,10 @@
     .flashcard {
       background: var(--card-bg);
       border-radius: 0.5rem;
-      padding: 2rem;
+      /* the top strip is reserved for the speaker on the left and the card
+         number on the right, both absolutely positioned; keeping it constant
+         means the text does not jump when the speaker appears */
+      padding: 3.4rem 2rem 2rem;
       min-height: 12rem;
       position: relative;
       cursor: pointer;
@@ -310,6 +313,108 @@
       font-size: 1.25rem;
       color: var(--text-secondary);
       margin-top: 1rem;
+    }
+
+    /* Speaker, top-left of the card, mirroring the card number on the right.
+       Kept out of .greek-text because that element's innerHTML is rewritten
+       for every card. */
+    .speak-btn {
+      position: absolute;
+      top: 0.4rem;
+      left: 0.4rem;
+      width: 2.75rem;
+      height: 2.75rem;
+      display: none;
+      place-items: center;
+      padding: 0;
+      border-radius: 50%;
+      border: 1px solid transparent;
+      background: transparent;
+      color: var(--primary);
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .speak-btn svg {
+      width: 1.25rem;
+      height: 1.25rem;
+      pointer-events: none;
+    }
+
+    @media (hover: hover) {
+      .speak-btn:hover {
+        background: var(--card-bg);
+        border-color: var(--text-muted);
+      }
+    }
+
+    .speak-btn:focus-visible {
+      outline: 2px solid var(--primary);
+      outline-offset: 2px;
+    }
+
+    .speak-btn.speaking {
+      background: var(--primary);
+      color: #ffffff;
+    }
+
+    /* No Greek voice on this device: still tappable, but it opens the
+       instructions instead of reading nonsense in an English voice. */
+    .speak-btn.unavailable {
+      color: var(--text-muted);
+      opacity: 0.45;
+    }
+
+    .tts-help {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 50;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 1rem;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .tts-help.open {
+      display: flex;
+    }
+
+    .tts-help-box {
+      background: var(--card-bg);
+      color: var(--text-color);
+      border-radius: 0.5rem;
+      padding: 1.25rem;
+      max-width: 26rem;
+      width: 100%;
+      max-height: 100%;
+      overflow-y: auto;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+    }
+
+    .tts-help-box h3 {
+      margin: 0 0 0.5rem;
+      font-size: 1.0625rem;
+    }
+
+    .tts-help-box p {
+      margin: 0 0 0.75rem;
+      color: var(--text-secondary);
+      font-size: 0.9375rem;
+      line-height: 1.5;
+    }
+
+    .tts-help-box ol {
+      margin: 0 0 0.75rem;
+      padding-left: 1.25rem;
+      color: var(--text-secondary);
+      font-size: 0.9375rem;
+      line-height: 1.6;
+    }
+
+    .tts-help-box .tts-note {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
     }
 
     .card-hint {
@@ -422,7 +527,7 @@
       }
 
       .flashcard {
-        padding: 1.25rem;
+        padding: 3.4rem 1.25rem 1.25rem;
         min-height: 38vh;
       }
 
@@ -515,12 +620,30 @@ Translation: Excuse me.</pre>
 
       <div class="flashcard" id="flashcard">
         <div class="card-number" id="card-number"></div>
+        <button class="speak-btn" id="speak-btn" type="button" aria-label="Hear this sentence in Greek">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+               stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M11 5 6 9H2v6h4l5 4V5z"></path>
+            <path d="M15.5 8.5a5 5 0 0 1 0 7"></path>
+            <path d="M19 5a9 9 0 0 1 0 14"></path>
+          </svg>
+        </button>
         <div class="greek-text" id="greek-text"></div>
         <div class="transcription-text" id="transcription-text"></div>
         <div class="english-text" id="english-text"></div>
       </div>
 
       <div class="card-hint">Tap the card or press <kbd>Space</kbd> to reveal — again for the next card</div>
+    </div>
+  </div>
+
+  <div class="tts-help" id="tts-help">
+    <div class="tts-help-box" role="dialog" aria-modal="true" aria-labelledby="tts-help-title">
+      <h3 id="tts-help-title">No Greek voice on this device</h3>
+      <p id="tts-help-intro"></p>
+      <ol id="tts-help-steps"></ol>
+      <p class="tts-note" id="tts-help-note"></p>
+      <button class="upload-button" id="tts-help-close" type="button">Got it</button>
     </div>
   </div>
 
@@ -554,6 +677,12 @@ Translation: Excuse me.</pre>
     const themeToggle = document.getElementById('theme-toggle');
     const flashcard = document.getElementById('flashcard');
     const helpTooltip = document.querySelector('.help-tooltip');
+    const speakBtn = document.getElementById('speak-btn');
+    const ttsHelp = document.getElementById('tts-help');
+    const ttsHelpIntro = document.getElementById('tts-help-intro');
+    const ttsHelpSteps = document.getElementById('tts-help-steps');
+    const ttsHelpNote = document.getElementById('tts-help-note');
+    const ttsHelpClose = document.getElementById('tts-help-close');
 
     // Theme handling
     function initTheme() {
@@ -726,6 +855,164 @@ Translation: Excuse me.</pre>
       updateCardDisplay();
     }
 
+    /* ---------------------------------------------------------------
+       Speech. The browser's own speechSynthesis reads the card, using
+       whatever Greek voice the operating system provides — no key, no
+       network, works offline. With no Greek voice installed the engine
+       does not fail: it picks a foreign voice and spells the Greek out
+       letter by letter, so the button is greyed out instead and explains
+       how to add one.
+       --------------------------------------------------------------- */
+    const ttsSupported = 'speechSynthesis' in window;
+    let greekVoice = null;
+
+    const TTS_STEPS = {
+      android: {
+        name: 'Android',
+        steps: ['Open Settings and search for "Text-to-speech"',
+                'Tap the gear next to Google Speech Services',
+                'Choose "Install voice data", then Ελληνικά (Greek)'],
+      },
+      ios: {
+        name: 'iPhone or iPad',
+        steps: ['Settings → Accessibility → Spoken Content',
+                'Tap Voices, then Greek',
+                'Download a voice — Melina is the usual one'],
+      },
+      windows: {
+        name: 'Windows',
+        steps: ['Settings → Time & language → Language & region',
+                'Add a language → Ελληνικά (Greek)',
+                'Open its three-dot menu → Language options, and install Speech',
+                'Restart the browser'],
+      },
+      mac: {
+        name: 'macOS',
+        steps: ['System Settings → Accessibility → Spoken Content',
+                'Click the info button next to System Voice → Manage Voices',
+                'Find Greek and download a voice'],
+      },
+      linux: {
+        name: 'Linux',
+        steps: ['Install a speech engine with Greek support, such as espeak-ng',
+                'Make sure the el voice data is installed',
+                'Restart the browser'],
+      },
+      unknown: {
+        name: 'this device',
+        steps: ['Open your system settings and look for text-to-speech or spoken content',
+                'Add a Greek (Ελληνικά) voice',
+                'Restart the browser'],
+      },
+    };
+
+    function detectPlatform() {
+      const ua = navigator.userAgent;
+      if (/Android/i.test(ua)) return 'android';
+      // iPadOS 13+ reports itself as a Mac, so check for a touch screen too
+      if (/iPhone|iPad|iPod/i.test(ua) ||
+          (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1)) return 'ios';
+      if (/Windows/i.test(ua)) return 'windows';
+      if (/Macintosh|Mac OS X/i.test(ua)) return 'mac';
+      if (/Linux|X11|CrOS/i.test(ua)) return 'linux';
+      return 'unknown';
+    }
+
+    function findGreekVoice() {
+      if (!ttsSupported) return null;
+      const greek = speechSynthesis.getVoices().filter(v => /^el(-|_|$)/i.test(v.lang));
+      if (greek.length === 0) return null;
+      // an on-device voice works offline and starts instantly
+      return greek.find(v => v.localService) || greek[0];
+    }
+
+    function refreshGreekVoice() {
+      greekVoice = findGreekVoice();
+      speakBtn.classList.toggle('unavailable', !greekVoice);
+      speakBtn.title = greekVoice
+        ? `Hear this sentence (${greekVoice.name})`
+        : 'No Greek voice on this device — tap to see how to add one';
+    }
+
+    // A fill-in card holds the gapped prompt and a bracketed hint in field 1,
+    // and the completed sentence in field 2. Only the latter is worth hearing.
+    function speakableText(card) {
+      return card.greek.includes('___') ? card.transcription : card.greek;
+    }
+
+    function updateSpeakButton() {
+      const card = cards[currentCardIndex];
+      if (!card || !ttsSupported) {
+        speakBtn.style.display = 'none';
+        return;
+      }
+      const isFillIn = card.greek.includes('___');
+      // Before the reveal a fill-in card has no sentence yet, and reading the
+      // answer out would give the exercise away.
+      const ready = (!isFillIn || showTranslation) && (showGreek || showTranslation);
+      speakBtn.style.display = ready ? 'grid' : 'none';
+    }
+
+    function stopSpeaking() {
+      if (ttsSupported) speechSynthesis.cancel();
+      speakBtn.classList.remove('speaking');
+    }
+
+    function openTtsHelp() {
+      const platform = TTS_STEPS[detectPlatform()];
+      ttsHelpIntro.textContent =
+        `LangCards reads cards with the Greek voice built into ${platform.name}. ` +
+        'This device does not have one yet, so the button stays grey.';
+      ttsHelpSteps.innerHTML = '';
+      platform.steps.forEach(function(step) {
+        const li = document.createElement('li');
+        li.textContent = step;
+        ttsHelpSteps.appendChild(li);
+      });
+      ttsHelpNote.textContent =
+        'Once the voice is installed, reload this page and the speaker turns blue. ' +
+        'Nothing is sent anywhere — the speech happens on your device.';
+      ttsHelp.classList.add('open');
+      ttsHelpClose.focus();
+    }
+
+    function closeTtsHelp() {
+      ttsHelp.classList.remove('open');
+    }
+
+    speakBtn.addEventListener('click', function(event) {
+      // the card itself reveals or advances on click; the speaker must not
+      event.stopPropagation();
+      if (!greekVoice) {
+        openTtsHelp();
+        return;
+      }
+      const card = cards[currentCardIndex];
+      if (!card) return;
+      speechSynthesis.cancel();      // iOS will not start a second utterance without this
+      const utterance = new SpeechSynthesisUtterance(speakableText(card));
+      utterance.voice = greekVoice;
+      utterance.lang = greekVoice.lang;
+      utterance.rate = 0.9;          // a shade under natural pace, for learners
+      utterance.onstart = () => speakBtn.classList.add('speaking');
+      utterance.onend = () => speakBtn.classList.remove('speaking');
+      utterance.onerror = () => speakBtn.classList.remove('speaking');
+      speechSynthesis.speak(utterance);
+    });
+
+    ttsHelpClose.addEventListener('click', closeTtsHelp);
+    ttsHelp.addEventListener('click', function(event) {
+      if (event.target === ttsHelp) closeTtsHelp();
+    });
+
+    refreshGreekVoice();
+    if (ttsSupported) {
+      // the voice list is often empty on first paint and fills in a beat later
+      speechSynthesis.addEventListener('voiceschanged', refreshGreekVoice);
+      setTimeout(refreshGreekVoice, 500);
+      setTimeout(refreshGreekVoice, 2000);
+    }
+
     function updateCardDisplay() {
       const currentCard = cards[currentCardIndex];
       if (!currentCard) return;
@@ -750,6 +1037,8 @@ Translation: Excuse me.</pre>
       } else {
         englishText.style.display = 'none';
       }
+
+      updateSpeakButton();
     }
 
     // Event Listeners
@@ -765,6 +1054,7 @@ Translation: Excuse me.</pre>
     // Space and a tap/click on the card both go through here.
     function revealOrAdvance() {
       if (cards.length === 0 || currentCardIndex === -1) return;
+      stopSpeaking();
 
       if (!showTranslation) {
         showTranslation = true;
@@ -777,7 +1067,13 @@ Translation: Excuse me.</pre>
     flashcard.addEventListener('click', revealOrAdvance);
 
     document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape' && ttsHelp.classList.contains('open')) {
+        closeTtsHelp();
+        return;
+      }
       if (event.code !== 'Space' && event.key !== ' ') return;
+      // the dialog owns the keyboard while it is open
+      if (ttsHelp.classList.contains('open')) return;
       if (cards.length === 0 || currentCardIndex === -1) return;
 
       const active = document.activeElement;
