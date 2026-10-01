@@ -101,7 +101,7 @@ not (with the indicative) — particle
 21
 έχω
 eho
-to have — verb — seen as: έχει, έχω, έχουν, έχετε, έχουμε, έχοντας, είχε, είχαν +4 more
+to have — verb — seen as: έχει, έχω, έχουν, έχετε, έχουμε, έχοντας, είχε, είχαν +5 more
 
 22
 η λέξη
@@ -194,14 +194,14 @@ dio
 two — pronoun
 
 40
+μένω
+meno
+live — verb — seen as: μένει, μένω, μένεις, μένα, μένουν, μένετε, Μένουμε, μέσω +11 more
+
+41
 όλος
 olos
 all, whole, entire — adjective — seen as: όλα, όλοι, όλες, όλη, ος, όλο, ές, όλους +2 more
-
-41
-μένω
-meno
-live — verb — seen as: μένει, μένω, μένεις, μένα, μένουν, μένετε, Μένουμε, μέσω +10 more
 
 42
 η μέρα
@@ -269,19 +269,19 @@ i grammatiki
 grammar — noun — seen as: ΓΡΑΜΜΑΤΙΚΗ, γραμματικής, γραμματικών
 
 55
+βρίσκω
+vrisko
+find — verb — seen as: βρίσκετε, Βρίσκεις, βρίσκω, βρίσκουμε, βρίσκουν, βρίσκει, βρεις, βρω +10 more
+
+56
 πολύς
 polis
 much, many, a lot of — adjective — seen as: πολλά, πολλές, πολλοί, πολλή, πολλής, πολλούς, πολύς, πολά
 
-56
+57
 η γλώσσα
 i glossa
 language — noun — seen as: γλώσσα, γλώσσας, γλώσσες, γλωσσών, γλώσσαν
-
-57
-βρίσκω
-vrisko
-find — verb — seen as: βρίσκετε, Βρίσκεις, βρίσκω, βρίσκουμε, βρίσκουν, βρίσκει, βρεις, βρω +7 more
 
 58
 ο φίλος
@@ -519,14 +519,14 @@ to mathima
 lesson — noun — seen as: μαθήματα, μάθημα, μαθημάτων, μαθήματος, μαθημων
 
 105
+τρώω
+troo
+to eat — verb — seen as: τρώω, τρώτε, τρώει, τρώσεις, τρώσατε, τρώμε, τρως, φάω +13 more
+
+106
 η συμβουλή
 i simvouli
 advice — noun — seen as: Συμβουλή, Συμβουλές
-
-106
-τρώω
-troo
-to eat — verb — seen as: τρώω, τρώτε, τρώει, τρώσεις, τρώσατε, τρώμε, τρως, φάω +12 more
 
 107
 το ξενοδοχείο
@@ -554,19 +554,19 @@ enono
 unite — verb — seen as: Ενώνεις, ενώνετε, ενώνει, ενώσεις, ενώνουν
 
 112
+έρχομαι
+erhome
+come — verb — seen as: έρχομαι, Έρχεται, έρχονται, Έρχεσαι, Ερχόμαστε, Έρχεστε, έρθω, έρθετε +12 more
+
+113
 μαθαίνω
 matheno
 learn — verb — seen as: μαθαίνω, μαθαίνουν, μάθετε, μάθω, Έμαθα, μάθεις, μαθαίνετε, Μάθε +9 more
 
-113
+114
 με λένε
 me lene
 my name is — phrase — seen as: λένε
-
-114
-έρχομαι
-erhome
-come — verb — seen as: έρχομαι, Έρχεται, έρχονται, Έρχεσαι, Ερχόμαστε, Έρχεστε, έρθω, έρθετε +11 more
 
 115
 το φαγητό
@@ -629,29 +629,29 @@ paratiro
 observe — verb — seen as: παρατηρώ, παρατηρείς, παρατηρούν, παρατηρήσουν, Παρατήρησε
 
 127
+δουλεύω
+doulevo
+work — verb — seen as: δουλεύει, δουλεύω, δουλεύουν, Δουλεύεις, Δουλεύετε, Δούλεψα, δουλέψω, δουλέψουμε +4 more
+
+128
 η Ελλάδα
 i ellada
 Greece — noun — seen as: Ελλάδα, Ελλάδας
 
-128
+129
 ότι
 oti
 that (reporting) — conjunction
 
-129
+130
 η τιμή
 i timi
 price — noun — seen as: τιμή, τιμές
 
-130
+131
 η φορά
 i fora
 time — noun — seen as: φορά, φορές, φοράς
-
-131
-δουλεύω
-doulevo
-work — verb — seen as: δουλεύει, δουλεύω, δουλεύουν, Δουλεύεις, Δουλεύετε, Δούλεψα, δουλέψω, δουλέψουμε +3 more
 
 132
 όποιος
@@ -849,34 +849,34 @@ i tenia
 movie, film — noun — seen as: ταινία, ταινίες, ταινίας
 
 171
+φεύγω
+fevgo
+to leave — verb — seen as: φεύγω, φεύγει, Φεύγουμε, φεύγετε, φεύγουν, Φεύγεις, φύγω, φύγουμε +11 more
+
+172
 ανοίγω
 anigo
 open — verb — seen as: ανοίγω, ανοίξω, ανοίξεις, ανοίγει, ανοίξει, ανοίξτε, ανοίγουν, Άνοιξε +5 more
 
-172
+173
 αυτές
 aftes
 they — pronoun
 
-173
+174
 το ζευγάρι
 to zevgari
 couple — noun — seen as: ζευγάρια, ζευγάρι
 
-174
+175
 το κέντρο
 to kendro
 center — noun — seen as: κέντρο, Κέντρου, κέντρων, κέντρα
 
-175
+176
 πριν
 prin
 before — adverb
-
-176
-φεύγω
-fevgo
-to leave — verb — seen as: φεύγω, φεύγει, Φεύγουμε, φεύγετε, φεύγουν, Φεύγεις, φύγω, φύγουμε +10 more
 
 177
 δείχνω
@@ -904,14 +904,14 @@ o kiklos
 circle — noun — seen as: κύκλο
 
 182
+υπάρχω
+iparho
+to exist, to be — verb — seen as: υπάρχουν, υπήρχε
+
+183
 η προσοχή
 i prosohi
 attention — noun — seen as: προσοχή
-
-183
-υπάρχω
-iparho
-to exist, to be — verb — seen as: υπάρχουν
 
 184
 το θέατρο
@@ -1104,44 +1104,44 @@ sihna
 often — adverb — seen as: συχνά, συχνές
 
 222
+γίνομαι
+yinome
+become — verb — seen as: γίνεται, γίνομαι, γίνονται, έγινε, γίνει, γίνουν, γίνω, γίνεις +3 more
+
+223
 το λεπτό
 to lepto
 minute — noun — seen as: λεπτά, λεπτό
 
-223
+224
 χρησιμοποιώ
 hrisimopio
 to use — verb — seen as: Χρησιμοποιείς, χρησιμοποιώ, χρησιμοποιεί, χρησιμοποιείτε, χρησιμοποιούμε, χρησιμοποιώντας, χρησιμοποιούν, χρησιμοποιήσεις +7 more
 
-224
+225
 έτσι
 etsi
 so — adverb
 
-225
+226
 πάντα
 panda
 always — adverb
 
-226
+227
 πίνω
 pino
 drink — verb — seen as: πίνω, πίνει, πίνουν, πίνουμε, πίνεις, πίνετε, πιείτε, πιεις +5 more
 
-227
+228
 η στήλη
 i stili
 column — noun — seen as: στήλη, στήλες, στήλης
 
-228
+229
 ο υπάλληλος
 o ipallilos
 employee — noun — seen as: Υπάλληλος, υπάλληλο, υπαλλήλου, υπαλλήλους, υπάλληλοι
-
-229
-γίνομαι
-yinome
-become — verb — seen as: γίνεται, γίνομαι, γίνονται, έγινε, γίνει, γίνουν, γίνω, γίνεις +2 more
 
 230
 η Κυριακή
@@ -1166,7 +1166,7 @@ step — noun — seen as: βήματα, Βήμα
 234
 ευχαριστώ
 efharisto
-thank — verb — seen as: ευχαριστώ, ευχάριστα, Ευχαριστούμε, ευχαριστείτε, ευχαριστήσουμε
+thank — verb — seen as: ευχαριστώ, ευχάριστα, Ευχαριστούμε, ευχαριστείτε, ευχαριστήσουμε, ευχαριστήσει
 
 235
 η ζωή
@@ -1231,7 +1231,7 @@ bus stop — noun — seen as: στάση, στάσεις
 247
 στέλνω
 stelno
-send — verb — seen as: στέλνω, στέλνει, Στέλνεις, στέλνουν, στείλω, έστειλα, έστειλε, στείλεις +6 more
+send — verb — seen as: στέλνω, στέλνει, Στέλνεις, στέλνουν, στείλω, έστειλα, έστειλε, στείλεις +7 more
 
 248
 τρεις
@@ -1354,124 +1354,124 @@ o ipoloyistis
 computer — noun — seen as: υπολογιστή, υπολογιστής, υπολογιστές, υπολογιστοί
 
 272
+ακολουθώ
+akoloutho
+follow — verb — seen as: ακολουθείτε, Ακολουθούν, ακολουθεί, ακολουθώντας, ακολουθείται, ακολουθούνται, Ακολουθήστε, ακολούθησα
+
+273
 ακριβός
 akrivos
 expensive — adjective — seen as: ακριβό, ακριβά, ακριβές, ακριβός, ακριβή
 
-273
+274
+αργώ
+argo
+be late — pronoun — seen as: αργά, αργώ, αργούν, αργείτε, αργήσω, αργήσεις, Αργήσαμε, άργησα +2 more
+
+275
 η βόλτα
 i volta
 walk — noun — seen as: βόλτα, βόλτες
 
-274
+276
 εμείς
 emis
 we — noun
 
-275
+277
 κλείνω
 klino
 reserve — verb — seen as: κλείνω, κλειστού, έκλεισες, έκλεισε, κλείσω, κλείσει, κλείνεις, κλείσουμε +8 more
 
-276
+278
 μπαίνω
 beno
 enter — verb — seen as: μπαίνω, μπαίνει, μπαίνουν, μπω, Μπα, μπεις, μπες, μπαίνεις +7 more
 
-277
+279
 το νερό
 to nero
 water — noun — seen as: νερό, νερά, νερού
 
-278
+280
 πλένω
 pleno
 wash — verb — seen as: πλένω, πλένεις, πλένει, πλένετε, πλένουμε, πλέσω, πλύνω, πλύνετε +4 more
 
-279
+281
 η σειρά
 i sira
 series — noun — seen as: σειρά, σειράς
 
-280
+282
 το ταχυδρομείο
 to tahidromio
 post office — noun — seen as: ταχυδρομείο, Ταχυδρομεία
 
-281
+283
 τελειώνω
 teliono
 to end, to finish — verb — seen as: τελειώνουν, τελειώσω, τελειώνω, τελειώσει, Τελείωσα, τελείωσαν, Τελειώνει, τελειώσεις
 
-282
+284
 η αγορά
 i agora
 market — noun — seen as: αγορά, αγορές
 
-283
+285
 η εκδρομή
 i ekdromi
 excursion — noun — seen as: εκδρομή, εκδρομές, εκδρομής, εκδρομών
 
-284
+286
 κόκκινος
 kokkinos
 red — adjective — seen as: κόκκινο, κόκκινα, κόκκινες, κόκκινη, κόκκινος
 
-285
+287
 ο κύριος
 o kirios
 Mr. — noun — seen as: κύριος, κύριε, κύριο, κύριους, κυρίου
 
-286
+288
 το Σάββατο
 to savvato
 Saturday — noun — seen as: Σάββατο
 
-287
-ακολουθώ
-akoloutho
-follow — verb — seen as: ακολουθείτε, Ακολουθούν, ακολουθεί, ακολουθώντας, ακολουθείται, ακολουθούνται, Ακολουθήστε
-
-288
+289
 ο άντρας
 o andras
 man — noun — seen as: άντρας, σύζυγο, άντρα, άντρες
 
-289
+290
 η ευκαιρία
 i efkeria
 opportunity — noun — seen as: ευκαιρία, ευκαιρίες, ευκαιρίας
 
-290
+291
 ξεκινάω
 xekinao
 start — verb — seen as: ξεκινούν, ξεκινάω, ξεκινά, ξεκίνησα, ξεκινήσουν, ξεκινάει, ξεκινάς, ξεκινήσεις +7 more
 
-291
+292
 παλιός
 palios
 old — adjective — seen as: παλιό, παλιά, παλιός, παλιούς, παλιές, παλιοί
 
-292
+293
 πάνω
 pano
 on, above, up — adverb
 
-293
+294
 ταιριάζω
 teriazo
 to fit, to match, to suit — verb — seen as: ταιριάζουν, ταιριάζει, ταιριάζω
 
-294
+295
 ο αγώνας
 o agonas
 competition — noun — seen as: αγώνες, αγώνας, αγώνα
-
-295
-αργώ
-argo
-be late — pronoun — seen as: αργά, αργώ, αργούν, αργείτε, αργήσω, αργήσεις, Αργήσαμε, άργησα
 
 296
 το κορίτσι
@@ -1534,269 +1534,269 @@ i profora
 pronunciation — noun — seen as: Προφορά, προφοράς
 
 308
+ταξιδεύω
+taxidevo
+to travel, to take a trip, to make a journey — verb — seen as: ταξιδεύει, ταξιδεύω, ταξιδεύεις, ταξιδεύουν, ταξιδέψω, ταξιδέψεις, ταξίδεψα, ταξιδέψετε +5 more
+
+309
 υπάρχει
 iparhi
 there is — verb
 
-309
+310
 το φάρμακο
 to farmako
 drug, medicine — noun — seen as: φάρμακο, φάρμακα
 
-310
+311
 φτάνω
 ftano
 to arrive, to reach — verb — seen as: φτάνει, φτάσει, φτάσουμε, Έφτασα, φτάσουν, έφτασε, Φτάνουμε, Φτάνω +5 more
 
-311
+312
 η Αλίκη
 i aliki
 Alice — noun — seen as: Αλίκη
 
-312
+313
 γρήγορα
 grigora
 quickly — noun
 
-313
+314
 η Κατερίνα
 i katerina
 Catherine — noun — seen as: Κατερίνα, Κατερίνας
 
-314
+315
 κρύος
 krios
 cold — adjective — seen as: κρύα, κρύο
 
-315
+316
 η Παρασκευή
 i paraskevi
 Friday — noun — seen as: Παρασκευή
 
-316
+317
 η πλατεία
 i platia
 square — noun — seen as: πλατεία, πλατείες
 
-317
+318
 φιλώ
 filo
 kiss — verb — seen as: φίλες, φίλε, φίλα, φιλώ
 
-318
+319
 η διεύθυνση
 i diefthinsi
 address — noun — seen as: διεύθυνση
 
-319
+320
 ελεύθερο
 elefthero
 free — adverb
 
-320
+321
 η θάλασσα
 i thalassa
 sea — noun — seen as: θάλασσα, Θάλασσες
 
-321
+322
 το μπάνιο
 to banio
 bathroom — noun — seen as: μπάνιο, μπάνια, μπάνιου
 
-322
+323
 η παρέα
 i parea
 company — noun — seen as: παρέα, παρέες
 
-323
+324
 παρουσιάζω
 parousiazo
 present — verb — seen as: παρουσιάζετε, παρουσιάζεις, παρουσιάσουν, Παρουσιάζω
 
-324
+325
 ο πελάτης
 o pelatis
 client — noun — seen as: Πελάτης, πελάτες, πελατών
 
-325
+326
 σημαίνω
 simeno
 mean — verb — seen as: σημαίνουν, σημαίνει
 
-326
-ταξιδεύω
-taxidevo
-to travel, to take a trip, to make a journey — verb — seen as: ταξιδεύει, ταξιδεύω, ταξιδεύεις, ταξιδεύουν, ταξιδέψω, ταξιδέψεις, ταξίδεψα, ταξιδέψετε +4 more
-
 327
+τηλεφωνώ
+tilefono
+call — verb — seen as: τηλεφωνώ, τηλεφωνεί, τηλεφωνείτε, Τηλεφωνείς, τηλεφώνησε, τηλεφωνήσει, τηλεφωνήσω, τηλεφώνησαν +6 more
+
+328
 χθες
 hthes
 yesterday — adverb
 
-328
+329
 τα χρήματα
 ta hrimata
 money — noun — seen as: χρήματα, χρημάτων, χρήμα
 
-329
+330
 ο αριθμός
 o arithmos
 number — noun — seen as: αριθμό, αριθμούς, Αριθμός, Αριθμοί
 
-330
+331
 δύσκολος
 diskolos
 difficult — adjective — seen as: δύσκολη, δύσκολο, δύσκολος, δυσκολίες, δύσκολοι, δυσκολότερη
 
-331
+332
 το επάγγελμα
 to epangelma
 profession — noun — seen as: επάγγελμα, επαγγέλματα
 
-332
+333
 η παράσταση
 i parastasi
 performance — noun — seen as: παράσταση, παράστασης, παραστάσεις
 
-333
+334
 πίσω
 piso
 behind, back — adverb
 
-334
+335
 αυτόν τον καιρό
 afton ton kero
 at this time — adverb — seen as: αυτόν
 
-335
+336
 δίπλα
 dipla
 next to, beside — adverb
 
-336
+337
 εκεί
 eki
 there — noun
 
-337
+338
 ξανά
 xana
 again — adverb
 
-338
+339
 η χαρά
 i hara
 happiness, joy — noun — seen as: χαρά, χαρές
 
-339
+340
 ο αδερφός
 o aderfos
 brother — noun — seen as: αδερφός, αδερφό
 
-340
+341
 η Βασιλική
 i vasiliki
 Vasiliki — noun — seen as: Βασιλική
 
-341
+342
 το διαδίκτυο
 to diadiktio
 internet — noun — seen as: διαδίκτυο
 
-342
+343
 η διάρκεια
 i diarkia
 duration — noun — seen as: διάρκεια
 
-343
+344
 ξυπνάω
 xipnao
 wake up — verb — seen as: ξυπνάω, ξυπνάει, ξυπνήσεις, ξυπνήσει, ξυπνάς, ξυπνώ, ξύπνησε, ξυπνήσω +1 more
 
-344
+345
 το πιάτο
 to piato
 plate — noun — seen as: πιάτα, πιάτο, πιάτων
 
-345
+346
 συμφωνώ
 simfono
 to agree — verb — seen as: συμφωνούν, συμφωνείς, σύμφωνα, σύμφωνες, συμφωνεί
 
-346
+347
 τέλειος
 telios
 perfect — adjective — seen as: τελείες, τέλεια
 
-347
+348
 το χωριό
 to horio
 village — noun — seen as: χωριό, χωριά
 
-348
+349
 το αβγό
 to avgo
 egg — noun — seen as: αβγά, αβγό, αβγών
 
-349
+350
 το άτομο
 to atomo
 individual — noun — seen as: άτομα, άτομο, ατόμων, ατόμου
 
-350
+351
 η γειτονιά
 i yitonia
 neighborhood — noun — seen as: γειτονιά, γειτονιάς
 
-351
+352
 οι γονείς
 i gonis
 parents — noun — seen as: γονείς
 
-352
+353
 οι διακοπές
 i diakopes
 holidays — noun — seen as: διακοπές
 
-353
+354
 η διαφορά
 i diafora
 difference — noun — seen as: διαφορές, διάφορα
 
-354
+355
 το δώρο
 to doro
 gift — noun — seen as: δώρο, δώρα, Δώρας
 
-355
+356
 το εξωτερικό
 to exoteriko
 abroad — noun — seen as: εξωτερικό, εξωτερικού, εξωτερικά
 
-356
+357
 παρακαλώ
 parakalo
 please — verb
 
-357
+358
 πονώ
 pono
 hurt — verb — seen as: Πονάει, πονάω, Πόσω, πονάτε, πονέσει, πονάσει, πονάς
 
-358
+359
 η Σοφία
 i sofia
 Sophia — noun — seen as: Σοφία, Σοφίας
 
-359
+360
 το τένις
 to tenis
 tennis — noun — seen as: τένις
-
-360
-τηλεφωνώ
-tilefono
-call — verb — seen as: τηλεφωνώ, τηλεφωνεί, τηλεφωνείτε, Τηλεφωνείς, τηλεφώνησε, τηλεφωνήσει, τηλεφωνήσω, τηλεφώνησαν +3 more
 
 361
 ανεβαίνω
@@ -2044,529 +2044,529 @@ to kilo
 kilogram — noun — seen as: κιλά, κιλό
 
 410
+μαγειρεύω
+mayirevo
+cook — verb — seen as: μαγειρεύω, μαγειρεύετε, μαγειρεύει, Μαγειρεύουν, Μαγειρεύουμε, μαγειρέψεις, μαγειρέψω, μαγείρεψα +3 more
+
+411
 το μουσείο
 to mousio
 museum — noun — seen as: μουσεία, μουσείο
 
-411
+412
 χτες
 htes
 yesterday — adverb
 
-412
+413
 ίδιος
 idios
 same — adjective — seen as: ίδιο, ίδιος, ίδιους, ίδιοι, ίδιας, ίδιες
 
-413
+414
 το λουλούδι
 to louloudi
 flower — noun — seen as: λουλούδια
 
-414
+415
 προηγούμενος
 proigoumenos
 previous — adjective — seen as: προηγούμενη, προηγούμενο, προηγούμενης, προηγούμενες, προηγούμενα, προηγούμενου, προηγούμενους
 
-415
+416
 τέσσερις
 tesseris
 four — numeral — seen as: τέσσερις, τεσσάρων
 
-416
+417
 το αγόρι
 to agori
 boy — noun — seen as: αγόρι, αγόρια, αγοριών, αγοριας
 
-417
+418
 το αεροπλάνο
 to aeroplano
 airplane — noun — seen as: αεροπλάνο
 
-418
+419
 ακόμη
 akomi
 more — adverb
 
-419
+420
 ο Αντώνης
 o andonis
 Antonis — noun — seen as: Αντώνης, Αντώνη, Αντωνία
 
-420
+421
 αρχίζω
 arhizo
 begin — verb — seen as: αρχίζει, αρχίζω, αρχίσει, αρχίζουν, Αρχίζετε, άρχισα, αρχίσω, άρχισε
 
-421
+422
 η Βίκυ
 i viki
 Vicky — noun — seen as: Βίκυ
 
-422
+423
 το διαμέρισμα
 to diamerisma
 apartment — noun — seen as: διαμέρισμα, διαμερίσματα
 
-423
+424
 η είσοδος
 i isodos
 entrance — noun — seen as: Είσοδος, είσοδο
 
-424
-μαγειρεύω
-mayirevo
-cook — verb — seen as: μαγειρεύω, μαγειρεύετε, μαγειρεύει, Μαγειρεύουν, Μαγειρεύουμε, μαγειρέψεις, μαγειρέψω, μαγείρεψα +2 more
-
 425
+καλώ
+kalo
+call — verb — seen as: καλώ, καλώντας, καλούν, καλεί, καλέ, καλούνται, καλέσει, Κάλεσε +6 more
+
+426
 νωρίς
 noris
 early — adverb
 
-426
+427
 πουλάω
 poulao
 sell — verb — seen as: πουλάει, πουλήσει, πουλάνε, πουλάω, πούλησα, πουλήσεις, πούλησε
 
-427
+428
 η πρόσκληση
 i prosklisi
 invitation — noun — seen as: πρόσκληση, προσκλήσεις
 
-428
+429
 ο τρόπος
 o tropos
 way, manner, style — noun — seen as: τρόπο, τρόπος
 
-429
+430
 ψωνίζω
 psonizo
 to shop, to go shopping — verb — seen as: ψωνίζεις, ψωνίζουν, ψωνίζω, ψωνίσεις, ψωνίσει, ψώνισα, ψωνίσω, ψωνίστε +2 more
 
-430
+431
 η βαλίτσα
 i valitsa
 suitcase — noun — seen as: βαλίτσα, βαλίτσες
 
-431
+432
 η βιβλιοθήκη
 i vivliothiki
 library — noun — seen as: βιβλιοθήκη, βιβλιοθήκες
 
-432
+433
 το βουνό
 to vouno
 mountain — noun — seen as: βουνό, βουνά, βουνού
 
-433
+434
 ο γάμος
 o gamos
 marriage — noun — seen as: γάμο, γάμος, γάμου, γάμα
 
-434
+435
 δύσκολα
 diskola
 difficultly — verb — seen as: δύσκολα, δύσκολες
 
-435
+436
 εξηγώ
 exigo
 explain — verb — seen as: Εξηγείς, εξηγείτε, εξηγήσουν, Εξήγησε, εξηγήσει
 
-436
+437
 έξι
 exi
 six — numeral
 
-437
+438
 ο όροφος
 o orofos
 floor — noun — seen as: όροφο, όροφος, ορόφους, οροφού
 
-438
+439
 η πολυκατοικία
 i polikatikia
 apartment building — noun — seen as: πολυκατοικία, πολυκατοικίες, πολυκατοικίας
 
-439
+440
 το πρόσωπο
 to prosopo
 face — noun — seen as: πρόσωπο, πρόσωπα, προσώπου
 
-440
+441
 προτιμάω
 protimao
 prefer — verb — seen as: Προτιμάς, προτιμάει, προτιμούν, Προτιμώ, προτιμάτε, Προτιμήστε
 
-441
+442
 υπόλοιπος
 ipolipos
 remaining — adjective — seen as: υπόλοιπες, υπόλοιποι
 
-442
+443
 χοντρός
 hondros
 fat — adjective — seen as: χοντρός, χοντρή, χοντρό
 
-443
+444
 η απάντηση
 i apandisi
 answer — noun — seen as: απάντηση, απάντησής, απαντήσεων
 
-444
+445
 γι' αυτό
 yi' afto
 therefore — adverb — seen as: γι
 
-445
+446
 εμένα
 emena
 me — pronoun
 
-446
+447
 ηλεκτρικός
 ilektrikos
 electric — adjective — seen as: ηλεκτρικές, ηλεκτρική, ηλεκτρικά, ηλεκτρικού
 
-447
-καλώ
-kalo
-call — verb — seen as: καλώ, καλώντας, καλούν, καλεί, καλέ, καλούνται, καλέσει, Κάλεσε +4 more
-
 448
+η θέση
+i thesi
+position — noun — seen as: θέση, θέσει
+
+449
 η κοπέλα
 i kopela
 girl — noun — seen as: κοπέλα, κοπέλες
 
-449
+450
 κρατάω
 kratao
 hold — verb — seen as: κρατάς, κρατάει, κρατάτε, κρατήσει, κρατούν, κρατήστε, κρατήσετε, κρατάνε
 
-450
+451
 η Μαρίνα
 i marina
 Marina — noun — seen as: Μαρίνα
 
-451
+452
 μισός
 misos
 half — adjective — seen as: μισή, Μισό
 
-452
+453
 ο Μιχάλης
 o mihalis
 Michael — noun — seen as: Μιχάλης, Μιχάλη
 
-453
+454
 το μπαρ
 to bar
 bar — noun — seen as: μπαρ
 
-454
+455
 πέμπτος
 pembtos
 fifth — numeral — seen as: Πέμπτη, Πέμπτος
 
-455
+456
 ποιανού
 pianou
 whose — pronoun — seen as: Ποιανού, ης
 
-456
+457
 το σαλόνι
 to saloni
 living room — noun — seen as: σαλόνι
 
-457
+458
 το στοιχείο
 to stihio
 element — noun — seen as: στοιχεία, στοιχείων
 
-458
+459
 το χέρι
 to heri
 hand, arm — noun — seen as: χέρια, χέρι
 
-459
+460
 ο χώρος
 o horos
 space, room — noun — seen as: χώρους, χώρο, χώροι, χώρος
 
-460
+461
 το ψωμί
 to psomi
 bread — noun — seen as: ψωμί
 
-461
+462
 η Αλεξία
 i alexia
 Alexia — noun — seen as: Αλεξία
 
-462
+463
 απλός
 aplos
 simple — adjective — seen as: απλό, απλούς, απλοί, απλή, απλά, Απλός
 
-463
+464
 ο Βασίλης
 o vasilis
 Vasilis — noun — seen as: Βασίλης, Βασίλη
 
-464
+465
 διαφημίζω
 diafimizo
 advertise — verb — seen as: διαφημίσεις, διαφημίζει, διαφημίζετε
 
-465
+466
 δική μας
 diki mas
 our — noun — seen as: δική
 
-466
+467
 δίνομαι
 dinome
 give oneself — verb — seen as: δίνεται, δίνονται
 
-467
+468
 το είδος
 to idos
 kind — noun — seen as: είδη, Είδος, είδε
 
-468
+469
 μακριά
 makria
 far away — adverb
 
-469
+470
 το ντουλάπι
 to doulapi
 cupboard — noun — seen as: ντουλάπια, ντουλάπι
 
-470
+471
 το οικογενειακό δέντρο
 to ikoyeniako dendro
 family tree — noun — seen as: δέντρο, δέντρα, οικογενειακό
 
-471
+472
 το πιάνο
 to piano
 piano — noun — seen as: πιάνο, πιάνου
 
-472
+473
 προσπαθώ
 prospatho
 try — verb — seen as: προσπαθούν, Προσπαθείτε, Προσπαθείς, Προσπαθώ, Προσπαθήστε
 
-473
+474
 ο Σεπτέμβριος
 o septemvrios
 September — noun — seen as: Σεπτεμβρίου, Σεπτέμβριο, Σεπτέμβριος
 
-474
+475
 φτηνός
 ftinos
 cheap — adjective — seen as: φτηνό, φτηνή, φτηνά, φτηνός
 
-475
+476
 το ωράριο
 to orario
 schedule, working hours — noun — seen as: ωράριο, ωράρια
 
-476
+477
 η αγγελία
 i angelia
 ad — noun — seen as: αγγελία, αγγελίες
 
-477
+478
 η Αναστασία
 i anastasia
 Anastasia — noun — seen as: Αναστασία, Αναστασίας
 
-478
+479
 αριστερός
 aristeros
 left (left-hand) — adjective — seen as: αριστερά, ΑΡΙΣΤΕΡΟ
 
-479
+480
 η γιαγιά
 i yiayia
 grandmother — noun — seen as: γιαγιά, γιαγιάς
 
-480
+481
 ο γιος
 o yios
 son — noun — seen as: γιος, γιο, γιοι, γιους
 
-481
+482
 οι δουλειές σπιτιού
 i doulies spitiou
 housework — noun — seen as: δουλειές
 
-482
+483
 η ζέστη
 i zesti
 warm — noun — seen as: ζέστη, ζεστές
 
-483
+484
 η ιδέα
 i idea
 idea — noun — seen as: ιδέα, ιδέες, ιδέας
 
-484
+485
 ο κίνδυνος
 o kindinos
 danger — noun — seen as: κινδύνους, κίνδυνοι, κίνδυνος
 
-485
+486
 η σελίδα
 i selida
 page — noun — seen as: σελίδες, σελίδα, σελίδας
 
-486
+487
 συνήθως
 sinithos
 usually — adverb
 
-487
+488
 η συνταγή
 i sindayi
 recipe — noun — seen as: συνταγή, συνταγές
 
-488
+489
 τέσσερα
 tessera
 four — numeral
 
-489
+490
 το τζάκι
 to tzaki
 fire place — noun — seen as: τζάκι
 
-490
+491
 η υπηρεσία
 i ipiresia
 service, agency, office — noun — seen as: υπηρεσίες, υπηρεσία
 
-491
+492
 φέτος
 fetos
 this year — adverb
 
-492
+493
 ο Αλέξης
 o alexis
 Alexis — noun — seen as: Αλέξης, Αλέξη
 
-493
+494
 η ειρήνη
 i irini
 peace — noun — seen as: Ειρήνη
 
-494
+495
 το έπιπλο
 to epiplo
 furniture — noun — seen as: έπιπλα, έπιπλο
 
-495
+496
 η εφημερίδα
 i efimerida
 newspaper — noun — seen as: εφημερίδα, εφημερίδες
 
-496
+497
 η ηλικία
 i ilikia
 age — noun — seen as: ηλικία, ηλικίες, ηλικιών, ηλικίας
 
-497
+498
 ο ήλιος
 o ilios
 sun — noun — seen as: ήλιο, ήλιος
 
-498
+499
 ο θείος
 o thios
 uncle — noun — seen as: θείος, θείο, θείου
 
-499
+500
 η ιστορία
 i istoria
 history — noun — seen as: ιστορία
 
-500
+501
 το κελί
 to keli
 cell — noun — seen as: κελί, κελιά
 
-501
+502
 η Νίκη
 i niki
 Niki — noun — seen as: Νίκη, Νίκης
 
-502
+503
 η περιοχή
 i periohi
 region — noun — seen as: περιοχή, περιοχές, περιοχής
 
-503
+504
 το πορτοκάλι
 to portokali
 orange — noun — seen as: πορτοκάλι, πορτοκάλια, πορτοκαλιού
 
-504
+505
 η ταβέρνα
 i taverna
 tavern — noun — seen as: ταβέρνα, Ταβέρνες
 
-505
+506
 ο φούρνος
 o fournos
 oven — noun — seen as: φούρνο, φούρνος
 
-506
+507
 φτιάχνω
 ftiahno
 to fix, to repair — verb — seen as: φτιάχνω, φτιάξω, έφτιαξα, φτιάχνει, φτιάξουμε, φτιάξεις, Φτιάχνεις, φτιάχνουν +3 more
 
-507
+508
 ο χορός
 o horos
 dancing — noun — seen as: χορός, χορό, χορού, χορών, χορούς
 
-508
+509
 η ανάγκη
 i anangi
 need — noun — seen as: ανάγκη, ανάγκες, αναγκών, ανάγκης
 
-509
+510
 το γιαούρτι
 to yiaourti
 yogurt — noun — seen as: γιαούρτι, γιαούρτια, ιαούρτι
 
-510
+511
 το διάβασμα
 to diavasma
 reading — noun — seen as: διάβασμα
 
-511
+512
 η Δράμα
 i drama
 Drama — noun — seen as: Δράμα, Δράμας
 
-512
+513
 ελεύθερος
 eleftheros
 free — adjective — seen as: ελεύθερη, ελεύθερος, Ελευθερία
 
-513
+514
 ζωγραφίζω
 zografizo
 paint — verb — seen as: Ζωγραφίζεις, ζωγραφίζει
-
-514
-η θέση
-i thesi
-position — noun — seen as: θέση
 
 515
 κοντός
@@ -2699,124 +2699,124 @@ o piretos
 fever — noun — seen as: πυρετό, πυρετός
 
 541
+συζητώ
+sizito
+chat — verb — seen as: Συζητάτε, συζητάς, συζητήσεις, συζητούν, Συζητάμε, συζητήσω
+
+542
 η ταυτότητα αστυνομική
 i taftotita astinomiki
 identification card — noun — seen as: ταυτότητα, Ταυτοτήτων
 
-542
+543
 ο φοιτητής
 o fititis
 student — noun — seen as: φοιτητής, φοιτητές, φοιτητών, φοιτητή
 
-543
+544
 το άθλημα
 to athlima
 sport — noun — seen as: άθλημα, αθλήματα, αθλήμες
 
-544
+545
 άσχημος
 ashimos
 ugly — adjective — seen as: άσχημος, άσχημη, άσχημο
 
-545
+546
 βασικός
 vasikos
 basic — adjective — seen as: Βασικός, βασικά, βασικού, βασικής, βασικές
 
-546
+547
 βρίσκομαι
 vriskome
 be located — verb — seen as: βρίσκονται, βρίσκεται
 
-547
+548
 γαλλικός
 gallikos
 French — adjective — seen as: γαλλικά, γαλλική, γαλλικό
 
-548
+549
 γνωστός
 gnostos
 known — noun — seen as: γνωστή, γνωστός, γνωστά, γνωστό, γνωστού, γνωστές, Διάσημος
 
-549
+550
 δημόσιος
 dimosios
 public — adjective — seen as: δημόσιες, δημόσια
 
-550
+551
 δικό μας
 diko mas
 our — adjective — seen as: δικό
 
-551
+552
 η δυνατότητα
 i dinatotita
 possibility — noun — seen as: δυνατότητα
 
-552
+553
 ο εαυτός
 o eaftos
 self — noun — seen as: εαυτό
 
-553
+554
 έκτος
 ektos
 sixth — noun
 
-554
+555
 ζεστός
 zestos
 warm — adjective — seen as: ζεστό, ζεστά
 
-555
+556
 η θερμοκρασία
 i thermokrasia
 temperature — noun — seen as: Θερμοκρασία
 
-556
+557
 κεντρικός
 kendrikos
 central — adjective — seen as: κεντρικό, κεντρικής, ΚΕΝΤΡΙΚΗ
 
-557
+558
 το κρέας
 to kreas
 meat — noun — seen as: κρέας
 
-558
+559
 ο Μάιος
 o maios
 May — noun — seen as: Μαΐου, Μάιο, Μάιος
 
-559
+560
 το μέλι
 to meli
 honey — noun — seen as: μέλι
 
-560
+561
 το παντελόνι
 to pandeloni
 trousers — noun — seen as: παντελόνι
 
-561
+562
 το ποτό
 to poto
 drink — noun — seen as: ποτό, ποτά, ΠΟΤΟΥ
 
-562
+563
 η πωλήτρια
 i politria
 seller — noun — seen as: Πωλήτρια
 
-563
+564
 ρίχνω
 rihno
 throw — verb — seen as: ρίχνουμε, Ρίχνεις, ρίξουν, ρίξτε, ρίξουμε, ρίχνετε
-
-564
-συζητώ
-sizito
-chat — verb — seen as: Συζητάτε, συζητάς, συζητήσεις, συζητούν, Συζητάμε
 
 565
 το ΤΕΙ
@@ -2999,2146 +2999,2231 @@ i kafeteria
 café — noun — seen as: καφετέρια
 
 601
+η Μιραντίδου
+i mirandidou
+Mirantidou - a (female) surname — name — seen as: Μιραντίδου
+
+602
 το μουσικό όργανο
 to mousiko organo
 musical instrument — noun — seen as: όργανο, όργανα
 
-602
+603
 η μπανάνα
 i banana
 banana — noun — seen as: μπανάνα, μπανάνες
 
-603
+604
 το μωρό
 to moro
 baby — noun — seen as: μωρό, μωρά, μωρού
 
-604
+605
 η οδός
 i odos
 street — noun — seen as: οδό, ΟΔΟΣ
 
-605
+606
 πάω
 pao
 to go — verb — seen as: πάω, πάει, πάμε, πας, πάτε, πάνε
 
-606
+607
 η πελάτισσα
 i pelatissa
 client — noun — seen as: Πελάτισσα
 
-607
+608
 το περιβάλλον
 to perivallon
 environment — noun — seen as: περιβάλλον, περιβάλλοντα
 
-608
+609
 πιστεύω
 pistevo
 believe — verb — seen as: Πιστεύω, πιστεύει, Πιστεύουμε, πιστεύετε, πιστεύεις
 
-609
+610
 η πόρτα
 i porta
 door — noun — seen as: πόρτα, πόρτες
 
-610
+611
 η σαλάτα
 i salata
 salad — noun — seen as: σαλάτα, σαλάτες
 
-611
+612
 η χρήση
 i hrisi
 usage — noun — seen as: χρήση, χρήσης
 
-612
+613
 το ψυγείο
 to psiyio
 refrigerator, fridge — noun — seen as: ψυγείο, ψυγεία
 
-613
+614
 η αστυνομία
 i astinomia
 police — noun — seen as: αστυνομία
 
-614
+615
 η βοήθεια
 i voithia
 help — noun — seen as: βοήθεια, βοήθειες
 
-615
+616
 βρέχει
 vrehi
 it rains — verb — seen as: βρέχει, βρέξει, έβρεξε
 
-616
+617
 ο Δεκέμβριος
 o dekemvrios
 December — noun — seen as: Δεκέμβριος, Δεκεμβρίου, Δεκέμβριο
 
-617
+618
 η διατροφή
 i diatrofi
 alimony — noun — seen as: διατροφή, διατροφής
 
-618
+619
 εννιά
 ennia
 nine — numeral
 
-619
+620
 επιστρέφω
 epistrefo
 return — verb — seen as: επιστρέφω, επιστρέψω, επιστρέφετε, Επιστρέφει, επιστρέφουμε, επιστρέψουμε
 
-620
+621
 η εποχή
 i epohi
 season — noun — seen as: εποχή, εποχές
 
-621
+622
 η ερώτηση
 i erotisi
 question — noun — seen as: ερώτηση, ερωτήσεων
 
-622
+623
 ευχάριστος
 efharistos
 pleasant — adjective — seen as: ευχάριστο, ευχάριστη, ευχαριστίες
 
-623
+624
 ζω
 zo
 live — verb — seen as: ζω, ζει, ζουν, ζούνε, ζείτε, ζεις, ζούμε
 
-624
+625
 το ζώο
 to zoo
 animal — noun — seen as: ζώα, ζώο
 
-625
+626
 ήσυχος
 isihos
 quiet — adjective — seen as: ήσυχη, ήσυχα, ήσυχος, ήσυχο, ήσυχες
 
-626
+627
 η θέα
 i thea
 view — noun — seen as: θέα
 
-627
+628
 το θέμα
 to thema
 subject — noun — seen as: θέμα, θεμάτων, θέματα
 
-628
+629
 κατάλληλος
 katallilos
 suitable — adjective — seen as: κατάλληλες, κατάλληλο, κατάλληλη, κατάλληλος
 
-629
+630
 το λεμόνι
 to lemoni
 lemon — noun — seen as: λεμόνι, λεμόνια, λεμονιού
 
-630
+631
 το Λύκειο
 to likio
 High School — noun — seen as: Λύκειο, Λυκείου
 
-631
+632
 το μαχαίρι
 to maheri
 knife — noun — seen as: μαχαίρι, μαχαίρια
 
-632
+633
 το μεσημεριανό
 to mesimeriano
 lunch — noun — seen as: μεσημεριανό
 
-633
+634
 η ξαδέρφη
 i xaderfi
 cousin — noun — seen as: ξαδέρφη, ξαδέρφες
 
-634
+635
 το Πανεπιστήμιο
 to panepistimio
 University — noun — seen as: Πανεπιστήμιο
 
-635
+636
 το πουκάμισο
 to poukamiso
 shirt — noun — seen as: πουκάμισο, πουκάμισα
 
-636
+637
 πράσινος
 prasinos
 green — adjective — seen as: πράσινα, πράσινη, πράσινο, πράσινες
 
-637
+638
 προσωπικός
 prosopikos
 personal — adjective — seen as: Προσωπικά, Προσωπική, προσωπικών, προσωπικές
 
-638
+639
 η Πρωτοχρονιά
 i protohronia
 New Year — noun — seen as: Πρωτοχρονιά, Πρωτοχρονιάς
 
-639
+640
 σημαντικός
 simandikos
 important — adjective — seen as: σημαντικό, σημαντικά, σημαντικές, σημαντικός
 
-640
+641
 σταματάω
 stamatao
 stop — verb — seen as: σταματάω, σταματήσουν, σταμάτησε, σταματάει, σταμάτησες, σταματούν, Σταματώ
 
-641
+642
 ο συνάδελφος
 o sinadelfos
 colleague — noun — seen as: συναδέλφους, συνάδελφοί, συνάδελφο, συνάδελφος
 
-642
+643
 το ταξιδιωτικό γραφείο
 to taxidiotiko grafio
 travel agency — noun — seen as: ταξιδιωτικό, ταξιδιωτικού
 
-643
+644
 ο ύπνος
 o ipnos
 sleep — noun — seen as: ύπνο, ύπνος, ύπνου
 
-644
+645
 το φύλλο
 to fillo
 leaf — noun — seen as: φύλλα
 
-645
+646
+χορεύω
+horevo
+to dance — verb — seen as: χορεύω, χορεύετε, χορεύουν, χορεύεις, χορέψετε, χορέψουμε, χορέψτε, χορέψεις +2 more
+
+647
 χρωματιστός
 hromatistos
 colored — adjective — seen as: χρωματιστές, χρωματιστά
 
-646
+648
 ο χυμός
 o himos
 juice — noun — seen as: χυμό, χυμούς, χυμός, ΧΥΜΩΝ
 
-647
+649
 το αγγούρι
 to angouri
 cucumber — noun — seen as: αγγούρι, αγγούρια
 
-648
+650
 βάφω
 vafo
 paint — verb — seen as: βάφω, βάψω, βαψεις, Βάψετε, Βάφεις
 
-649
+651
 η εκπομπή
 i ekpombi
 program — noun — seen as: εκπομπή, εκπομπές, εκπομπής
 
-650
+652
+ο εξεταστής
+o exetastis
+examiner — noun — seen as: εξεταστής, εξεταστή
+
+653
+η εξετάστρια
+i exetastria
+(female) examiner — noun — seen as: εξετάστρια
+
+654
 η έρευνα
 i erevna
 research — noun — seen as: έρευνα, ΕΡΕΥΝΑΣ
 
-651
+655
 η ημερομηνία
 i imerominia
 date — noun — seen as: Ημερομηνία, ημερομηνίες
 
-652
+656
 ο Θανάσης
 o thanasis
 Thanasis — noun — seen as: Θανάσης
 
-653
+657
 ιδιαίτερος
 idieteros
 particular, special — adjective — seen as: ιδιαίτερα, ιδιαίτερη
 
-654
+658
 η ικανότητα
 i ikanotita
 ability — noun — seen as: ικανότητας, ικανότητές, ικανότητα
 
-655
+659
 η καρέκλα
 i karekla
 chair — noun — seen as: καρέκλα, καρέκλες
 
-656
+660
 το κεφάλι
 to kefali
 head — noun — seen as: κεφάλι
 
-657
+661
 μα
 ma
 but — conjunction
 
-658
+662
 η Μάρθα
 i martha
 Martha — noun — seen as: Μάρθα, Μάρθας
 
-659
+663
 το μετρό
 to metro
 metro — noun — seen as: μετρό, μέτρα
 
-660
+664
 το μήλο
 to milo
 apple — noun — seen as: μήλα, μήλο
 
-661
+665
 ο μισθός
 o misthos
 salary — noun — seen as: μισθός, μισθό
 
-662
+666
 το μπουφάν
 to boufan
 jacket — noun — seen as: μπουφάν
 
-663
+667
 η οδηγία
 i odiyia
 instruction — noun — seen as: οδηγίες
 
-664
+668
 η παρατήρηση
 i paratirisi
 remark — noun — seen as: παρατηρήσεις, παρατήρηση, παρατήρησης
 
-665
+669
 παρουσιάζομαι
 parousiazome
 introduce oneself — verb — seen as: παρουσιάζεται, παρουσιάζονται
 
-666
+670
 ο σκύλος
 o skilos
 dog — noun — seen as: σκύλο, σκύλος
 
-667
+671
 οι σπουδές
 i spoudes
 studies — noun — seen as: σπουδές
 
-668
+672
 η συναυλία
 i sinavlia
 concert — noun — seen as: συναυλία, συναυλίες
 
-669
+673
 τελευταίος
 telefteos
 last — adjective — seen as: τελευταία, τελευταίο, τελευταίες, τελευταίους
 
-670
+674
 τραγουδώ
 tragoudo
 sing — verb — seen as: τραγουδώ, τραγουδάει, τραγουδάτε, τραγουδήσει, τραγουδήσουμε, τραγουδήσουν, τραγουδήσεις, τραγουδάς
 
-671
+675
 το φαρμακείο
 to farmakio
 pharmacy, drugstore — noun — seen as: φαρμακείο, φαρμακεία
 
-672
+676
 χαμηλός
 hamilos
 low — adjective — seen as: χαμηλές, χαμηλή, χαμηλά
 
-673
+677
 χαρούμενος
 haroumenos
 happy — adjective — seen as: χαρούμενη, χαρούμενοι, χαρούμενος, χαρούμενα
 
-674
+678
 η αγάπη
 i agapi
 love — noun — seen as: αγάπη
 
-675
+679
 η αίθουσα
 i ethousa
 hall — noun — seen as: Αίθουσα, αίθουσες
 
-676
+680
 αμέσως
 amesos
 immediately — adverb
 
-677
+681
 απαραίτητος
 aparetitos
 necessary — adjective — seen as: απαραίτητες, απαραίτητη, απαραίτητα
 
-678
+682
 η αφίσα
 i afisa
 poster — noun — seen as: αφίσες, αφίσα
 
-679
+683
 γερός
 yeros
 strong — adjective — seen as: γερός, Γεροί, γερούς, γερό
 
-680
+684
 το Γυμνάσιο
 to yimnasio
 Gymnasium — noun — seen as: Γυμνάσιο, Γυμνασίου
 
-681
+685
 διαρκώ
 diarko
 last — noun — seen as: διαρκεί, διαρκούν
 
-682
+686
 δυνατά
 dinata
 loudly — pronoun
 
-683
+687
 δυνατός
 dinatos
 strong — adjective — seen as: δυνατή, δυνατό, δυνατός, δυνατούς, δυνατοί
 
-684
+688
 η έκπτωση
 i ekptosi
 discount — noun — seen as: έκπτωση
 
-685
+689
 το ενδιαφέρον
 to endiaferon
 interest — noun — seen as: ενδιαφέροντος, ενδιαφέρον, ενδιαφέροντα
 
-686
+690
 το επώνυμο
 to eponimo
 surname — noun — seen as: Επώνυμο, Επώνυμα
 
-687
+691
 η εταιρεία
 i eteria
 company — noun — seen as: εταιρεία
 
-688
+692
 έτοιμος
 etimos
 ready — adjective — seen as: έτοιμη, έτοιμος, έτοιμα, έτοιμο, έτοιμοι
 
-689
+693
 η Ευρώπη
 i evropi
 Europe — noun — seen as: Ευρώπης, Ευρώπη
 
-690
+694
 θεατρικός
 theatrikos
 theatrical — adjective — seen as: θεατρικό, θεατρική, θεατρικής, θεατρικές, θεατρικού
 
-691
+695
 κερδίζω
 kerdizo
 win — verb — seen as: κερδίζει, ΚΕΡΔΙΣΕ, Κερδίζω, κερδίσω, κερδίσεις
 
-692
+696
 κόβω
 kovo
 cut — verb — seen as: Κόβετε, Κόβουμε, κόψουν, κόβεις, κόβω, κόψεις
 
-693
+697
 η κουταλιά
 i koutalia
 spoonful — noun — seen as: κουταλιά, κουταλιές
 
-694
+698
 τα λεφτά
 ta lefta
 money — noun — seen as: λεφτά
 
-695
+699
 η λιακάδα
 i liakada
 sunshine — noun — seen as: λιακάδα
 
-696
+700
 λυπάμαι
 lipame
 sorry — verb — seen as: λυπάμαι, λυπάται, λυπήθηκα, λυπηθήκαμε, λυπηθώ
 
-697
+701
 τα μαλλιά
 ta mallia
 hair — noun — seen as: μαλλιά
 
-698
+702
 η μονοκατοικία
 i monokatikia
 house — noun — seen as: μονοκατοικία
 
-699
+703
 ξεχνάω
 xehnao
 forget — verb — seen as: ξεχνάς, ξεχνάω, ξεχνάνε, Ξεχάστε, ξεχάσεις, ξεχάσετε, ξέχασαν, ξέχασε +2 more
 
-700
+704
 οδηγώ
 odigo
 drive — verb — seen as: οδηγώ, οδηγούν, οδηγεί, οδηγείς, Οδήγησε
 
-701
+705
 η πατάτα
 i patata
 potato — noun — seen as: πατάτες, πατάτα
 
-702
+706
 ο σερβιτόρος
 o servitoros
 waiter — noun — seen as: Σερβιτόρος, σερβιτόρο
 
-703
+707
 το σκίτσο
 to skitso
 sketch — noun — seen as: σκίτσο
 
-704
+708
 ο Τάσος
 o tasos
 Tassos — noun — seen as: Τάσος, Τάσο
 
-705
+709
 ο υποψήφιος
 o ipopsifios
 candidate — noun — seen as: υποψήφιοι, υποψήφιους, ΥΠΟΨΗΦΙΟΥ
 
-706
+710
 το φυσικό αέριο
 to fisiko aerio
 natural gas — noun — seen as: αέριο, φυσικό, Αερίου, φυσικού
 
-707
+711
 το χαμομήλι
 to hamomili
 chamomile — noun — seen as: χαμομήλι
 
-708
+712
 χιονίζει
 hionizi
 it is snowing — verb — seen as: χιονίζει, χιονίσει
 
-709
-χορεύω
-horevo
-to dance — verb — seen as: χορεύω, χορεύετε, χορεύουν, χορεύεις, χορέψετε, χορέψουμε, χορέψτε, χορέψεις
-
-710
+713
 αλήθεια
 alithia
 truly — adverb — seen as: Αλήθεια, αληθινά
 
-711
+714
 από τότε
 apo tote
 since then — conjunction — seen as: τότε
 
-712
+715
 το άρθρο
 to arthro
 article — noun — seen as: άρθρο, άρθρα
 
-713
+716
 το ασανσέρ
 to asanser
 elevator — noun — seen as: ασανσέρ
 
-714
+717
 το Βερολίνο
 to verolino
 Berlin — noun — seen as: Βερολίνο
 
-715
+718
 γελάω
 yelao
 to laugh — verb — seen as: γελάω, γελάσω, Γέλασαμε, Γέλασε, Γελάστε, γέλασα, γελάσεις, γελάσετε +1 more
 
-716
+719
 ο γραμματέας
 o grammateas
 secretary — noun — seen as: γραμματέας, γραμματέα, γραμματέων
 
-717
+720
 η διαδικασία
 i diadikasia
 process — noun — seen as: διαδικασίας, Διαδικασία
 
-718
+721
 η διαδρομή
 i diadromi
 route — noun — seen as: Διαδρομές, διαδρομής, διαδρομή
 
-719
+722
 το δίκλινο δωμάτιο
 to diklino domatio
 double room — noun — seen as: δίκλινο
 
-720
+723
 η εθνικότητα
 i ethnikotita
 nationality — noun — seen as: Εθνικότητα, εθνικότητες
 
-721
+724
 επαναλαμβάνω
 epanalamvano
 repeat — verb — seen as: επαναλαμβάνεις
 
-722
+725
 επόμενος
 epomenos
 next — adjective — seen as: επόμενη, επόμενες, επόμενης, επόμενος
 
-723
+726
 ευρωπαϊκός
 evropaikos
 European — adjective — seen as: Ευρωπαϊκό, ευρωπαϊκή, ευρωπαϊκών, ΕΥΡΩΠΑΪΚΗΣ
 
-724
+727
 ο Ιούνιος
 o iounios
 June — noun — seen as: Ιούνιο, Ιούνιος, Ιουνίου
 
-725
+728
 η καθυστέρηση
 i kathisterisi
 delay — noun — seen as: καθυστέρηση
 
-726
+729
 καλύπτω
 kalipto
 cover — verb — seen as: καλύπτοντας, καλύπτει, κάλυψαν, Καλύψτε, καλύπτω, Καλυψώ
 
-727
+730
 ο καναπές
 o kanapes
 sofa — noun — seen as: καναπές, καναπέ, αναπές
 
-728
+731
 η κατάσταση
 i katastasi
 situation — noun — seen as: κατάσταση, καταστάσεις
 
-729
+732
 ο κινηματογράφος
 o kinimatografos
 cinema — noun — seen as: κινηματογράφο, κινηματογράφος, κινηματογράφοι, κινηματογράφου, κινηματογράφων, κινηματογράφους
 
-730
+733
 η Κομοτηνή
 i komotini
 Komotini — noun — seen as: Κομοτηνή
 
-731
+734
 το μεταφορικό μέσο
 to metaforiko meso
 means of transport — noun — seen as: μέσο, Μεταφορικό, μεταφορικά
 
-732
+735
 ο μουσικός
 o mousikos
 musician — noun — seen as: μουσικό, Μουσικοί, μουσικός
 
-733
+736
+η νοσοκόμα
+i nosokoma
+nurse — noun — seen as: νοσοκόμα, νοσοκόμες
+
+737
 ο παππούς
 o pappous
 grandfather — noun — seen as: παππούς, παππού
 
-734
+738
 η περίπτωση
 i periptosi
 case — noun — seen as: περίπτωση
 
-735
+739
 πέρσι
 persi
 last year — adverb
 
-736
+740
 το πιρούνι
 to pirouni
 fork — noun — seen as: πιρούνι, πιρούνια
 
-737
+741
 το πλοίο
 to plio
 ship — noun — seen as: πλοίο
 
-738
+742
 ο πολιτισμός
 o politismos
 culture — noun — seen as: πολιτισμό
 
-739
+743
 προτείνω
 protino
 propose — verb — seen as: πρότεινε, πρότεινα, Προτείνω, προτείνει, προτείνετε, Προτείνεται
 
-740
+744
 ο σκούφος
 o skoufos
 hat — noun — seen as: σκούφο, σκούφος
 
-741
+745
 η σούπα
 i soupa
 soup — noun — seen as: σούπας, σούπα
 
-742
+746
 σύγχρονος
 sighronos
 modern — adjective — seen as: σύγχρονης, σύγχρονο, σύγχρονες
 
-743
+747
 τρέχω
 treho
 to run — verb — seen as: τρέχουμε, τρέχει, Τρέξτε, τρέχουν, τρέχω
 
-744
+748
 τρίτος
 tritos
 third — numeral — seen as: τρίτο, τρίτος, τριτού
 
-745
+749
 το τυρί
 to tiri
 cheese — noun — seen as: τυρί
 
-746
+750
 ο φαρμακοποιός
 o farmakopios
 pharmacist — noun — seen as: Φαρμακοποιός, φαρμακοποιό
 
-747
+751
 το φθινόπωρο
 to fthinoporo
 autumn — noun — seen as: φθινόπωρο
 
-748
+752
 φιλικός
 filikos
 friendly — adjective — seen as: φιλικό, φιλική, φιλικά
 
-749
+753
 η φούστα
 i fousta
 skirt — noun — seen as: φούστα, Φούστες
 
-750
+754
 χαιρετώ
 hereto
 greet — verb — seen as: χαιρετάει, χαιρετάς, Χαίρεστε, χαιρετάμε, χαιρετώ
 
-751
+755
 ο χάρτης
 o hartis
 map — noun — seen as: χάρτη, χάρτης, χάρτες
 
-752
+756
 χτυπάω
 htipao
 hit — verb — seen as: χτύπησε, χτυπήσουν, χτυπήσει, χτυπήσεις, κτύπησε
 
-753
+757
 το άγχος
 to aghos
 anxiety — noun — seen as: άγχος
 
-754
+758
 ανάβω
 anavo
 to light, to turn on (a light/device) — verb — seen as: ανάβω, ανάψω, ανάψετε, Άναψε, ανάβεις, άναψα, ανάψεις, Ανάψτε
 
-755
+759
 αντρικός
 andrikos
 masculine — adjective — seen as: Αντρικά, αντρικές
 
-756
+760
 το απορρυπαντικό
 to aporripandiko
 detergent — noun — seen as: Απορρυπαντικό, απορρυπαντικά, απορρυπαντικού
 
-757
+761
 αποφασίζω
 apofasizo
 decide — verb — seen as: αποφασίσεις, αποφασίσατε, αποφασίζετε, Αποφασίζει, αποφασίσουμε, αποφασίζω, αποφασίσω
 
-758
+762
 βέβαια
 vevea
 of course — adverb
 
-759
+763
+ο βοηθός
+o voithos
+assistant, helper — noun — seen as: βοηθός, βοηθό
+
+764
 η Γερμανία
 i yermania
 Germany — noun — seen as: Γερμανία
 
-760
+765
 το γκαράζ
 to garaz
 garage — noun — seen as: γκαράζ, γκαραζιών
 
-761
+766
 το γυμναστήριο
 to yimnastirio
 gym — noun — seen as: γυμναστήριο, γυμναστήρια, γυμναστηρίου
 
-762
+767
 ο δημοσιογράφος
 o dimosiografos
 journalist — noun — seen as: δημοσιογράφος, δημοσιογράφου
 
-763
+768
 διασκεδάζω
 diaskedazo
 have fun — verb — seen as: διασκεδάσουν, διασκεδάστε, διασκεδάζετε, διασκεδάζουν, διασκεδάζεις, διασκεδάσω, διασκέδασε, διασκεδάζει
 
-764
+769
 η εκκλησία
 i ekklisia
 church — noun — seen as: εκκλησία
 
-765
+770
 η εμφάνιση
 i emfanisi
 appearance — noun — seen as: εμφάνιση, εμφανίσεις
 
-766
+771
 εννέα
 ennea
 nine — numeral
 
-767
+772
+επικοινωνώ
+epikinono
+communicate — verb — seen as: επικοινωνείς, επικοινωνούμε, επικοινωνήσετε, επικοινωνήσουν, επικοινωνήσει, επικοινωνήστε
+
+773
 η επιτυχία
 i epitihia
 success — noun — seen as: επιτυχία, επιτυχίες
 
-768
+774
 η εργασία
 i ergasia
 work — noun — seen as: εργασίας
 
-769
+775
 η ζωγραφική
 i zografiki
 painting — noun — seen as: ζωγραφική, ζωγραφικής
 
-770
+776
 το καλλυντικό
 to kallindiko
 cosmetic — noun — seen as: καλλυντικά, καλλυντικό
 
-771
+777
 η κατάθεση
 i katathesi
 deposit — noun — seen as: κατάθεση
 
-772
+778
+λειτουργώ
+litourgo
+operate — verb — seen as: λειτουργεί, λειτουργούν, λειτουργήσουν
+
+779
 το λιμάνι
 to limani
 port — noun — seen as: λιμάνι
 
-773
+780
 τα μακαρόνια
 ta makaronia
 macaroni — noun — seen as: μακαρόνια
 
-774
+781
 ο νικητής
 o nikitis
 winner — noun — seen as: νικητής, νικήτων, νικητές
 
-775
+782
 νόστιμος
 nostimos
 tasty — adjective — seen as: νόστιμα, Νόστιμο, νόστιμους, νόστιμη
 
-776
+783
 ο Οκτώβριος
 o oktovrios
 October — noun — seen as: Οκτώβριος, Οκτώβριο, Οκτωβρίου
 
-777
+784
 το παγωτό
 to pagoto
 ice cream — noun — seen as: παγωτό, παγωτά
 
-778
+785
 το Πάσχα
 to pasha
 Easter — noun — seen as: Πάσχα
 
-779
+786
 περπατάω
 perpatao
 walk — verb — seen as: περπατάω, περπατήσουν, περπατάει, περπατάς, περπατήσουμε, περπατάμε
 
-780
+787
 το πιπέρι
 to piperi
 pepper — noun — seen as: πιπεριά, πιπέρι
 
-781
+788
 πονάει η κοιλιά μου
 ponai i kilia mou
 my stomach hurts — phrase — seen as: κοιλιά
 
-782
+789
 ο πόνος
 o ponos
 pain — noun — seen as: πόνος, πόνο
 
-783
+790
 το πορτοφόλι
 to portofoli
 wallet — noun — seen as: πορτοφόλι
 
-784
+791
 η πτήση
 i ptisi
 flight — noun — seen as: πτήση, πτήσης
 
-785
+792
 σοβαρός
 sovaros
 serious — adjective — seen as: σοβαρό, Σοβαρά
 
-786
+793
 συστημένος
 sistimenos
 registered — adjective — seen as: συστημένο
 
-787
+794
 το τέρμα λεωφορείου
 to terma leoforiou
 final stop, terminal — noun — seen as: τέρμα
 
-788
+795
 υποχρεωτικός
 ipohreotikos
 mandatory — adjective — seen as: υποχρεωτική, υποχρεωτικά, υποχρεωτικό
 
-789
+796
 η φασαρία
 i fasaria
 fuss — noun — seen as: φασαρία
 
-790
+797
 το ψέμα
 to psema
 lie — noun — seen as: ψέματα, ψέμα
 
-791
+798
 ακριβώς
 akrivos
 exactly — adverb
 
-792
+799
 απαραίτητο
 aparetito
 necessary — adverb
 
-793
+800
 ας
 as
 let's, let — particle
 
-794
+801
 άσχημα
 ashima
 badly — adverb
 
-795
+802
+βασισμένος
+vasismenos
+based (on); βασισμένο σε = based on — adjective — seen as: Βασισμένο
+
+803
 η Γαλλία
 i gallia
 France — noun — seen as: Γαλλία
 
-796
+804
 ο Γεράσιμος
 o yerasimos
 Gerasimos — noun — seen as: Γεράσιμος, Γεράσιμο
 
-797
+805
 η γνώμη
 i gnomi
 opinion — noun — seen as: γνώμη
 
-798
+806
 δηλώνω
 dilono
 state — verb — seen as: δηλώσει, Δηλώνω, δηλώσεις, δηλώνει, δηλώνουμε
 
-799
+807
 το διαβατήριο
 to diavatirio
 passport — noun — seen as: διαβατήριο, διαβατηρίων
 
-800
+808
 ο Έλληνας
 o ellinas
 Greek — noun — seen as: Έλληνας, Έλληνες, ελλήνων
 
-801
+809
 το εμπορικό κέντρο
 to emboriko kendro
 Shopping center — noun — seen as: εμπορικό
 
-802
+810
 η ηθοποιός
 i ithopios
 actress — noun — seen as: ηθοποιός, Ηθοποιοί, ηθοποιών
 
-803
+811
 καθημερινά
 kathimerina
 daily — adverb — seen as: καθημερινές, καθημερινά
 
-804
+812
 η κολόνα
 i kolona
 column — noun — seen as: κολόνα
 
-805
+813
 το κοτόπουλο
 to kotopoulo
 chicken — noun — seen as: κοτόπουλο
 
-806
+814
 η κρέμα
 i krema
 cream — noun — seen as: κρέμα, κρέμας, κρέμες
 
-807
-λειτουργώ
-litourgo
-operate — verb — seen as: λειτουργεί, λειτουργούν
-
-808
+815
 ο μάγειρας
 o mayiras
 cook — noun — seen as: μάγειρας
 
-809
+816
 το μολύβι
 to molivi
 pencil — noun — seen as: μολύβι, μολύβια, μολύβιου
 
-810
+817
 η μπανιέρα
 i baniera
 bathtub — noun — seen as: μπανιέρα
 
-811
+818
 η μπριζόλα
 i brizola
 steak — noun — seen as: μπριζόλα, μπριζόλες
 
-812
+819
 Να τα εκατοστίσεις!
 na ta ekatostisis!
 May you live a hundred years! — phrase — seen as: εκατοστίσεις
 
-813
+820
 το νησί
 to nisi
 island — noun — seen as: νησιά, νησί
 
-814
+821
 νοικιάζω
 nikiazo
 rent — verb — seen as: νοικιάσω, νοίκιασες, νοικιάσεις, νοικιάσει, Νοικιάζει, νοικιάζεις, νοικιάσουν
 
-815
-η νοσοκόμα
-i nosokoma
-nurse — noun — seen as: νοσοκόμα
-
-816
+822
 η ντομάτα
 i domata
 tomato — noun — seen as: ντομάτα, ντομάτες
 
-817
+823
 η ντουλάπα
 i doulapa
 wardrobe — noun — seen as: ντουλάπες, ντουλάπα
 
-818
+824
 ο ξάδερφος
 o xaderfos
 cousin — noun — seen as: ξάδερφος, ξάδερφό
 
-819
+825
 παιδικός
 pedikos
 child — adjective — seen as: παιδικά, παιδικές, Παιδικούς, ΠΑΙΔΙΚΟΙ
 
-820
+826
+παρακολουθώ
+parakoloutho
+watch — verb — seen as: Παρακολουθείτε, παρακολουθούν, παρακολούθησαν, παρακολουθήσετε, παρακολουθήσουν
+
+827
 προλαβαίνω
 prolaveno
 catch — verb — seen as: προλαβαίνεις, προλαβαίνουν, προλαβαίνει, προλάβει, προλάβω, προλαβαίνω
 
-821
+828
 το σεντόνι
 to sendoni
 sheet — noun — seen as: σεντόνι, σεντόνια
 
-822
+829
 το στόμα
 to stoma
 mouth — noun — seen as: στόμα
 
-823
+830
 η Σωτηρία
 i sotiria
 Sotiria — noun — seen as: Σωτηρία
 
-824
+831
 τονισμένος
 tonismenos
 stressed — adjective — seen as: τονισμένα, τονισμένες
 
-825
+832
 φαίνομαι
 fenome
 to seem — verb — seen as: φαίνεται, φανούν, φάνηκαν, φάνηκε
 
-826
+833
 φθηνός
 fthinos
 cheap — adjective — seen as: φθηνά, φθηνό
 
-827
+834
 η φωτιά
 i fotia
 fire — noun — seen as: φωτιά
 
-828
+835
+η Φωφώ
+i fofo
+Fofo - female first name (pet form of Φωτεινή) — name — seen as: Φωφώ, Φωφώς
+
+836
 ο Χαράλαμπος
 o haralambos
 Charalambos — noun — seen as: Χαράλαμπος, Χαράλαμπο
 
-829
+837
 το χιόνι
 to hioni
 snow — noun — seen as: χιόνια, χιόνι, ιόνι
 
-830
+838
 ωστόσο
 ostoso
 however — conjunction
 
-831
+839
 ο αδελφός
 o adelfos
 brother — noun — seen as: αδελφός, ΑΔΕΛΦΟΙ, αδελφό, αδελφού
 
-832
+840
 το αλάτι
 to alati
 salt — noun — seen as: αλάτι
 
-833
+841
 η άνοιξη
 i anixi
 spring — noun — seen as: άνοιξη
 
-834
+842
 ο αρχιτέκτονας
 o arhitektonas
 architect — noun — seen as: αρχιτέκτονας
 
-835
+843
 η αυλή
 i avli
 yard — noun — seen as: αυλή
 
-836
+844
 βράζω
 vrazo
 boil — verb — seen as: βράζουν, βράζουμε, βράσει, Βράζεις
 
-837
+845
 η γάτα
 i gata
 cat — noun — seen as: γάτα, γάτες
 
-838
+846
 γλυκός
 glikos
 sweet — adjective — seen as: γλυκός, γλυκιά, γλυκές
 
-839
+847
 ο Γρηγόρης
 o grigoris
 Gregory — noun — seen as: Γρηγόρης, γρήγορη
 
-840
+848
 δηλαδή
 diladi
 meaning — adverb
 
-841
+849
 διαδοχικός
 diadohikos
 successive — adjective — seen as: διαδοχικά
 
-842
+850
 η διάθεση
 i diathesi
 mood — noun — seen as: διάθεση
 
-843
+851
 δοκιμάζω
 dokimazo
 try — verb — seen as: δοκιμάσετε, δοκιμάστε, δοκιμάσει, δοκιμάζεις
 
-844
+852
 ο ειδικός
 o idikos
 specialist — noun — seen as: ειδικό, Ειδικός, ειδικών
 
-845
+853
 εξήντα
 exinda
 sixty — numeral
 
-846
-επικοινωνώ
-epikinono
-communicate — verb — seen as: επικοινωνείς, επικοινωνούμε, επικοινωνήσετε, επικοινωνήσουν, επικοινωνήσει
-
-847
+854
 το επίπεδο
 to epipedo
 level — noun — seen as: επίπεδο, επίπεδα, επιπέδου, επιπέδων
 
-848
+855
 το έτος
 to etos
 year — noun — seen as: ετών, ετε, έτος
 
-849
+856
 ζωντανός
 zondanos
 alive — adjective — seen as: ζωντανού, ζωντανή, ζωντανός
 
-850
+857
 καθαρός
 katharos
 clean — adjective — seen as: καθαρό, καθαρή, καθαρά, καθαρός
 
-851
+858
 κανένας
 kanenas
 nobody, none; any (in questions and negatives) — pronoun — seen as: κανένα, καμία, κανένας, κανέναν
 
-852
+859
 το κασκόλ
 to kaskol
 scarf — noun — seen as: κασκόλ
 
-853
+860
 το κατάστημα
 to katastima
 shop, store — noun — seen as: κατάστημα, καταστήματος, καταστήματα, καταστημάτων
 
-854
+861
 η κατσαρόλα
 i katsarola
 pot — noun — seen as: κατσαρόλα, κατσαρόλες
 
-855
+862
 κίτρινος
 kitrinos
 yellow — adjective — seen as: κίτρινο, κίτρινος, κίτρινα, κίτρινη, κίτρινους, κίτρινες
 
-856
+863
 η Κρήτη
 i kriti
 Crete — noun — seen as: Κρήτη
 
-857
+864
 κρύβω
 krivo
 hide — verb — seen as: κρύβουν, κρύβει, κρύψτε
 
-858
+865
 ο μαθητής
 o mathitis
 pupil, student — noun — seen as: Μαθητής, μαθητές, μαθητών, μαθητή
 
-859
+866
 το μαρούλι
 to marouli
 lettuce — noun — seen as: μαρούλι, μαρούλια
 
-860
+867
 το μάτι
 to mati
 eye — noun — seen as: μάτια
 
-861
+868
 μόνιμα
 monima
 permanently — adverb
 
-862
+869
 μπλε
 ble
 blue — adjective
 
-863
+870
 ο Νεκτάριος
 o nektarios
 Nektarios — noun — seen as: Νεκτάριος
 
-864
+871
 το νηπιαγωγείο
 to nipiagoyio
 kindergarten — noun — seen as: Νηπιαγωγεία, Νηπιαγωγείο
 
-865
+872
 νιώθω
 niotho
 feel — verb — seen as: νιώθουν, νιώθει, νιώσετε, νιώσει
 
-866
+873
 ντύνομαι
 dinome
 dress — verb — seen as: ντύνεται, ντύνεστε, ντυθεί, ντυθείς, ντυθούν, ντυθώ
 
-867
+874
 το ξύδι
 to xidi
 vinegar — noun — seen as: ξύδι
 
-868
+875
 η ομπρέλα
 i ombrela
 umbrella — noun — seen as: ομπρέλα
 
-869
+876
 το ούζο
 to ouzo
 ouzo — noun — seen as: ούζο
 
-870
+877
 παραγγέλνω
 parangelno
 order — verb — seen as: παραγγέλνετε, παραγγέλνεις, παραγγέλνει, Παραγγέλνω, παραγγείλεις, παραγγείλετε, παραγγείλουμε
 
-871
+878
 πεινάω
 pinao
 hungry — verb — seen as: πεινάω, πεινάσω, πείνασαν
 
-872
+879
 Περαστικά!
 perastika!
 Get well soon! — phrase — seen as: Περαστικά
 
-873
+880
 περισσότερος
 perissoteros
 more — adjective — seen as: περισσότερο, περισσότερα, περισσότεροι
 
-874
+881
 η πετσέτα
 i petseta
 towel — noun — seen as: πετσέτα, πετσέτες
 
-875
+882
 πλέκω
 pleko
 to knit, to weave, to braid — verb — seen as: πλέκω, πλέξω, έπλεξα, Πλέξε, πλέξεις, πλέξετε, Πλέξτε
 
-876
+883
 η πολυθρόνα
 i polithrona
 armchair — noun — seen as: πολυθρόνα, πολυθρόνες
 
-877
+884
 σαράντα
 saranda
 forty — numeral
 
-878
+885
 η στιγμή
 i stigmi
 moment — noun — seen as: στιγμή
 
-879
+886
 συγκρίνω
 singrino
 compare — verb — seen as: Συγκρίνεις, συγκριμένο, Σύγκρινε
 
-880
+887
 η συνέντευξη
 i sinendefxi
 interview — noun — seen as: συνέντευξη, ΣΥΝΕΝΤΕΥΞΗΣ
 
-881
+888
 το συρτάρι
 to sirtari
 drawer — noun — seen as: συρτάρια, συρτάρι
 
-882
+889
 το σώμα
 to soma
 body — noun — seen as: σώμα, σώματος
 
-883
+890
 ύστερα
 istera
 after, afterwards, then — adverb
 
-884
+891
 ο φάκελος
 o fakelos
 envelope — noun — seen as: φάκελο, φακέλους
 
-885
+892
 φυσικά
 fisika
 of course, certainly — adverb
 
-886
+893
+χαίρομαι
+herome
+to be glad — verb — seen as: χαίρομαι, χαίρεται, Χάρηκα, χάρηκε, χαρούμε, χαρώ, χαρείς
+
+894
 χαλάω
 halao
 break — verb — seen as: χάλασε, χαλάσει, χάλασαν
 
-887
+895
 ο Άγγλος
 o anglos
 English man — noun — seen as: Άγγλος, Άγγλοι, Άγγλο
 
-888
+896
 ανακατεύω
 anakatevo
 stir — verb — seen as: Ανακατεύετε, ανακατεύεις, Ανακατεύουμε, ανακατέψτε
 
-889
+897
+αποθηκεύω
+apothikevo
+to store, to save (αποθηκεύτηκε = it was saved) — verb — seen as: Αποθηκεύτηκε
+
+898
 το αποτέλεσμα
 to apotelesma
 result — noun — seen as: αποτέλεσμα, αποτελέσματα
 
-890
+899
 αρρωσταίνω
 arrosteno
 to get sick, to fall ill — verb — seen as: αρρωστήσετε, αρρωστήσουν, αρρωσταίνεις, αρρωσταίνω, αρρωστήσεις, αρρωσταίνουμε
 
-891
+900
 η Βάσω
 i vaso
 Vaso — noun — seen as: Βάσω
 
-892
+901
 το βιβλιοπωλείο
 to vivliopolio
 bookstore — noun — seen as: βιβλιοπωλείο
 
-893
+902
 η βροχή
 i vrohi
 rain — noun — seen as: βροχή, βροχές
 
-894
+903
 η γέννηση
 i yennisi
 birth — noun — seen as: γέννησης, γέννηση
 
-895
+904
 γερμανικός
 yermanikos
 German — adjective — seen as: γερμανικά, γερμανική
 
-896
+905
 το γεύμα
 to yevma
 meal — noun — seen as: Γεύματα, γεύμα
 
-897
+906
 το γήπεδο
 to yipedo
 field — noun — seen as: γήπεδο
 
-898
+907
 γιορτάζω
 yiortazo
 celebrate — verb — seen as: γιορτάζει, Γιορτάζουμε, γιόρτασα, Γιορτάζω
 
-899
+908
 διαγράφω
 diagrafo
 delete — verb — seen as: διαγράψουν, διαγράφεις
 
-900
+909
 εβδομήντα
 evdominda
 seventy — verb
 
-901
+910
 το έγγραφο
 to engrafo
 document — noun — seen as: έγγραφο, έγγραφα
 
-902
+911
 η εκδήλωση
 i ekdilosi
 event — noun — seen as: εκδήλωση, εκδηλώσεις, εκδήλωσης
 
-903
+912
 ενενήντα
 eneninda
 ninety — numeral
 
-904
+913
+έξυπνος
+exipnos
+clever, smart — adjective — seen as: έξυπνη, Έξυπνο, έξυπνοι
+
+914
+ο επισκέπτης
+o episkeptis
+visitor — noun — seen as: επισκέπτες, επισκέπτης
+
+915
 ηλεκτρονικός
 ilektronikos
 electronic — adjective — seen as: ηλεκτρονικό, ηλεκτρονική, ηλεκτρονικά, ηλεκτρονικούς, ηλεκτρονικός
 
-905
+916
+ο Θόδωρος
+o thodoros
+Thodoros - male first name (short for Θεόδωρος) — name — seen as: Θόδωρος, Θόδωρου
+
+917
+ο καθαρισμός
+o katharismos
+cleaning — noun — seen as: καθαρισμού
+
+918
 κανονικός
 kanonikos
 normal — adjective — seen as: Κανονικό
 
-906
+919
 η καρδιά
 i kardia
 heart — noun — seen as: καρδιά
 
-907
+920
 κλειδώνω
 klidono
 lock — verb — seen as: Κλειδώστε, κλειδώνω, κλειδώνεις
 
-908
+921
 κολλάω
 kollao
 stick — verb — seen as: κολλάς, κόλλησα, κολλήσεις, κολλήστε, Κόλλα, κολλάμε
 
-909
+922
 κοστίζω
 kostizo
 cost — verb — seen as: κοστίζει, κοστίζουν, Κοστίζω, Κοστίζετε
 
-910
+923
 το κοστούμι
 to kostoumi
 suit — noun — seen as: κοστούμια, κοστούμι
 
-911
+924
 η κουβέρτα
 i kouverta
 blanket — noun — seen as: κουβέρτα, κουβέρτες
 
-912
+925
 το κρασί
 to krasi
 wine — noun — seen as: κρασί
 
-913
+926
 η λαϊκή μουσική
 i laiki mousiki
 folk music — noun — seen as: λαϊκή
 
-914
+927
 το μαγιό
 to mayio
 swimsuit — noun — seen as: μαγιό
 
-915
+928
 τα Μαθηματικά
 ta mathimatika
 Mathematics — noun — seen as: μαθηματικά
 
-916
+929
 ο Μάριος
 o marios
 Marios — noun — seen as: Μάριος, Μάριο
 
-917
+930
 νέος
 neos
 new; young — adjective — seen as: Νέο, νέοι, νέους, νέου
 
-918
+931
 η Ξάνθη
 i xanthi
 Xanthi — noun — seen as: Ξάνθη, ξανθές
 
-919
+932
 ξεχωριστός
 xehoristos
 special — adjective — seen as: ξεχωριστά, ξεχωριστή, ξεχωριστό
 
-920
+933
 όσα
 osa
 as many as — pronoun — seen as: όσα, όσες
 
-921
+934
 παραδοσιακός
 paradosiakos
 traditional — adjective — seen as: παραδοσιακά, παραδοσιακού, παραδοσιακό
 
-922
+935
+ο παραλήπτης
+o paraliptis
+recipient, addressee — noun — seen as: Παραλήπτες
+
+936
 πείθω
 pitho
 persuade — verb — seen as: πείσετε, πείσεις
 
-923
+937
+η πληροφορική
+i pliroforiki
+computing, IT — noun — seen as: πληροφορικής
+
+938
 το προϊόν
 to proion
 product — noun — seen as: προϊόντα, προϊόν
 
-924
+939
 προφορικός
 proforikos
 oral, spoken — adjective — seen as: ΠΡΟΦΟΡΙΚΟΥ, προφορικό, προφορικών
 
-925
+940
 η πυραμίδα
 i piramida
 pyramid — noun — seen as: πυραμίδας, πυραμίδα
 
-926
+941
 το ραδιόφωνο
 to radiofono
 radio — noun — seen as: ραδιόφωνο
 
-927
+942
 το ρεύμα
 to revma
 current — noun — seen as: ρεύμα, ρεύματος
 
-928
+943
 ο στόχος
 o stohos
 goal, aim, target — noun — seen as: στόχο, στόχος, στόχους, Στόχοι
 
-929
+944
 η συνάντηση
 i sinandisi
 meeting — noun — seen as: συνάντηση, συνάντησης
 
-930
+945
 συνεχίζω
 sinehizo
 to continue — verb — seen as: συνεχίσω, συνεχίζουν, συνεχίζετε, συνεχίζεις, συνεχίζει, συνεχίσει
 
-931
+946
 ο συνθέτης
 o sinthetis
 composer — noun — seen as: συνθέτης, συνθετών
 
-932
+947
 σύντομος
 sindomos
 short — adjective — seen as: σύντομες
 
-933
+948
 το ταψί
 to tapsi
 tray, baking sheet — noun — seen as: ταψιά, ταψί
 
-934
+949
 το τηγάνι
 to tigani
 pan — noun — seen as: τηγάνι, τηγάνια
 
-935
+950
 η τοποθεσία
 i topothesia
 location — noun — seen as: Τοποθεσία
 
-936
+951
 ο τόπος
 o topos
 place, area — noun — seen as: Τόπος, τόπο
 
-937
+952
 η υπερωρία
 i iperoria
 overtime, extra time — noun — seen as: υπερωρίες
 
-938
+953
+η υπόθεση
+i ipothesi
+matter, affair; (of a film/book) plot — noun — seen as: υπόθεση
+
+954
 η φύση
 i fisi
 nature — noun — seen as: φύση, φύσης
 
-939
-χαίρομαι
-herome
-to be glad — verb — seen as: χαίρομαι, χαίρεται, Χάρηκα, χάρηκε, χαρούμε, χαρώ
-
-940
+955
 η Αγγλίδα
 i anglida
 English woman — noun — seen as: Αγγλίδα
 
-941
+956
 ο άγιος
 o ayios
 saint — noun — seen as: Άγιος, Αγίου, Αγίας
 
-942
+957
 η αλλαγή
 i allayi
 change — noun — seen as: αλλαγές
 
-943
+958
+η ανακοίνωση
+i anakinosi
+announcement, notice — noun — seen as: ανακοίνωση
+
+959
 η ανιψιά
 i anipsia
 niece — noun — seen as: ανιψιά
 
-944
+960
 απλώνω
 aplono
 spread — verb — seen as: Απλώστε, απλώνετε
 
-945
+961
 το αφεντικό
 to afendiko
 boss — noun — seen as: αφεντικό
 
-946
+962
 η βάση
 i vasi
 base — noun — seen as: βάση
 
-947
+963
 η βρομιά
 i vromia
 dirt — noun — seen as: βρομιές, βρομιά
 
-948
+964
 το γλέντι
 to glendi
 feast — noun — seen as: γλέντι
 
-949
+965
 τα γυαλιά
 ta yialia
 glasses — noun — seen as: γυαλιά
 
-950
+966
 γύρω
 giro
 around — verb
 
-951
+967
 διδάσκω
 didasko
 to teach (passive διδάσκομαι: to be taught) — verb — seen as: διδάσκονται, διδάξουν, διδάξει, διδάσκουν, διδάσκεις
 
-952
+968
 ο δικηγόρος
 o dikigoros
 lawyer — noun — seen as: δικηγόρος
 
-953
+969
 η Ελληνίδα
 i ellinida
 Greek — noun — seen as: Ελληνίδα
 
-954
+970
 εμπλουτίζω
 embloutizo
 to enrich — verb — seen as: εμπλουτίζει, εμπλουτίζονται, εμπλουτίζεται, εμπλουτίζουν, εμπλουτιστούν
 
-955
+971
 εξεταστικός
 exetastikos
 examination- (relating to exams), e.g. εξεταστικό κέντρο = exam centre — adjective — seen as: εξεταστικό, εξεταστικών, εξεταστικά, εξεταστικής
 
-956
+972
 η εξυπηρέτηση
 i exipiretisi
 service — noun — seen as: Εξυπηρέτησης, εξυπηρέτηση
 
-957
+973
 επιθυμώ
 epithimo
 desire — verb — seen as: επιθυμούν, ΕΠΙΘΥΜΕΙ
 
-958
+974
 επικοινωνιακός
 epikinoniakos
 communicative, communication-related — adjective — seen as: επικοινωνιακές, επικοινωνιακής, επικοινωνιακών, επικοινωνιακή, επικοινωνιακό
 
-959
+975
 επίσημα
 episima
 officially — adverb
 
-960
+976
 ευτυχισμένος
 eftihismenos
 happy (as in Ευτυχισμένος ο καινούριος χρόνος) — adjective — seen as: ευτυχισμένος, Ευτυχισμένοι, ευτυχισμένα
 
-961
+977
 η ησυχία
 i isihia
 quiet — noun — seen as: ησυχία
 
-962
+978
 η Θεσσαλονίκη
 i thessaloniki
 Thessaloniki - second largest city in Greece — name — seen as: Θεσσαλονίκη, Θεσσαλονίκης
 
-963
+979
 ο Ιούλιος
 o ioulios
 July — noun — seen as: Ιούλιος, Ιούλιο, Ιουλίου
 
-964
+980
 ίσως
 isos
 perhaps — adverb
 
-965
+981
 ο καθηγητής
 o kathiyitis
 teacher, professor — noun — seen as: καθηγητές, καθηγητής, καθηγητή, καθηγητων
 
-966
+982
 κακός
 kakos
 bad — adjective — seen as: κακός, κακό, κακά
 
-967
+983
 τα κάλαντα
 ta kalanda
 carols — noun — seen as: κάλαντα, κάλαντο
 
-968
+984
 η Καλλιόπη
 i kalliopi
 Calliope — noun — seen as: Καλλιόπη, Καλλιόπης
 
-969
+985
 το καράβι
 to karavi
 ship — noun — seen as: καράβια, καράβι
 
-970
+986
 το καρότο
 to karoto
 carrot — noun — seen as: καρότα, καρότο
 
-971
+987
 η κατανόηση
 i katanoisi
 comprehension, understanding — noun — seen as: ΚΑΤΑΝΟΗΣΗ, κατανόησης
 
-972
+988
 η κατηγορία
 i katigoria
 category — noun — seen as: κατηγορίες
 
-973
+989
 το κεφαλαίο γράμμα
 to kefaleo gramma
 capital letter — noun — seen as: κεφάλαιο
 
-974
+990
 το κινητό τηλέφωνο
 to kinito tilefono
 mobile phone — noun — seen as: κινητό
 
-975
+991
 κλειστός
 klistos
 closed, shut; indoor — adjective — seen as: κλειστός, κλειστό, κλειστά, κλειστές
 
-976
+992
 το κολύμπι
 to kolimbi
 swimming — noun — seen as: κολύμπι
 
-977
+993
 το κομμάτι
 to kommati
 part — noun — seen as: κομμάτι, κομμάτια
 
-978
+994
 κουρασμένος
 kourasmenos
 tired — adjective — seen as: κουρασμένος, κουρασμένη, κουρασμένο
 
-979
+995
 το κτίριο
 to ktirio
 building — noun — seen as: κτίρια
 
-980
+996
 η Λάρισα
 i larisa
 Larissa — noun — seen as: Λάρισα, Λάρισας
 
-981
+997
 το μαξιλάρι
 to maxilari
 pillow — noun — seen as: μαξιλάρια, μαξιλάρι
 
-982
+998
 μαύρος
 mavros
 black — adjective — seen as: μαύρο, μαύρα, μαύρες, μαύρη
 
-983
+999
 η μέθοδος
 i methodos
 method — noun — seen as: μέθοδος, μέθοδο, μεθόδους, μεθόδου
 
-984
+1000
 η μετακίνηση
 i metakinisi
 transport — noun — seen as: μετακίνηση, μετακινήσεις
 
-985
+1001
 μετακομίζω
 metakomizo
 move — verb — seen as: μετακόμισα, μετακομίσουν, μετακόμισε, μετακομίσεις, μετακομίσει
 
-986
+1002
 το μπουκάλι
 to boukali
 bottle — noun — seen as: μπουκάλι, μπουκάλια
 
-987
+1003
 το μπρόκολο
 to brokolo
 broccoli — noun — seen as: μπρόκολο, μπρόκολα
 
-988
+1004
 η νότα
 i nota
 note — noun — seen as: Νότες
 
-989
+1005
 ο ομιλητής
 o omilitis
 speaker — noun — seen as: ομιλητές, ομιλητών, ομιλητής
 
-990
+1006
 το Όσκαρ βραβείο
 to oskar vravio
 Oscar award — noun — seen as: Όσκαρ
 
-991
+1007
 το πάπλωμα
 to paploma
 quilt — noun — seen as: πάπλωμα, παπλώματα
 
-992
-παρακολουθώ
-parakoloutho
-watch — verb — seen as: Παρακολουθείτε, παρακολουθούν, παρακολούθησαν
+1008
+παραδίδω
+paradido
+to hand in, to hand over, to deliver — verb — seen as: Παραδώστε
 
-993
+1009
 η παραλία
 i paralia
 beach — noun — seen as: παραλία, παραλίες
 
-994
+1010
 πειράζει
 pirazi
 bother — phrase
 
-995
+1011
 πενήντα
 peninda
 fifty — numeral
 
-996
+1012
 πιάνω
 piano
 to catch, to grab, to take hold of — verb — seen as: πιάνω, πιάνουν, πιάσουν, πιάνουμε, πιάσω
 
-997
+1013
 πλαστικός
 plastikos
 plastic — adjective — seen as: πλαστικό, πλαστικά, πλαστικές
 
-998
+1014
 η ποδιά
 i podia
 apron — noun — seen as: πόδια
 
-999
+1015
 η πορτοκαλάδα
 i portokalada
 orangeade, orange drink — noun — seen as: πορτοκαλάδα, πορτοκαλάδες
 
-1000
+1016
 το πουλί
 to pouli
 bird — noun — seen as: πουλιά, πουλί
 
-1001
+1017
 η πράξη
 i praxi
 act — noun — seen as: πράξη
 
-1002
+1018
 η πρεμιέρα
 i premiera
 premiere — noun — seen as: πρεμιέρα
 
-1003
+1019
 η προβολή
 i provoli
 showing — noun — seen as: προβολή, προβολής, προβολές
 
-1004
+1020
 προετοιμάζω
 proetimazo
 prepare — verb — seen as: προετοιμάζουν, προετοιμάσουν, Προετοιμάζοντας
 
-1005
+1021
 το ρεσιτάλ
 to resital
 recital — noun — seen as: ρεσιτάλ
 
-1006
+1022
 το ρύζι
 to rizi
 rice — noun — seen as: ρύζι
 
-1007
+1023
 το σαμπουάν
 to sambouan
 shampoo — noun — seen as: σαμπουάν
 
-1008
+1024
 σε σχέση με
 se shesi me
 relating to — phrase — seen as: σχέση, σχέσεων, σχέσεις
 
-1009
+1025
 σκέφτομαι
 skeftome
 think — verb — seen as: σκέφτομαι, σκέφτονται, Σκέφτεσαι, Σκεφτείτε, σκεφτείς
 
-1010
+1026
 ο σκοπός
 o skopos
 purpose — noun — seen as: σκοπό
 
-1011
+1027
 σπουδαίος
 spoudeos
 great — adjective — seen as: σπουδαίων, Σπουδαίος, σπουδαίες, σπουδαίο, σπουδαία
 
-1012
+1028
 η συγγνώμη
 i singnomi
 apology — noun — seen as: Συγγνώμη, Συγνώμη
 
-1013
+1029
 συγκεκριμένος
 singekrimenos
 specific, particular, concrete — adjective — seen as: συγκεκριμένο, συγκεκριμένες, συγκεκριμένη, συγκεκριμένων, συγκεκριμένου
 
-1014
+1030
 τα συγχαρητήρια
 ta sigharitiria
 congratulations — phrase — seen as: Συγχαρητήρια
 
-1015
+1031
 η συζήτηση
 i sizitisi
 conversation, talk, discussion — noun — seen as: συζήτηση, συζήτησης
 
-1016
+1032
 σχεδιάζω
 shediazo
 to draw, to design — verb — seen as: σχεδιάζει, Σχεδιάζεις, Σχεδιάζω, σχεδιάσουν
 
-1017
+1033
+η τεχνολογία
+i tehnoloyia
+technology — noun — seen as: Τεχνολογίας, τεχνολογία
+
+1034
 τουριστικός
 touristikos
 touristic — adjective — seen as: τουριστικό
 
-1018
+1035
 η τούρτα
 i tourta
 birthday cake — noun — seen as: τούρτα
 
-1019
+1036
 το τραπεζομάντιλο
 to trapezomandilo
 tablecloth — noun — seen as: τραπεζομάντιλο, τραπεζομάντιλα
 
-1020
+1037
 τα τρία πόδια Χαλκιδικής
 ta tria podia halkidikis
 three fingers of Chalkidiki — phrase — seen as: Χαλκιδική, Χαλκιδικής
 
-1021
+1038
 υπεύθυνος
 ipefthinos
 responsible — adjective — seen as: υπεύθυνος, υπεύθυνο, υπεύθυνη
 
-1022
+1039
 το ύφασμα
 to ifasma
 cloth, fabric — noun — seen as: ύφασμα, υφάσματα
 
-1023
+1040
 φοβάμαι
 fovame
 to be afraid of, to fear — verb — seen as: φοβάστε, φοβάσαι
 
-1024
+1041
 φυσάω
 fisao
 to blow — verb — seen as: φυσάει
 
-1025
+1042
 φωνάζω
 fonazo
 to shout, to call out — verb — seen as: φωνάζουν, φωνάζει, φωνάξουμε, φωνάζεις, φωνάξτε
 
-1026
+1043
 το χαλί
 to hali
 carpet — noun — seen as: Χάλια, χαλί
 
-1027
+1044
 χαρίζω
 harizo
 to donate, to gift — verb — seen as: χάρισε, χάρισα, χαρίσει, χαρίσουν
 
-1028
+1045
 το χόμπι
 to hombi
 hobby — noun — seen as: χόμπι
 
-1029
+1046
 το ωδείο
 to odio
 conservatory — noun — seen as: Ωδείο, ωδείου
