@@ -1,52 +1,52 @@
 1
 ο / η / το
 o / i / to
-the (definite article) — article — seen as: το, τα, τον, της, οι, τις, την, του +2 more
+the (definite article) — article — ⚠ used in the real A2 exams — seen as: το, τα, τον, της, οι, τις, την, του +2 more
 
 2
 σε
 se
-to, at, in, on (σε + article = στο, στη, στον, στα) — preposition — seen as: στο, σε, στην, στις, στη, στον, στα, στους
+to, at, in, on (σε + article = στο, στη, στον, στα) — preposition — ⚠ used in the real A2 exams — seen as: στο, σε, στην, στις, στη, στον, στα, στους
 
 3
 και
 ke
-and — conjunction — seen as: και, κι
+and — conjunction — ⚠ used in the real A2 exams — seen as: και, κι
 
 4
 είμαι
 ime
-to be — verb — seen as: είναι, Είμαι, είσαι, είστε, ήταν, είμαστε, ήμουν, ήμασταν +5 more
+to be — verb — ⚠ used in the real A2 exams — seen as: είναι, Είμαι, είσαι, είστε, ήταν, είμαστε, ήμουν, ήμασταν +5 more
 
 5
 να
 na
-to (subjunctive marker); here is — particle
+to (subjunctive marker); here is — particle — ⚠ used in the real A2 exams
 
 6
 μου / σου / μας / σας
 mou / sou / mas / sas
-weak possessive: my, your, our, your (also me, you to me/us) — pronoun — seen as: μου, σας, μας, σου
+weak possessive: my, your, our, your (also me, you to me/us) — pronoun — ⚠ used in the real A2 exams — seen as: μου, σας, μας, σου
 
 7
 με
 me
-with, by — preposition
+with, by — preposition — ⚠ used in the real A2 exams
 
 8
 για
 yia
-for, about — preposition
+for, about — preposition — ⚠ used in the real A2 exams
 
 9
 ένας / μία / ένα
 enas / mia / ena
-a, an (indefinite article) — article — seen as: ένα, μια, ένας, έναν, μιας, ενός
+a, an (indefinite article) — article — ⚠ used in the real A2 exams — seen as: ένα, μια, ένας, έναν, μιας, ενός
 
 10
 τι
 ti
-what — pronoun
+what — pronoun — ⚠ used in the real A2 exams
 
 11
 η άσκηση
@@ -56,57 +56,57 @@ exercise — noun — seen as: Άσκηση, ασκήσεις, ασκήσεων,
 12
 θα
 tha
-will (future marker) — particle
+will (future marker) — particle — ⚠ used in the real A2 exams
 
 13
 από
 apo
-from, of, than — preposition — seen as: από, απ
+from, of, than — preposition — ⚠ used in the real A2 exams — seen as: από, απ
 
 14
 που
 pou
-that, which, who — conjunction
+that, which, who — conjunction — ⚠ used in the real A2 exams
 
 15
 σβήνω τη φωτιά
 svino ti fotia
-put out the fire — phrase — seen as: τη
+put out the fire — phrase — ⚠ used in the real A2 exams — seen as: τη
 
 16
 γράφω
 grafo
-write — verb — seen as: γράφει, Γράφετε, γράφω, Γράφεις, γράψεις, γράψουν, γράψω, Έγραψα +8 more
+write — verb — ⚠ used in the real A2 exams — seen as: γράφει, Γράφετε, γράφω, Γράφεις, γράψεις, γράψουν, γράψω, Έγραψα +8 more
 
 17
 βλέπω
 vlepo
-see — verb — seen as: Βλέπεις, Βλέπω, βλέπουν, βλέπει, βλέπετε, βλέπουμε, βλέπουνε, δω +10 more
+see — verb — ⚠ used in the real A2 exams — seen as: Βλέπεις, Βλέπω, βλέπουν, βλέπει, βλέπετε, βλέπουμε, βλέπουνε, δω +10 more
 
 18
 πολύ
 poli
-much — adverb
+much — adverb — ⚠ used in the real A2 exams
 
 19
 κάνω
 kano
-do — verb — seen as: κάνεις, κάνω, κάνουν, κάνετε, κάνουμε, έκανε, Κάντε, έκανες +5 more
+do — verb — ⚠ used in the real A2 exams — seen as: κάνεις, κάνω, κάνουν, κάνετε, κάνουμε, έκανε, Κάντε, έκανες +5 more
 
 20
 δεν
 den
-not (with the indicative) — particle
+not (with the indicative) — particle — ⚠ used in the real A2 exams
 
 21
 έχω
 eho
-to have — verb — seen as: έχει, έχω, έχουν, έχετε, έχουμε, έχοντας, είχε, είχαν +5 more
+to have — verb — ⚠ used in the real A2 exams — seen as: έχει, έχω, έχουν, έχετε, έχουμε, έχοντας, είχε, είχαν +5 more
 
 22
 η λέξη
 i lexi
-word — noun — seen as: λέξεις, λέξη, λέξεων
+word — noun — ⚠ used in the real A2 exams — seen as: λέξεις, λέξη, λέξεων
 
 23
 η ενότητα
@@ -116,112 +116,112 @@ unity — noun — seen as: Ενότητα, Ενότητες, ενότητας, 
 24
 ρωτάω
 rotao
-ask — verb — seen as: ερωτήσεις, Ρωτάς, ρωτάω, ρωτάτε, ρωτάει, Ρωτάμε, ρώτησε, ρωτήσεις +4 more
+ask — verb — ⚠ used in the real A2 exams — seen as: ερωτήσεις, Ρωτάς, ρωτάω, ρωτάτε, ρωτάει, Ρωτάμε, ρώτησε, ρωτήσεις +4 more
 
 25
 το σπίτι
 to spiti
-home — noun — seen as: σπίτι, σπίτια, σπιτιού, σπιτιών
+home — noun — ⚠ used in the real A2 exams — seen as: σπίτι, σπίτια, σπιτιού, σπιτιών
 
 26
 πηγαίνω
 pigeno
-go — verb — seen as: Πηγαίνεις, πηγαίνω, πηγαίνει, πηγαίνουν, πήγε, Πήγα, πηγαίνουμε, Πηγαίνετε +5 more
+go — verb — ⚠ used in the real A2 exams — seen as: Πηγαίνεις, πηγαίνω, πηγαίνει, πηγαίνουν, πήγε, Πήγα, πηγαίνουμε, Πηγαίνετε +5 more
 
 27
 μπορώ
 boro
-can — verb — seen as: μπορώ, μπορούν, μπορεί, μπορείς, μπορείτε, μπορούμε, μπορούσε, μπορέσω +4 more
+can — verb — ⚠ used in the real A2 exams — seen as: μπορώ, μπορούν, μπορεί, μπορείς, μπορείτε, μπορούμε, μπορούσε, μπορέσω +4 more
 
 28
 θέλω
 thelo
-want — verb — seen as: Θέλω, θέλει, Θέλεις, θέλετε, θέλουν, θέλουμε, θέλαμε, ήθελα +7 more
+want — verb — ⚠ used in the real A2 exams — seen as: Θέλω, θέλει, Θέλεις, θέλετε, θέλουν, θέλουμε, θέλαμε, ήθελα +7 more
 
 29
 η παραγωγή γραπτού λόγου
 i paragoyi graptou logou
-writing production — noun — seen as: ΛΟΓΟΥ, ΠΑΡΑΓΩΓΗ, παραγωγής
+writing production — noun — ⚠ used in the real A2 exams — seen as: ΛΟΓΟΥ, ΠΑΡΑΓΩΓΗ, παραγωγής
 
 30
 το κείμενο
 to kimeno
-text — noun — seen as: κείμενο, κείμενα, κειμένου, κειμένων
+text — noun — ⚠ used in the real A2 exams — seen as: κείμενο, κείμενα, κειμένου, κειμένων
 
 31
 παρακάτω
 parakato
-below — verb
+below — verb — ⚠ used in the real A2 exams
 
 32
-ποιος
-pios
-who — pronoun — seen as: Ποια, Ποιο, Ποιος, Ποιες, ποιους, ποιοι, ποιον
+η μέρα
+i mera
+day — noun — ⚠ used in the real A2 exams — seen as: μέρα, μέρες, ημέρα, ημερών, ημέρες, ΗΜΕΡΑΣ
 
 33
-μιλάω
-milao
-talk — verb — seen as: μιλάει, μιλάω, μιλάμε, μιλάς, μιλήσεις, μιλούν, μιλώ, μιλήσω +15 more
+ποιος
+pios
+who — pronoun — ⚠ used in the real A2 exams — seen as: Ποια, Ποιο, Ποιος, Ποιες, ποιους, ποιοι, ποιον
 
 34
-απαντάω
-apandao
-answer — verb — seen as: απαντάς, απαντήσεις, απαντάει, απαντήσουν, Απαντάτε, απάντησε, απαντούν, Απαντάμε +5 more
+μιλάω
+milao
+talk — verb — ⚠ used in the real A2 exams — seen as: μιλάει, μιλάω, μιλάμε, μιλάς, μιλήσεις, μιλούν, μιλώ, μιλήσω +15 more
 
 35
-πρέπει
-prepi
-should — verb — seen as: πρέπει, Πρέπετε, Πρέπουμε, Πρέπω, έπρεπε
+απαντάω
+apandao
+answer — verb — ⚠ used in the real A2 exams — seen as: απαντάς, απαντήσεις, απαντάει, απαντήσουν, Απαντάτε, απάντησε, απαντούν, Απαντάμε +5 more
 
 36
-διαβάζω
-diavazo
-read — verb — seen as: Διαβάζεις, διαβάζω, διαβάζετε, διαβάζει, Διαβάστε, διαβάσει, διάβασε, διάβασαν +10 more
+πρέπει
+prepi
+should — verb — ⚠ used in the real A2 exams — seen as: πρέπει, Πρέπετε, Πρέπουμε, Πρέπω, έπρεπε
 
 37
+διαβάζω
+diavazo
+read — verb — ⚠ used in the real A2 exams — seen as: Διαβάζεις, διαβάζω, διαβάζετε, διαβάζει, Διαβάστε, διαβάσει, διάβασε, διάβασαν +10 more
+
+38
 το λεξιλόγιο
 to lexiloyio
 vocabulary — noun — seen as: ΛΕΞΙΛΟΓΙΟ, λεξιλογίου
 
-38
+39
 ο συμμαθητής
 o simmathitis
 classmate — noun — seen as: συμμαθητής, συμμαθητή, συμμαθητές, συμμαθητών
 
-39
+40
 δύο
 dio
-two — pronoun
-
-40
-μένω
-meno
-live — verb — seen as: μένει, μένω, μένεις, μένα, μένουν, μένετε, Μένουμε, μέσω +11 more
+two — pronoun — ⚠ used in the real A2 exams
 
 41
-όλος
-olos
-all, whole, entire — adjective — seen as: όλα, όλοι, όλες, όλη, ος, όλο, ές, όλους +2 more
+μένω
+meno
+live — verb — ⚠ used in the real A2 exams — seen as: μένει, μένω, μένεις, μένα, μένουν, μένετε, Μένουμε, μέσω +11 more
 
 42
-η μέρα
-i mera
-day — noun — seen as: μέρα, μέρες
+όλος
+olos
+all, whole, entire — adjective — ⚠ used in the real A2 exams — seen as: όλα, όλοι, όλες, όλη, ος, όλο, ές, όλους +2 more
 
 43
 κάθε
 kathe
-each — adjective
+each — adjective — ⚠ used in the real A2 exams
 
 44
 η συμμαθήτρια
 i simmathitria
-classmate — noun — seen as: συμμαθήτριά, συμμαθήτριές, συμμαθήτριάς, συμμαθητριών
+classmate — noun — ⚠ used in the real A2 exams — seen as: συμμαθήτριά, συμμαθήτριές, συμμαθήτριάς, συμμαθητριών
 
 45
 ωραίος
 oreos
-beautiful — adjective — seen as: ωραία, ωραίο, ωραίος, ωραίες, ωραίους, ωραίοι
+beautiful — adjective — ⚠ used in the real A2 exams — seen as: ωραία, ωραίο, ωραίος, ωραίες, ωραίους, ωραίοι
 
 46
 διπλανός
@@ -231,7 +231,7 @@ next — adjective — seen as: διπλανό, διπλανός
 47
 η Μαρία
 i maria
-Maria — noun — seen as: Μαρία, Μαρίας
+Maria — noun — ⚠ used in the real A2 exams — seen as: Μαρία, Μαρίας
 
 48
 διπλανή
@@ -241,27 +241,27 @@ next — adverb
 49
 συμπληρώνω
 simblirono
-to complete, to fill — verb — seen as: συμπληρώνεις, συμπληρώνετε, συμπληρώσουν, συμπληρώστε, συμπληρώσετε, συμπληρώνω, συμπληρώσεις, συμπλήρωσε +1 more
+to complete, to fill — verb — ⚠ used in the real A2 exams — seen as: συμπληρώνεις, συμπληρώνετε, συμπληρώσουν, συμπληρώστε, συμπληρώσετε, συμπληρώνω, συμπληρώσεις, συμπλήρωσε +1 more
 
 50
 το γράμμα
 to gramma
-letter — noun — seen as: γράμμα, γράμματα, γράμματος, Γραμμάτων
+letter — noun — ⚠ used in the real A2 exams — seen as: γράμμα, γράμματα, γράμματος, Γραμμάτων
 
 51
 μαζί
 mazi
-together (μαζί με = together with) — adverb
+together (μαζί με = together with) — adverb — ⚠ used in the real A2 exams
 
 52
 βάζω
 vazo
-put — verb — seen as: Βάζεις, βάζω, βάζετε, βάζουμε, βάζει, βάλτε, Βάλε, βάλω +9 more
+put — verb — ⚠ used in the real A2 exams — seen as: Βάζεις, βάζω, βάζετε, βάζουμε, βάζει, βάλτε, Βάλε, βάλω +9 more
 
 53
 ελληνικός
 ellinikos
-Greek — adjective — seen as: ελληνική, ελληνικό, ελληνικά, ελληνικής, ελληνικών, ελληνικού, ελληνικές
+Greek — adjective — ⚠ used in the real A2 exams — seen as: ελληνική, ελληνικό, ελληνικά, ελληνικής, ελληνικών, ελληνικού, ελληνικές
 
 54
 η γραμματική
@@ -271,32 +271,32 @@ grammar — noun — seen as: ΓΡΑΜΜΑΤΙΚΗ, γραμματικής, γρ
 55
 βρίσκω
 vrisko
-find — verb — seen as: βρίσκετε, Βρίσκεις, βρίσκω, βρίσκουμε, βρίσκουν, βρίσκει, βρεις, βρω +10 more
+find — verb — ⚠ used in the real A2 exams — seen as: βρίσκετε, Βρίσκεις, βρίσκω, βρίσκουμε, βρίσκουν, βρίσκει, βρεις, βρω +10 more
 
 56
 πολύς
 polis
-much, many, a lot of — adjective — seen as: πολλά, πολλές, πολλοί, πολλή, πολλής, πολλούς, πολύς, πολά
+much, many, a lot of — adjective — ⚠ used in the real A2 exams — seen as: πολλά, πολλές, πολλοί, πολλή, πολλής, πολλούς, πολύς, πολά
 
 57
 η γλώσσα
 i glossa
-language — noun — seen as: γλώσσα, γλώσσας, γλώσσες, γλωσσών, γλώσσαν
+language — noun — ⚠ used in the real A2 exams — seen as: γλώσσα, γλώσσας, γλώσσες, γλωσσών, γλώσσαν
 
 58
 ο φίλος
 o filos
-friend — noun — seen as: φίλο, φίλους, φίλος, φίλοι
+friend — noun — ⚠ used in the real A2 exams — seen as: φίλο, φίλους, φίλος, φίλοι
 
 59
 η πρόταση
 i protasi
-proposal — noun — seen as: προτάσεις, πρόταση, προτάσεων, πρότασης
+proposal — noun — ⚠ used in the real A2 exams — seen as: προτάσεις, πρόταση, προτάσεων, πρότασης
 
 60
 καλά
 kala
-well — adverb — seen as: καλά, καλές
+well — adverb — ⚠ used in the real A2 exams — seen as: καλά, καλές
 
 61
 ίδια
@@ -306,22 +306,22 @@ same — adverb
 62
 τα παιδιά
 ta pedia
-children — noun — seen as: παιδιά
+children — noun — ⚠ used in the real A2 exams — seen as: παιδιά
 
 63
 αγοράζω
 agorazo
-buy — verb — seen as: αγοράσω, αγοράζει, αγοράσει, αγοράζω, Αγόρασα, αγοράσεις, αγοράζουν, αγοράσετε +9 more
+buy — verb — ⚠ used in the real A2 exams — seen as: αγοράσω, αγοράζει, αγοράσει, αγοράζω, Αγόρασα, αγοράσεις, αγοράζουν, αγοράσετε +9 more
 
 64
 ο πίνακας
 o pinakas
-board — noun — seen as: πίνακα, πίνακες, Πίνακας
+board — noun — ⚠ used in the real A2 exams — seen as: πίνακα, πίνακες, Πίνακας
 
 65
 η δουλειά
 i doulia
-work — noun — seen as: δουλειά
+work — noun — ⚠ used in the real A2 exams — seen as: δουλειά
 
 66
 εσύ
@@ -331,222 +331,222 @@ you — pronoun
 67
 καλός
 kalos
-good — adjective — seen as: καλό, καλός, καλή, καλοί, καλούς, καλύτερη, κάλ
+good — adjective — ⚠ used in the real A2 exams — seen as: καλό, καλός, καλή, καλοί, καλούς, καλύτερη, κάλ
 
 68
 Πώς σε λένε;
 pos se lene;
-What's your name? — phrase — seen as: Πώς
+What's your name? — phrase — ⚠ used in the real A2 exams — seen as: Πώς
 
 69
 αυτό
 afto
-it — pronoun
+it — pronoun — ⚠ used in the real A2 exams
 
 70
 κάνει
 kani
-it is — phrase
+it is — phrase — ⚠ used in the real A2 exams
 
 71
 μου αρέσει
 mou aresi
-I like it — verb — seen as: αρέσει
+I like it — verb — ⚠ used in the real A2 exams — seen as: αρέσει
 
 72
 ο Κώστας
 o kostas
-Kostas — noun — seen as: Κώστας, Κώστα
+Kostas — noun — ⚠ used in the real A2 exams — seen as: Κώστας, Κώστα
 
 73
 το λάθος
 to lathos
-mistake — noun — seen as: λάθη, ΛΑΘΟΣ
+mistake — noun — ⚠ used in the real A2 exams — seen as: λάθη, ΛΑΘΟΣ
 
 74
 η ώρα
 i ora
-hour — noun — seen as: ώρα, ώρες, ωρών, Ορεσ
+hour — noun — ⚠ used in the real A2 exams — seen as: ώρα, ώρες, ωρών, Ορεσ
 
 75
 το βιβλίο
 to vivlio
-book — noun — seen as: βιβλίο, βιβλίου, βιβλία
+book — noun — ⚠ used in the real A2 exams — seen as: βιβλίο, βιβλίου, βιβλία
 
 76
 γιατί
 yiati
-why; because — conjunction
+why; because — conjunction — ⚠ used in the real A2 exams
 
 77
 παραπάνω
 parapano
-more — verb — seen as: πιο, παραπάνω
+more — verb — ⚠ used in the real A2 exams — seen as: πιο, παραπάνω
 
 78
 αυτή
 afti
-she — pronoun
+she — pronoun — ⚠ used in the real A2 exams
 
 79
 μεγάλος
 megalos
-large — adjective — seen as: μεγάλο, μεγάλη, μεγάλος, μεγάλα, μεγάλους, μεγάλες, μεγάλοι, μεγάλου +1 more
+large — adjective — ⚠ used in the real A2 exams — seen as: μεγάλο, μεγάλη, μεγάλος, μεγάλα, μεγάλους, μεγάλες, μεγάλοι, μεγάλου +1 more
 
 80
 πόσος
 posos
-how much — adjective — seen as: Πόσο, Πόσα, Πόσες, πόση, Πόσους, πόσος, Πόσοι
+how much — adjective — ⚠ used in the real A2 exams — seen as: Πόσο, Πόσα, Πόσες, πόση, Πόσους, πόσος, Πόσοι
 
 81
 γεια
 yia
-hello — noun
+hello — noun — ⚠ used in the real A2 exams
 
 82
 εγώ
 ego
-I — noun — seen as: Εγώ, εμάς, γω
+I — noun — ⚠ used in the real A2 exams — seen as: Εγώ, εμάς, γω
 
 83
 λέω
 leo
-say — verb — seen as: λέει, λέω, λες, είπε, πω, πούμε, πει, είπατε +11 more
+say — verb — ⚠ used in the real A2 exams — seen as: λέει, λέω, λες, είπε, πω, πούμε, πει, είπατε +11 more
 
 84
 το κενό
 to keno
-blank — noun — seen as: κενά, κενό, κενού
+blank — noun — ⚠ used in the real A2 exams — seen as: κενά, κενό, κενού
 
 85
 η φίλη
 i fili
-friend — noun — seen as: φίλη, φίλης, φίλων
+friend — noun — ⚠ used in the real A2 exams — seen as: φίλη, φίλης, φίλων
 
 86
 όταν
 otan
-when — conjunction
+when — conjunction — ⚠ used in the real A2 exams
 
 87
 ακούω
 akouo
-hear — verb — seen as: ακούω, ακούσετε, ακούτε, ακούσεις, ακούσω, άκουσες, ακούσουν, ακούσατε +11 more
+hear — verb — ⚠ used in the real A2 exams — seen as: ακούω, ακούσετε, ακούτε, ακούσεις, ακούσω, άκουσες, ακούσουν, ακούσατε +11 more
 
 88
 αν
 an
-if — conjunction — seen as: Αν, εάν
+if — conjunction — ⚠ used in the real A2 exams — seen as: Αν, εάν
 
 89
 σωστός
 sostos
-right — adjective — seen as: σωστό, σωστή, σωστής, σώστε
+right — adjective — ⚠ used in the real A2 exams — seen as: σωστό, σωστή, σωστής, σώστε
 
 90
 η εικόνα
 i ikona
-image — noun — seen as: εικόνες, εικόνα, εικόνων, εικόνας
+image — noun — ⚠ used in the real A2 exams — seen as: εικόνες, εικόνα, εικόνων, εικόνας
 
 91
 η Ελένη
 i eleni
-Helen — noun — seen as: Ελένη, Ελένης
+Helen — noun — ⚠ used in the real A2 exams — seen as: Ελένη, Ελένης
 
 92
 ο χρόνος
 o hronos
-time — noun — seen as: χρόνο, χρονών, χρόνος, χρόνου
+time — noun — ⚠ used in the real A2 exams — seen as: χρόνο, χρονών, χρόνος, χρόνου
 
 93
 η τάξη
 i taxi
-class — noun — seen as: τάξη, τάξεις, τάξης
+class — noun — ⚠ used in the real A2 exams — seen as: τάξη, τάξεις, τάξης
 
 94
 όχι
 ohi
-no, not — particle
+no, not — particle — ⚠ used in the real A2 exams
 
 95
 γραπτός
 graptos
-written — adjective — seen as: γραπτή, γραπτό, ΓΡΑΠΤΟΥ, γραπτών, γραπτά
+written — adjective — ⚠ used in the real A2 exams — seen as: γραπτή, γραπτό, ΓΡΑΠΤΟΥ, γραπτών, γραπτά
 
 96
 μικρός
 mikros
-small — adjective — seen as: μικρό, μικρά, μικρή, μικρός, μικρές, μικρούς, μικροί
+small — adjective — ⚠ used in the real A2 exams — seen as: μικρό, μικρά, μικρή, μικρός, μικρές, μικρούς, μικροί
 
 97
 το ευρώ
 to evro
-euro — noun — seen as: ευρώ
+euro — noun — ⚠ used in the real A2 exams — seen as: ευρώ
 
 98
 τώρα
 tora
-now — adverb
+now — adverb — ⚠ used in the real A2 exams
 
 99
 η φωτογραφία
 i fotografia
-picture, photo — noun — seen as: φωτογραφίες, φωτογραφία, φωτογραφίας
+picture, photo — noun — ⚠ used in the real A2 exams — seen as: φωτογραφίες, φωτογραφία, φωτογραφίας
 
 100
 ο διάλογος
 o dialogos
-dialogue — noun — seen as: διάλογο, διαλόγους, διάλογος, διαλόγου
+dialogue — noun — ⚠ used in the real A2 exams — seen as: διάλογο, διαλόγους, διάλογος, διαλόγου
 
 101
 παίζω
 pezo
-play — verb — seen as: Παίζουμε, παίζω, Παίζεις, παίζει, παίζουν, παίξουν, έπαιξα, παίξω +12 more
+play — verb — ⚠ used in the real A2 exams — seen as: Παίζουμε, παίζω, Παίζεις, παίζει, παίζουν, παίξουν, έπαιξα, παίξω +12 more
 
 102
 η φράση
 i frasi
-phrase — noun — seen as: φράσεις, φράση, φράσης, φράσεων
+phrase — noun — ⚠ used in the real A2 exams — seen as: φράσεις, φράση, φράσης, φράσεων
 
 103
 ο ρόλος
 o rolos
-role — noun — seen as: Ρόλος, ρόλων, ρόλο, ρόλους, ρόλοι
+role — noun — ⚠ used in the real A2 exams — seen as: Ρόλος, ρόλων, ρόλο, ρόλους, ρόλοι
 
 104
 το μάθημα
 to mathima
-lesson — noun — seen as: μαθήματα, μάθημα, μαθημάτων, μαθήματος, μαθημων
+lesson — noun — ⚠ used in the real A2 exams — seen as: μαθήματα, μάθημα, μαθημάτων, μαθήματος, μαθημων
 
 105
 τρώω
 troo
-to eat — verb — seen as: τρώω, τρώτε, τρώει, τρώσεις, τρώσατε, τρώμε, τρως, φάω +13 more
+to eat — verb — ⚠ used in the real A2 exams — seen as: τρώω, τρώτε, τρώει, τρώσεις, τρώσατε, τρώμε, τρως, φάω +13 more
 
 106
 η συμβουλή
 i simvouli
-advice — noun — seen as: Συμβουλή, Συμβουλές
+advice — noun — ⚠ used in the real A2 exams — seen as: Συμβουλή, Συμβουλές
 
 107
 το ξενοδοχείο
 to xenodohio
-hotel — noun — seen as: ξενοδοχείο, ξενοδοχεία, Ξενοδοχείου, ξενοδοχείων
+hotel — noun — ⚠ used in the real A2 exams — seen as: ξενοδοχείο, ξενοδοχεία, Ξενοδοχείου, ξενοδοχείων
 
 108
 ξέρω
 xero
-know — verb — seen as: ξέρεις, ξέρω, ξέρει, ξέρουμε, ξέρετε, ξέρουν, ήξερα
+know — verb — ⚠ used in the real A2 exams — seen as: ξέρεις, ξέρω, ξέρει, ξέρουμε, ξέρετε, ξέρουν, ήξερα
 
 109
 το σχολείο
 to sholio
-school — noun — seen as: σχολείο, σχολεία, σχολείου
+school — noun — ⚠ used in the real A2 exams — seen as: σχολείο, σχολεία, σχολείου
 
 110
 αύριο
 avrio
-tomorrow — adverb
+tomorrow — adverb — ⚠ used in the real A2 exams
 
 111
 ενώνω
@@ -556,12 +556,12 @@ unite — verb — seen as: Ενώνεις, ενώνετε, ενώνει, ενώ
 112
 έρχομαι
 erhome
-come — verb — seen as: έρχομαι, Έρχεται, έρχονται, Έρχεσαι, Ερχόμαστε, Έρχεστε, έρθω, έρθετε +12 more
+come — verb — ⚠ used in the real A2 exams — seen as: έρχομαι, Έρχεται, έρχονται, Έρχεσαι, Ερχόμαστε, Έρχεστε, έρθω, έρθετε +12 more
 
 113
 μαθαίνω
 matheno
-learn — verb — seen as: μαθαίνω, μαθαίνουν, μάθετε, μάθω, Έμαθα, μάθεις, μαθαίνετε, Μάθε +9 more
+learn — verb — ⚠ used in the real A2 exams — seen as: μαθαίνω, μαθαίνουν, μάθετε, μάθω, Έμαθα, μάθεις, μαθαίνετε, Μάθε +9 more
 
 114
 με λένε
@@ -571,57 +571,57 @@ my name is — phrase — seen as: λένε
 115
 το φαγητό
 to fayito
-food — noun — seen as: φαγητό, φαγητά
+food — noun — ⚠ used in the real A2 exams — seen as: φαγητό, φαγητά
 
 116
 το βράδυ
 to vradi
-night — noun — seen as: βράδυ
+night — noun — ⚠ used in the real A2 exams — seen as: βράδυ
 
 117
 δίνω
 dino
-give — verb — seen as: δίνουν, δίνω, δίνεις, δίνει, δίνετε, δίνοντας, δίνουμε, έδωσε +10 more
+give — verb — ⚠ used in the real A2 exams — seen as: δίνουν, δίνω, δίνεις, δίνει, δίνετε, δίνοντας, δίνουμε, έδωσε +10 more
 
 118
 καινούριος
 kenourios
-new — adjective — seen as: καινούριο, καινούρια, καινούριος, νέος, καινούριες, καινούριους, καινούριοι
+new — adjective — ⚠ used in the real A2 exams — seen as: καινούριο, καινούρια, καινούριος, νέος, καινούριες, καινούριους, καινούριοι
 
 119
 το ρούχο
 to rouho
-clothing — noun — seen as: ρούχα, ρούχων, ρούχο
+clothing — noun — ⚠ used in the real A2 exams — seen as: ρούχα, ρούχων, ρούχο
 
 120
 το πρωί
 to proi
-morning — noun — seen as: πρωί
+morning — noun — ⚠ used in the real A2 exams — seen as: πρωί
 
 121
 βγαίνω
 vgeno
-go out — verb — seen as: βγαίνω, βγω, βγαίνετε, βγει, βγεις, βγήκα, βγούμε, βγουν +9 more
+go out — verb — ⚠ used in the real A2 exams — seen as: βγαίνω, βγω, βγαίνετε, βγει, βγεις, βγήκα, βγούμε, βγουν +9 more
 
 122
 μέσα
 mesa
-inside, in — adverb
+inside, in — adverb — ⚠ used in the real A2 exams
 
 123
 ο Νίκος
 o nikos
-Nikos — noun — seen as: Νίκος, Νίκο, Νίκου
+Nikos — noun — ⚠ used in the real A2 exams — seen as: Νίκος, Νίκο, Νίκου
 
 124
 περνάω
 pernao
-pass — verb — seen as: περνάω, περνάει, περνάς, περνούν, περνάνε, Περνάμε, περνώ, πέρα +15 more
+pass — verb — ⚠ used in the real A2 exams — seen as: περνάω, περνάει, περνάς, περνούν, περνάνε, Περνάμε, περνώ, πέρα +15 more
 
 125
 το παιχνίδι
 to pehnidi
-game — noun — seen as: παιχνίδι, παιχνίδια
+game — noun — ⚠ used in the real A2 exams — seen as: παιχνίδι, παιχνίδια
 
 126
 παρατηρώ
@@ -631,32 +631,32 @@ observe — verb — seen as: παρατηρώ, παρατηρείς, παρατ
 127
 δουλεύω
 doulevo
-work — verb — seen as: δουλεύει, δουλεύω, δουλεύουν, Δουλεύεις, Δουλεύετε, Δούλεψα, δουλέψω, δουλέψουμε +4 more
+work — verb — ⚠ used in the real A2 exams — seen as: δουλεύει, δουλεύω, δουλεύουν, Δουλεύεις, Δουλεύετε, Δούλεψα, δουλέψω, δουλέψουμε +4 more
 
 128
 η Ελλάδα
 i ellada
-Greece — noun — seen as: Ελλάδα, Ελλάδας
+Greece — noun — ⚠ used in the real A2 exams — seen as: Ελλάδα, Ελλάδας
 
 129
 ότι
 oti
-that (reporting) — conjunction
+that (reporting) — conjunction — ⚠ used in the real A2 exams
 
 130
 η τιμή
 i timi
-price — noun — seen as: τιμή, τιμές
+price — noun — ⚠ used in the real A2 exams — seen as: τιμή, τιμές
 
 131
 η φορά
 i fora
-time — noun — seen as: φορά, φορές, φοράς
+time — noun — ⚠ used in the real A2 exams — seen as: φορά, φορές, φοράς
 
 132
 όποιος
 opios
-whoever — adjective — seen as: οποίες, οποία, οποίο, οποίοι, οποίος, οποίους, οποίου, οποίων +1 more
+whoever — adjective — ⚠ used in the real A2 exams — seen as: οποίες, οποία, οποίο, οποίοι, οποίος, οποίους, οποίου, οποίων +1 more
 
 133
 ο δάσκαλος
@@ -666,237 +666,237 @@ teacher — noun — seen as: δάσκαλος, δάσκαλο, δασκάλου
 134
 μετά
 meta
-after — adverb
+after — adverb — ⚠ used in the real A2 exams
 
 135
 άλλος
 allos
-other — adjective — seen as: άλλη, άλλο, άλλος, άλλους, άλλες, άλλων, άλλοι, άλλον
+other — adjective — ⚠ used in the real A2 exams — seen as: άλλη, άλλο, άλλος, άλλους, άλλες, άλλων, άλλοι, άλλον
 
 136
 λίγος
 ligos
-little — adjective — seen as: λίγο, λίγες, λίγα, λίγη, λίγος
+little — adjective — ⚠ used in the real A2 exams — seen as: λίγο, λίγες, λίγα, λίγη, λίγος
 
 137
 η μουσική
 i mousiki
-music — noun — seen as: μουσική, μουσικής, μουσικών
+music — noun — ⚠ used in the real A2 exams — seen as: μουσική, μουσικής, μουσικών
 
 138
 αλλά
 alla
-but — conjunction
+but — conjunction — ⚠ used in the real A2 exams
 
 139
 εσείς
 esis
-you — pronoun — seen as: εσείς, εσάς
+you — pronoun — ⚠ used in the real A2 exams — seen as: εσείς, εσάς
 
 140
 ο καιρός
 o keros
-weather — noun — seen as: καιρό, καιρός, καιρού
+weather — noun — ⚠ used in the real A2 exams — seen as: καιρό, καιρός, καιρού
 
 141
 παίρνω
 perno
-take — verb — seen as: παίρνω, παίρνει, παίρνεις, παίρνουν, Παίρνετε, Παίρνουμε, πάρω, Πάρε +12 more
+take — verb — ⚠ used in the real A2 exams — seen as: παίρνω, παίρνει, παίρνεις, παίρνουν, Παίρνετε, Παίρνουμε, πάρω, Πάρε +12 more
 
 142
 η πόλη
 i poli
-city — noun — seen as: πόλη, πόλης, πόλεις
+city — noun — ⚠ used in the real A2 exams — seen as: πόλη, πόλης, πόλεις
 
 143
 ετοιμάζω
 etimazo
-prepare — verb — seen as: ετοιμάζετε, ετοιμάζω, ετοιμάσω, ετοιμάζεις, ετοιμάσεις, ετοιμάζει, ετοιμάσουν, ετοιμάσετε +7 more
+prepare — verb — ⚠ used in the real A2 exams — seen as: ετοιμάζετε, ετοιμάζω, ετοιμάσω, ετοιμάζεις, ετοιμάσεις, ετοιμάζει, ετοιμάσουν, ετοιμάσετε +7 more
 
 144
 αγαπώ
 agapo
-love — verb — seen as: αγαπώ, Αγαπημένη, αγαπάει, αγαπημένο, αγαπούν, αγαπημένα, αγαπάνε, αγαπάω +6 more
+love — verb — ⚠ used in the real A2 exams — seen as: αγαπώ, Αγαπημένη, αγαπάει, αγαπημένο, αγαπούν, αγαπημένα, αγαπάνε, αγαπάω +6 more
 
 145
 το βιβλιάριο τράπεζας
 to vivliario trapezas
-bank book — noun — seen as: τράπεζα, βιβλιάριο, τράπεζας, τράπεζες, βιβλιάρια
+bank book — noun — ⚠ used in the real A2 exams — seen as: τράπεζα, βιβλιάριο, τράπεζας, τράπεζες, βιβλιάρια
 
 146
 περιγράφω
 perigrafo
-describe — verb — seen as: Περιγράφεις, Περιγράφω, περιγράφει, περιγράψουν, περιγραφές, περιγράψεις, περιγράφετε, Περιέγραψα
+describe — verb — ⚠ used in the real A2 exams — seen as: Περιγράφεις, Περιγράφω, περιγράφει, περιγράψουν, περιγραφές, περιγράψεις, περιγράφετε, Περιέγραψα
 
 147
 ο λογαριασμός
 o logariasmos
-account — noun — seen as: λογαριασμό, λογαριασμός, λογαριασμούς, λογαριασμοί
+account — noun — ⚠ used in the real A2 exams — seen as: λογαριασμό, λογαριασμός, λογαριασμούς, λογαριασμοί
 
 148
 αυτά
 afta
-they — pronoun
+they — pronoun — ⚠ used in the real A2 exams
 
 149
 κάτω
 kato
-under, below, down — adverb — seen as: κάτω, κατά, κάτσε, κάτσετε, κάτσω, κάτσεις
+under, below, down — adverb — ⚠ used in the real A2 exams — seen as: κάτω, κατά, κάτσε, κάτσετε, κάτσω, κάτσεις
 
 150
 προσέχω
 proseho
-care — verb — seen as: ΠΡΟΣΕΞΤΕ, προσέξεις, προσέχεις, Πρόσεξε, προσέχει, προσέξετε, προσέχουν, προσέξει +4 more
+care — verb — ⚠ used in the real A2 exams — seen as: ΠΡΟΣΕΞΤΕ, προσέξεις, προσέχεις, Πρόσεξε, προσέχει, προσέξετε, προσέχουν, προσέξει +4 more
 
 151
 ζητώ
 zito
-ask — verb — seen as: ζητάς, ζητάει, ζητούν, ζητήσουν, ζητάτε, ζήσετε, Ζητώ, ζήσεις +8 more
+ask — verb — ⚠ used in the real A2 exams — seen as: ζητάς, ζητάει, ζητούν, ζητήσουν, ζητάτε, ζήσετε, Ζητώ, ζήσεις +8 more
 
 152
 ο Γιώργος
 o yiorgos
-George — noun — seen as: Γιώργος, Γιώργο, Γιώργου
+George — noun — ⚠ used in the real A2 exams — seen as: Γιώργος, Γιώργο, Γιώργου
 
 153
 μόνος
 monos
-alone — adjective — seen as: μόνο, μόνος, μόνη, μόνοι, μόνες, μονά
+alone — adjective — ⚠ used in the real A2 exams — seen as: μόνο, μόνος, μόνη, μόνοι, μόνες, μονά
 
 154
 όμορφος
 omorfos
-beautiful — adjective — seen as: όμορφη, όμορφος, ομορφιάς, όμορφο, όμορφα, όμορφες, όμορφους
+beautiful — adjective — ⚠ used in the real A2 exams — seen as: όμορφη, όμορφος, ομορφιάς, όμορφο, όμορφα, όμορφες, όμορφους
 
 155
 προσεκτικά
 prosektika
-carefully — adverb
+carefully — adverb — ⚠ used in the real A2 exams
 
 156
 το τηλέφωνο
 to tilefono
-telephone, phone — noun — seen as: τηλέφωνο, τηλέφωνα, τηλεφώνου
+telephone, phone — noun — ⚠ used in the real A2 exams — seen as: τηλέφωνο, τηλέφωνα, τηλεφώνου
 
 157
 το τραγούδι
 to tragoudi
-song — noun — seen as: τραγούδι, τραγούδια, τραγουδιού
+song — noun — ⚠ used in the real A2 exams — seen as: τραγούδι, τραγούδια, τραγουδιού
 
 158
 το γραφείο
 to grafio
-desk — noun — seen as: γραφείο, γραφείου, γραφεία
+desk — noun — ⚠ used in the real A2 exams — seen as: γραφείο, γραφείου, γραφεία
 
 159
 σήμερα
 simera
-today — adverb
+today — adverb — ⚠ used in the real A2 exams
 
 160
 η χρονιά
 i hronia
-year — noun — seen as: χρόνια, χρονιάς
+year — noun — ⚠ used in the real A2 exams — seen as: χρόνια, χρονιάς
 
 161
 χωρίς
 horis
-without — preposition
+without — preposition — ⚠ used in the real A2 exams
 
 162
 ο Δημήτρης
 o dimitris
-Dimitris — noun — seen as: Δημήτρης, Δήμητρα, Δημήτρη
+Dimitris — noun — ⚠ used in the real A2 exams — seen as: Δημήτρης, Δήμητρα, Δημήτρη
 
 163
 το τέλος
 to telos
-end — noun — seen as: τέλος
+end — noun — ⚠ used in the real A2 exams — seen as: τέλος
 
 164
 ο Γιάννης
 o yiannis
-John — noun — seen as: Γιάννης, Γιάννη
+John — noun — ⚠ used in the real A2 exams — seen as: Γιάννης, Γιάννη
 
 165
 καταλαβαίνω
 katalaveno
-understand — verb — seen as: καταλαβαίνεις, καταλαβαίνω, κατάλαβα, καταλάβω, καταλάβουν, καταλάβεις, καταλάβαμε, κατάλαβε +4 more
+understand — verb — ⚠ used in the real A2 exams — seen as: καταλαβαίνεις, καταλαβαίνω, κατάλαβα, καταλάβω, καταλάβουν, καταλάβεις, καταλάβαμε, κατάλαβε +4 more
 
 166
 μέχρι
 mehri
-until, up to — preposition — seen as: ως, μέχρι, έως
+until, up to — preposition — ⚠ used in the real A2 exams — seen as: ως, μέχρι, έως
 
 167
 το όνομα
 to onoma
-name — noun — seen as: όνομα, ονόματα, ονοματων
+name — noun — ⚠ used in the real A2 exams — seen as: όνομα, ονόματα, ονοματων
 
 168
 το παιδί
 to pedi
-child — noun — seen as: παιδί, παιδιών, παιδιού
+child — noun — ⚠ used in the real A2 exams — seen as: παιδί, παιδιών, παιδιού
 
 169
 πρώτος
 protos
-first — numeral — seen as: πρώτη, πρώτο, πρώτος, πρώτης, πρώτου
+first — numeral — ⚠ used in the real A2 exams — seen as: πρώτη, πρώτο, πρώτος, πρώτης, πρώτου
 
 170
 η ταινία
 i tenia
-movie, film — noun — seen as: ταινία, ταινίες, ταινίας
+movie, film — noun — ⚠ used in the real A2 exams — seen as: ταινία, ταινίες, ταινίας
 
 171
 φεύγω
 fevgo
-to leave — verb — seen as: φεύγω, φεύγει, Φεύγουμε, φεύγετε, φεύγουν, Φεύγεις, φύγω, φύγουμε +11 more
+to leave — verb — ⚠ used in the real A2 exams — seen as: φεύγω, φεύγει, Φεύγουμε, φεύγετε, φεύγουν, Φεύγεις, φύγω, φύγουμε +11 more
 
 172
 ανοίγω
 anigo
-open — verb — seen as: ανοίγω, ανοίξω, ανοίξεις, ανοίγει, ανοίξει, ανοίξτε, ανοίγουν, Άνοιξε +5 more
+open — verb — ⚠ used in the real A2 exams — seen as: ανοίγω, ανοίξω, ανοίξεις, ανοίγει, ανοίξει, ανοίξτε, ανοίγουν, Άνοιξε +5 more
 
 173
 αυτές
 aftes
-they — pronoun
+they — pronoun — ⚠ used in the real A2 exams
 
 174
 το ζευγάρι
 to zevgari
-couple — noun — seen as: ζευγάρια, ζευγάρι
+couple — noun — ⚠ used in the real A2 exams — seen as: ζευγάρια, ζευγάρι
 
 175
 το κέντρο
 to kendro
-center — noun — seen as: κέντρο, Κέντρου, κέντρων, κέντρα
+center — noun — ⚠ used in the real A2 exams — seen as: κέντρο, Κέντρου, κέντρων, κέντρα
 
 176
 πριν
 prin
-before — adverb
+before — adverb — ⚠ used in the real A2 exams
 
 177
 δείχνω
 dihno
-show — verb — seen as: δείχνουν, δείχνεις, δείχνει, δείξω, Δείχνω, Δείξε, δείξει, δείχνετε
+show — verb — ⚠ used in the real A2 exams — seen as: δείχνουν, δείχνεις, δείχνει, δείξω, Δείχνω, Δείξε, δείξει, δείχνετε
 
 178
 το παράδειγμα
 to paradigma
-example — noun — seen as: παράδειγμα, παραδείγματα
+example — noun — ⚠ used in the real A2 exams — seen as: παράδειγμα, παραδείγματα
 
 179
 κάτι
 kati
-something — noun
+something — noun — ⚠ used in the real A2 exams
 
 180
 η Αννα
 i anna
-Anna — noun — seen as: Άννα, Άννας
+Anna — noun — ⚠ used in the real A2 exams — seen as: Άννα, Άννας
 
 181
 ο κύκλος
@@ -906,7 +906,7 @@ circle — noun — seen as: κύκλο
 182
 υπάρχω
 iparho
-to exist, to be — verb — seen as: υπάρχουν, υπήρχε
+to exist, to be — verb — ⚠ used in the real A2 exams — seen as: υπάρχουν, υπήρχε
 
 183
 η προσοχή
@@ -916,7 +916,7 @@ attention — noun — seen as: προσοχή
 184
 το θέατρο
 to theatro
-theater — noun — seen as: θέατρο, θέατρα, θέατρου
+theater — noun — ⚠ used in the real A2 exams — seen as: θέατρο, θέατρα, θέατρου
 
 185
 υπογραμμίζω
@@ -926,27 +926,27 @@ to underline — verb — seen as: Υπογραμμίζεις, Υπογραμμ�
 186
 ο γιατρός
 o yiatros
-doctor — noun — seen as: γιατρό, γιατρός, γιατρέ, γιατρούς, γιατροί
+doctor — noun — ⚠ used in the real A2 exams — seen as: γιατρό, γιατρός, γιατρέ, γιατρούς, γιατροί
 
 187
 μπροστά
 brosta
-in front — adverb
+in front — adverb — ⚠ used in the real A2 exams
 
 188
 πληρώνω
 plirono
-pay — verb — seen as: πληρώσω, πληρώνω, πληρώσεις, πληρώσει, πληρώνει, πληρώσετε, πληρώνεις, πληρώνουν +6 more
+pay — verb — ⚠ used in the real A2 exams — seen as: πληρώσω, πληρώνω, πληρώσεις, πληρώσει, πληρώνει, πληρώσετε, πληρώνεις, πληρώνουν +6 more
 
 189
 το εισιτήριο
 to isitirio
-ticket — noun — seen as: εισιτήριο, εισιτήρια, εισιτηρίου, εισιτηρίων
+ticket — noun — ⚠ used in the real A2 exams — seen as: εισιτήριο, εισιτήρια, εισιτηρίου, εισιτηρίων
 
 190
 επίσης
 episis
-also — adverb
+also — adverb — ⚠ used in the real A2 exams
 
 191
 κοιμάμαι
@@ -956,1122 +956,1122 @@ sleep — verb — seen as: κοιμάμαι, κοιμάται, κοιμούντ
 192
 η μαμά
 i mama
-mom — noun — seen as: μαμά, μαμάς
+mom — noun — ⚠ used in the real A2 exams — seen as: μαμά, μαμάς
 
 193
 σπουδάζω
 spoudazo
-study — verb — seen as: σπουδάζει, σπουδάζω, σπουδάσω, σπουδάζεις, σπουδάζουν, Σπουδάζετε, σπουδάσουν, Σπουδάζουμε +2 more
+study — verb — ⚠ used in the real A2 exams — seen as: σπουδάζει, σπουδάζω, σπουδάσω, σπουδάζεις, σπουδάζουν, Σπουδάζετε, σπουδάσουν, Σπουδάζουμε +2 more
 
 194
 τα νέα
 ta nea
-news — noun — seen as: νέα, νέας, νέες
+news — noun — ⚠ used in the real A2 exams — seen as: νέα, νέας, νέες
 
 195
 το δωμάτιο
 to domatio
-room — noun — seen as: δωμάτιο
+room — noun — ⚠ used in the real A2 exams — seen as: δωμάτιο
 
 196
 το λεωφορείο
 to leoforio
-bus — noun — seen as: λεωφορείο, λεωφορεία, λεωφορείων, λεωφορείου
+bus — noun — ⚠ used in the real A2 exams — seen as: λεωφορείο, λεωφορεία, λεωφορείων, λεωφορείου
 
 197
 το μέρος
 to meros
-part — noun — seen as: μέρη, μέρος, μέρους
+part — noun — ⚠ used in the real A2 exams — seen as: μέρη, μέρος, μέρους
 
 198
 ο μήνας
 o minas
-month — noun — seen as: μήνα, μήνες, μήνας
+month — noun — ⚠ used in the real A2 exams — seen as: μήνα, μήνες, μήνας
 
 199
 σημειώνω
 simiono
-note — verb — seen as: σημειώσεις, σημειώνεις, σημειώνετε, σημειώστε, σημειώνουν, σημειώσετε
+note — verb — ⚠ used in the real A2 exams — seen as: σημειώσεις, σημειώνεις, σημειώνετε, σημειώστε, σημειώνουν, σημειώσετε
 
 200
-η Αθήνα
-i athina
-Athens — noun — seen as: Αθήνα, Αθηνάς
+χθες
+hthes
+yesterday — adverb — ⚠ used in the real A2 exams — seen as: Χθες, Χτες
 
 201
-το ταξίδι
-to taxidi
-travel, journey, trip — noun — seen as: ταξίδι, ταξίδια, ταξιδιών
+η Αθήνα
+i athina
+Athens — noun — ⚠ used in the real A2 exams — seen as: Αθήνα, Αθηνάς
 
 202
-άρρωστος
-arrostos
-sick — adjective — seen as: άρρωστη, άρρωστο, άρρωστος, άρρωστοι, αρρώστια, αρρώστιες, άρρωστους
+το ταξίδι
+to taxidi
+travel, journey, trip — noun — ⚠ used in the real A2 exams — seen as: ταξίδι, ταξίδια, ταξιδιών
 
 203
-η αρχή
-i arhi
-beginning — noun — seen as: αρχή, αρχές
+άρρωστος
+arrostos
+sick — adjective — ⚠ used in the real A2 exams — seen as: άρρωστη, άρρωστο, άρρωστος, άρρωστοι, αρρώστια, αρρώστιες, άρρωστους
 
 204
-η εβδομάδα
-i evdomada
-week — noun — seen as: εβδομάδα, βδομάδα, εβδομάδας
+η αρχή
+i arhi
+beginning — noun — ⚠ used in the real A2 exams — seen as: αρχή, αρχές
 
 205
-έξω
-exo
-outside, out — adverb
+η εβδομάδα
+i evdomada
+week — noun — ⚠ used in the real A2 exams — seen as: εβδομάδα, βδομάδα, εβδομάδας
 
 206
-ποτέ
-pote
-never — adverb
+έξω
+exo
+outside, out — adverb — ⚠ used in the real A2 exams
 
 207
-δεύτερος
-defteros
-second — numeral — seen as: δεύτερη, δεύτερο, δεύτερης, δεύτερος, δεύτερου
+ποτέ
+pote
+never — adverb — ⚠ used in the real A2 exams
 
 208
-κοντά
-konda
-near, close — adverb
+δεύτερος
+defteros
+second — numeral — ⚠ used in the real A2 exams — seen as: δεύτερη, δεύτερο, δεύτερης, δεύτερος, δεύτερου
 
 209
-περιμένω
-perimeno
-wait — verb — seen as: περιμένω, περιμένετε, περιμένεις, περίμενα, περιμένουν, Περιμένοντας, Περίμενες, Περίμενε +1 more
+κοντά
+konda
+near, close — adverb — ⚠ used in the real A2 exams
 
 210
+περιμένω
+perimeno
+wait — verb — ⚠ used in the real A2 exams — seen as: περιμένω, περιμένετε, περιμένεις, περίμενα, περιμένουν, Περιμένοντας, Περίμενες, Περίμενε +1 more
+
+211
 η τηλεόραση
 i tileorasi
 television — noun — seen as: τηλεόραση, τηλεόρασης
 
-211
+212
 τρία
 tria
-three — numeral
-
-212
-η γιορτή
-i yiorti
-celebration — noun — seen as: γιορτή, γιορτές, γιορτής
+three — numeral — ⚠ used in the real A2 exams
 
 213
-η οικογένεια
-i ikoyenia
-family — noun — seen as: οικογένειά, Οικογένειες
+η γιορτή
+i yiorti
+celebration — noun — ⚠ used in the real A2 exams — seen as: γιορτή, γιορτές, γιορτής
 
 214
-το υλικό
-to iliko
-ingredient — noun — seen as: υλικό, υλικά, υλικού
+η οικογένεια
+i ikoyenia
+family — noun — ⚠ used in the real A2 exams — seen as: οικογένειά, Οικογένειες
 
 215
-χάνω
-hano
-to lose, to miss — verb — seen as: Χάνεις, έχασα, χάσετε, Χάνω, έχασε, χάσεις, χάσει, χάσω +3 more
+το υλικό
+to iliko
+ingredient — noun — ⚠ used in the real A2 exams — seen as: υλικό, υλικά, υλικού
 
 216
-μερικός
-merikos
-partial; (plural μερικοί) some, a few — adjective — seen as: μερικά, μερικές, μερικοί, μερικούς, μερική
+χάνω
+hano
+to lose, to miss — verb — ⚠ used in the real A2 exams — seen as: Χάνεις, έχασα, χάσετε, Χάνω, έχασε, χάσεις, χάσει, χάσω +3 more
 
 217
-η χώρα
-i hora
-country — noun — seen as: χώρα, χώρες, χώρας
+μερικός
+merikos
+partial; (plural μερικοί) some, a few — adjective — ⚠ used in the real A2 exams — seen as: μερικά, μερικές, μερικοί, μερικούς, μερική
 
 218
-ο άνθρωπος
-o anthropos
-person — noun — seen as: άνθρωποι, ανθρώπους, άνθρωπος, ανθρώπων, ανθρώπου
+η χώρα
+i hora
+country — noun — ⚠ used in the real A2 exams — seen as: χώρα, χώρες, χώρας
 
 219
-αυτός
-aftos
-he — pronoun — seen as: Αυτός, αυτούς, αυτήν, αυτού, αυτών
+η αδερφή
+i aderfi
+sister — noun — ⚠ used in the real A2 exams — seen as: αδερφή, αδερφές, αδελφή, αδελφές
 
 220
-το μονόκλινο δωμάτιο
-to monoklino domatio
-single room — noun — seen as: δωμάτια, μονόκλινο, μονόκλινα
+ο άνθρωπος
+o anthropos
+person — noun — ⚠ used in the real A2 exams — seen as: άνθρωποι, ανθρώπους, άνθρωπος, ανθρώπων, ανθρώπου
 
 221
-συχνά
-sihna
-often — adverb — seen as: συχνά, συχνές
+αυτός
+aftos
+he — pronoun — ⚠ used in the real A2 exams — seen as: Αυτός, αυτούς, αυτήν, αυτού, αυτών
 
 222
-γίνομαι
-yinome
-become — verb — seen as: γίνεται, γίνομαι, γίνονται, έγινε, γίνει, γίνουν, γίνω, γίνεις +3 more
+το μονόκλινο δωμάτιο
+to monoklino domatio
+single room — noun — ⚠ used in the real A2 exams — seen as: δωμάτια, μονόκλινο, μονόκλινα
 
 223
-το λεπτό
-to lepto
-minute — noun — seen as: λεπτά, λεπτό
+συχνά
+sihna
+often — adverb — ⚠ used in the real A2 exams — seen as: συχνά, συχνές
 
 224
-χρησιμοποιώ
-hrisimopio
-to use — verb — seen as: Χρησιμοποιείς, χρησιμοποιώ, χρησιμοποιεί, χρησιμοποιείτε, χρησιμοποιούμε, χρησιμοποιώντας, χρησιμοποιούν, χρησιμοποιήσεις +7 more
+γίνομαι
+yinome
+become — verb — ⚠ used in the real A2 exams — seen as: γίνεται, γίνομαι, γίνονται, έγινε, γίνει, γίνουν, γίνω, γίνεις +3 more
 
 225
-έτσι
-etsi
-so — adverb
+το λεπτό
+to lepto
+minute — noun — ⚠ used in the real A2 exams — seen as: λεπτά, λεπτό
 
 226
-πάντα
-panda
-always — adverb
+χρησιμοποιώ
+hrisimopio
+to use — verb — ⚠ used in the real A2 exams — seen as: Χρησιμοποιείς, χρησιμοποιώ, χρησιμοποιεί, χρησιμοποιείτε, χρησιμοποιούμε, χρησιμοποιώντας, χρησιμοποιούν, χρησιμοποιήσεις +7 more
 
 227
-πίνω
-pino
-drink — verb — seen as: πίνω, πίνει, πίνουν, πίνουμε, πίνεις, πίνετε, πιείτε, πιεις +5 more
+έτσι
+etsi
+so — adverb — ⚠ used in the real A2 exams
 
 228
+πάντα
+panda
+always — adverb — ⚠ used in the real A2 exams
+
+229
+πίνω
+pino
+drink — verb — ⚠ used in the real A2 exams — seen as: πίνω, πίνει, πίνουν, πίνουμε, πίνεις, πίνετε, πιείτε, πιεις +5 more
+
+230
 η στήλη
 i stili
 column — noun — seen as: στήλη, στήλες, στήλης
 
-229
+231
 ο υπάλληλος
 o ipallilos
-employee — noun — seen as: Υπάλληλος, υπάλληλο, υπαλλήλου, υπαλλήλους, υπάλληλοι
-
-230
-η Κυριακή
-i kiriaki
-Sunday — noun — seen as: Κυριακή
-
-231
-όμως
-omos
-however — conjunction
+employee — noun — ⚠ used in the real A2 exams — seen as: Υπάλληλος, υπάλληλο, υπαλλήλου, υπαλλήλους, υπάλληλοι
 
 232
+η Κυριακή
+i kiriaki
+Sunday — noun — ⚠ used in the real A2 exams — seen as: Κυριακή
+
+233
+όμως
+omos
+however — conjunction — ⚠ used in the real A2 exams
+
+234
 αντίθετος
 andithetos
 opposite — adjective — seen as: αντίθετο, αντίθετα, αντίθετες
 
-233
+235
 το βήμα
 to vima
 step — noun — seen as: βήματα, Βήμα
 
-234
+236
 ευχαριστώ
 efharisto
-thank — verb — seen as: ευχαριστώ, ευχάριστα, Ευχαριστούμε, ευχαριστείτε, ευχαριστήσουμε, ευχαριστήσει
+thank — verb — ⚠ used in the real A2 exams — seen as: ευχαριστώ, ευχάριστα, Ευχαριστούμε, ευχαριστείτε, ευχαριστήσουμε, ευχαριστήσει
 
-235
+237
 η ζωή
 i zoi
-life — noun — seen as: Ζωή, ζωές
+life — noun — ⚠ used in the real A2 exams — seen as: Ζωή, ζωές
 
-236
+238
 κάποιος
 kapios
 someone — pronoun — seen as: κάποια, κάποιο, κάποιος, κάποιες, κάποιον, κάποιου, κάποιοι, κάποιους
 
-237
+239
 καφέ
 kafe
-brown — adjective
-
-238
-η κόρη
-i kori
-daughter — noun — seen as: κόρη, κόρες, κόρης
-
-239
-το πρόγραμμα
-to programma
-program — noun — seen as: πρόγραμμα, προγράμματος, προγράμματα, προγραμμάτων
+brown — adjective — ⚠ used in the real A2 exams
 
 240
-πρώτα
-prota
-first — adverb — seen as: Πρώτα, πρώτες
+η κόρη
+i kori
+daughter — noun — ⚠ used in the real A2 exams — seen as: κόρη, κόρες, κόρης
 
 241
-η αδερφή
-i aderfi
-sister — noun — seen as: αδερφή, αδερφές
+το πρόγραμμα
+to programma
+program — noun — ⚠ used in the real A2 exams — seen as: πρόγραμμα, προγράμματος, προγράμματα, προγραμμάτων
 
 242
-η Δευτέρα
-i deftera
-Monday — noun — seen as: Δευτέρα
+πρώτα
+prota
+first — adverb — ⚠ used in the real A2 exams — seen as: Πρώτα, πρώτες
 
 243
-ο κήπος
-o kipos
-garden — noun — seen as: κήπο, κήπος, κήπους, Κήπου, κήποι
+η Δευτέρα
+i deftera
+Monday — noun — ⚠ used in the real A2 exams — seen as: Δευτέρα
 
 244
-η ξένη
-i xeni
-foreigner — noun — seen as: ξένης, ξένη, ξένες, ξένων
+ο κήπος
+o kipos
+garden — noun — ⚠ used in the real A2 exams — seen as: κήπο, κήπος, κήπους, Κήπου, κήποι
 
 245
-το πρωινό
-to proino
-morning — noun — seen as: πρωινό, πρωινά
+η ξένη
+i xeni
+foreigner — noun — ⚠ used in the real A2 exams — seen as: ξένης, ξένη, ξένες, ξένων
 
 246
-η στάση λεωφορείου
-i stasi leoforiou
-bus stop — noun — seen as: στάση, στάσεις
+το πρωινό
+to proino
+morning — noun — ⚠ used in the real A2 exams — seen as: πρωινό, πρωινά
 
 247
-στέλνω
-stelno
-send — verb — seen as: στέλνω, στέλνει, Στέλνεις, στέλνουν, στείλω, έστειλα, έστειλε, στείλεις +7 more
+η στάση λεωφορείου
+i stasi leoforiou
+bus stop — noun — ⚠ used in the real A2 exams — seen as: στάση, στάσεις
 
 248
-τρεις
-tris
-three — numeral
+στέλνω
+stelno
+send — verb — ⚠ used in the real A2 exams — seen as: στέλνω, στέλνει, Στέλνεις, στέλνουν, στείλω, έστειλα, έστειλε, στείλεις +7 more
 
 249
-ψάχνω
-psahno
-to search, to look for — verb — seen as: ψάχνω, ψάξω, ψάχνει, έψαξα, ψάχνεις, ψάξετε, ψάξεις, ψάξουμε +5 more
+τρεις
+tris
+three — numeral — ⚠ used in the real A2 exams
 
 250
-το γλυκό
-to gliko
-sweet — noun — seen as: γλυκά, ια, γλυκό, γλυκού
+ψάχνω
+psahno
+to search, to look for — verb — ⚠ used in the real A2 exams — seen as: ψάχνω, ψάξω, ψάχνει, έψαξα, ψάχνεις, ψάξετε, ψάξεις, ψάξουμε +5 more
 
 251
-η δραστηριότητα
-i drastiriotita
-activity — noun — seen as: δραστηριότητες, δραστηριότητα, δραστηριοτήτων
+το γλυκό
+to gliko
+sweet — noun — ⚠ used in the real A2 exams — seen as: γλυκά, ια, γλυκό, γλυκού
 
 252
-εδώ
-edo
-here — noun
+η δραστηριότητα
+i drastiriotita
+activity — noun — ⚠ used in the real A2 exams — seen as: δραστηριότητες, δραστηριότητα, δραστηριοτήτων
 
 253
-εκείνος
-ekinos
-that — numeral — seen as: Εκείνες, Εκείνη, εκείνο, Εκείνος, Εκείνοι, Εκείνα, εκείνους, εκείνην
+εδώ
+edo
+here — noun — ⚠ used in the real A2 exams
 
 254
-οι εξετάσεις
-i exetasis
-exams — noun — seen as: εξετάσεις
+εκείνος
+ekinos
+that — numeral — ⚠ used in the real A2 exams — seen as: Εκείνες, Εκείνη, εκείνο, Εκείνος, Εκείνοι, Εκείνα, εκείνους, εκείνην
 
 255
-η κουζίνα
-i kouzina
-kitchen — noun — seen as: κουζίνα, κουζίνας
+οι εξετάσεις
+i exetasis
+exams — noun — ⚠ used in the real A2 exams — seen as: εξετάσεις
 
 256
+η κουζίνα
+i kouzina
+kitchen — noun — ⚠ used in the real A2 exams — seen as: κουζίνα, κουζίνας
+
+257
 ο μπαμπάς
 o bambas
 dad — noun — seen as: μπαμπάς, μπαμπά, μπαμπάδες
 
-257
+258
 φοράω
 forao
-wear — verb — seen as: φοράει, φορέσω, Φοράω, φοράνε, φορέσετε, φορέσεις, Φόρεσε, φορέσει +5 more
-
-258
-το απόγευμα
-to apoyevma
-afternoon — noun — seen as: απόγευμα, απογεύματα
+wear — verb — ⚠ used in the real A2 exams — seen as: φοράει, φορέσω, Φοράω, φοράνε, φορέσετε, φορέσεις, Φόρεσε, φορέσει +5 more
 
 259
-γνωρίζω
-gnorizo
-know — verb — seen as: γνωρίσω, γνωρίζουν, γνωρίζω, Γνώρισα, Γνωρίζεις, γνωρίζετε, γνωρίσεις, γνωρίσουν +7 more
+ο αδερφός
+o aderfos
+brother — noun — ⚠ used in the real A2 exams — seen as: αδερφός, αδερφό, αδελφός, ΑΔΕΛΦΟΙ, αδελφό, αδελφού
 
 260
-ο Πέτρος
-o petros
-Petros — noun — seen as: Πέτρος, Πέτρο, Πέτρου
+το απόγευμα
+to apoyevma
+afternoon — noun — ⚠ used in the real A2 exams — seen as: απόγευμα, απογεύματα
 
 261
-βοηθώ
-voitho
-help — verb — seen as: βοηθάω, βοηθούν, βοηθά, βοηθάει, βοηθήσετε, βοηθήσει, βοηθήσεις, βοηθήσουν +5 more
+γνωρίζω
+gnorizo
+know — verb — ⚠ used in the real A2 exams — seen as: γνωρίσω, γνωρίζουν, γνωρίζω, Γνώρισα, Γνωρίζεις, γνωρίζετε, γνωρίσεις, γνωρίσουν +7 more
 
 262
-η γνώση
-i gnosi
-knowledge — noun — seen as: γνώσης, γνώση, γνώσεις
+ο Πέτρος
+o petros
+Petros — noun — ⚠ used in the real A2 exams — seen as: Πέτρος, Πέτρο, Πέτρου
 
 263
-η γυναίκα
-i yineka
-woman — noun — seen as: γυναίκα, γυναίκες
+βοηθώ
+voitho
+help — verb — ⚠ used in the real A2 exams — seen as: βοηθάω, βοηθούν, βοηθά, βοηθάει, βοηθήσετε, βοηθήσει, βοηθήσεις, βοηθήσουν +5 more
 
 264
+η γνώση
+i gnosi
+knowledge — noun — ⚠ used in the real A2 exams — seen as: γνώσης, γνώση, γνώσεις
+
+265
+η γυναίκα
+i yineka
+woman — noun — ⚠ used in the real A2 exams — seen as: γυναίκα, γυναίκες
+
+266
 διαλέγω
 dialego
 choose — verb — seen as: Διαλέγεις, διαλέγει, διάλεξα, διαλέξτε, διαλέξεις, Διαλέγετε, Διαλέγω, διαλέξουμε
 
-265
+267
 το μπαλκόνι
 to balkoni
-balcony — noun — seen as: μπαλκόνι, μπαλκόνια, μπαλκονιού
+balcony — noun — ⚠ used in the real A2 exams — seen as: μπαλκόνι, μπαλκόνια, μπαλκονιού
 
-266
+268
 ψηλός
 psilos
 tall — adjective — seen as: ψηλός, ψηλή, ψηλά, ψηλό
 
-267
+269
 η δασκάλα
 i daskala
-teacher — noun — seen as: δασκάλα, δασκάλων, δασκάλες
+teacher — noun — ⚠ used in the real A2 exams — seen as: δασκάλα, δασκάλων, δασκάλες
 
-268
+270
 διορθώνω
 diorthono
 correct — verb — seen as: διορθώνετε, Διορθώνεις, διορθώσουν
 
-269
+271
 καλημέρα
 kalimera
-good morning — noun
-
-270
-το μήνυμα
-to minima
-message — noun — seen as: μήνυμα, μηνύματα
-
-271
-ο υπολογιστής
-o ipoloyistis
-computer — noun — seen as: υπολογιστή, υπολογιστής, υπολογιστές, υπολογιστοί
+good morning — noun — ⚠ used in the real A2 exams
 
 272
-ακολουθώ
-akoloutho
-follow — verb — seen as: ακολουθείτε, Ακολουθούν, ακολουθεί, ακολουθώντας, ακολουθείται, ακολουθούνται, Ακολουθήστε, ακολούθησα
+το μήνυμα
+to minima
+message — noun — ⚠ used in the real A2 exams — seen as: μήνυμα, μηνύματα
 
 273
-ακριβός
-akrivos
-expensive — adjective — seen as: ακριβό, ακριβά, ακριβές, ακριβός, ακριβή
+ο υπολογιστής
+o ipoloyistis
+computer — noun — ⚠ used in the real A2 exams — seen as: υπολογιστή, υπολογιστής, υπολογιστές, υπολογιστοί
 
 274
-αργώ
-argo
-be late — pronoun — seen as: αργά, αργώ, αργούν, αργείτε, αργήσω, αργήσεις, Αργήσαμε, άργησα +2 more
+ακολουθώ
+akoloutho
+follow — verb — ⚠ used in the real A2 exams — seen as: ακολουθείτε, Ακολουθούν, ακολουθεί, ακολουθώντας, ακολουθείται, ακολουθούνται, Ακολουθήστε, ακολούθησα
 
 275
-η βόλτα
-i volta
-walk — noun — seen as: βόλτα, βόλτες
+ακριβός
+akrivos
+expensive — adjective — ⚠ used in the real A2 exams — seen as: ακριβό, ακριβά, ακριβές, ακριβός, ακριβή
 
 276
-εμείς
-emis
-we — noun
+αργώ
+argo
+be late — pronoun — ⚠ used in the real A2 exams — seen as: αργά, αργώ, αργούν, αργείτε, αργήσω, αργήσεις, Αργήσαμε, άργησα +2 more
 
 277
+η βόλτα
+i volta
+walk — noun — ⚠ used in the real A2 exams — seen as: βόλτα, βόλτες
+
+278
+εμείς
+emis
+we — noun — ⚠ used in the real A2 exams
+
+279
 κλείνω
 klino
 reserve — verb — seen as: κλείνω, κλειστού, έκλεισες, έκλεισε, κλείσω, κλείσει, κλείνεις, κλείσουμε +8 more
 
-278
+280
 μπαίνω
 beno
 enter — verb — seen as: μπαίνω, μπαίνει, μπαίνουν, μπω, Μπα, μπεις, μπες, μπαίνεις +7 more
 
-279
+281
 το νερό
 to nero
-water — noun — seen as: νερό, νερά, νερού
+water — noun — ⚠ used in the real A2 exams — seen as: νερό, νερά, νερού
 
-280
+282
 πλένω
 pleno
-wash — verb — seen as: πλένω, πλένεις, πλένει, πλένετε, πλένουμε, πλέσω, πλύνω, πλύνετε +4 more
+wash — verb — ⚠ used in the real A2 exams — seen as: πλένω, πλένεις, πλένει, πλένετε, πλένουμε, πλέσω, πλύνω, πλύνετε +4 more
 
-281
+283
 η σειρά
 i sira
 series — noun — seen as: σειρά, σειράς
 
-282
+284
 το ταχυδρομείο
 to tahidromio
-post office — noun — seen as: ταχυδρομείο, Ταχυδρομεία
+post office — noun — ⚠ used in the real A2 exams — seen as: ταχυδρομείο, Ταχυδρομεία
 
-283
+285
 τελειώνω
 teliono
-to end, to finish — verb — seen as: τελειώνουν, τελειώσω, τελειώνω, τελειώσει, Τελείωσα, τελείωσαν, Τελειώνει, τελειώσεις
+to end, to finish — verb — ⚠ used in the real A2 exams — seen as: τελειώνουν, τελειώσω, τελειώνω, τελειώσει, Τελείωσα, τελείωσαν, Τελειώνει, τελειώσεις
 
-284
+286
 η αγορά
 i agora
 market — noun — seen as: αγορά, αγορές
 
-285
+287
 η εκδρομή
 i ekdromi
-excursion — noun — seen as: εκδρομή, εκδρομές, εκδρομής, εκδρομών
-
-286
-κόκκινος
-kokkinos
-red — adjective — seen as: κόκκινο, κόκκινα, κόκκινες, κόκκινη, κόκκινος
-
-287
-ο κύριος
-o kirios
-Mr. — noun — seen as: κύριος, κύριε, κύριο, κύριους, κυρίου
+excursion — noun — ⚠ used in the real A2 exams — seen as: εκδρομή, εκδρομές, εκδρομής, εκδρομών
 
 288
-το Σάββατο
-to savvato
-Saturday — noun — seen as: Σάββατο
+κόκκινος
+kokkinos
+red — adjective — ⚠ used in the real A2 exams — seen as: κόκκινο, κόκκινα, κόκκινες, κόκκινη, κόκκινος
 
 289
-ο άντρας
-o andras
-man — noun — seen as: άντρας, σύζυγο, άντρα, άντρες
+ο κύριος
+o kirios
+Mr. — noun — ⚠ used in the real A2 exams — seen as: κύριος, κύριε, κύριο, κύριους, κυρίου
 
 290
-η ευκαιρία
-i efkeria
-opportunity — noun — seen as: ευκαιρία, ευκαιρίες, ευκαιρίας
+το Σάββατο
+to savvato
+Saturday — noun — ⚠ used in the real A2 exams — seen as: Σάββατο
 
 291
-ξεκινάω
-xekinao
-start — verb — seen as: ξεκινούν, ξεκινάω, ξεκινά, ξεκίνησα, ξεκινήσουν, ξεκινάει, ξεκινάς, ξεκινήσεις +7 more
+ο άντρας
+o andras
+man — noun — ⚠ used in the real A2 exams — seen as: άντρας, σύζυγο, άντρα, άντρες
 
 292
-παλιός
-palios
-old — adjective — seen as: παλιό, παλιά, παλιός, παλιούς, παλιές, παλιοί
+η ευκαιρία
+i efkeria
+opportunity — noun — ⚠ used in the real A2 exams — seen as: ευκαιρία, ευκαιρίες, ευκαιρίας
 
 293
-πάνω
-pano
-on, above, up — adverb
+ξεκινάω
+xekinao
+start — verb — ⚠ used in the real A2 exams — seen as: ξεκινούν, ξεκινάω, ξεκινά, ξεκίνησα, ξεκινήσουν, ξεκινάει, ξεκινάς, ξεκινήσεις +7 more
 
 294
-ταιριάζω
-teriazo
-to fit, to match, to suit — verb — seen as: ταιριάζουν, ταιριάζει, ταιριάζω
+παλιός
+palios
+old — adjective — ⚠ used in the real A2 exams — seen as: παλιό, παλιά, παλιός, παλιούς, παλιές, παλιοί
 
 295
-ο αγώνας
-o agonas
-competition — noun — seen as: αγώνες, αγώνας, αγώνα
+πάνω
+pano
+on, above, up — adverb — ⚠ used in the real A2 exams
 
 296
+ταιριάζω
+teriazo
+to fit, to match, to suit — verb — ⚠ used in the real A2 exams — seen as: ταιριάζουν, ταιριάζει, ταιριάζω
+
+297
+ο αγώνας
+o agonas
+competition — noun — ⚠ used in the real A2 exams — seen as: αγώνες, αγώνας, αγώνα
+
+298
 το κορίτσι
 to koritsi
 girl — noun — seen as: κορίτσια, κορίτσι, κοριτσιών
 
-297
+299
 σωστά
 sosta
 right, correctly — adverb — seen as: σωστές, σωστά
 
-298
+300
 το φόρεμα
 to forema
 dress — noun — seen as: φόρεμα, φορέματα
 
-299
+301
 αυτοί
 afti
 they — pronoun
 
-300
+302
 καθαρίζω
 katharizo
-clean — verb — seen as: καθαρίζω, καθαρίζουν, Καθαρίζεις, Καθαρίστε, καθαρίζει, καθαρίσω, καθαρίσετε, καθάρισα +2 more
-
-301
-η σχολή
-i sholi
-school — noun — seen as: σχολή, σχολης
-
-302
-φέρνω
-ferno
-to bring — verb — seen as: φέρνω, φέρετε, φέρω, έφερα, φέρτε, έφερε, Εφερες, φέρνετε +6 more
+clean — verb — ⚠ used in the real A2 exams — seen as: καθαρίζω, καθαρίζουν, Καθαρίζεις, Καθαρίστε, καθαρίζει, καθαρίσω, καθαρίσετε, καθάρισα +2 more
 
 303
+η σχολή
+i sholi
+school — noun — ⚠ used in the real A2 exams — seen as: σχολή, σχολης
+
+304
+φέρνω
+ferno
+to bring — verb — ⚠ used in the real A2 exams — seen as: φέρνω, φέρετε, φέρω, έφερα, φέρτε, έφερε, Εφερες, φέρνετε +6 more
+
+305
 αδύνατος
 adinatos
 thin — adjective — seen as: αδύνατος, αδύνατη, αδύνατοι, αδύνατ, αδύνατο, αδύνατες, αδύνατους
 
-304
+306
 αλλάζω
 allazo
-change — verb — seen as: αλλάζει, Αλλάζουν, αλλάξει, αλλάξεις, Αλλάζεις, αλλάξετε, αλλάξουν
-
-305
-αφήνω
-afino
-leave — verb — seen as: αφήστε, αφήνετε, αφήνω, Άφησε, αφήνει, αφήσεις, αφήσετε, Αφήνεις +6 more
-
-306
-μοντέρνος
-mondernos
-modern — adjective — seen as: μοντέρνος, μοντέρνα, μοντέρνο, μοντέρν, μοντέρνους, Μοντέρνες
+change — verb — ⚠ used in the real A2 exams — seen as: αλλάζει, Αλλάζουν, αλλάξει, αλλάξεις, Αλλάζεις, αλλάξετε, αλλάξουν
 
 307
+αφήνω
+afino
+leave — verb — ⚠ used in the real A2 exams — seen as: αφήστε, αφήνετε, αφήνω, Άφησε, αφήνει, αφήσεις, αφήσετε, Αφήνεις +6 more
+
+308
+μοντέρνος
+mondernos
+modern — adjective — ⚠ used in the real A2 exams — seen as: μοντέρνος, μοντέρνα, μοντέρνο, μοντέρν, μοντέρνους, Μοντέρνες
+
+309
 η προφορά
 i profora
 pronunciation — noun — seen as: Προφορά, προφοράς
 
-308
+310
 ταξιδεύω
 taxidevo
-to travel, to take a trip, to make a journey — verb — seen as: ταξιδεύει, ταξιδεύω, ταξιδεύεις, ταξιδεύουν, ταξιδέψω, ταξιδέψεις, ταξίδεψα, ταξιδέψετε +5 more
-
-309
-υπάρχει
-iparhi
-there is — verb
-
-310
-το φάρμακο
-to farmako
-drug, medicine — noun — seen as: φάρμακο, φάρμακα
+to travel, to take a trip, to make a journey — verb — ⚠ used in the real A2 exams — seen as: ταξιδεύει, ταξιδεύω, ταξιδεύεις, ταξιδεύουν, ταξιδέψω, ταξιδέψεις, ταξίδεψα, ταξιδέψετε +5 more
 
 311
-φτάνω
-ftano
-to arrive, to reach — verb — seen as: φτάνει, φτάσει, φτάσουμε, Έφτασα, φτάσουν, έφτασε, Φτάνουμε, Φτάνω +5 more
+υπάρχει
+iparhi
+there is — verb — ⚠ used in the real A2 exams
 
 312
+το φάρμακο
+to farmako
+drug, medicine — noun — ⚠ used in the real A2 exams — seen as: φάρμακο, φάρμακα
+
+313
+φτάνω
+ftano
+to arrive, to reach — verb — ⚠ used in the real A2 exams — seen as: φτάνει, φτάσει, φτάσουμε, Έφτασα, φτάσουν, έφτασε, Φτάνουμε, Φτάνω +5 more
+
+314
+φτηνός
+ftinos
+cheap — adjective — ⚠ used in the real A2 exams — seen as: φτηνό, φτηνή, φτηνά, φτηνός, φθηνά, φθηνό
+
+315
 η Αλίκη
 i aliki
 Alice — noun — seen as: Αλίκη
 
-313
+316
 γρήγορα
 grigora
-quickly — noun
+quickly — noun — ⚠ used in the real A2 exams
 
-314
+317
 η Κατερίνα
 i katerina
 Catherine — noun — seen as: Κατερίνα, Κατερίνας
 
-315
+318
 κρύος
 krios
-cold — adjective — seen as: κρύα, κρύο
+cold — adjective — ⚠ used in the real A2 exams — seen as: κρύα, κρύο
 
-316
+319
 η Παρασκευή
 i paraskevi
 Friday — noun — seen as: Παρασκευή
 
-317
+320
 η πλατεία
 i platia
-square — noun — seen as: πλατεία, πλατείες
+square — noun — ⚠ used in the real A2 exams — seen as: πλατεία, πλατείες
 
-318
+321
 φιλώ
 filo
 kiss — verb — seen as: φίλες, φίλε, φίλα, φιλώ
 
-319
+322
 η διεύθυνση
 i diefthinsi
-address — noun — seen as: διεύθυνση
-
-320
-ελεύθερο
-elefthero
-free — adverb
-
-321
-η θάλασσα
-i thalassa
-sea — noun — seen as: θάλασσα, Θάλασσες
-
-322
-το μπάνιο
-to banio
-bathroom — noun — seen as: μπάνιο, μπάνια, μπάνιου
+address — noun — ⚠ used in the real A2 exams — seen as: διεύθυνση
 
 323
-η παρέα
-i parea
-company — noun — seen as: παρέα, παρέες
+ελεύθερο
+elefthero
+free — adverb — ⚠ used in the real A2 exams
 
 324
+η θάλασσα
+i thalassa
+sea — noun — ⚠ used in the real A2 exams — seen as: θάλασσα, Θάλασσες
+
+325
+το μπάνιο
+to banio
+bathroom — noun — ⚠ used in the real A2 exams — seen as: μπάνιο, μπάνια, μπάνιου
+
+326
+η παρέα
+i parea
+company — noun — ⚠ used in the real A2 exams — seen as: παρέα, παρέες
+
+327
 παρουσιάζω
 parousiazo
 present — verb — seen as: παρουσιάζετε, παρουσιάζεις, παρουσιάσουν, Παρουσιάζω
 
-325
+328
 ο πελάτης
 o pelatis
-client — noun — seen as: Πελάτης, πελάτες, πελατών
+client — noun — ⚠ used in the real A2 exams — seen as: Πελάτης, πελάτες, πελατών
 
-326
+329
 σημαίνω
 simeno
 mean — verb — seen as: σημαίνουν, σημαίνει
 
-327
+330
 τηλεφωνώ
 tilefono
-call — verb — seen as: τηλεφωνώ, τηλεφωνεί, τηλεφωνείτε, Τηλεφωνείς, τηλεφώνησε, τηλεφωνήσει, τηλεφωνήσω, τηλεφώνησαν +6 more
-
-328
-χθες
-hthes
-yesterday — adverb
-
-329
-τα χρήματα
-ta hrimata
-money — noun — seen as: χρήματα, χρημάτων, χρήμα
-
-330
-ο αριθμός
-o arithmos
-number — noun — seen as: αριθμό, αριθμούς, Αριθμός, Αριθμοί
+call — verb — ⚠ used in the real A2 exams — seen as: τηλεφωνώ, τηλεφωνεί, τηλεφωνείτε, Τηλεφωνείς, τηλεφώνησε, τηλεφωνήσει, τηλεφωνήσω, τηλεφώνησαν +6 more
 
 331
-δύσκολος
-diskolos
-difficult — adjective — seen as: δύσκολη, δύσκολο, δύσκολος, δυσκολίες, δύσκολοι, δυσκολότερη
+τα χρήματα
+ta hrimata
+money — noun — ⚠ used in the real A2 exams — seen as: χρήματα, χρημάτων, χρήμα
 
 332
-το επάγγελμα
-to epangelma
-profession — noun — seen as: επάγγελμα, επαγγέλματα
+ο αριθμός
+o arithmos
+number — noun — ⚠ used in the real A2 exams — seen as: αριθμό, αριθμούς, Αριθμός, Αριθμοί
 
 333
-η παράσταση
-i parastasi
-performance — noun — seen as: παράσταση, παράστασης, παραστάσεις
+δύσκολος
+diskolos
+difficult — adjective — ⚠ used in the real A2 exams — seen as: δύσκολη, δύσκολο, δύσκολος, δυσκολίες, δύσκολοι, δυσκολότερη
 
 334
+το επάγγελμα
+to epangelma
+profession — noun — ⚠ used in the real A2 exams — seen as: επάγγελμα, επαγγέλματα
+
+335
+η παράσταση
+i parastasi
+performance — noun — ⚠ used in the real A2 exams — seen as: παράσταση, παράστασης, παραστάσεις
+
+336
 πίσω
 piso
 behind, back — adverb
 
-335
+337
 αυτόν τον καιρό
 afton ton kero
-at this time — adverb — seen as: αυτόν
-
-336
-δίπλα
-dipla
-next to, beside — adverb
-
-337
-εκεί
-eki
-there — noun
+at this time — adverb — ⚠ used in the real A2 exams — seen as: αυτόν
 
 338
+δίπλα
+dipla
+next to, beside — adverb — ⚠ used in the real A2 exams
+
+339
+εκεί
+eki
+there — noun — ⚠ used in the real A2 exams
+
+340
 ξανά
 xana
 again — adverb
 
-339
+341
+πονώ
+pono
+hurt — verb — ⚠ used in the real A2 exams — seen as: Πονάει, πονάω, Πόσω, πονάτε, πονέσει, πονάσει, πονάς, Πόνεσαν
+
+342
 η χαρά
 i hara
 happiness, joy — noun — seen as: χαρά, χαρές
 
-340
-ο αδερφός
-o aderfos
-brother — noun — seen as: αδερφός, αδερφό
-
-341
+343
 η Βασιλική
 i vasiliki
 Vasiliki — noun — seen as: Βασιλική
 
-342
+344
 το διαδίκτυο
 to diadiktio
-internet — noun — seen as: διαδίκτυο
-
-343
-η διάρκεια
-i diarkia
-duration — noun — seen as: διάρκεια
-
-344
-ξυπνάω
-xipnao
-wake up — verb — seen as: ξυπνάω, ξυπνάει, ξυπνήσεις, ξυπνήσει, ξυπνάς, ξυπνώ, ξύπνησε, ξυπνήσω +1 more
+internet — noun — ⚠ used in the real A2 exams — seen as: διαδίκτυο
 
 345
-το πιάτο
-to piato
-plate — noun — seen as: πιάτα, πιάτο, πιάτων
+η διάρκεια
+i diarkia
+duration — noun — ⚠ used in the real A2 exams — seen as: διάρκεια
 
 346
-συμφωνώ
-simfono
-to agree — verb — seen as: συμφωνούν, συμφωνείς, σύμφωνα, σύμφωνες, συμφωνεί
+ξυπνάω
+xipnao
+wake up — verb — ⚠ used in the real A2 exams — seen as: ξυπνάω, ξυπνάει, ξυπνήσεις, ξυπνήσει, ξυπνάς, ξυπνώ, ξύπνησε, ξυπνήσω +1 more
 
 347
+το πιάτο
+to piato
+plate — noun — ⚠ used in the real A2 exams — seen as: πιάτα, πιάτο, πιάτων
+
+348
+συμφωνώ
+simfono
+to agree — verb — ⚠ used in the real A2 exams — seen as: συμφωνούν, συμφωνείς, σύμφωνα, σύμφωνες, συμφωνεί
+
+349
 τέλειος
 telios
 perfect — adjective — seen as: τελείες, τέλεια
 
-348
+350
 το χωριό
 to horio
-village — noun — seen as: χωριό, χωριά
+village — noun — ⚠ used in the real A2 exams — seen as: χωριό, χωριά
 
-349
+351
 το αβγό
 to avgo
 egg — noun — seen as: αβγά, αβγό, αβγών
 
-350
+352
 το άτομο
 to atomo
 individual — noun — seen as: άτομα, άτομο, ατόμων, ατόμου
 
-351
+353
 η γειτονιά
 i yitonia
-neighborhood — noun — seen as: γειτονιά, γειτονιάς
-
-352
-οι γονείς
-i gonis
-parents — noun — seen as: γονείς
-
-353
-οι διακοπές
-i diakopes
-holidays — noun — seen as: διακοπές
+neighborhood — noun — ⚠ used in the real A2 exams — seen as: γειτονιά, γειτονιάς
 
 354
-η διαφορά
-i diafora
-difference — noun — seen as: διαφορές, διάφορα
+οι γονείς
+i gonis
+parents — noun — ⚠ used in the real A2 exams — seen as: γονείς
 
 355
-το δώρο
-to doro
-gift — noun — seen as: δώρο, δώρα, Δώρας
+οι διακοπές
+i diakopes
+holidays — noun — ⚠ used in the real A2 exams — seen as: διακοπές
 
 356
-το εξωτερικό
-to exoteriko
-abroad — noun — seen as: εξωτερικό, εξωτερικού, εξωτερικά
+η διαφορά
+i diafora
+difference — noun — ⚠ used in the real A2 exams — seen as: διαφορές, διάφορα
 
 357
-παρακαλώ
-parakalo
-please — verb
+το δώρο
+to doro
+gift — noun — ⚠ used in the real A2 exams — seen as: δώρο, δώρα, Δώρας
 
 358
-πονώ
-pono
-hurt — verb — seen as: Πονάει, πονάω, Πόσω, πονάτε, πονέσει, πονάσει, πονάς
+εννιά
+ennia
+nine — numeral — ⚠ used in the real A2 exams — seen as: εννιά, εννέα
 
 359
-η Σοφία
-i sofia
-Sophia — noun — seen as: Σοφία, Σοφίας
+το εξωτερικό
+to exoteriko
+abroad — noun — ⚠ used in the real A2 exams — seen as: εξωτερικό, εξωτερικού, εξωτερικά
 
 360
+παρακαλώ
+parakalo
+please — verb — ⚠ used in the real A2 exams
+
+361
+η Σοφία
+i sofia
+Sophia — noun — ⚠ used in the real A2 exams — seen as: Σοφία, Σοφίας
+
+362
 το τένις
 to tenis
 tennis — noun — seen as: τένις
 
-361
+363
 ανεβαίνω
 aneveno
-climb — verb — seen as: ανεβαίνω, ανεβαίνει, ανέβω, ανέβηκα, ανέβει, ανέβουν, ανέβα, ανέβεις +4 more
-
-362
-το εστιατόριο
-to estiatorio
-restaurant — noun — seen as: εστιατόριο, εστιατόρια
-
-363
-λείπω
-lipo
-be absent — verb — seen as: λείπουν, λείπω, λείψω, λείπει, λείψει, έλειψα, Λείψε, Λείψτε +3 more
+climb — verb — ⚠ used in the real A2 exams — seen as: ανεβαίνω, ανεβαίνει, ανέβω, ανέβηκα, ανέβει, ανέβουν, ανέβα, ανέβεις +4 more
 
 364
-συνέχεια
-sinehia
-all the time, constantly, continuously — adverb
+το εστιατόριο
+to estiatorio
+restaurant — noun — ⚠ used in the real A2 exams — seen as: εστιατόριο, εστιατόρια
 
 365
+λείπω
+lipo
+be absent — verb — ⚠ used in the real A2 exams — seen as: λείπουν, λείπω, λείψω, λείπει, λείψει, έλειψα, Λείψε, Λείψτε +3 more
+
+366
+συνέχεια
+sinehia
+all the time, constantly, continuously — adverb — ⚠ used in the real A2 exams
+
+367
 σχετικά
 shetika
 concerning, regarding, in regard to — adverb — seen as: σχετικά, σχετικές
 
-366
+368
 τέταρτος
 tetartos
-fourth — numeral — seen as: Τετάρτη, τέταρτο, Τέταρτος
-
-367
-τόσος
-tosos
-so much — adjective — seen as: τόσο, τόσα, τόσες, τόση, Τόσοι, τόσος, τος
-
-368
-το αυτοκίνητο
-to aftokinito
-car — noun — seen as: αυτοκίνητο, αυτοκίνητα, αυτοκινήτου
+fourth — numeral — ⚠ used in the real A2 exams — seen as: Τετάρτη, τέταρτο, Τέταρτος
 
 369
-βγάζω
-vgazo
-take out — verb — seen as: βγάζω, βγάζει, Βγάζεις, βγάζουμε, βγάλω, βγάλετε, έβγαλα, βγάλε +6 more
+τόσος
+tosos
+so much — adjective — ⚠ used in the real A2 exams — seen as: τόσο, τόσα, τόσες, τόση, Τόσοι, τόσος, τος
 
 370
-γυρίζω
-yirizo
-turn — verb — seen as: γυρίζω, γυρίσω, Γύρισα, Γυρίζουμε, Γύρισαν, Γυρίζουν, Γυρίζετε, γυρίζει +2 more
+το αυτοκίνητο
+to aftokinito
+car — noun — ⚠ used in the real A2 exams — seen as: αυτοκίνητο, αυτοκίνητα, αυτοκινήτου
 
 371
-η Δέσποινα
-i despina
-Despina — noun — seen as: Δέσποινα
+βγάζω
+vgazo
+take out — verb — ⚠ used in the real A2 exams — seen as: βγάζω, βγάζει, Βγάζεις, βγάζουμε, βγάλω, βγάλετε, έβγαλα, βγάλε +6 more
 
 372
+γυρίζω
+yirizo
+turn — verb — ⚠ used in the real A2 exams — seen as: γυρίζω, γυρίσω, Γύρισα, Γυρίζουμε, Γύρισαν, Γυρίζουν, Γυρίζετε, γυρίζει +2 more
+
+373
+η Δέσποινα
+i despina
+Despina — noun — ⚠ used in the real A2 exams — seen as: Δέσποινα
+
+374
 η εκπαίδευση
 i ekpedefsi
 education — noun — seen as: εκπαίδευση, εκπαίδευσης
 
-373
-η ημέρα
-i imera
-day — noun — seen as: ημέρα, ημερών, ημέρες, ΗΜΕΡΑΣ
-
-374
+375
 θυμάμαι
 thimame
-remember — verb — seen as: Θυμάσαι, Θυμάμαι, θυμάστε, θυμήθηκα, θυμήσου, θυμηθείτε, θυμηθείς, θυμηθώ
+remember — verb — ⚠ used in the real A2 exams — seen as: Θυμάσαι, Θυμάμαι, θυμάστε, θυμήθηκα, θυμήσου, θυμηθείτε, θυμηθείς, θυμηθώ
 
-375
+376
 η κλειδί-λέξη
 i klidi-lexi
 keyword — noun — seen as: κλειδιά, κλειδί
 
-376
+377
 ο κόσμος
 o kosmos
-world — noun — seen as: κόσμο, κόσμος, κόσμων, κόσμου
-
-377
-η κυρία
-i kiria
-lady — noun — seen as: κυρία, κυρίες, κύριων, κυρίας
+world — noun — ⚠ used in the real A2 exams — seen as: κόσμο, κόσμος, κόσμων, κόσμου
 
 378
-το μεσημέρι
-to mesimeri
-noon — noun — seen as: μεσημέρι
+η κυρία
+i kiria
+lady — noun — ⚠ used in the real A2 exams — seen as: κυρία, κυρίες, κύριων, κυρίας
 
 379
-το πρόβλημα
-to provlima
-problem — noun — seen as: πρόβλημα, προβλήματα
+το μεσημέρι
+to mesimeri
+noon — noun — ⚠ used in the real A2 exams — seen as: μεσημέρι
 
 380
-το Σαββατοκύριακο
-to savvatokiriako
-weekend — noun — seen as: σαββατοκύριακο, σαββατοκύριακα
+το πρόβλημα
+to provlima
+problem — noun — ⚠ used in the real A2 exams — seen as: πρόβλημα, προβλήματα
 
 381
-συναντάω
-sinandao
-meet — verb — seen as: συναντάω, συναντήσεις, συναντώ, συναντάτε, συναντά, Συναντάς, συναντήσει, Συνάντησα +2 more
+το Σαββατοκύριακο
+to savvatokiriako
+weekend — noun — ⚠ used in the real A2 exams — seen as: σαββατοκύριακο, σαββατοκύριακα
 
 382
-τίποτα
-tipota
-nothing — pronoun
+συναντάω
+sinandao
+meet — verb — ⚠ used in the real A2 exams — seen as: συναντάω, συναντήσεις, συναντώ, συναντάτε, συναντά, Συναντάς, συναντήσει, Συνάντησα +2 more
 
 383
+τίποτα
+tipota
+nothing — pronoun — ⚠ used in the real A2 exams
+
+384
 ο τόνος
 o tonos
 accent mark — noun — seen as: τόνους, τόνο, τόνος
 
-384
+385
 η τσάντα
 i tsanda
-bag, purse — noun — seen as: τσάντα, τσάντες, τσάντας
-
-385
-ο τύπος
-o tipos
-type, kind — noun — seen as: τύπου, τύπο, τύπος, τύποι
+bag, purse — noun — ⚠ used in the real A2 exams — seen as: τσάντα, τσάντες, τσάντας
 
 386
-το χρώμα
-to hroma
-colour — noun — seen as: χρώμα, χρώματα
+ο τύπος
+o tipos
+type, kind — noun — ⚠ used in the real A2 exams — seen as: τύπου, τύπο, τύπος, τύποι
 
 387
-τα ψώνια
-ta psonia
-shopping — noun — seen as: ψώνια
+το χρώμα
+to hroma
+colour — noun — ⚠ used in the real A2 exams — seen as: χρώμα, χρώματα
 
 388
-τα γενέθλια
-ta yenethlia
-birthday — noun — seen as: γενέθλια, γενεθλίων, γενέθλιο, γενεθλίου
+τα ψώνια
+ta psonia
+shopping — noun — ⚠ used in the real A2 exams — seen as: ψώνια
 
 389
-το καλοκαίρι
-to kalokeri
-summer — noun — seen as: καλοκαίρι
+τα γενέθλια
+ta yenethlia
+birthday — noun — ⚠ used in the real A2 exams — seen as: γενέθλια, γενεθλίων, γενέθλιο, γενεθλίου
 
 390
-η κάρτα
-i karta
-card — noun — seen as: κάρτα, κάρτες
+το καλοκαίρι
+to kalokeri
+summer — noun — ⚠ used in the real A2 exams — seen as: καλοκαίρι
 
 391
+η κάρτα
+i karta
+card — noun — ⚠ used in the real A2 exams — seen as: κάρτα, κάρτες
+
+392
 κατεβαίνω
 kateveno
 go down — verb — seen as: κατεβαίνω, κατέβω, κατεβαίνει, κατεβαίνεις, Κατέβηκα, κατεβαίνετε, κατέβα, κατεβείς +3 more
 
-392
+393
 μελαχρινός
 melahrinos
 brunette — adjective — seen as: μελαχρινός, μελαχρινή, μελαχρινοί, μελαχρινούς, μελαχρινές
 
-393
+394
 ξανθός
 xanthos
 blonde — adjective — seen as: ξανθ, ξανθός, ξανθιά, ξανθούς, ξανθά, ξανθοί, ξανθιές
 
-394
+395
 ο αστυνομικός
 o astinomikos
-police officer — noun — seen as: Αστυνομικός, αστυνομικό, αστυνομική
-
-395
-ο δρόμος
-o dromos
-road — noun — seen as: δρόμο, δρόμους, δρόμος, δρόμου
+police officer — noun — ⚠ used in the real A2 exams — seen as: Αστυνομικός, αστυνομικό, αστυνομική
 
 396
-καθόλου
-katholou
-not at all — adverb
+ο δρόμος
+o dromos
+road — noun — ⚠ used in the real A2 exams — seen as: δρόμο, δρόμους, δρόμος, δρόμου
 
 397
-η Μαίρη
-i meri
-Mary — noun — seen as: Μαίρη
+καθόλου
+katholou
+not at all — adverb — ⚠ used in the real A2 exams
 
 398
-η ομάδα
-i omada
-team — noun — seen as: ομάδες, ομάδας, ομάδα, ομάδων
+η Μαίρη
+i meri
+Mary — noun — ⚠ used in the real A2 exams — seen as: Μαίρη
 
 399
+η ομάδα
+i omada
+team — noun — ⚠ used in the real A2 exams — seen as: ομάδες, ομάδας, ομάδα, ομάδων
+
+400
 πάλι
 pali
 again — adverb — seen as: πάλι, παλιών
 
-400
+401
 πέντε
 pende
-five — numeral
-
-401
-η Τρίτη
-i triti
-third — noun — seen as: Τρίτη, Τρίτης
+five — numeral — ⚠ used in the real A2 exams
 
 402
+η Τρίτη
+i triti
+third — noun — ⚠ used in the real A2 exams — seen as: Τρίτη, Τρίτης
+
+403
 το φρούτο
 to frouto
 fruit — noun — seen as: φρούτα, φρούτο
 
-403
+404
 τα Χριστούγεννα
 ta hristouyenna
 Christmas — noun — seen as: Χριστούγεννα, Χριστουγέννων, Χριστουγέννου
 
-404
+405
 το γάλα
 to gala
-milk — noun — seen as: γάλα
-
-405
-η διαφήμιση
-i diafimisi
-advertisement — noun — seen as: διαφήμιση
+milk — noun — ⚠ used in the real A2 exams — seen as: γάλα
 
 406
+η διαφήμιση
+i diafimisi
+advertisement — noun — ⚠ used in the real A2 exams — seen as: διαφήμιση
+
+407
 η επικοινωνία
 i epikinonia
 communication — noun — seen as: επικοινωνία, επικοινωνίας
 
-407
+408
 επιλέγω
 epilego
-select — verb — seen as: επιλέξει, επιλέγετε, επιλέξουν, επιλέγοντας, επιλέγουν, Επιλέγω, Επιλέξτε, επιλέγονται +2 more
-
-408
-εύκολος
-efkolos
-easy — adjective — seen as: εύκολα, εύκολο, εύκολος, εύκολη, εύκολες, ευκολότερη
+select — verb — ⚠ used in the real A2 exams — seen as: επιλέξει, επιλέγετε, επιλέξουν, επιλέγοντας, επιλέγουν, Επιλέγω, Επιλέξτε, επιλέγονται +2 more
 
 409
-το κιλό
-to kilo
-kilogram — noun — seen as: κιλά, κιλό
+εύκολος
+efkolos
+easy — adjective — ⚠ used in the real A2 exams — seen as: εύκολα, εύκολο, εύκολος, εύκολη, εύκολες, ευκολότερη
 
 410
-μαγειρεύω
-mayirevo
-cook — verb — seen as: μαγειρεύω, μαγειρεύετε, μαγειρεύει, Μαγειρεύουν, Μαγειρεύουμε, μαγειρέψεις, μαγειρέψω, μαγείρεψα +3 more
+το κιλό
+to kilo
+kilogram — noun — ⚠ used in the real A2 exams — seen as: κιλά, κιλό
 
 411
-το μουσείο
-to mousio
-museum — noun — seen as: μουσεία, μουσείο
+μαγειρεύω
+mayirevo
+cook — verb — ⚠ used in the real A2 exams — seen as: μαγειρεύω, μαγειρεύετε, μαγειρεύει, Μαγειρεύουν, Μαγειρεύουμε, μαγειρέψεις, μαγειρέψω, μαγείρεψα +3 more
 
 412
-χτες
-htes
-yesterday — adverb
+το μουσείο
+to mousio
+museum — noun — ⚠ used in the real A2 exams — seen as: μουσεία, μουσείο
 
 413
 ίδιος
 idios
-same — adjective — seen as: ίδιο, ίδιος, ίδιους, ίδιοι, ίδιας, ίδιες
+same — adjective — ⚠ used in the real A2 exams — seen as: ίδιο, ίδιος, ίδιους, ίδιοι, ίδιας, ίδιες
 
 414
 το λουλούδι
 to louloudi
-flower — noun — seen as: λουλούδια
+flower — noun — ⚠ used in the real A2 exams — seen as: λουλούδια
 
 415
 προηγούμενος
 proigoumenos
-previous — adjective — seen as: προηγούμενη, προηγούμενο, προηγούμενης, προηγούμενες, προηγούμενα, προηγούμενου, προηγούμενους
+previous — adjective — ⚠ used in the real A2 exams — seen as: προηγούμενη, προηγούμενο, προηγούμενης, προηγούμενες, προηγούμενα, προηγούμενου, προηγούμενους
 
 416
 τέσσερις
@@ -2086,17 +2086,17 @@ boy — noun — seen as: αγόρι, αγόρια, αγοριών, αγορια
 418
 το αεροπλάνο
 to aeroplano
-airplane — noun — seen as: αεροπλάνο
+airplane — noun — ⚠ used in the real A2 exams — seen as: αεροπλάνο
 
 419
 ακόμη
 akomi
-more — adverb
+more — adverb — ⚠ used in the real A2 exams
 
 420
 ο Αντώνης
 o andonis
-Antonis — noun — seen as: Αντώνης, Αντώνη, Αντωνία
+Antonis — noun — ⚠ used in the real A2 exams — seen as: Αντώνης, Αντώνη, Αντωνία
 
 421
 αρχίζω
@@ -2111,27 +2111,27 @@ Vicky — noun — seen as: Βίκυ
 423
 το διαμέρισμα
 to diamerisma
-apartment — noun — seen as: διαμέρισμα, διαμερίσματα
+apartment — noun — ⚠ used in the real A2 exams — seen as: διαμέρισμα, διαμερίσματα
 
 424
 η είσοδος
 i isodos
-entrance — noun — seen as: Είσοδος, είσοδο
+entrance — noun — ⚠ used in the real A2 exams — seen as: Είσοδος, είσοδο
 
 425
 καλώ
 kalo
-call — verb — seen as: καλώ, καλώντας, καλούν, καλεί, καλέ, καλούνται, καλέσει, Κάλεσε +6 more
+call — verb — ⚠ used in the real A2 exams — seen as: καλώ, καλώντας, καλούν, καλεί, καλέ, καλούνται, καλέσει, Κάλεσε +6 more
 
 426
 νωρίς
 noris
-early — adverb
+early — adverb — ⚠ used in the real A2 exams
 
 427
 πουλάω
 poulao
-sell — verb — seen as: πουλάει, πουλήσει, πουλάνε, πουλάω, πούλησα, πουλήσεις, πούλησε
+sell — verb — ⚠ used in the real A2 exams — seen as: πουλάει, πουλήσει, πουλάνε, πουλάω, πούλησα, πουλήσεις, πούλησε
 
 428
 η πρόσκληση
@@ -2141,37 +2141,37 @@ invitation — noun — seen as: πρόσκληση, προσκλήσεις
 429
 ο τρόπος
 o tropos
-way, manner, style — noun — seen as: τρόπο, τρόπος
+way, manner, style — noun — ⚠ used in the real A2 exams — seen as: τρόπο, τρόπος
 
 430
 ψωνίζω
 psonizo
-to shop, to go shopping — verb — seen as: ψωνίζεις, ψωνίζουν, ψωνίζω, ψωνίσεις, ψωνίσει, ψώνισα, ψωνίσω, ψωνίστε +2 more
+to shop, to go shopping — verb — ⚠ used in the real A2 exams — seen as: ψωνίζεις, ψωνίζουν, ψωνίζω, ψωνίσεις, ψωνίσει, ψώνισα, ψωνίσω, ψωνίστε +2 more
 
 431
 η βαλίτσα
 i valitsa
-suitcase — noun — seen as: βαλίτσα, βαλίτσες
+suitcase — noun — ⚠ used in the real A2 exams — seen as: βαλίτσα, βαλίτσες
 
 432
 η βιβλιοθήκη
 i vivliothiki
-library — noun — seen as: βιβλιοθήκη, βιβλιοθήκες
+library — noun — ⚠ used in the real A2 exams — seen as: βιβλιοθήκη, βιβλιοθήκες
 
 433
 το βουνό
 to vouno
-mountain — noun — seen as: βουνό, βουνά, βουνού
+mountain — noun — ⚠ used in the real A2 exams — seen as: βουνό, βουνά, βουνού
 
 434
 ο γάμος
 o gamos
-marriage — noun — seen as: γάμο, γάμος, γάμου, γάμα
+marriage — noun — ⚠ used in the real A2 exams — seen as: γάμο, γάμος, γάμου, γάμα
 
 435
 δύσκολα
 diskola
-difficultly — verb — seen as: δύσκολα, δύσκολες
+difficultly — verb — ⚠ used in the real A2 exams — seen as: δύσκολα, δύσκολες
 
 436
 εξηγώ
@@ -2181,27 +2181,27 @@ explain — verb — seen as: Εξηγείς, εξηγείτε, εξηγήσου
 437
 έξι
 exi
-six — numeral
+six — numeral — ⚠ used in the real A2 exams
 
 438
 ο όροφος
 o orofos
-floor — noun — seen as: όροφο, όροφος, ορόφους, οροφού
+floor — noun — ⚠ used in the real A2 exams — seen as: όροφο, όροφος, ορόφους, οροφού
 
 439
 η πολυκατοικία
 i polikatikia
-apartment building — noun — seen as: πολυκατοικία, πολυκατοικίες, πολυκατοικίας
+apartment building — noun — ⚠ used in the real A2 exams — seen as: πολυκατοικία, πολυκατοικίες, πολυκατοικίας
 
 440
 το πρόσωπο
 to prosopo
-face — noun — seen as: πρόσωπο, πρόσωπα, προσώπου
+face — noun — ⚠ used in the real A2 exams — seen as: πρόσωπο, πρόσωπα, προσώπου
 
 441
 προτιμάω
 protimao
-prefer — verb — seen as: Προτιμάς, προτιμάει, προτιμούν, Προτιμώ, προτιμάτε, Προτιμήστε
+prefer — verb — ⚠ used in the real A2 exams — seen as: Προτιμάς, προτιμάει, προτιμούν, Προτιμώ, προτιμάτε, Προτιμήστε
 
 442
 υπόλοιπος
@@ -2216,12 +2216,12 @@ fat — adjective — seen as: χοντρός, χοντρή, χοντρό
 444
 η απάντηση
 i apandisi
-answer — noun — seen as: απάντηση, απάντησής, απαντήσεων
+answer — noun — ⚠ used in the real A2 exams — seen as: απάντηση, απάντησής, απαντήσεων
 
 445
 γι' αυτό
 yi' afto
-therefore — adverb — seen as: γι
+therefore — adverb — ⚠ used in the real A2 exams — seen as: γι
 
 446
 εμένα
@@ -2231,22 +2231,22 @@ me — pronoun
 447
 ηλεκτρικός
 ilektrikos
-electric — adjective — seen as: ηλεκτρικές, ηλεκτρική, ηλεκτρικά, ηλεκτρικού
+electric — adjective — ⚠ used in the real A2 exams — seen as: ηλεκτρικές, ηλεκτρική, ηλεκτρικά, ηλεκτρικού
 
 448
 η θέση
 i thesi
-position — noun — seen as: θέση, θέσει
+position — noun — ⚠ used in the real A2 exams — seen as: θέση, θέσει
 
 449
 η κοπέλα
 i kopela
-girl — noun — seen as: κοπέλα, κοπέλες
+girl — noun — ⚠ used in the real A2 exams — seen as: κοπέλα, κοπέλες
 
 450
 κρατάω
 kratao
-hold — verb — seen as: κρατάς, κρατάει, κρατάτε, κρατήσει, κρατούν, κρατήστε, κρατήσετε, κρατάνε
+hold — verb — ⚠ used in the real A2 exams — seen as: κρατάς, κρατάει, κρατάτε, κρατήσει, κρατούν, κρατήστε, κρατήσετε, κρατάνε
 
 451
 η Μαρίνα
@@ -2256,7 +2256,7 @@ Marina — noun — seen as: Μαρίνα
 452
 μισός
 misos
-half — adjective — seen as: μισή, Μισό
+half — adjective — ⚠ used in the real A2 exams — seen as: μισή, Μισό
 
 453
 ο Μιχάλης
@@ -2271,122 +2271,122 @@ bar — noun — seen as: μπαρ
 455
 πέμπτος
 pembtos
-fifth — numeral — seen as: Πέμπτη, Πέμπτος
+fifth — numeral — ⚠ used in the real A2 exams — seen as: Πέμπτη, Πέμπτος
 
 456
+πετώ
+peto
+throw — verb — ⚠ used in the real A2 exams — seen as: πέσουν, πετάω, πέσει, πετάτε, Έπεσα, πετάμε, πετάξω, πετάξτε
+
+457
 ποιανού
 pianou
 whose — pronoun — seen as: Ποιανού, ης
 
-457
+458
 το σαλόνι
 to saloni
-living room — noun — seen as: σαλόνι
-
-458
-το στοιχείο
-to stihio
-element — noun — seen as: στοιχεία, στοιχείων
+living room — noun — ⚠ used in the real A2 exams — seen as: σαλόνι
 
 459
+το στοιχείο
+to stihio
+element — noun — ⚠ used in the real A2 exams — seen as: στοιχεία, στοιχείων
+
+460
 το χέρι
 to heri
 hand, arm — noun — seen as: χέρια, χέρι
 
-460
+461
 ο χώρος
 o horos
-space, room — noun — seen as: χώρους, χώρο, χώροι, χώρος
+space, room — noun — ⚠ used in the real A2 exams — seen as: χώρους, χώρο, χώροι, χώρος
 
-461
+462
 το ψωμί
 to psomi
 bread — noun — seen as: ψωμί
 
-462
+463
 η Αλεξία
 i alexia
-Alexia — noun — seen as: Αλεξία
-
-463
-απλός
-aplos
-simple — adjective — seen as: απλό, απλούς, απλοί, απλή, απλά, Απλός
+Alexia — noun — ⚠ used in the real A2 exams — seen as: Αλεξία
 
 464
+απλός
+aplos
+simple — adjective — ⚠ used in the real A2 exams — seen as: απλό, απλούς, απλοί, απλή, απλά, Απλός
+
+465
 ο Βασίλης
 o vasilis
 Vasilis — noun — seen as: Βασίλης, Βασίλη
 
-465
+466
 διαφημίζω
 diafimizo
 advertise — verb — seen as: διαφημίσεις, διαφημίζει, διαφημίζετε
 
-466
+467
 δική μας
 diki mas
-our — noun — seen as: δική
-
-467
-δίνομαι
-dinome
-give oneself — verb — seen as: δίνεται, δίνονται
+our — noun — ⚠ used in the real A2 exams — seen as: δική
 
 468
+δίνομαι
+dinome
+give oneself — verb — ⚠ used in the real A2 exams — seen as: δίνεται, δίνονται
+
+469
 το είδος
 to idos
 kind — noun — seen as: είδη, Είδος, είδε
 
-469
+470
 μακριά
 makria
-far away — adverb
+far away — adverb — ⚠ used in the real A2 exams
 
-470
+471
 το ντουλάπι
 to doulapi
 cupboard — noun — seen as: ντουλάπια, ντουλάπι
 
-471
+472
 το οικογενειακό δέντρο
 to ikoyeniako dendro
-family tree — noun — seen as: δέντρο, δέντρα, οικογενειακό
-
-472
-το πιάνο
-to piano
-piano — noun — seen as: πιάνο, πιάνου
+family tree — noun — ⚠ used in the real A2 exams — seen as: δέντρο, δέντρα, οικογενειακό
 
 473
+το πιάνο
+to piano
+piano — noun — ⚠ used in the real A2 exams — seen as: πιάνο, πιάνου
+
+474
 προσπαθώ
 prospatho
 try — verb — seen as: προσπαθούν, Προσπαθείτε, Προσπαθείς, Προσπαθώ, Προσπαθήστε
 
-474
+475
 ο Σεπτέμβριος
 o septemvrios
-September — noun — seen as: Σεπτεμβρίου, Σεπτέμβριο, Σεπτέμβριος
-
-475
-φτηνός
-ftinos
-cheap — adjective — seen as: φτηνό, φτηνή, φτηνά, φτηνός
+September — noun — ⚠ used in the real A2 exams — seen as: Σεπτεμβρίου, Σεπτέμβριο, Σεπτέμβριος
 
 476
 το ωράριο
 to orario
-schedule, working hours — noun — seen as: ωράριο, ωράρια
+schedule, working hours — noun — ⚠ used in the real A2 exams — seen as: ωράριο, ωράρια
 
 477
 η αγγελία
 i angelia
-ad — noun — seen as: αγγελία, αγγελίες
+ad — noun — ⚠ used in the real A2 exams — seen as: αγγελία, αγγελίες
 
 478
 η Αναστασία
 i anastasia
-Anastasia — noun — seen as: Αναστασία, Αναστασίας
+Anastasia — noun — ⚠ used in the real A2 exams — seen as: Αναστασία, Αναστασίας
 
 479
 αριστερός
@@ -2396,22 +2396,22 @@ left (left-hand) — adjective — seen as: αριστερά, ΑΡΙΣΤΕΡΟ
 480
 η γιαγιά
 i yiayia
-grandmother — noun — seen as: γιαγιά, γιαγιάς
+grandmother — noun — ⚠ used in the real A2 exams — seen as: γιαγιά, γιαγιάς
 
 481
 ο γιος
 o yios
-son — noun — seen as: γιος, γιο, γιοι, γιους
+son — noun — ⚠ used in the real A2 exams — seen as: γιος, γιο, γιοι, γιους
 
 482
 οι δουλειές σπιτιού
 i doulies spitiou
-housework — noun — seen as: δουλειές
+housework — noun — ⚠ used in the real A2 exams — seen as: δουλειές
 
 483
 η ζέστη
 i zesti
-warm — noun — seen as: ζέστη, ζεστές
+warm — noun — ⚠ used in the real A2 exams — seen as: ζέστη, ζεστές
 
 484
 η ιδέα
@@ -2426,27 +2426,27 @@ danger — noun — seen as: κινδύνους, κίνδυνοι, κίνδυν�
 486
 η σελίδα
 i selida
-page — noun — seen as: σελίδες, σελίδα, σελίδας
+page — noun — ⚠ used in the real A2 exams — seen as: σελίδες, σελίδα, σελίδας
 
 487
 συνήθως
 sinithos
-usually — adverb
+usually — adverb — ⚠ used in the real A2 exams
 
 488
 η συνταγή
 i sindayi
-recipe — noun — seen as: συνταγή, συνταγές
+recipe — noun — ⚠ used in the real A2 exams — seen as: συνταγή, συνταγές
 
 489
 τέσσερα
 tessera
-four — numeral
+four — numeral — ⚠ used in the real A2 exams
 
 490
 το τζάκι
 to tzaki
-fire place — noun — seen as: τζάκι
+fire place — noun — ⚠ used in the real A2 exams — seen as: τζάκι
 
 491
 η υπηρεσία
@@ -2456,7 +2456,7 @@ service, agency, office — noun — seen as: υπηρεσίες, υπηρεσί
 492
 φέτος
 fetos
-this year — adverb
+this year — adverb — ⚠ used in the real A2 exams
 
 493
 ο Αλέξης
@@ -2466,37 +2466,37 @@ Alexis — noun — seen as: Αλέξης, Αλέξη
 494
 η ειρήνη
 i irini
-peace — noun — seen as: Ειρήνη
+peace — noun — ⚠ used in the real A2 exams — seen as: Ειρήνη
 
 495
 το έπιπλο
 to epiplo
-furniture — noun — seen as: έπιπλα, έπιπλο
+furniture — noun — ⚠ used in the real A2 exams — seen as: έπιπλα, έπιπλο
 
 496
 η εφημερίδα
 i efimerida
-newspaper — noun — seen as: εφημερίδα, εφημερίδες
+newspaper — noun — ⚠ used in the real A2 exams — seen as: εφημερίδα, εφημερίδες
 
 497
 η ηλικία
 i ilikia
-age — noun — seen as: ηλικία, ηλικίες, ηλικιών, ηλικίας
+age — noun — ⚠ used in the real A2 exams — seen as: ηλικία, ηλικίες, ηλικιών, ηλικίας
 
 498
 ο ήλιος
 o ilios
-sun — noun — seen as: ήλιο, ήλιος
+sun — noun — ⚠ used in the real A2 exams — seen as: ήλιο, ήλιος
 
 499
 ο θείος
 o thios
-uncle — noun — seen as: θείος, θείο, θείου
+uncle — noun — ⚠ used in the real A2 exams — seen as: θείος, θείο, θείου
 
 500
 η ιστορία
 i istoria
-history — noun — seen as: ιστορία
+history — noun — ⚠ used in the real A2 exams — seen as: ιστορία
 
 501
 το κελί
@@ -2506,12 +2506,12 @@ cell — noun — seen as: κελί, κελιά
 502
 η Νίκη
 i niki
-Niki — noun — seen as: Νίκη, Νίκης
+Niki — noun — ⚠ used in the real A2 exams — seen as: Νίκη, Νίκης
 
 503
 η περιοχή
 i periohi
-region — noun — seen as: περιοχή, περιοχές, περιοχής
+region — noun — ⚠ used in the real A2 exams — seen as: περιοχή, περιοχές, περιοχής
 
 504
 το πορτοκάλι
@@ -2526,17 +2526,17 @@ tavern — noun — seen as: ταβέρνα, Ταβέρνες
 506
 ο φούρνος
 o fournos
-oven — noun — seen as: φούρνο, φούρνος
+oven — noun — ⚠ used in the real A2 exams — seen as: φούρνο, φούρνος
 
 507
 φτιάχνω
 ftiahno
-to fix, to repair — verb — seen as: φτιάχνω, φτιάξω, έφτιαξα, φτιάχνει, φτιάξουμε, φτιάξεις, Φτιάχνεις, φτιάχνουν +3 more
+to fix, to repair — verb — ⚠ used in the real A2 exams — seen as: φτιάχνω, φτιάξω, έφτιαξα, φτιάχνει, φτιάξουμε, φτιάξεις, Φτιάχνεις, φτιάχνουν +3 more
 
 508
 ο χορός
 o horos
-dancing — noun — seen as: χορός, χορό, χορού, χορών, χορούς
+dancing — noun — ⚠ used in the real A2 exams — seen as: χορός, χορό, χορού, χορών, χορούς
 
 509
 η ανάγκη
@@ -2546,7 +2546,7 @@ need — noun — seen as: ανάγκη, ανάγκες, αναγκών, ανά�
 510
 το γιαούρτι
 to yiaourti
-yogurt — noun — seen as: γιαούρτι, γιαούρτια, ιαούρτι
+yogurt — noun — ⚠ used in the real A2 exams — seen as: γιαούρτι, γιαούρτια, ιαούρτι
 
 511
 το διάβασμα
@@ -2561,7 +2561,7 @@ Drama — noun — seen as: Δράμα, Δράμας
 513
 ελεύθερος
 eleftheros
-free — adjective — seen as: ελεύθερη, ελεύθερος, Ελευθερία
+free — adjective — ⚠ used in the real A2 exams — seen as: ελεύθερη, ελεύθερος, Ελευθερία
 
 514
 ζωγραφίζω
@@ -2581,7 +2581,7 @@ labyrinth — noun — seen as: λαβύρινθο, λαβύρινθος
 517
 ο Μάρτιος
 o martios
-March — noun — seen as: Μαρτίου, Μάρτιος, Μάρτιο
+March — noun — ⚠ used in the real A2 exams — seen as: Μαρτίου, Μάρτιος, Μάρτιο
 
 518
 το παράθυρο
@@ -2589,314 +2589,314 @@ to parathiro
 window — noun — seen as: παράθυρο, παράθυρα
 
 519
-πετώ
-peto
-throw — verb — seen as: πέσουν, πετάω, πέσει, πετάτε, Έπεσα, πετάμε, πετάξω
-
-520
 το πλυντήριο
 to plindirio
-washing machine — noun — seen as: πλυντήριο, πλυντήρια, πλυντηρίου
+washing machine — noun — ⚠ used in the real A2 exams — seen as: πλυντήριο, πλυντήρια, πλυντηρίου
 
-521
+520
 ποιανής
 pianis
 whose — pronoun — seen as: Ποιανής, ποιανών
 
-522
+521
 το ποτήρι
 to potiri
 glass — noun — seen as: ποτήρι, ποτήρια
 
-523
+522
 το φιλί
 to fili
-kiss — noun — seen as: φιλιά, φιλί
+kiss — noun — ⚠ used in the real A2 exams — seen as: φιλιά, φιλί
 
-524
+523
 ανοιχτός
 anihtos
-open — noun — seen as: ανοιχτού, ανοιχτά, ανοιχτό, ανοιχτός
+open — noun — ⚠ used in the real A2 exams — seen as: ανοιχτού, ανοιχτά, ανοιχτό, ανοιχτός
 
-525
+524
 άσπρος
 aspros
-white — adjective — seen as: άσπρο, άσπρους, άσπρη, άσπρες, άσπρα, άσπροι
+white — adjective — ⚠ used in the real A2 exams — seen as: άσπρο, άσπρους, άσπρη, άσπρες, άσπρα, άσπροι
 
-526
+525
 ο βαθμός
 o vathmos
-grade — noun — seen as: βαθμούς, βαθμό, βαθμός
+grade — noun — ⚠ used in the real A2 exams — seen as: βαθμούς, βαθμό, βαθμός
 
-527
+526
 το βραδινό
 to vradino
 dinner — noun — seen as: βραδινό, βραδινά
 
-528
+527
 ο γείτονας
 o yitonas
 neighbor — noun — seen as: γείτονες, γείτονας, γειτόνων, γείτονά
 
-529
+528
 δέκα
 deka
-ten — numeral
+ten — numeral — ⚠ used in the real A2 exams
 
-530
+529
 δημοτικός
 dimotikos
-municipal — adjective — seen as: Δημοτικό, Δημοτικού, Δημοτική
+municipal — adjective — ⚠ used in the real A2 exams — seen as: Δημοτικό, Δημοτικού, Δημοτική
 
-531
+530
 εσένα
 esena
-you — pronoun — seen as: εσένα, σένα
+you — pronoun — ⚠ used in the real A2 exams — seen as: εσένα, σένα
 
-532
+531
 η ευχή
 i efhi
-wish — noun — seen as: ευχές, ευχή
+wish — noun — ⚠ used in the real A2 exams — seen as: ευχές, ευχή
 
-533
+532
 η Καβάλα
 i kavala
 Kavala — noun — seen as: Καβάλα, Καβάλας
 
-534
+533
 κάθομαι
 kathome
-sit — verb — seen as: κάθομαι, κάθονται, καθόμαστε, Κάθισα, Καθίστε, Εκαθίσαμε, Κάθηκε, κάθισε +3 more
+sit — verb — ⚠ used in the real A2 exams — seen as: κάθομαι, κάθονται, καθόμαστε, Κάθισα, Καθίστε, Εκαθίσαμε, Κάθηκε, κάθισε +3 more
 
-535
+534
 η κιθάρα
 i kithara
-guitar — noun — seen as: κιθάρα, κιθάρας
+guitar — noun — ⚠ used in the real A2 exams — seen as: κιθάρα, κιθάρας
 
-536
+535
 το κρεβάτι
 to krevati
-bed — noun — seen as: κρεβάτι, κρεβάτια
+bed — noun — ⚠ used in the real A2 exams — seen as: κρεβάτι, κρεβάτια
 
-537
+536
 το Λονδίνο
 to londino
 London — noun — seen as: Λονδίνο
 
-538
+537
 ο Μανόλης
 o manolis
 Manolis — noun — seen as: Μανόλης, Μανόλη
 
-539
+538
 νομίζω
 nomizo
-think — verb — seen as: νομίζεις, Νομίζω, νομίζει, νομίζουν, νομίζουμε, νομίζετε
+think — verb — ⚠ used in the real A2 exams — seen as: νομίζεις, Νομίζω, νομίζει, νομίζουν, νομίζουμε, νομίζετε
 
-540
+539
 ο πυρετός
 o piretos
-fever — noun — seen as: πυρετό, πυρετός
+fever — noun — ⚠ used in the real A2 exams — seen as: πυρετό, πυρετός
 
-541
+540
 συζητώ
 sizito
-chat — verb — seen as: Συζητάτε, συζητάς, συζητήσεις, συζητούν, Συζητάμε, συζητήσω
+chat — verb — ⚠ used in the real A2 exams — seen as: Συζητάτε, συζητάς, συζητήσεις, συζητούν, Συζητάμε, συζητήσω
 
-542
+541
 η ταυτότητα αστυνομική
 i taftotita astinomiki
-identification card — noun — seen as: ταυτότητα, Ταυτοτήτων
+identification card — noun — ⚠ used in the real A2 exams — seen as: ταυτότητα, Ταυτοτήτων
 
-543
+542
 ο φοιτητής
 o fititis
-student — noun — seen as: φοιτητής, φοιτητές, φοιτητών, φοιτητή
+student — noun — ⚠ used in the real A2 exams — seen as: φοιτητής, φοιτητές, φοιτητών, φοιτητή
 
-544
+543
 το άθλημα
 to athlima
-sport — noun — seen as: άθλημα, αθλήματα, αθλήμες
+sport — noun — ⚠ used in the real A2 exams — seen as: άθλημα, αθλήματα, αθλήμες
 
-545
+544
 άσχημος
 ashimos
 ugly — adjective — seen as: άσχημος, άσχημη, άσχημο
 
-546
+545
 βασικός
 vasikos
 basic — adjective — seen as: Βασικός, βασικά, βασικού, βασικής, βασικές
 
-547
+546
 βρίσκομαι
 vriskome
-be located — verb — seen as: βρίσκονται, βρίσκεται
+be located — verb — ⚠ used in the real A2 exams — seen as: βρίσκονται, βρίσκεται
 
-548
+547
 γαλλικός
 gallikos
 French — adjective — seen as: γαλλικά, γαλλική, γαλλικό
 
-549
+548
 γνωστός
 gnostos
-known — noun — seen as: γνωστή, γνωστός, γνωστά, γνωστό, γνωστού, γνωστές, Διάσημος
+known — noun — ⚠ used in the real A2 exams — seen as: γνωστή, γνωστός, γνωστά, γνωστό, γνωστού, γνωστές, Διάσημος
 
-550
+549
 δημόσιος
 dimosios
-public — adjective — seen as: δημόσιες, δημόσια
+public — adjective — ⚠ used in the real A2 exams — seen as: δημόσιες, δημόσια
 
-551
+550
 δικό μας
 diko mas
-our — adjective — seen as: δικό
+our — adjective — ⚠ used in the real A2 exams — seen as: δικό
 
-552
+551
 η δυνατότητα
 i dinatotita
 possibility — noun — seen as: δυνατότητα
 
-553
+552
 ο εαυτός
 o eaftos
 self — noun — seen as: εαυτό
 
-554
+553
 έκτος
 ektos
 sixth — noun
 
-555
+554
 ζεστός
 zestos
-warm — adjective — seen as: ζεστό, ζεστά
+warm — adjective — ⚠ used in the real A2 exams — seen as: ζεστό, ζεστά
 
-556
+555
 η θερμοκρασία
 i thermokrasia
-temperature — noun — seen as: Θερμοκρασία
+temperature — noun — ⚠ used in the real A2 exams — seen as: Θερμοκρασία
 
-557
+556
 κεντρικός
 kendrikos
-central — adjective — seen as: κεντρικό, κεντρικής, ΚΕΝΤΡΙΚΗ
+central — adjective — ⚠ used in the real A2 exams — seen as: κεντρικό, κεντρικής, ΚΕΝΤΡΙΚΗ
 
-558
+557
 το κρέας
 to kreas
-meat — noun — seen as: κρέας
+meat — noun — ⚠ used in the real A2 exams — seen as: κρέας
 
-559
+558
 ο Μάιος
 o maios
-May — noun — seen as: Μαΐου, Μάιο, Μάιος
+May — noun — ⚠ used in the real A2 exams — seen as: Μαΐου, Μάιο, Μάιος
 
-560
+559
 το μέλι
 to meli
-honey — noun — seen as: μέλι
+honey — noun — ⚠ used in the real A2 exams — seen as: μέλι
 
-561
+560
 το παντελόνι
 to pandeloni
 trousers — noun — seen as: παντελόνι
 
-562
+561
 το ποτό
 to poto
 drink — noun — seen as: ποτό, ποτά, ΠΟΤΟΥ
 
-563
+562
 η πωλήτρια
 i politria
 seller — noun — seen as: Πωλήτρια
 
-564
+563
 ρίχνω
 rihno
 throw — verb — seen as: ρίχνουμε, Ρίχνεις, ρίξουν, ρίξτε, ρίξουμε, ρίχνετε
 
-565
+564
 το ΤΕΙ
 to ti
-Technological Educational Institute — noun — seen as: ει, ΙΔΡΥΜΑΤΩΝ, ιδρύματα, εκπαιδευτικά
+Technological Educational Institute — noun — ⚠ used in the real A2 exams — seen as: ει, ΙΔΡΥΜΑΤΩΝ, ιδρύματα, εκπαιδευτικά
 
-566
+565
 η υγεία
 i iyia
-health — noun — seen as: υγεία, υγείας
+health — noun — ⚠ used in the real A2 exams — seen as: υγεία, υγείας
 
-567
+566
 ώστε
 oste
 in order to, so that — conjunction
 
-568
+567
 το αεροδρόμιο
 to aerodromio
-airport — noun — seen as: αεροδρόμιο
+airport — noun — ⚠ used in the real A2 exams — seen as: αεροδρόμιο
 
-569
+568
 η αίτηση
 i etisi
-application — noun — seen as: αίτηση
+application — noun — ⚠ used in the real A2 exams — seen as: αίτηση
 
-570
+569
 η ανάληψη χρημάτων
 i analipsi hrimaton
 withdrawal of money — noun — seen as: ανάληψη
 
-571
+570
 απέναντι
 apenandi
-opposite — noun
+opposite — noun — ⚠ used in the real A2 exams
 
-572
+571
 αρκετός
 arketos
-enough — adjective — seen as: αρκετή, αρκετό, αρκετά, αρκετές, αρκετούς, αρκετός
+enough — adjective — ⚠ used in the real A2 exams — seen as: αρκετή, αρκετό, αρκετά, αρκετές, αρκετούς, αρκετός
 
-573
+572
 ο ασθενής άνεμος
 o asthenis anemos
 light wind — noun — seen as: Ασθενής
 
-574
+573
 ο βήχας
 o vihas
-cough — noun — seen as: βήχα, βήχας
+cough — noun — ⚠ used in the real A2 exams — seen as: βήχα, βήχας
 
-575
+574
 το ενοίκιο
 to enikio
-rent — noun — seen as: ενοίκιο, ενοικια
+rent — noun — ⚠ used in the real A2 exams — seen as: ενοίκιο, ενοικια
 
-576
+575
 ευγενικός
 evyenikos
 polite — adjective — seen as: ευγενικός, ευγενική, ευγενικοί, ευγενικό, ευγενικά
 
-577
+576
 το θεατρικό έργο
 to theatriko ergo
-play (theatre) — noun — seen as: έργο, έργα, έργου, έργων
+play (theatre) — noun — ⚠ used in the real A2 exams — seen as: έργο, έργα, έργου, έργων
 
-578
+577
 το λαχανικό
 to lahaniko
-vegetable — noun — seen as: λαχανικά
+vegetable — noun — ⚠ used in the real A2 exams — seen as: λαχανικά
 
-579
+578
 η μάσκα
 i maska
-mask — noun — seen as: μάσκα, μάσκες, μάσκας
+mask — noun — ⚠ used in the real A2 exams — seen as: μάσκα, μάσκες, μάσκας
+
+579
+η ξαδέρφη
+i xaderfi
+cousin — noun — ⚠ used in the real A2 exams — seen as: ξαδέρφη, ξαδέρφες, ξαδέλφες
 
 580
 το περιοδικό
 to periodiko
-magazine — noun — seen as: περιοδικό, περιοδικά
+magazine — noun — ⚠ used in the real A2 exams — seen as: περιοδικό, περιοδικά
 
 581
 η σημασία
@@ -2911,12 +2911,12 @@ sure — adjective — seen as: σίγουρα, σίγουρη, σίγουρος
 583
 η συσκευή
 i siskevi
-device, appliance — noun — seen as: συσκευές, συσκευή
+device, appliance — noun — ⚠ used in the real A2 exams — seen as: συσκευές, συσκευή
 
 584
 το ταξί
 to taxi
-taxi, cab — noun — seen as: ταξί, ταξιά
+taxi, cab — noun — ⚠ used in the real A2 exams — seen as: ταξί, ταξιά
 
 585
 τέτοιος
@@ -2926,7 +2926,7 @@ such — adjective — seen as: τέτοια, τέτοιο, Τέτοιες, τέ
 586
 φροντίζω
 frondizo
-to take care of, to look after — verb — seen as: φροντίζω, φροντίζει, φροντίζεις, Φροντίστε, φροντίσω
+to take care of, to look after — verb — ⚠ used in the real A2 exams — seen as: φροντίζω, φροντίζει, φροντίζεις, Φροντίστε, φροντίσω
 
 587
 ο χειμώνας
@@ -2946,32 +2946,32 @@ England — noun — seen as: Αγγλία
 590
 η άδεια
 i adia
-empty — noun — seen as: άδεια, άδειες
+empty — noun — ⚠ used in the real A2 exams — seen as: άδεια, άδειες
 
 591
 ο Αύγουστος
 o avgoustos
-August — noun — seen as: Αυγούστου, Αύγουστος, Αύγουστο
+August — noun — ⚠ used in the real A2 exams — seen as: Αυγούστου, Αύγουστος, Αύγουστο
 
 592
 η γυμναστική
 i yimnastiki
-gymnastics — noun — seen as: γυμναστική
+gymnastics — noun — ⚠ used in the real A2 exams — seen as: γυμναστική
 
 593
 δεξιά
 dexia
-right — adverb
+right — adverb — ⚠ used in the real A2 exams
 
 594
 διαφορετικός
 diaforetikos
-different — adjective — seen as: διαφορετικές, διαφορετικά, διαφορετικός, διαφορετικό, διαφορετικοί
+different — adjective — ⚠ used in the real A2 exams — seen as: διαφορετικές, διαφορετικά, διαφορετικός, διαφορετικό, διαφορετικοί
 
 595
 η εμπειρία
 i embiria
-experience — noun — seen as: εμπειρία, εμπειρίας
+experience — noun — ⚠ used in the real A2 exams — seen as: εμπειρία, εμπειρίας
 
 596
 η ζάχαρη
@@ -2981,7 +2981,7 @@ sugar — noun — seen as: ζάχαρη
 597
 η θεία
 i thia
-aunt — noun — seen as: θεία, θείες, θείας
+aunt — noun — ⚠ used in the real A2 exams — seen as: θεία, θείες, θείας
 
 598
 κάθετα
@@ -2996,22 +2996,22 @@ mirror — noun — seen as: καθρέφτες, καθρέφτη, καθρέφ�
 600
 η καφετέρια
 i kafeteria
-café — noun — seen as: καφετέρια
+café — noun — ⚠ used in the real A2 exams — seen as: καφετέρια
 
 601
 η Μιραντίδου
 i mirandidou
-Mirantidou - a (female) surname — name — seen as: Μιραντίδου
+Mirantidou - a (female) surname — name — ⚠ used in the real A2 exams — seen as: Μιραντίδου
 
 602
 το μουσικό όργανο
 to mousiko organo
-musical instrument — noun — seen as: όργανο, όργανα
+musical instrument — noun — ⚠ used in the real A2 exams — seen as: όργανο, όργανα
 
 603
 η μπανάνα
 i banana
-banana — noun — seen as: μπανάνα, μπανάνες
+banana — noun — ⚠ used in the real A2 exams — seen as: μπανάνα, μπανάνες
 
 604
 το μωρό
@@ -3026,82 +3026,82 @@ street — noun — seen as: οδό, ΟΔΟΣ
 606
 πάω
 pao
-to go — verb — seen as: πάω, πάει, πάμε, πας, πάτε, πάνε
+to go — verb — ⚠ used in the real A2 exams — seen as: πάω, πάει, πάμε, πας, πάτε, πάνε
 
 607
 η πελάτισσα
 i pelatissa
-client — noun — seen as: Πελάτισσα
+client — noun — ⚠ used in the real A2 exams — seen as: Πελάτισσα
 
 608
 το περιβάλλον
 to perivallon
-environment — noun — seen as: περιβάλλον, περιβάλλοντα
+environment — noun — ⚠ used in the real A2 exams — seen as: περιβάλλον, περιβάλλοντα
 
 609
-πιστεύω
-pistevo
-believe — verb — seen as: Πιστεύω, πιστεύει, Πιστεύουμε, πιστεύετε, πιστεύεις
+πέρσι
+persi
+last year — adverb — ⚠ used in the real A2 exams — seen as: Πέρσι, Πέρυσι
 
 610
-η πόρτα
-i porta
-door — noun — seen as: πόρτα, πόρτες
+πιστεύω
+pistevo
+believe — verb — ⚠ used in the real A2 exams — seen as: Πιστεύω, πιστεύει, Πιστεύουμε, πιστεύετε, πιστεύεις
 
 611
-η σαλάτα
-i salata
-salad — noun — seen as: σαλάτα, σαλάτες
+η πόρτα
+i porta
+door — noun — ⚠ used in the real A2 exams — seen as: πόρτα, πόρτες
 
 612
+η σαλάτα
+i salata
+salad — noun — ⚠ used in the real A2 exams — seen as: σαλάτα, σαλάτες
+
+613
 η χρήση
 i hrisi
 usage — noun — seen as: χρήση, χρήσης
 
-613
+614
 το ψυγείο
 to psiyio
-refrigerator, fridge — noun — seen as: ψυγείο, ψυγεία
-
-614
-η αστυνομία
-i astinomia
-police — noun — seen as: αστυνομία
+refrigerator, fridge — noun — ⚠ used in the real A2 exams — seen as: ψυγείο, ψυγεία
 
 615
+η αστυνομία
+i astinomia
+police — noun — ⚠ used in the real A2 exams — seen as: αστυνομία
+
+616
 η βοήθεια
 i voithia
 help — noun — seen as: βοήθεια, βοήθειες
 
-616
+617
 βρέχει
 vrehi
-it rains — verb — seen as: βρέχει, βρέξει, έβρεξε
-
-617
-ο Δεκέμβριος
-o dekemvrios
-December — noun — seen as: Δεκέμβριος, Δεκεμβρίου, Δεκέμβριο
+it rains — verb — ⚠ used in the real A2 exams — seen as: βρέχει, βρέξει, έβρεξε
 
 618
-η διατροφή
-i diatrofi
-alimony — noun — seen as: διατροφή, διατροφής
+ο Δεκέμβριος
+o dekemvrios
+December — noun — ⚠ used in the real A2 exams — seen as: Δεκέμβριος, Δεκεμβρίου, Δεκέμβριο
 
 619
-εννιά
-ennia
-nine — numeral
+η διατροφή
+i diatrofi
+alimony — noun — ⚠ used in the real A2 exams — seen as: διατροφή, διατροφής
 
 620
 επιστρέφω
 epistrefo
-return — verb — seen as: επιστρέφω, επιστρέψω, επιστρέφετε, Επιστρέφει, επιστρέφουμε, επιστρέψουμε
+return — verb — ⚠ used in the real A2 exams — seen as: επιστρέφω, επιστρέψω, επιστρέφετε, Επιστρέφει, επιστρέφουμε, επιστρέψουμε
 
 621
 η εποχή
 i epohi
-season — noun — seen as: εποχή, εποχές
+season — noun — ⚠ used in the real A2 exams — seen as: εποχή, εποχές
 
 622
 η ερώτηση
@@ -3111,12 +3111,12 @@ question — noun — seen as: ερώτηση, ερωτήσεων
 623
 ευχάριστος
 efharistos
-pleasant — adjective — seen as: ευχάριστο, ευχάριστη, ευχαριστίες
+pleasant — adjective — ⚠ used in the real A2 exams — seen as: ευχάριστο, ευχάριστη, ευχαριστίες
 
 624
 ζω
 zo
-live — verb — seen as: ζω, ζει, ζουν, ζούνε, ζείτε, ζεις, ζούμε
+live — verb — ⚠ used in the real A2 exams — seen as: ζω, ζει, ζουν, ζούνε, ζείτε, ζεις, ζούμε
 
 625
 το ζώο
@@ -3126,17 +3126,17 @@ animal — noun — seen as: ζώα, ζώο
 626
 ήσυχος
 isihos
-quiet — adjective — seen as: ήσυχη, ήσυχα, ήσυχος, ήσυχο, ήσυχες
+quiet — adjective — ⚠ used in the real A2 exams — seen as: ήσυχη, ήσυχα, ήσυχος, ήσυχο, ήσυχες
 
 627
 η θέα
 i thea
-view — noun — seen as: θέα
+view — noun — ⚠ used in the real A2 exams — seen as: θέα
 
 628
 το θέμα
 to thema
-subject — noun — seen as: θέμα, θεμάτων, θέματα
+subject — noun — ⚠ used in the real A2 exams — seen as: θέμα, θεμάτων, θέματα
 
 629
 κατάλληλος
@@ -3151,7 +3151,7 @@ lemon — noun — seen as: λεμόνι, λεμόνια, λεμονιού
 631
 το Λύκειο
 to likio
-High School — noun — seen as: Λύκειο, Λυκείου
+High School — noun — ⚠ used in the real A2 exams — seen as: Λύκειο, Λυκείου
 
 632
 το μαχαίρι
@@ -3164,2066 +3164,2811 @@ to mesimeriano
 lunch — noun — seen as: μεσημεριανό
 
 634
-η ξαδέρφη
-i xaderfi
-cousin — noun — seen as: ξαδέρφη, ξαδέρφες
-
-635
 το Πανεπιστήμιο
 to panepistimio
-University — noun — seen as: Πανεπιστήμιο
+University — noun — ⚠ used in the real A2 exams — seen as: Πανεπιστήμιο
 
-636
+635
 το πουκάμισο
 to poukamiso
 shirt — noun — seen as: πουκάμισο, πουκάμισα
 
-637
+636
 πράσινος
 prasinos
 green — adjective — seen as: πράσινα, πράσινη, πράσινο, πράσινες
 
-638
+637
 προσωπικός
 prosopikos
 personal — adjective — seen as: Προσωπικά, Προσωπική, προσωπικών, προσωπικές
 
-639
+638
 η Πρωτοχρονιά
 i protohronia
 New Year — noun — seen as: Πρωτοχρονιά, Πρωτοχρονιάς
 
-640
+639
 σημαντικός
 simandikos
 important — adjective — seen as: σημαντικό, σημαντικά, σημαντικές, σημαντικός
 
-641
+640
 σταματάω
 stamatao
 stop — verb — seen as: σταματάω, σταματήσουν, σταμάτησε, σταματάει, σταμάτησες, σταματούν, Σταματώ
 
-642
+641
 ο συνάδελφος
 o sinadelfos
 colleague — noun — seen as: συναδέλφους, συνάδελφοί, συνάδελφο, συνάδελφος
 
-643
+642
 το ταξιδιωτικό γραφείο
 to taxidiotiko grafio
 travel agency — noun — seen as: ταξιδιωτικό, ταξιδιωτικού
 
-644
+643
 ο ύπνος
 o ipnos
 sleep — noun — seen as: ύπνο, ύπνος, ύπνου
 
-645
+644
 το φύλλο
 to fillo
-leaf — noun — seen as: φύλλα
+leaf — noun — ⚠ used in the real A2 exams — seen as: φύλλα
 
-646
+645
 χορεύω
 horevo
-to dance — verb — seen as: χορεύω, χορεύετε, χορεύουν, χορεύεις, χορέψετε, χορέψουμε, χορέψτε, χορέψεις +2 more
+to dance — verb — ⚠ used in the real A2 exams — seen as: χορεύω, χορεύετε, χορεύουν, χορεύεις, χορέψετε, χορέψουμε, χορέψτε, χορέψεις +2 more
 
-647
+646
 χρωματιστός
 hromatistos
 colored — adjective — seen as: χρωματιστές, χρωματιστά
 
-648
+647
 ο χυμός
 o himos
-juice — noun — seen as: χυμό, χυμούς, χυμός, ΧΥΜΩΝ
+juice — noun — ⚠ used in the real A2 exams — seen as: χυμό, χυμούς, χυμός, ΧΥΜΩΝ
 
-649
+648
 το αγγούρι
 to angouri
 cucumber — noun — seen as: αγγούρι, αγγούρια
 
-650
+649
 βάφω
 vafo
 paint — verb — seen as: βάφω, βάψω, βαψεις, Βάψετε, Βάφεις
 
-651
+650
 η εκπομπή
 i ekpombi
-program — noun — seen as: εκπομπή, εκπομπές, εκπομπής
+program — noun — ⚠ used in the real A2 exams — seen as: εκπομπή, εκπομπές, εκπομπής
 
-652
+651
 ο εξεταστής
 o exetastis
-examiner — noun — seen as: εξεταστής, εξεταστή
+examiner — noun — ⚠ used in the real A2 exams — seen as: εξεταστής, εξεταστή
 
-653
+652
 η εξετάστρια
 i exetastria
-(female) examiner — noun — seen as: εξετάστρια
+(female) examiner — noun — ⚠ used in the real A2 exams — seen as: εξετάστρια
 
-654
+653
 η έρευνα
 i erevna
 research — noun — seen as: έρευνα, ΕΡΕΥΝΑΣ
 
-655
+654
 η ημερομηνία
 i imerominia
-date — noun — seen as: Ημερομηνία, ημερομηνίες
+date — noun — ⚠ used in the real A2 exams — seen as: Ημερομηνία, ημερομηνίες
 
-656
+655
 ο Θανάσης
 o thanasis
 Thanasis — noun — seen as: Θανάσης
 
-657
+656
 ιδιαίτερος
 idieteros
-particular, special — adjective — seen as: ιδιαίτερα, ιδιαίτερη
+particular, special — adjective — ⚠ used in the real A2 exams — seen as: ιδιαίτερα, ιδιαίτερη
 
-658
+657
 η ικανότητα
 i ikanotita
 ability — noun — seen as: ικανότητας, ικανότητές, ικανότητα
 
-659
+658
 η καρέκλα
 i karekla
 chair — noun — seen as: καρέκλα, καρέκλες
 
-660
+659
 το κεφάλι
 to kefali
-head — noun — seen as: κεφάλι
+head — noun — ⚠ used in the real A2 exams — seen as: κεφάλι
 
-661
+660
 μα
 ma
 but — conjunction
 
-662
+661
 η Μάρθα
 i martha
 Martha — noun — seen as: Μάρθα, Μάρθας
 
-663
+662
 το μετρό
 to metro
-metro — noun — seen as: μετρό, μέτρα
+metro — noun — ⚠ used in the real A2 exams — seen as: μετρό, μέτρα
 
-664
+663
 το μήλο
 to milo
 apple — noun — seen as: μήλα, μήλο
 
-665
+664
 ο μισθός
 o misthos
-salary — noun — seen as: μισθός, μισθό
+salary — noun — ⚠ used in the real A2 exams — seen as: μισθός, μισθό
 
-666
+665
 το μπουφάν
 to boufan
-jacket — noun — seen as: μπουφάν
+jacket — noun — ⚠ used in the real A2 exams — seen as: μπουφάν
 
-667
+666
 η οδηγία
 i odiyia
-instruction — noun — seen as: οδηγίες
+instruction — noun — ⚠ used in the real A2 exams — seen as: οδηγίες
 
-668
+667
 η παρατήρηση
 i paratirisi
 remark — noun — seen as: παρατηρήσεις, παρατήρηση, παρατήρησης
 
-669
+668
 παρουσιάζομαι
 parousiazome
 introduce oneself — verb — seen as: παρουσιάζεται, παρουσιάζονται
 
-670
+669
 ο σκύλος
 o skilos
-dog — noun — seen as: σκύλο, σκύλος
+dog — noun — ⚠ used in the real A2 exams — seen as: σκύλο, σκύλος
 
-671
+670
 οι σπουδές
 i spoudes
-studies — noun — seen as: σπουδές
+studies — noun — ⚠ used in the real A2 exams — seen as: σπουδές
 
-672
+671
 η συναυλία
 i sinavlia
 concert — noun — seen as: συναυλία, συναυλίες
 
-673
+672
 τελευταίος
 telefteos
-last — adjective — seen as: τελευταία, τελευταίο, τελευταίες, τελευταίους
+last — adjective — ⚠ used in the real A2 exams — seen as: τελευταία, τελευταίο, τελευταίες, τελευταίους
 
-674
+673
 τραγουδώ
 tragoudo
 sing — verb — seen as: τραγουδώ, τραγουδάει, τραγουδάτε, τραγουδήσει, τραγουδήσουμε, τραγουδήσουν, τραγουδήσεις, τραγουδάς
 
-675
+674
 το φαρμακείο
 to farmakio
 pharmacy, drugstore — noun — seen as: φαρμακείο, φαρμακεία
 
-676
+675
 χαμηλός
 hamilos
-low — adjective — seen as: χαμηλές, χαμηλή, χαμηλά
+low — adjective — ⚠ used in the real A2 exams — seen as: χαμηλές, χαμηλή, χαμηλά
 
-677
+676
 χαρούμενος
 haroumenos
-happy — adjective — seen as: χαρούμενη, χαρούμενοι, χαρούμενος, χαρούμενα
+happy — adjective — ⚠ used in the real A2 exams — seen as: χαρούμενη, χαρούμενοι, χαρούμενος, χαρούμενα
 
-678
+677
 η αγάπη
 i agapi
-love — noun — seen as: αγάπη
+love — noun — ⚠ used in the real A2 exams — seen as: αγάπη
 
-679
+678
 η αίθουσα
 i ethousa
-hall — noun — seen as: Αίθουσα, αίθουσες
+hall — noun — ⚠ used in the real A2 exams — seen as: Αίθουσα, αίθουσες
 
-680
+679
 αμέσως
 amesos
-immediately — adverb
+immediately — adverb — ⚠ used in the real A2 exams
 
-681
+680
 απαραίτητος
 aparetitos
 necessary — adjective — seen as: απαραίτητες, απαραίτητη, απαραίτητα
 
-682
+681
 η αφίσα
 i afisa
 poster — noun — seen as: αφίσες, αφίσα
 
-683
+682
 γερός
 yeros
 strong — adjective — seen as: γερός, Γεροί, γερούς, γερό
 
-684
+683
 το Γυμνάσιο
 to yimnasio
-Gymnasium — noun — seen as: Γυμνάσιο, Γυμνασίου
+Gymnasium — noun — ⚠ used in the real A2 exams — seen as: Γυμνάσιο, Γυμνασίου
 
-685
+684
 διαρκώ
 diarko
-last — noun — seen as: διαρκεί, διαρκούν
+last — noun — ⚠ used in the real A2 exams — seen as: διαρκεί, διαρκούν
 
-686
+685
 δυνατά
 dinata
 loudly — pronoun
 
-687
+686
 δυνατός
 dinatos
-strong — adjective — seen as: δυνατή, δυνατό, δυνατός, δυνατούς, δυνατοί
+strong — adjective — ⚠ used in the real A2 exams — seen as: δυνατή, δυνατό, δυνατός, δυνατούς, δυνατοί
 
-688
+687
 η έκπτωση
 i ekptosi
-discount — noun — seen as: έκπτωση
+discount — noun — ⚠ used in the real A2 exams — seen as: έκπτωση
 
-689
+688
 το ενδιαφέρον
 to endiaferon
 interest — noun — seen as: ενδιαφέροντος, ενδιαφέρον, ενδιαφέροντα
 
-690
+689
 το επώνυμο
 to eponimo
-surname — noun — seen as: Επώνυμο, Επώνυμα
+surname — noun — ⚠ used in the real A2 exams — seen as: Επώνυμο, Επώνυμα
 
-691
+690
 η εταιρεία
 i eteria
-company — noun — seen as: εταιρεία
+company — noun — ⚠ used in the real A2 exams — seen as: εταιρεία
 
-692
+691
 έτοιμος
 etimos
-ready — adjective — seen as: έτοιμη, έτοιμος, έτοιμα, έτοιμο, έτοιμοι
+ready — adjective — ⚠ used in the real A2 exams — seen as: έτοιμη, έτοιμος, έτοιμα, έτοιμο, έτοιμοι
 
-693
+692
 η Ευρώπη
 i evropi
 Europe — noun — seen as: Ευρώπης, Ευρώπη
 
-694
+693
 θεατρικός
 theatrikos
-theatrical — adjective — seen as: θεατρικό, θεατρική, θεατρικής, θεατρικές, θεατρικού
+theatrical — adjective — ⚠ used in the real A2 exams — seen as: θεατρικό, θεατρική, θεατρικής, θεατρικές, θεατρικού
 
-695
+694
 κερδίζω
 kerdizo
 win — verb — seen as: κερδίζει, ΚΕΡΔΙΣΕ, Κερδίζω, κερδίσω, κερδίσεις
 
-696
+695
 κόβω
 kovo
-cut — verb — seen as: Κόβετε, Κόβουμε, κόψουν, κόβεις, κόβω, κόψεις
+cut — verb — ⚠ used in the real A2 exams — seen as: Κόβετε, Κόβουμε, κόψουν, κόβεις, κόβω, κόψεις
 
-697
+696
 η κουταλιά
 i koutalia
-spoonful — noun — seen as: κουταλιά, κουταλιές
+spoonful — noun — ⚠ used in the real A2 exams — seen as: κουταλιά, κουταλιές
 
-698
+697
 τα λεφτά
 ta lefta
 money — noun — seen as: λεφτά
 
-699
+698
 η λιακάδα
 i liakada
-sunshine — noun — seen as: λιακάδα
+sunshine — noun — ⚠ used in the real A2 exams — seen as: λιακάδα
 
-700
+699
 λυπάμαι
 lipame
-sorry — verb — seen as: λυπάμαι, λυπάται, λυπήθηκα, λυπηθήκαμε, λυπηθώ
+sorry — verb — ⚠ used in the real A2 exams — seen as: λυπάμαι, λυπάται, λυπήθηκα, λυπηθήκαμε, λυπηθώ
 
-701
+700
 τα μαλλιά
 ta mallia
 hair — noun — seen as: μαλλιά
 
-702
+701
 η μονοκατοικία
 i monokatikia
-house — noun — seen as: μονοκατοικία
+house — noun — ⚠ used in the real A2 exams — seen as: μονοκατοικία
 
-703
+702
 ξεχνάω
 xehnao
-forget — verb — seen as: ξεχνάς, ξεχνάω, ξεχνάνε, Ξεχάστε, ξεχάσεις, ξεχάσετε, ξέχασαν, ξέχασε +2 more
+forget — verb — ⚠ used in the real A2 exams — seen as: ξεχνάς, ξεχνάω, ξεχνάνε, Ξεχάστε, ξεχάσεις, ξεχάσετε, ξέχασαν, ξέχασε +2 more
 
-704
+703
 οδηγώ
 odigo
-drive — verb — seen as: οδηγώ, οδηγούν, οδηγεί, οδηγείς, Οδήγησε
+drive — verb — ⚠ used in the real A2 exams — seen as: οδηγώ, οδηγούν, οδηγεί, οδηγείς, Οδήγησε
 
-705
+704
 η πατάτα
 i patata
 potato — noun — seen as: πατάτες, πατάτα
 
-706
+705
 ο σερβιτόρος
 o servitoros
-waiter — noun — seen as: Σερβιτόρος, σερβιτόρο
+waiter — noun — ⚠ used in the real A2 exams — seen as: Σερβιτόρος, σερβιτόρο
 
-707
+706
 το σκίτσο
 to skitso
 sketch — noun — seen as: σκίτσο
 
-708
+707
 ο Τάσος
 o tasos
 Tassos — noun — seen as: Τάσος, Τάσο
 
-709
+708
 ο υποψήφιος
 o ipopsifios
-candidate — noun — seen as: υποψήφιοι, υποψήφιους, ΥΠΟΨΗΦΙΟΥ
+candidate — noun — ⚠ used in the real A2 exams — seen as: υποψήφιοι, υποψήφιους, ΥΠΟΨΗΦΙΟΥ
 
-710
+709
 το φυσικό αέριο
 to fisiko aerio
 natural gas — noun — seen as: αέριο, φυσικό, Αερίου, φυσικού
 
-711
+710
 το χαμομήλι
 to hamomili
-chamomile — noun — seen as: χαμομήλι
+chamomile — noun — ⚠ used in the real A2 exams — seen as: χαμομήλι
 
-712
+711
 χιονίζει
 hionizi
 it is snowing — verb — seen as: χιονίζει, χιονίσει
 
-713
+712
 αλήθεια
 alithia
-truly — adverb — seen as: Αλήθεια, αληθινά
+truly — adverb — ⚠ used in the real A2 exams — seen as: Αλήθεια, αληθινά
 
-714
+713
 από τότε
 apo tote
-since then — conjunction — seen as: τότε
+since then — conjunction — ⚠ used in the real A2 exams — seen as: τότε
 
-715
+714
 το άρθρο
 to arthro
 article — noun — seen as: άρθρο, άρθρα
 
-716
+715
 το ασανσέρ
 to asanser
 elevator — noun — seen as: ασανσέρ
 
-717
+716
 το Βερολίνο
 to verolino
 Berlin — noun — seen as: Βερολίνο
 
-718
+717
 γελάω
 yelao
 to laugh — verb — seen as: γελάω, γελάσω, Γέλασαμε, Γέλασε, Γελάστε, γέλασα, γελάσεις, γελάσετε +1 more
 
-719
+718
 ο γραμματέας
 o grammateas
-secretary — noun — seen as: γραμματέας, γραμματέα, γραμματέων
+secretary — noun — ⚠ used in the real A2 exams — seen as: γραμματέας, γραμματέα, γραμματέων
 
-720
+719
 η διαδικασία
 i diadikasia
 process — noun — seen as: διαδικασίας, Διαδικασία
 
-721
+720
 η διαδρομή
 i diadromi
-route — noun — seen as: Διαδρομές, διαδρομής, διαδρομή
+route — noun — ⚠ used in the real A2 exams — seen as: Διαδρομές, διαδρομής, διαδρομή
 
-722
+721
 το δίκλινο δωμάτιο
 to diklino domatio
-double room — noun — seen as: δίκλινο
+double room — noun — ⚠ used in the real A2 exams — seen as: δίκλινο
 
-723
+722
 η εθνικότητα
 i ethnikotita
 nationality — noun — seen as: Εθνικότητα, εθνικότητες
 
-724
+723
 επαναλαμβάνω
 epanalamvano
 repeat — verb — seen as: επαναλαμβάνεις
 
-725
+724
 επόμενος
 epomenos
-next — adjective — seen as: επόμενη, επόμενες, επόμενης, επόμενος
+next — adjective — ⚠ used in the real A2 exams — seen as: επόμενη, επόμενες, επόμενης, επόμενος
 
-726
+725
 ευρωπαϊκός
 evropaikos
-European — adjective — seen as: Ευρωπαϊκό, ευρωπαϊκή, ευρωπαϊκών, ΕΥΡΩΠΑΪΚΗΣ
+European — adjective — ⚠ used in the real A2 exams — seen as: Ευρωπαϊκό, ευρωπαϊκή, ευρωπαϊκών, ΕΥΡΩΠΑΪΚΗΣ
 
-727
+726
 ο Ιούνιος
 o iounios
-June — noun — seen as: Ιούνιο, Ιούνιος, Ιουνίου
+June — noun — ⚠ used in the real A2 exams — seen as: Ιούνιο, Ιούνιος, Ιουνίου
 
-728
+727
 η καθυστέρηση
 i kathisterisi
-delay — noun — seen as: καθυστέρηση
+delay — noun — ⚠ used in the real A2 exams — seen as: καθυστέρηση
 
-729
+728
 καλύπτω
 kalipto
 cover — verb — seen as: καλύπτοντας, καλύπτει, κάλυψαν, Καλύψτε, καλύπτω, Καλυψώ
 
-730
+729
 ο καναπές
 o kanapes
 sofa — noun — seen as: καναπές, καναπέ, αναπές
 
-731
+730
 η κατάσταση
 i katastasi
-situation — noun — seen as: κατάσταση, καταστάσεις
+situation — noun — ⚠ used in the real A2 exams — seen as: κατάσταση, καταστάσεις
 
-732
+731
 ο κινηματογράφος
 o kinimatografos
-cinema — noun — seen as: κινηματογράφο, κινηματογράφος, κινηματογράφοι, κινηματογράφου, κινηματογράφων, κινηματογράφους
+cinema — noun — ⚠ used in the real A2 exams — seen as: κινηματογράφο, κινηματογράφος, κινηματογράφοι, κινηματογράφου, κινηματογράφων, κινηματογράφους
 
-733
+732
 η Κομοτηνή
 i komotini
 Komotini — noun — seen as: Κομοτηνή
 
-734
+733
 το μεταφορικό μέσο
 to metaforiko meso
-means of transport — noun — seen as: μέσο, Μεταφορικό, μεταφορικά
+means of transport — noun — ⚠ used in the real A2 exams — seen as: μέσο, Μεταφορικό, μεταφορικά
 
-735
+734
 ο μουσικός
 o mousikos
-musician — noun — seen as: μουσικό, Μουσικοί, μουσικός
+musician — noun — ⚠ used in the real A2 exams — seen as: μουσικό, Μουσικοί, μουσικός
 
-736
+735
 η νοσοκόμα
 i nosokoma
-nurse — noun — seen as: νοσοκόμα, νοσοκόμες
+nurse — noun — ⚠ used in the real A2 exams — seen as: νοσοκόμα, νοσοκόμες
+
+736
+ο ξάδερφος
+o xaderfos
+cousin — noun — ⚠ used in the real A2 exams — seen as: ξάδερφος, ξάδερφό, ξάδελφό
 
 737
 ο παππούς
 o pappous
-grandfather — noun — seen as: παππούς, παππού
+grandfather — noun — ⚠ used in the real A2 exams — seen as: παππούς, παππού
 
 738
 η περίπτωση
 i periptosi
-case — noun — seen as: περίπτωση
+case — noun — ⚠ used in the real A2 exams — seen as: περίπτωση
 
 739
-πέρσι
-persi
-last year — adverb
-
-740
 το πιρούνι
 to pirouni
 fork — noun — seen as: πιρούνι, πιρούνια
 
-741
+740
 το πλοίο
 to plio
-ship — noun — seen as: πλοίο
+ship — noun — ⚠ used in the real A2 exams — seen as: πλοίο
 
-742
+741
 ο πολιτισμός
 o politismos
 culture — noun — seen as: πολιτισμό
 
-743
+742
 προτείνω
 protino
-propose — verb — seen as: πρότεινε, πρότεινα, Προτείνω, προτείνει, προτείνετε, Προτείνεται
+propose — verb — ⚠ used in the real A2 exams — seen as: πρότεινε, πρότεινα, Προτείνω, προτείνει, προτείνετε, Προτείνεται
 
-744
+743
 ο σκούφος
 o skoufos
-hat — noun — seen as: σκούφο, σκούφος
+hat — noun — ⚠ used in the real A2 exams — seen as: σκούφο, σκούφος
 
-745
+744
 η σούπα
 i soupa
 soup — noun — seen as: σούπας, σούπα
 
-746
+745
 σύγχρονος
 sighronos
 modern — adjective — seen as: σύγχρονης, σύγχρονο, σύγχρονες
 
-747
+746
 τρέχω
 treho
-to run — verb — seen as: τρέχουμε, τρέχει, Τρέξτε, τρέχουν, τρέχω
+to run — verb — ⚠ used in the real A2 exams — seen as: τρέχουμε, τρέχει, Τρέξτε, τρέχουν, τρέχω
 
-748
+747
 τρίτος
 tritos
-third — numeral — seen as: τρίτο, τρίτος, τριτού
+third — numeral — ⚠ used in the real A2 exams — seen as: τρίτο, τρίτος, τριτού
 
-749
+748
 το τυρί
 to tiri
 cheese — noun — seen as: τυρί
 
-750
+749
 ο φαρμακοποιός
 o farmakopios
 pharmacist — noun — seen as: Φαρμακοποιός, φαρμακοποιό
 
-751
+750
 το φθινόπωρο
 to fthinoporo
-autumn — noun — seen as: φθινόπωρο
+autumn — noun — ⚠ used in the real A2 exams — seen as: φθινόπωρο
 
-752
+751
 φιλικός
 filikos
-friendly — adjective — seen as: φιλικό, φιλική, φιλικά
+friendly — adjective — ⚠ used in the real A2 exams — seen as: φιλικό, φιλική, φιλικά
 
-753
+752
 η φούστα
 i fousta
 skirt — noun — seen as: φούστα, Φούστες
 
-754
+753
 χαιρετώ
 hereto
 greet — verb — seen as: χαιρετάει, χαιρετάς, Χαίρεστε, χαιρετάμε, χαιρετώ
 
-755
+754
 ο χάρτης
 o hartis
 map — noun — seen as: χάρτη, χάρτης, χάρτες
 
-756
+755
 χτυπάω
 htipao
-hit — verb — seen as: χτύπησε, χτυπήσουν, χτυπήσει, χτυπήσεις, κτύπησε
+hit — verb — ⚠ used in the real A2 exams — seen as: χτύπησε, χτυπήσουν, χτυπήσει, χτυπήσεις, κτύπησε
 
-757
+756
 το άγχος
 to aghos
 anxiety — noun — seen as: άγχος
 
-758
+757
 ανάβω
 anavo
 to light, to turn on (a light/device) — verb — seen as: ανάβω, ανάψω, ανάψετε, Άναψε, ανάβεις, άναψα, ανάψεις, Ανάψτε
 
-759
+758
 αντρικός
 andrikos
 masculine — adjective — seen as: Αντρικά, αντρικές
 
-760
+759
 το απορρυπαντικό
 to aporripandiko
 detergent — noun — seen as: Απορρυπαντικό, απορρυπαντικά, απορρυπαντικού
 
-761
+760
 αποφασίζω
 apofasizo
-decide — verb — seen as: αποφασίσεις, αποφασίσατε, αποφασίζετε, Αποφασίζει, αποφασίσουμε, αποφασίζω, αποφασίσω
+decide — verb — ⚠ used in the real A2 exams — seen as: αποφασίσεις, αποφασίσατε, αποφασίζετε, Αποφασίζει, αποφασίσουμε, αποφασίζω, αποφασίσω
 
-762
+761
 βέβαια
 vevea
-of course — adverb
+of course — adverb — ⚠ used in the real A2 exams
 
-763
+762
 ο βοηθός
 o voithos
-assistant, helper — noun — seen as: βοηθός, βοηθό
+assistant, helper — noun — ⚠ used in the real A2 exams — seen as: βοηθός, βοηθό
 
-764
+763
 η Γερμανία
 i yermania
 Germany — noun — seen as: Γερμανία
 
-765
+764
 το γκαράζ
 to garaz
 garage — noun — seen as: γκαράζ, γκαραζιών
 
-766
+765
 το γυμναστήριο
 to yimnastirio
-gym — noun — seen as: γυμναστήριο, γυμναστήρια, γυμναστηρίου
+gym — noun — ⚠ used in the real A2 exams — seen as: γυμναστήριο, γυμναστήρια, γυμναστηρίου
 
-767
+766
 ο δημοσιογράφος
 o dimosiografos
-journalist — noun — seen as: δημοσιογράφος, δημοσιογράφου
+journalist — noun — ⚠ used in the real A2 exams — seen as: δημοσιογράφος, δημοσιογράφου
 
-768
+767
 διασκεδάζω
 diaskedazo
 have fun — verb — seen as: διασκεδάσουν, διασκεδάστε, διασκεδάζετε, διασκεδάζουν, διασκεδάζεις, διασκεδάσω, διασκέδασε, διασκεδάζει
 
-769
+768
 η εκκλησία
 i ekklisia
 church — noun — seen as: εκκλησία
 
-770
+769
 η εμφάνιση
 i emfanisi
 appearance — noun — seen as: εμφάνιση, εμφανίσεις
 
-771
-εννέα
-ennea
-nine — numeral
-
-772
+770
 επικοινωνώ
 epikinono
-communicate — verb — seen as: επικοινωνείς, επικοινωνούμε, επικοινωνήσετε, επικοινωνήσουν, επικοινωνήσει, επικοινωνήστε
+communicate — verb — ⚠ used in the real A2 exams — seen as: επικοινωνείς, επικοινωνούμε, επικοινωνήσετε, επικοινωνήσουν, επικοινωνήσει, επικοινωνήστε
 
-773
+771
 η επιτυχία
 i epitihia
-success — noun — seen as: επιτυχία, επιτυχίες
+success — noun — ⚠ used in the real A2 exams — seen as: επιτυχία, επιτυχίες
 
-774
+772
 η εργασία
 i ergasia
-work — noun — seen as: εργασίας
+work — noun — ⚠ used in the real A2 exams — seen as: εργασίας
 
-775
+773
 η ζωγραφική
 i zografiki
-painting — noun — seen as: ζωγραφική, ζωγραφικής
+painting — noun — ⚠ used in the real A2 exams — seen as: ζωγραφική, ζωγραφικής
 
-776
+774
 το καλλυντικό
 to kallindiko
 cosmetic — noun — seen as: καλλυντικά, καλλυντικό
 
-777
+775
 η κατάθεση
 i katathesi
 deposit — noun — seen as: κατάθεση
 
-778
+776
 λειτουργώ
 litourgo
-operate — verb — seen as: λειτουργεί, λειτουργούν, λειτουργήσουν
+operate — verb — ⚠ used in the real A2 exams — seen as: λειτουργεί, λειτουργούν, λειτουργήσουν
 
-779
+777
 το λιμάνι
 to limani
-port — noun — seen as: λιμάνι
+port — noun — ⚠ used in the real A2 exams — seen as: λιμάνι
 
-780
+778
 τα μακαρόνια
 ta makaronia
 macaroni — noun — seen as: μακαρόνια
 
-781
+779
 ο νικητής
 o nikitis
-winner — noun — seen as: νικητής, νικήτων, νικητές
+winner — noun — ⚠ used in the real A2 exams — seen as: νικητής, νικήτων, νικητές
 
-782
+780
 νόστιμος
 nostimos
-tasty — adjective — seen as: νόστιμα, Νόστιμο, νόστιμους, νόστιμη
+tasty — adjective — ⚠ used in the real A2 exams — seen as: νόστιμα, Νόστιμο, νόστιμους, νόστιμη
 
-783
+781
 ο Οκτώβριος
 o oktovrios
-October — noun — seen as: Οκτώβριος, Οκτώβριο, Οκτωβρίου
+October — noun — ⚠ used in the real A2 exams — seen as: Οκτώβριος, Οκτώβριο, Οκτωβρίου
 
-784
+782
 το παγωτό
 to pagoto
 ice cream — noun — seen as: παγωτό, παγωτά
 
-785
+783
 το Πάσχα
 to pasha
 Easter — noun — seen as: Πάσχα
 
-786
+784
 περπατάω
 perpatao
-walk — verb — seen as: περπατάω, περπατήσουν, περπατάει, περπατάς, περπατήσουμε, περπατάμε
+walk — verb — ⚠ used in the real A2 exams — seen as: περπατάω, περπατήσουν, περπατάει, περπατάς, περπατήσουμε, περπατάμε
 
-787
+785
 το πιπέρι
 to piperi
 pepper — noun — seen as: πιπεριά, πιπέρι
 
-788
+786
 πονάει η κοιλιά μου
 ponai i kilia mou
 my stomach hurts — phrase — seen as: κοιλιά
 
-789
+787
 ο πόνος
 o ponos
 pain — noun — seen as: πόνος, πόνο
 
-790
+788
 το πορτοφόλι
 to portofoli
 wallet — noun — seen as: πορτοφόλι
 
-791
+789
 η πτήση
 i ptisi
 flight — noun — seen as: πτήση, πτήσης
 
-792
+790
 σοβαρός
 sovaros
-serious — adjective — seen as: σοβαρό, Σοβαρά
+serious — adjective — ⚠ used in the real A2 exams — seen as: σοβαρό, Σοβαρά
 
-793
+791
 συστημένος
 sistimenos
-registered — adjective — seen as: συστημένο
+registered — adjective — ⚠ used in the real A2 exams — seen as: συστημένο
 
-794
+792
 το τέρμα λεωφορείου
 to terma leoforiou
 final stop, terminal — noun — seen as: τέρμα
 
-795
+793
 υποχρεωτικός
 ipohreotikos
 mandatory — adjective — seen as: υποχρεωτική, υποχρεωτικά, υποχρεωτικό
 
-796
+794
 η φασαρία
 i fasaria
-fuss — noun — seen as: φασαρία
+fuss — noun — ⚠ used in the real A2 exams — seen as: φασαρία
 
-797
+795
 το ψέμα
 to psema
-lie — noun — seen as: ψέματα, ψέμα
+lie — noun — ⚠ used in the real A2 exams — seen as: ψέματα, ψέμα
 
-798
+796
 ακριβώς
 akrivos
-exactly — adverb
+exactly — adverb — ⚠ used in the real A2 exams
 
-799
+797
 απαραίτητο
 aparetito
 necessary — adverb
 
-800
+798
 ας
 as
 let's, let — particle
 
-801
+799
 άσχημα
 ashima
-badly — adverb
+badly — adverb — ⚠ used in the real A2 exams
 
-802
+800
 βασισμένος
 vasismenos
-based (on); βασισμένο σε = based on — adjective — seen as: Βασισμένο
+based (on); βασισμένο σε = based on — adjective — ⚠ used in the real A2 exams — seen as: Βασισμένο
 
-803
+801
 η Γαλλία
 i gallia
-France — noun — seen as: Γαλλία
+France — noun — ⚠ used in the real A2 exams — seen as: Γαλλία
 
-804
+802
 ο Γεράσιμος
 o yerasimos
 Gerasimos — noun — seen as: Γεράσιμος, Γεράσιμο
 
-805
+803
 η γνώμη
 i gnomi
 opinion — noun — seen as: γνώμη
 
-806
+804
 δηλώνω
 dilono
 state — verb — seen as: δηλώσει, Δηλώνω, δηλώσεις, δηλώνει, δηλώνουμε
 
-807
+805
 το διαβατήριο
 to diavatirio
 passport — noun — seen as: διαβατήριο, διαβατηρίων
 
-808
+806
 ο Έλληνας
 o ellinas
 Greek — noun — seen as: Έλληνας, Έλληνες, ελλήνων
 
-809
+807
 το εμπορικό κέντρο
 to emboriko kendro
 Shopping center — noun — seen as: εμπορικό
 
-810
+808
 η ηθοποιός
 i ithopios
 actress — noun — seen as: ηθοποιός, Ηθοποιοί, ηθοποιών
 
-811
+809
 καθημερινά
 kathimerina
 daily — adverb — seen as: καθημερινές, καθημερινά
 
-812
+810
 η κολόνα
 i kolona
 column — noun — seen as: κολόνα
 
-813
+811
 το κοτόπουλο
 to kotopoulo
-chicken — noun — seen as: κοτόπουλο
+chicken — noun — ⚠ used in the real A2 exams — seen as: κοτόπουλο
 
-814
+812
 η κρέμα
 i krema
-cream — noun — seen as: κρέμα, κρέμας, κρέμες
+cream — noun — ⚠ used in the real A2 exams — seen as: κρέμα, κρέμας, κρέμες
 
-815
+813
 ο μάγειρας
 o mayiras
-cook — noun — seen as: μάγειρας
+cook — noun — ⚠ used in the real A2 exams — seen as: μάγειρας
 
-816
+814
 το μολύβι
 to molivi
 pencil — noun — seen as: μολύβι, μολύβια, μολύβιου
 
-817
+815
 η μπανιέρα
 i baniera
 bathtub — noun — seen as: μπανιέρα
 
-818
+816
 η μπριζόλα
 i brizola
-steak — noun — seen as: μπριζόλα, μπριζόλες
+steak — noun — ⚠ used in the real A2 exams — seen as: μπριζόλα, μπριζόλες
 
-819
+817
 Να τα εκατοστίσεις!
 na ta ekatostisis!
 May you live a hundred years! — phrase — seen as: εκατοστίσεις
 
-820
+818
 το νησί
 to nisi
-island — noun — seen as: νησιά, νησί
+island — noun — ⚠ used in the real A2 exams — seen as: νησιά, νησί
 
-821
+819
 νοικιάζω
 nikiazo
-rent — verb — seen as: νοικιάσω, νοίκιασες, νοικιάσεις, νοικιάσει, Νοικιάζει, νοικιάζεις, νοικιάσουν
+rent — verb — ⚠ used in the real A2 exams — seen as: νοικιάσω, νοίκιασες, νοικιάσεις, νοικιάσει, Νοικιάζει, νοικιάζεις, νοικιάσουν
 
-822
+820
 η ντομάτα
 i domata
 tomato — noun — seen as: ντομάτα, ντομάτες
 
-823
+821
 η ντουλάπα
 i doulapa
-wardrobe — noun — seen as: ντουλάπες, ντουλάπα
+wardrobe — noun — ⚠ used in the real A2 exams — seen as: ντουλάπες, ντουλάπα
 
-824
-ο ξάδερφος
-o xaderfos
-cousin — noun — seen as: ξάδερφος, ξάδερφό
-
-825
+822
 παιδικός
 pedikos
-child — adjective — seen as: παιδικά, παιδικές, Παιδικούς, ΠΑΙΔΙΚΟΙ
+child — adjective — ⚠ used in the real A2 exams — seen as: παιδικά, παιδικές, Παιδικούς, ΠΑΙΔΙΚΟΙ
 
-826
+823
 παρακολουθώ
 parakoloutho
-watch — verb — seen as: Παρακολουθείτε, παρακολουθούν, παρακολούθησαν, παρακολουθήσετε, παρακολουθήσουν
+watch — verb — ⚠ used in the real A2 exams — seen as: Παρακολουθείτε, παρακολουθούν, παρακολούθησαν, παρακολουθήσετε, παρακολουθήσουν
 
-827
+824
 προλαβαίνω
 prolaveno
 catch — verb — seen as: προλαβαίνεις, προλαβαίνουν, προλαβαίνει, προλάβει, προλάβω, προλαβαίνω
 
-828
+825
 το σεντόνι
 to sendoni
-sheet — noun — seen as: σεντόνι, σεντόνια
+sheet — noun — ⚠ used in the real A2 exams — seen as: σεντόνι, σεντόνια
 
-829
+826
 το στόμα
 to stoma
 mouth — noun — seen as: στόμα
 
-830
+827
 η Σωτηρία
 i sotiria
 Sotiria — noun — seen as: Σωτηρία
 
-831
+828
 τονισμένος
 tonismenos
 stressed — adjective — seen as: τονισμένα, τονισμένες
 
-832
+829
 φαίνομαι
 fenome
 to seem — verb — seen as: φαίνεται, φανούν, φάνηκαν, φάνηκε
 
-833
-φθηνός
-fthinos
-cheap — adjective — seen as: φθηνά, φθηνό
-
-834
+830
 η φωτιά
 i fotia
 fire — noun — seen as: φωτιά
 
-835
+831
 η Φωφώ
 i fofo
-Fofo - female first name (pet form of Φωτεινή) — name — seen as: Φωφώ, Φωφώς
+Fofo - female first name (pet form of Φωτεινή) — name — ⚠ used in the real A2 exams — seen as: Φωφώ, Φωφώς
 
-836
+832
 ο Χαράλαμπος
 o haralambos
 Charalambos — noun — seen as: Χαράλαμπος, Χαράλαμπο
 
-837
+833
 το χιόνι
 to hioni
 snow — noun — seen as: χιόνια, χιόνι, ιόνι
 
-838
+834
 ωστόσο
 ostoso
 however — conjunction
 
-839
-ο αδελφός
-o adelfos
-brother — noun — seen as: αδελφός, ΑΔΕΛΦΟΙ, αδελφό, αδελφού
-
-840
+835
 το αλάτι
 to alati
 salt — noun — seen as: αλάτι
 
-841
+836
 η άνοιξη
 i anixi
-spring — noun — seen as: άνοιξη
+spring — noun — ⚠ used in the real A2 exams — seen as: άνοιξη
 
-842
+837
 ο αρχιτέκτονας
 o arhitektonas
 architect — noun — seen as: αρχιτέκτονας
 
-843
+838
 η αυλή
 i avli
 yard — noun — seen as: αυλή
 
-844
+839
 βράζω
 vrazo
 boil — verb — seen as: βράζουν, βράζουμε, βράσει, Βράζεις
 
-845
+840
 η γάτα
 i gata
 cat — noun — seen as: γάτα, γάτες
 
-846
+841
 γλυκός
 glikos
 sweet — adjective — seen as: γλυκός, γλυκιά, γλυκές
 
-847
+842
 ο Γρηγόρης
 o grigoris
-Gregory — noun — seen as: Γρηγόρης, γρήγορη
+Gregory — noun — ⚠ used in the real A2 exams — seen as: Γρηγόρης, γρήγορη
 
-848
+843
 δηλαδή
 diladi
-meaning — adverb
+meaning — adverb — ⚠ used in the real A2 exams
 
-849
+844
 διαδοχικός
 diadohikos
 successive — adjective — seen as: διαδοχικά
 
-850
+845
 η διάθεση
 i diathesi
 mood — noun — seen as: διάθεση
 
-851
+846
 δοκιμάζω
 dokimazo
-try — verb — seen as: δοκιμάσετε, δοκιμάστε, δοκιμάσει, δοκιμάζεις
+try — verb — ⚠ used in the real A2 exams — seen as: δοκιμάσετε, δοκιμάστε, δοκιμάσει, δοκιμάζεις
 
-852
+847
 ο ειδικός
 o idikos
 specialist — noun — seen as: ειδικό, Ειδικός, ειδικών
 
-853
+848
 εξήντα
 exinda
 sixty — numeral
 
-854
+849
 το επίπεδο
 to epipedo
-level — noun — seen as: επίπεδο, επίπεδα, επιπέδου, επιπέδων
+level — noun — ⚠ used in the real A2 exams — seen as: επίπεδο, επίπεδα, επιπέδου, επιπέδων
 
-855
+850
 το έτος
 to etos
-year — noun — seen as: ετών, ετε, έτος
+year — noun — ⚠ used in the real A2 exams — seen as: ετών, ετε, έτος
 
-856
+851
 ζωντανός
 zondanos
 alive — adjective — seen as: ζωντανού, ζωντανή, ζωντανός
 
-857
+852
 καθαρός
 katharos
-clean — adjective — seen as: καθαρό, καθαρή, καθαρά, καθαρός
+clean — adjective — ⚠ used in the real A2 exams — seen as: καθαρό, καθαρή, καθαρά, καθαρός
 
-858
+853
 κανένας
 kanenas
-nobody, none; any (in questions and negatives) — pronoun — seen as: κανένα, καμία, κανένας, κανέναν
+nobody, none; any (in questions and negatives) — pronoun — ⚠ used in the real A2 exams — seen as: κανένα, καμία, κανένας, κανέναν
 
-859
+854
 το κασκόλ
 to kaskol
-scarf — noun — seen as: κασκόλ
+scarf — noun — ⚠ used in the real A2 exams — seen as: κασκόλ
 
-860
+855
 το κατάστημα
 to katastima
-shop, store — noun — seen as: κατάστημα, καταστήματος, καταστήματα, καταστημάτων
+shop, store — noun — ⚠ used in the real A2 exams — seen as: κατάστημα, καταστήματος, καταστήματα, καταστημάτων
 
-861
+856
 η κατσαρόλα
 i katsarola
 pot — noun — seen as: κατσαρόλα, κατσαρόλες
 
-862
+857
 κίτρινος
 kitrinos
 yellow — adjective — seen as: κίτρινο, κίτρινος, κίτρινα, κίτρινη, κίτρινους, κίτρινες
 
-863
+858
 η Κρήτη
 i kriti
-Crete — noun — seen as: Κρήτη
+Crete — noun — ⚠ used in the real A2 exams — seen as: Κρήτη
 
-864
+859
 κρύβω
 krivo
-hide — verb — seen as: κρύβουν, κρύβει, κρύψτε
+hide — verb — ⚠ used in the real A2 exams — seen as: κρύβουν, κρύβει, κρύψτε
 
-865
+860
 ο μαθητής
 o mathitis
-pupil, student — noun — seen as: Μαθητής, μαθητές, μαθητών, μαθητή
+pupil, student — noun — ⚠ used in the real A2 exams — seen as: Μαθητής, μαθητές, μαθητών, μαθητή
 
-866
+861
 το μαρούλι
 to marouli
-lettuce — noun — seen as: μαρούλι, μαρούλια
+lettuce — noun — ⚠ used in the real A2 exams — seen as: μαρούλι, μαρούλια
 
-867
+862
 το μάτι
 to mati
-eye — noun — seen as: μάτια
+eye — noun — ⚠ used in the real A2 exams — seen as: μάτια
 
-868
+863
 μόνιμα
 monima
 permanently — adverb
 
-869
+864
 μπλε
 ble
 blue — adjective
 
-870
+865
 ο Νεκτάριος
 o nektarios
 Nektarios — noun — seen as: Νεκτάριος
 
-871
+866
 το νηπιαγωγείο
 to nipiagoyio
 kindergarten — noun — seen as: Νηπιαγωγεία, Νηπιαγωγείο
 
-872
+867
 νιώθω
 niotho
-feel — verb — seen as: νιώθουν, νιώθει, νιώσετε, νιώσει
+feel — verb — ⚠ used in the real A2 exams — seen as: νιώθουν, νιώθει, νιώσετε, νιώσει
 
-873
+868
 ντύνομαι
 dinome
 dress — verb — seen as: ντύνεται, ντύνεστε, ντυθεί, ντυθείς, ντυθούν, ντυθώ
 
-874
+869
 το ξύδι
 to xidi
 vinegar — noun — seen as: ξύδι
 
-875
+870
 η ομπρέλα
 i ombrela
-umbrella — noun — seen as: ομπρέλα
+umbrella — noun — ⚠ used in the real A2 exams — seen as: ομπρέλα
 
-876
+871
 το ούζο
 to ouzo
 ouzo — noun — seen as: ούζο
 
-877
+872
 παραγγέλνω
 parangelno
-order — verb — seen as: παραγγέλνετε, παραγγέλνεις, παραγγέλνει, Παραγγέλνω, παραγγείλεις, παραγγείλετε, παραγγείλουμε
+order — verb — ⚠ used in the real A2 exams — seen as: παραγγέλνετε, παραγγέλνεις, παραγγέλνει, Παραγγέλνω, παραγγείλεις, παραγγείλετε, παραγγείλουμε
 
-878
+873
 πεινάω
 pinao
 hungry — verb — seen as: πεινάω, πεινάσω, πείνασαν
 
-879
+874
 Περαστικά!
 perastika!
-Get well soon! — phrase — seen as: Περαστικά
+Get well soon! — phrase — ⚠ used in the real A2 exams — seen as: Περαστικά
 
-880
+875
 περισσότερος
 perissoteros
 more — adjective — seen as: περισσότερο, περισσότερα, περισσότεροι
 
-881
+876
 η πετσέτα
 i petseta
-towel — noun — seen as: πετσέτα, πετσέτες
+towel — noun — ⚠ used in the real A2 exams — seen as: πετσέτα, πετσέτες
 
-882
+877
 πλέκω
 pleko
 to knit, to weave, to braid — verb — seen as: πλέκω, πλέξω, έπλεξα, Πλέξε, πλέξεις, πλέξετε, Πλέξτε
 
-883
+878
 η πολυθρόνα
 i polithrona
 armchair — noun — seen as: πολυθρόνα, πολυθρόνες
 
-884
+879
 σαράντα
 saranda
 forty — numeral
 
-885
+880
 η στιγμή
 i stigmi
-moment — noun — seen as: στιγμή
+moment — noun — ⚠ used in the real A2 exams — seen as: στιγμή
 
-886
+881
 συγκρίνω
 singrino
 compare — verb — seen as: Συγκρίνεις, συγκριμένο, Σύγκρινε
 
-887
+882
 η συνέντευξη
 i sinendefxi
-interview — noun — seen as: συνέντευξη, ΣΥΝΕΝΤΕΥΞΗΣ
+interview — noun — ⚠ used in the real A2 exams — seen as: συνέντευξη, ΣΥΝΕΝΤΕΥΞΗΣ
 
-888
+883
 το συρτάρι
 to sirtari
 drawer — noun — seen as: συρτάρια, συρτάρι
 
-889
+884
 το σώμα
 to soma
 body — noun — seen as: σώμα, σώματος
 
-890
+885
 ύστερα
 istera
-after, afterwards, then — adverb
+after, afterwards, then — adverb — ⚠ used in the real A2 exams
 
-891
+886
 ο φάκελος
 o fakelos
 envelope — noun — seen as: φάκελο, φακέλους
 
-892
+887
 φυσικά
 fisika
-of course, certainly — adverb
+of course, certainly — adverb — ⚠ used in the real A2 exams
 
-893
+888
 χαίρομαι
 herome
-to be glad — verb — seen as: χαίρομαι, χαίρεται, Χάρηκα, χάρηκε, χαρούμε, χαρώ, χαρείς
+to be glad — verb — ⚠ used in the real A2 exams — seen as: χαίρομαι, χαίρεται, Χάρηκα, χάρηκε, χαρούμε, χαρώ, χαρείς
 
-894
+889
 χαλάω
 halao
-break — verb — seen as: χάλασε, χαλάσει, χάλασαν
+break — verb — ⚠ used in the real A2 exams — seen as: χάλασε, χαλάσει, χάλασαν
 
-895
+890
 ο Άγγλος
 o anglos
 English man — noun — seen as: Άγγλος, Άγγλοι, Άγγλο
 
-896
+891
 ανακατεύω
 anakatevo
-stir — verb — seen as: Ανακατεύετε, ανακατεύεις, Ανακατεύουμε, ανακατέψτε
+stir — verb — ⚠ used in the real A2 exams — seen as: Ανακατεύετε, ανακατεύεις, Ανακατεύουμε, ανακατέψτε
 
-897
+892
 αποθηκεύω
 apothikevo
-to store, to save (αποθηκεύτηκε = it was saved) — verb — seen as: Αποθηκεύτηκε
+to store, to save (αποθηκεύτηκε = it was saved) — verb — ⚠ used in the real A2 exams — seen as: Αποθηκεύτηκε
 
-898
+893
 το αποτέλεσμα
 to apotelesma
 result — noun — seen as: αποτέλεσμα, αποτελέσματα
 
-899
+894
 αρρωσταίνω
 arrosteno
 to get sick, to fall ill — verb — seen as: αρρωστήσετε, αρρωστήσουν, αρρωσταίνεις, αρρωσταίνω, αρρωστήσεις, αρρωσταίνουμε
 
-900
+895
 η Βάσω
 i vaso
 Vaso — noun — seen as: Βάσω
 
-901
+896
 το βιβλιοπωλείο
 to vivliopolio
-bookstore — noun — seen as: βιβλιοπωλείο
+bookstore — noun — ⚠ used in the real A2 exams — seen as: βιβλιοπωλείο
 
-902
+897
 η βροχή
 i vrohi
-rain — noun — seen as: βροχή, βροχές
+rain — noun — ⚠ used in the real A2 exams — seen as: βροχή, βροχές
 
-903
+898
 η γέννηση
 i yennisi
 birth — noun — seen as: γέννησης, γέννηση
 
-904
+899
 γερμανικός
 yermanikos
-German — adjective — seen as: γερμανικά, γερμανική
+German — adjective — ⚠ used in the real A2 exams — seen as: γερμανικά, γερμανική
 
-905
+900
 το γεύμα
 to yevma
-meal — noun — seen as: Γεύματα, γεύμα
+meal — noun — ⚠ used in the real A2 exams — seen as: Γεύματα, γεύμα
 
-906
+901
 το γήπεδο
 to yipedo
 field — noun — seen as: γήπεδο
 
-907
+902
 γιορτάζω
 yiortazo
 celebrate — verb — seen as: γιορτάζει, Γιορτάζουμε, γιόρτασα, Γιορτάζω
 
-908
+903
 διαγράφω
 diagrafo
 delete — verb — seen as: διαγράψουν, διαγράφεις
 
-909
+904
 εβδομήντα
 evdominda
 seventy — verb
 
-910
+905
 το έγγραφο
 to engrafo
-document — noun — seen as: έγγραφο, έγγραφα
+document — noun — ⚠ used in the real A2 exams — seen as: έγγραφο, έγγραφα
 
-911
+906
 η εκδήλωση
 i ekdilosi
-event — noun — seen as: εκδήλωση, εκδηλώσεις, εκδήλωσης
+event — noun — ⚠ used in the real A2 exams — seen as: εκδήλωση, εκδηλώσεις, εκδήλωσης
 
-912
+907
 ενενήντα
 eneninda
 ninety — numeral
 
-913
+908
 έξυπνος
 exipnos
-clever, smart — adjective — seen as: έξυπνη, Έξυπνο, έξυπνοι
+clever, smart — adjective — ⚠ used in the real A2 exams — seen as: έξυπνη, Έξυπνο, έξυπνοι
 
-914
+909
 ο επισκέπτης
 o episkeptis
-visitor — noun — seen as: επισκέπτες, επισκέπτης
+visitor — noun — ⚠ used in the real A2 exams — seen as: επισκέπτες, επισκέπτης
 
-915
+910
 ηλεκτρονικός
 ilektronikos
-electronic — adjective — seen as: ηλεκτρονικό, ηλεκτρονική, ηλεκτρονικά, ηλεκτρονικούς, ηλεκτρονικός
+electronic — adjective — ⚠ used in the real A2 exams — seen as: ηλεκτρονικό, ηλεκτρονική, ηλεκτρονικά, ηλεκτρονικούς, ηλεκτρονικός
 
-916
+911
 ο Θόδωρος
 o thodoros
-Thodoros - male first name (short for Θεόδωρος) — name — seen as: Θόδωρος, Θόδωρου
+Thodoros - male first name (short for Θεόδωρος) — name — ⚠ used in the real A2 exams — seen as: Θόδωρος, Θόδωρου
 
-917
+912
 ο καθαρισμός
 o katharismos
-cleaning — noun — seen as: καθαρισμού
+cleaning — noun — ⚠ used in the real A2 exams — seen as: καθαρισμού
 
-918
+913
 κανονικός
 kanonikos
-normal — adjective — seen as: Κανονικό
+normal — adjective — ⚠ used in the real A2 exams — seen as: Κανονικό
 
-919
+914
 η καρδιά
 i kardia
 heart — noun — seen as: καρδιά
 
-920
+915
 κλειδώνω
 klidono
 lock — verb — seen as: Κλειδώστε, κλειδώνω, κλειδώνεις
 
-921
+916
 κολλάω
 kollao
 stick — verb — seen as: κολλάς, κόλλησα, κολλήσεις, κολλήστε, Κόλλα, κολλάμε
 
-922
+917
 κοστίζω
 kostizo
-cost — verb — seen as: κοστίζει, κοστίζουν, Κοστίζω, Κοστίζετε
+cost — verb — ⚠ used in the real A2 exams — seen as: κοστίζει, κοστίζουν, Κοστίζω, Κοστίζετε
 
-923
+918
 το κοστούμι
 to kostoumi
 suit — noun — seen as: κοστούμια, κοστούμι
 
-924
+919
 η κουβέρτα
 i kouverta
-blanket — noun — seen as: κουβέρτα, κουβέρτες
+blanket — noun — ⚠ used in the real A2 exams — seen as: κουβέρτα, κουβέρτες
 
-925
+920
 το κρασί
 to krasi
-wine — noun — seen as: κρασί
+wine — noun — ⚠ used in the real A2 exams — seen as: κρασί
 
-926
+921
 η λαϊκή μουσική
 i laiki mousiki
 folk music — noun — seen as: λαϊκή
 
-927
+922
 το μαγιό
 to mayio
 swimsuit — noun — seen as: μαγιό
 
-928
+923
 τα Μαθηματικά
 ta mathimatika
-Mathematics — noun — seen as: μαθηματικά
+Mathematics — noun — ⚠ used in the real A2 exams — seen as: μαθηματικά
 
-929
+924
 ο Μάριος
 o marios
 Marios — noun — seen as: Μάριος, Μάριο
 
-930
+925
 νέος
 neos
-new; young — adjective — seen as: Νέο, νέοι, νέους, νέου
+new; young — adjective — ⚠ used in the real A2 exams — seen as: Νέο, νέοι, νέους, νέου
 
-931
+926
 η Ξάνθη
 i xanthi
 Xanthi — noun — seen as: Ξάνθη, ξανθές
 
-932
+927
 ξεχωριστός
 xehoristos
 special — adjective — seen as: ξεχωριστά, ξεχωριστή, ξεχωριστό
 
-933
+928
 όσα
 osa
 as many as — pronoun — seen as: όσα, όσες
 
-934
+929
+οχτώ
+ohto
+eight — numeral — ⚠ used in the real A2 exams — seen as: οχτώ, οκτώ
+
+930
 παραδοσιακός
 paradosiakos
-traditional — adjective — seen as: παραδοσιακά, παραδοσιακού, παραδοσιακό
+traditional — adjective — ⚠ used in the real A2 exams — seen as: παραδοσιακά, παραδοσιακού, παραδοσιακό
 
-935
+931
 ο παραλήπτης
 o paraliptis
-recipient, addressee — noun — seen as: Παραλήπτες
+recipient, addressee — noun — ⚠ used in the real A2 exams — seen as: Παραλήπτες
 
-936
+932
 πείθω
 pitho
 persuade — verb — seen as: πείσετε, πείσεις
 
-937
+933
 η πληροφορική
 i pliroforiki
-computing, IT — noun — seen as: πληροφορικής
+computing, IT — noun — ⚠ used in the real A2 exams — seen as: πληροφορικής
 
-938
+934
 το προϊόν
 to proion
-product — noun — seen as: προϊόντα, προϊόν
+product — noun — ⚠ used in the real A2 exams — seen as: προϊόντα, προϊόν
 
-939
+935
 προφορικός
 proforikos
-oral, spoken — adjective — seen as: ΠΡΟΦΟΡΙΚΟΥ, προφορικό, προφορικών
+oral, spoken — adjective — ⚠ used in the real A2 exams — seen as: ΠΡΟΦΟΡΙΚΟΥ, προφορικό, προφορικών
 
-940
+936
+προχωρώ
+prohoro
+to move on, to proceed — verb — ⚠ used in the real A2 exams — seen as: Προχωρήστε, Προχώρησε
+
+937
 η πυραμίδα
 i piramida
 pyramid — noun — seen as: πυραμίδας, πυραμίδα
 
-941
+938
 το ραδιόφωνο
 to radiofono
 radio — noun — seen as: ραδιόφωνο
 
-942
+939
 το ρεύμα
 to revma
-current — noun — seen as: ρεύμα, ρεύματος
+current — noun — ⚠ used in the real A2 exams — seen as: ρεύμα, ρεύματος
 
-943
+940
 ο στόχος
 o stohos
 goal, aim, target — noun — seen as: στόχο, στόχος, στόχους, Στόχοι
 
-944
+941
 η συνάντηση
 i sinandisi
-meeting — noun — seen as: συνάντηση, συνάντησης
+meeting — noun — ⚠ used in the real A2 exams — seen as: συνάντηση, συνάντησης
 
-945
+942
 συνεχίζω
 sinehizo
 to continue — verb — seen as: συνεχίσω, συνεχίζουν, συνεχίζετε, συνεχίζεις, συνεχίζει, συνεχίσει
 
-946
+943
 ο συνθέτης
 o sinthetis
 composer — noun — seen as: συνθέτης, συνθετών
 
-947
+944
 σύντομος
 sindomos
-short — adjective — seen as: σύντομες
+short — adjective — ⚠ used in the real A2 exams — seen as: σύντομες
 
-948
+945
 το ταψί
 to tapsi
 tray, baking sheet — noun — seen as: ταψιά, ταψί
 
-949
+946
 το τηγάνι
 to tigani
 pan — noun — seen as: τηγάνι, τηγάνια
 
-950
+947
 η τοποθεσία
 i topothesia
 location — noun — seen as: Τοποθεσία
 
-951
+948
 ο τόπος
 o topos
-place, area — noun — seen as: Τόπος, τόπο
+place, area — noun — ⚠ used in the real A2 exams — seen as: Τόπος, τόπο
 
-952
+949
 η υπερωρία
 i iperoria
 overtime, extra time — noun — seen as: υπερωρίες
 
-953
+950
 η υπόθεση
 i ipothesi
-matter, affair; (of a film/book) plot — noun — seen as: υπόθεση
+matter, affair; (of a film/book) plot — noun — ⚠ used in the real A2 exams — seen as: υπόθεση
 
-954
+951
 η φύση
 i fisi
-nature — noun — seen as: φύση, φύσης
+nature — noun — ⚠ used in the real A2 exams — seen as: φύση, φύσης
 
-955
+952
 η Αγγλίδα
 i anglida
 English woman — noun — seen as: Αγγλίδα
 
-956
+953
 ο άγιος
 o ayios
 saint — noun — seen as: Άγιος, Αγίου, Αγίας
 
-957
+954
 η αλλαγή
 i allayi
-change — noun — seen as: αλλαγές
+change — noun — ⚠ used in the real A2 exams — seen as: αλλαγές
 
-958
+955
 η ανακοίνωση
 i anakinosi
-announcement, notice — noun — seen as: ανακοίνωση
+announcement, notice — noun — ⚠ used in the real A2 exams — seen as: ανακοίνωση
 
-959
+956
 η ανιψιά
 i anipsia
 niece — noun — seen as: ανιψιά
 
-960
+957
 απλώνω
 aplono
-spread — verb — seen as: Απλώστε, απλώνετε
+spread — verb — ⚠ used in the real A2 exams — seen as: Απλώστε, απλώνετε
 
-961
+958
 το αφεντικό
 to afendiko
 boss — noun — seen as: αφεντικό
 
-962
+959
 η βάση
 i vasi
 base — noun — seen as: βάση
 
-963
+960
 η βρομιά
 i vromia
 dirt — noun — seen as: βρομιές, βρομιά
 
-964
+961
 το γλέντι
 to glendi
-feast — noun — seen as: γλέντι
+feast — noun — ⚠ used in the real A2 exams — seen as: γλέντι
 
-965
+962
 τα γυαλιά
 ta yialia
 glasses — noun — seen as: γυαλιά
 
-966
+963
 γύρω
 giro
-around — verb
+around — verb — ⚠ used in the real A2 exams
 
-967
+964
 διδάσκω
 didasko
 to teach (passive διδάσκομαι: to be taught) — verb — seen as: διδάσκονται, διδάξουν, διδάξει, διδάσκουν, διδάσκεις
 
-968
+965
 ο δικηγόρος
 o dikigoros
 lawyer — noun — seen as: δικηγόρος
 
-969
+966
 η Ελληνίδα
 i ellinida
 Greek — noun — seen as: Ελληνίδα
 
-970
+967
 εμπλουτίζω
 embloutizo
 to enrich — verb — seen as: εμπλουτίζει, εμπλουτίζονται, εμπλουτίζεται, εμπλουτίζουν, εμπλουτιστούν
 
-971
+968
 εξεταστικός
 exetastikos
-examination- (relating to exams), e.g. εξεταστικό κέντρο = exam centre — adjective — seen as: εξεταστικό, εξεταστικών, εξεταστικά, εξεταστικής
+examination- (relating to exams), e.g. εξεταστικό κέντρο = exam centre — adjective — ⚠ used in the real A2 exams — seen as: εξεταστικό, εξεταστικών, εξεταστικά, εξεταστικής
 
-972
+969
 η εξυπηρέτηση
 i exipiretisi
 service — noun — seen as: Εξυπηρέτησης, εξυπηρέτηση
 
-973
+970
 επιθυμώ
 epithimo
 desire — verb — seen as: επιθυμούν, ΕΠΙΘΥΜΕΙ
 
-974
+971
 επικοινωνιακός
 epikinoniakos
 communicative, communication-related — adjective — seen as: επικοινωνιακές, επικοινωνιακής, επικοινωνιακών, επικοινωνιακή, επικοινωνιακό
 
-975
+972
 επίσημα
 episima
 officially — adverb
 
-976
+973
+επτά
+epta
+seven — numeral — ⚠ used in the real A2 exams — seen as: επτά, εφτά
+
+974
 ευτυχισμένος
 eftihismenos
 happy (as in Ευτυχισμένος ο καινούριος χρόνος) — adjective — seen as: ευτυχισμένος, Ευτυχισμένοι, ευτυχισμένα
 
-977
+975
 η ησυχία
 i isihia
 quiet — noun — seen as: ησυχία
 
-978
+976
 η Θεσσαλονίκη
 i thessaloniki
-Thessaloniki - second largest city in Greece — name — seen as: Θεσσαλονίκη, Θεσσαλονίκης
+Thessaloniki - second largest city in Greece — name — ⚠ used in the real A2 exams — seen as: Θεσσαλονίκη, Θεσσαλονίκης
 
-979
+977
 ο Ιούλιος
 o ioulios
-July — noun — seen as: Ιούλιος, Ιούλιο, Ιουλίου
+July — noun — ⚠ used in the real A2 exams — seen as: Ιούλιος, Ιούλιο, Ιουλίου
 
-980
+978
 ίσως
 isos
 perhaps — adverb
 
-981
+979
 ο καθηγητής
 o kathiyitis
-teacher, professor — noun — seen as: καθηγητές, καθηγητής, καθηγητή, καθηγητων
+teacher, professor — noun — ⚠ used in the real A2 exams — seen as: καθηγητές, καθηγητής, καθηγητή, καθηγητων
 
-982
+980
 κακός
 kakos
 bad — adjective — seen as: κακός, κακό, κακά
 
-983
+981
 τα κάλαντα
 ta kalanda
 carols — noun — seen as: κάλαντα, κάλαντο
 
-984
+982
 η Καλλιόπη
 i kalliopi
 Calliope — noun — seen as: Καλλιόπη, Καλλιόπης
 
-985
+983
 το καράβι
 to karavi
 ship — noun — seen as: καράβια, καράβι
 
-986
+984
 το καρότο
 to karoto
 carrot — noun — seen as: καρότα, καρότο
 
-987
+985
 η κατανόηση
 i katanoisi
-comprehension, understanding — noun — seen as: ΚΑΤΑΝΟΗΣΗ, κατανόησης
+comprehension, understanding — noun — ⚠ used in the real A2 exams — seen as: ΚΑΤΑΝΟΗΣΗ, κατανόησης
 
-988
+986
 η κατηγορία
 i katigoria
 category — noun — seen as: κατηγορίες
 
-989
+987
 το κεφαλαίο γράμμα
 to kefaleo gramma
 capital letter — noun — seen as: κεφάλαιο
 
-990
+988
 το κινητό τηλέφωνο
 to kinito tilefono
-mobile phone — noun — seen as: κινητό
+mobile phone — noun — ⚠ used in the real A2 exams — seen as: κινητό
 
-991
+989
 κλειστός
 klistos
-closed, shut; indoor — adjective — seen as: κλειστός, κλειστό, κλειστά, κλειστές
+closed, shut; indoor — adjective — ⚠ used in the real A2 exams — seen as: κλειστός, κλειστό, κλειστά, κλειστές
 
-992
+990
 το κολύμπι
 to kolimbi
-swimming — noun — seen as: κολύμπι
+swimming — noun — ⚠ used in the real A2 exams — seen as: κολύμπι
 
-993
+991
 το κομμάτι
 to kommati
-part — noun — seen as: κομμάτι, κομμάτια
+part — noun — ⚠ used in the real A2 exams — seen as: κομμάτι, κομμάτια
 
-994
+992
 κουρασμένος
 kourasmenos
 tired — adjective — seen as: κουρασμένος, κουρασμένη, κουρασμένο
 
-995
+993
 το κτίριο
 to ktirio
-building — noun — seen as: κτίρια
+building — noun — ⚠ used in the real A2 exams — seen as: κτίρια
 
-996
+994
 η Λάρισα
 i larisa
 Larissa — noun — seen as: Λάρισα, Λάρισας
 
-997
+995
 το μαξιλάρι
 to maxilari
 pillow — noun — seen as: μαξιλάρια, μαξιλάρι
 
-998
+996
 μαύρος
 mavros
 black — adjective — seen as: μαύρο, μαύρα, μαύρες, μαύρη
 
-999
+997
 η μέθοδος
 i methodos
 method — noun — seen as: μέθοδος, μέθοδο, μεθόδους, μεθόδου
 
-1000
+998
 η μετακίνηση
 i metakinisi
 transport — noun — seen as: μετακίνηση, μετακινήσεις
 
-1001
+999
 μετακομίζω
 metakomizo
-move — verb — seen as: μετακόμισα, μετακομίσουν, μετακόμισε, μετακομίσεις, μετακομίσει
+move — verb — ⚠ used in the real A2 exams — seen as: μετακόμισα, μετακομίσουν, μετακόμισε, μετακομίσεις, μετακομίσει
 
-1002
+1000
 το μπουκάλι
 to boukali
 bottle — noun — seen as: μπουκάλι, μπουκάλια
 
-1003
+1001
 το μπρόκολο
 to brokolo
 broccoli — noun — seen as: μπρόκολο, μπρόκολα
 
-1004
+1002
 η νότα
 i nota
 note — noun — seen as: Νότες
 
-1005
+1003
 ο ομιλητής
 o omilitis
 speaker — noun — seen as: ομιλητές, ομιλητών, ομιλητής
 
-1006
+1004
 το Όσκαρ βραβείο
 to oskar vravio
 Oscar award — noun — seen as: Όσκαρ
 
-1007
+1005
 το πάπλωμα
 to paploma
 quilt — noun — seen as: πάπλωμα, παπλώματα
 
-1008
+1006
 παραδίδω
 paradido
-to hand in, to hand over, to deliver — verb — seen as: Παραδώστε
+to hand in, to hand over, to deliver — verb — ⚠ used in the real A2 exams — seen as: Παραδώστε
 
-1009
+1007
 η παραλία
 i paralia
-beach — noun — seen as: παραλία, παραλίες
+beach — noun — ⚠ used in the real A2 exams — seen as: παραλία, παραλίες
 
-1010
+1008
 πειράζει
 pirazi
 bother — phrase
 
-1011
+1009
 πενήντα
 peninda
-fifty — numeral
+fifty — numeral — ⚠ used in the real A2 exams
 
-1012
+1010
 πιάνω
 piano
 to catch, to grab, to take hold of — verb — seen as: πιάνω, πιάνουν, πιάσουν, πιάνουμε, πιάσω
 
-1013
+1011
 πλαστικός
 plastikos
-plastic — adjective — seen as: πλαστικό, πλαστικά, πλαστικές
+plastic — adjective — ⚠ used in the real A2 exams — seen as: πλαστικό, πλαστικά, πλαστικές
 
-1014
+1012
 η ποδιά
 i podia
-apron — noun — seen as: πόδια
+apron — noun — ⚠ used in the real A2 exams — seen as: πόδια
 
-1015
+1013
 η πορτοκαλάδα
 i portokalada
 orangeade, orange drink — noun — seen as: πορτοκαλάδα, πορτοκαλάδες
 
-1016
+1014
 το πουλί
 to pouli
 bird — noun — seen as: πουλιά, πουλί
 
-1017
+1015
 η πράξη
 i praxi
 act — noun — seen as: πράξη
 
-1018
+1016
 η πρεμιέρα
 i premiera
 premiere — noun — seen as: πρεμιέρα
 
-1019
+1017
 η προβολή
 i provoli
-showing — noun — seen as: προβολή, προβολής, προβολές
+showing — noun — ⚠ used in the real A2 exams — seen as: προβολή, προβολής, προβολές
 
-1020
+1018
 προετοιμάζω
 proetimazo
 prepare — verb — seen as: προετοιμάζουν, προετοιμάσουν, Προετοιμάζοντας
 
-1021
+1019
 το ρεσιτάλ
 to resital
 recital — noun — seen as: ρεσιτάλ
 
-1022
+1020
 το ρύζι
 to rizi
 rice — noun — seen as: ρύζι
 
-1023
+1021
 το σαμπουάν
 to sambouan
 shampoo — noun — seen as: σαμπουάν
 
-1024
+1022
 σε σχέση με
 se shesi me
-relating to — phrase — seen as: σχέση, σχέσεων, σχέσεις
+relating to — phrase — ⚠ used in the real A2 exams — seen as: σχέση, σχέσεων, σχέσεις
 
-1025
+1023
 σκέφτομαι
 skeftome
-think — verb — seen as: σκέφτομαι, σκέφτονται, Σκέφτεσαι, Σκεφτείτε, σκεφτείς
+think — verb — ⚠ used in the real A2 exams — seen as: σκέφτομαι, σκέφτονται, Σκέφτεσαι, Σκεφτείτε, σκεφτείς
 
-1026
+1024
 ο σκοπός
 o skopos
-purpose — noun — seen as: σκοπό
+purpose — noun — ⚠ used in the real A2 exams — seen as: σκοπό
 
-1027
+1025
 σπουδαίος
 spoudeos
 great — adjective — seen as: σπουδαίων, Σπουδαίος, σπουδαίες, σπουδαίο, σπουδαία
 
-1028
+1026
 η συγγνώμη
 i singnomi
-apology — noun — seen as: Συγγνώμη, Συγνώμη
+apology — noun — ⚠ used in the real A2 exams — seen as: Συγγνώμη, Συγνώμη
 
-1029
+1027
 συγκεκριμένος
 singekrimenos
 specific, particular, concrete — adjective — seen as: συγκεκριμένο, συγκεκριμένες, συγκεκριμένη, συγκεκριμένων, συγκεκριμένου
 
-1030
+1028
 τα συγχαρητήρια
 ta sigharitiria
-congratulations — phrase — seen as: Συγχαρητήρια
+congratulations — phrase — ⚠ used in the real A2 exams — seen as: Συγχαρητήρια
 
-1031
+1029
 η συζήτηση
 i sizitisi
 conversation, talk, discussion — noun — seen as: συζήτηση, συζήτησης
 
-1032
+1030
 σχεδιάζω
 shediazo
 to draw, to design — verb — seen as: σχεδιάζει, Σχεδιάζεις, Σχεδιάζω, σχεδιάσουν
 
-1033
+1031
 η τεχνολογία
 i tehnoloyia
-technology — noun — seen as: Τεχνολογίας, τεχνολογία
+technology — noun — ⚠ used in the real A2 exams — seen as: Τεχνολογίας, τεχνολογία
 
-1034
+1032
 τουριστικός
 touristikos
 touristic — adjective — seen as: τουριστικό
 
-1035
+1033
 η τούρτα
 i tourta
-birthday cake — noun — seen as: τούρτα
+birthday cake — noun — ⚠ used in the real A2 exams — seen as: τούρτα
 
-1036
+1034
 το τραπεζομάντιλο
 to trapezomandilo
-tablecloth — noun — seen as: τραπεζομάντιλο, τραπεζομάντιλα
+tablecloth — noun — ⚠ used in the real A2 exams — seen as: τραπεζομάντιλο, τραπεζομάντιλα
 
-1037
+1035
 τα τρία πόδια Χαλκιδικής
 ta tria podia halkidikis
-three fingers of Chalkidiki — phrase — seen as: Χαλκιδική, Χαλκιδικής
+three fingers of Chalkidiki — phrase — ⚠ used in the real A2 exams — seen as: Χαλκιδική, Χαλκιδικής
 
-1038
+1036
 υπεύθυνος
 ipefthinos
-responsible — adjective — seen as: υπεύθυνος, υπεύθυνο, υπεύθυνη
+responsible — adjective — ⚠ used in the real A2 exams — seen as: υπεύθυνος, υπεύθυνο, υπεύθυνη
 
-1039
+1037
 το ύφασμα
 to ifasma
 cloth, fabric — noun — seen as: ύφασμα, υφάσματα
 
-1040
+1038
 φοβάμαι
 fovame
 to be afraid of, to fear — verb — seen as: φοβάστε, φοβάσαι
 
-1041
+1039
 φυσάω
 fisao
 to blow — verb — seen as: φυσάει
 
-1042
+1040
 φωνάζω
 fonazo
 to shout, to call out — verb — seen as: φωνάζουν, φωνάζει, φωνάξουμε, φωνάζεις, φωνάξτε
 
-1043
+1041
 το χαλί
 to hali
 carpet — noun — seen as: Χάλια, χαλί
 
-1044
+1042
 χαρίζω
 harizo
 to donate, to gift — verb — seen as: χάρισε, χάρισα, χαρίσει, χαρίσουν
 
-1045
+1043
 το χόμπι
 to hombi
-hobby — noun — seen as: χόμπι
+hobby — noun — ⚠ used in the real A2 exams — seen as: χόμπι
 
-1046
+1044
 το ωδείο
 to odio
 conservatory — noun — seen as: Ωδείο, ωδείου
+
+1045
+το αντίγραφο
+to andigrafo
+copy, duplicate — noun — ⚠ used in the real A2 exams — seen as: αντίγραφα
+
+1046
+αντιλαμβάνομαι
+andilamvanome
+to realise, to perceive — verb — ⚠ used in the real A2 exams — seen as: αντιληφθεί
+
+1047
+εξοχικός
+exohikos
+country-, rural (of a holiday/country house) — adjective — ⚠ used in the real A2 exams — seen as: εξοχική
+
+1048
+η Κηφισιά
+i kifisia
+Kifisia - northern suburb of Athens — name — ⚠ used in the real A2 exams — seen as: Κηφισιάς
+
+1049
+ο Λευτεράκης
+o lefterakis
+Lefterakis - a surname — name — ⚠ used in the real A2 exams — seen as: Λευτεράκης, Λευτεράκη
+
+1050
+μακρινός
+makrinos
+distant, far-away, long (of a journey) — adjective — ⚠ used in the real A2 exams — seen as: μακρινούς, μακρινό, μακρινά
+
+1051
+η Νόησις
+i noisis
+Noesis - Science Centre and Technology Museum in Thessaloniki — name — ⚠ used in the real A2 exams — seen as: Νόησις
+
+1052
+η οικονομία
+i ikonomia
+economy; saving, thrift — noun — ⚠ used in the real A2 exams — seen as: οικονομία
+
+1053
+το παραμύθι
+to paramithi
+fairy tale, story — noun — ⚠ used in the real A2 exams — seen as: παραμυθιών, παραμύθια
+
+1054
+η Πάτμος
+i patmos
+Patmos - Greek island in the Dodecanese — name — ⚠ used in the real A2 exams — seen as: Πάτμο
+
+1055
+συνοδεύω
+sinodevo
+to accompany, to escort — verb — ⚠ used in the real A2 exams — seen as: συνοδεύουν
+
+1056
+ο Τριβιζάς
+o trivizas
+Trivizas - surname (Evgenios Trivizas, Greek children's author) — name — ⚠ used in the real A2 exams — seen as: Τριβιζά, Τριβιζάς
+
+1057
+το αρνάκι
+to arnaki
+lamb (diminutive); lamb meat — noun — ⚠ used in the real A2 exams — seen as: αρνάκι
+
+1058
+έμπειρος
+embiros
+experienced — adjective — ⚠ used in the real A2 exams — seen as: έμπειροι, έμπειρους, έμπειρη
+
+1059
+ο κάδος
+o kados
+bin, container (κάδος σκουπιδιών = rubbish bin) — noun — ⚠ used in the real A2 exams — seen as: κάδο, κάδος
+
+1060
+το καφενείο
+to kafenio
+traditional coffee house, cafe — noun — ⚠ used in the real A2 exams — seen as: καφενείο
+
+1061
+η Μακεδονία
+i makedonia
+Macedonia - region of northern Greece (here used as a street name) — name — ⚠ used in the real A2 exams — seen as: Μακεδονίας
+
+1062
+η Παπαδάκη
+i papadaki
+Papadaki - surname (female form of Παπαδάκης) — name — ⚠ used in the real A2 exams — seen as: Παπαδάκη
+
+1063
+το προσκλητήριο
+to prosklitirio
+invitation card — noun — ⚠ used in the real A2 exams — seen as: προσκλητήρια
+
+1064
+η πώληση
+i polisi
+sale (τμήμα πωλήσεων = sales department) — noun — ⚠ used in the real A2 exams — seen as: πωλήσεων
+
+1065
+ο Σαμαράκης
+o samarakis
+Samarakis - surname (Antonis Samarakis, Greek writer, 1919-2003) — name — ⚠ used in the real A2 exams — seen as: Σαμαράκης, Σαμαράκη
+
+1066
+η Σάμος
+i samos
+Samos - Greek island in the eastern Aegean — name — ⚠ used in the real A2 exams — seen as: Σάμο
+
+1067
+ο Τάκης
+o takis
+Takis - Greek male first name (familiar form of Panagiotis/Dimitrios) — name — ⚠ used in the real A2 exams — seen as: Τάκη, Τάκης
+
+1068
+το υπόγειο
+to ipoyio
+basement, cellar — noun — ⚠ used in the real A2 exams — seen as: υπόγειο
+
+1069
+ψήνω
+psino
+to bake, roast, grill — verb — ⚠ used in the real A2 exams — seen as: ψήνετε, ψήσετε, ψήσει
+
+1070
+ααα
+aaa
+ah, aah (expression of realisation) — interjection — ⚠ used in the real A2 exams
+
+1071
+άλλωστε
+alloste
+besides, after all, anyway — adverb — ⚠ used in the real A2 exams
+
+1072
+αξέχαστος
+axehastos
+unforgettable — adjective — ⚠ used in the real A2 exams — seen as: αξέχαστη
+
+1073
+απολαμβάνω
+apolamvano
+to enjoy — verb — ⚠ used in the real A2 exams — seen as: Απολαύστε, απολαύσουν
+
+1074
+το αστέρι
+to asteri
+star — noun — ⚠ used in the real A2 exams — seen as: αστέρια
+
+1075
+αφρικανικός
+afrikanikos
+African — adjective — ⚠ used in the real A2 exams — seen as: αφρικανική
+
+1076
+Βασιλείου
+vasiliou
+Vasiliou - Greek surname (indeclinable) — name — ⚠ used in the real A2 exams
+
+1077
+ο Βιγκάλης
+o vingalis
+Vingalis - Greek surname — name — ⚠ used in the real A2 exams — seen as: Βιγκάλης
+
+1078
+γεμάτος
+yematos
+full — adjective — ⚠ used in the real A2 exams — seen as: γεμάτο
+
+1079
+γεννιέμαι
+yennieme
+to be born — verb — ⚠ used in the real A2 exams — seen as: γεννήθηκε
+
+1080
+δυσκολεύω
+diskolevo
+to make difficult, to give (someone) trouble — verb — ⚠ used in the real A2 exams — seen as: δυσκόλεψε
+
+1081
+ο Ευγένιος
+o evyenios
+Evgenios (Eugene) - Greek male first name; here the children's author Ευγένιος Τριβιζάς — name — ⚠ used in the real A2 exams — seen as: Ευγένιου
+
+1082
+Ζερβός
+zervos
+Zervos - Greek surname (feminine form Ζερβού, as in Ματίνα Ζερβού) — name — ⚠ used in the real A2 exams — seen as: Ζερβού
+
+1083
+η ζημιά
+i zimia
+damage, harm; breakdown — noun — ⚠ used in the real A2 exams — seen as: ζημιές
+
+1084
+ο ήρωας
+o iroas
+hero — noun — ⚠ used in the real A2 exams — seen as: ήρωες
+
+1085
+ηχογραφημένος
+ihografimenos
+recorded (audio) — adjective — ⚠ used in the real A2 exams — seen as: Ηχογραφημένα
+
+1086
+το ιατρείο
+to iatrio
+doctor's surgery, medical office — noun — ⚠ used in the real A2 exams — seen as: ιατρείο
+
+1087
+καθυστερώ
+kathistero
+to be late, to delay — verb — ⚠ used in the real A2 exams — seen as: καθυστερήσαμε, καθυστέρησαν
+
+1088
+η Καλλιθέα
+i kallithea
+Kallithea - place name (here a resort village in Chalkidiki) — name — ⚠ used in the real A2 exams — seen as: Καλλιθέα
+
+1089
+το κατοικίδιο
+to katikidio
+pet, domestic animal — noun — ⚠ used in the real A2 exams — seen as: κατοικίδιο
+
+1090
+το καύσιμο
+to kafsimo
+fuel (usually plural: καύσιμα) — noun — ⚠ used in the real A2 exams — seen as: καύσιμα
+
+1091
+η κουβέντα
+i kouvenda
+chat, conversation, talk — noun — ⚠ used in the real A2 exams — seen as: κουβέντα
+
+1092
+η λάμπα
+i lamba
+lamp, light bulb — noun — ⚠ used in the real A2 exams — seen as: λάμπες
+
+1093
+η Λένα
+i lena
+Lena - Greek female first name — name — ⚠ used in the real A2 exams — seen as: Λένα
+
+1094
+το λουράκι
+to louraki
+little strap; (dog) collar, watch strap — noun — ⚠ used in the real A2 exams — seen as: λουράκι
+
+1095
+το μπισκότο
+to biskoto
+biscuit, cookie — noun — ⚠ used in the real A2 exams — seen as: μπισκότου, μπισκότο
+
+1096
+Παππάς
+pappas
+Pappas - Greek surname (feminine form Παππά, as in Τίνα Παππά) — name — ⚠ used in the real A2 exams — seen as: Παππά
+
+1097
+το παράρτημα
+to parartima
+appendix, annex; branch (of an institution) — noun — ⚠ used in the real A2 exams — seen as: Παράρτημα
+
+1098
+το παρκάρισμα
+to parkarisma
+parking (the act of parking) — noun — ⚠ used in the real A2 exams — seen as: παρκάρισμα
+
+1099
+παρκάρω
+parkaro
+to park (a car) — verb — ⚠ used in the real A2 exams — seen as: παρκάρεις, παρκάρουν
+
+1100
+η πλευρά
+i plevra
+side — noun — ⚠ used in the real A2 exams — seen as: πλευρές
+
+1101
+το ποίημα
+to piima
+poem — noun — ⚠ used in the real A2 exams — seen as: ποίημα
+
+1102
+ο πόλεμος
+o polemos
+war — noun — ⚠ used in the real A2 exams — seen as: πόλεμος
+
+1103
+η προστασία
+i prostasia
+protection — noun — ⚠ used in the real A2 exams — seen as: προστασία, προστασίας
+
+1104
+η προσφορά
+i prosfora
+offer, special deal; supply — noun — ⚠ used in the real A2 exams — seen as: προσφορές
+
+1105
+ο πυροσβέστης
+o pirosvestis
+firefighter — noun — ⚠ used in the real A2 exams — seen as: πυροσβέστης, πυροσβέστη
+
+1106
+ο Ρομέλ
+o romel
+Romel - a man's (foreign) personal name — name — ⚠ used in the real A2 exams — seen as: Ρομέλ
+
+1107
+ο Σαράφης
+o sarafis
+Sarafis - Greek surname; here a street name (Σαράφη 53 = 53 Sarafi St.) — name — ⚠ used in the real A2 exams — seen as: Σαράφη
+
+1108
+Σολ
+sol
+Sol - name of a music school (from the note sol/G) — name — ⚠ used in the real A2 exams
+
+1109
+στάζω
+stazo
+to drip, to leak — verb — ⚠ used in the real A2 exams — seen as: στάζει
+
+1110
+η στάθμευση
+i stathmefsi
+parking — noun — ⚠ used in the real A2 exams — seen as: στάθμευσης
+
+1111
+συζητάω
+sizitao
+to discuss, to talk over — verb — ⚠ used in the real A2 exams — seen as: συζητάει, συζητήσει
+
+1112
+η συσκευασία
+i siskevasia
+package, packaging — noun — ⚠ used in the real A2 exams — seen as: συσκευασίες
+
+1113
+ταχυδρομικός
+tahidromikos
+postal (ταχυδρομική διεύθυνση = mailing address) — adjective — ⚠ used in the real A2 exams — seen as: Ταχυδρομική
+
+1114
+η τσέπη
+i tsepi
+pocket — noun — ⚠ used in the real A2 exams — seen as: τσέπες
+
+1115
+η φαντασία
+i fandasia
+imagination — noun — ⚠ used in the real A2 exams — seen as: φαντασία, φαντασίας
+
+1116
+η φάρμα
+i farma
+farm — noun — ⚠ used in the real A2 exams — seen as: Φάρμα
+
+1117
+η φωτοτυπία
+i fototipia
+photocopy — noun — ⚠ used in the real A2 exams — seen as: φωτοτυπίες
+
+1118
+χάρτινος
+hartinos
+made of paper, paper (adj.) — adjective — ⚠ used in the real A2 exams — seen as: χάρτινες
+
+1119
+III
+iii
+III - Roman numeral three (here: Annex III) — numeral — ⚠ used in the real A2 exams — seen as: ΙΙΙ
+
+1120
+ο αιώνας
+o eonas
+century — noun — ⚠ used in the real A2 exams — seen as: αιώνα
+
+1121
+η αμοιβή
+i amivi
+pay, fee, remuneration — noun — ⚠ used in the real A2 exams — seen as: αμοιβή
+
+1122
+το αναμνηστικό
+to anamnistiko
+souvenir, keepsake — noun — ⚠ used in the real A2 exams — seen as: αναμνηστικά
+
+1123
+άνετος
+anetos
+comfortable, spacious — adjective — ⚠ used in the real A2 exams — seen as: άνετα
+
+1124
+το ανθοπωλείο
+to anthopolio
+flower shop, florist's — noun — ⚠ used in the real A2 exams — seen as: ανθοπωλείο
+
+1125
+απόψε
+apopse
+tonight, this evening — adverb — ⚠ used in the real A2 exams
+
+1126
+αστείος
+astios
+funny, amusing — adjective — ⚠ used in the real A2 exams — seen as: αστεία
+
+1127
+η αστραπή
+i astrapi
+lightning, flash of lightning — noun — ⚠ used in the real A2 exams — seen as: αστραπές
+
+1128
+βεβαίως
+veveos
+certainly, of course — adverb — ⚠ used in the real A2 exams
+
+1129
+η βενζίνη
+i venzini
+petrol, gasoline — noun — ⚠ used in the real A2 exams — seen as: βενζίνη
+
+1130
+η βεράντα
+i veranda
+veranda, balcony, terrace — noun — ⚠ used in the real A2 exams — seen as: βεράντα
+
+1131
+ο γαμπρός
+o gambros
+groom; son-in-law, brother-in-law — noun — ⚠ used in the real A2 exams — seen as: γαμπρό
+
+1132
+το Γεράνι
+to yerani
+Gerani - village and beach in Crete — name — ⚠ used in the real A2 exams — seen as: Γεράνι
+
+1133
+ο Γερμανός
+o yermanos
+Germanos - surname (Palaion Patron Germanos), used here as an Athens street name — name — ⚠ used in the real A2 exams — seen as: Γερμανού
+
+1134
+η γλάστρα
+i glastra
+flowerpot, plant pot — noun — ⚠ used in the real A2 exams — seen as: γλάστρες
+
+1135
+το δείπνο
+to dipno
+dinner, supper — noun — ⚠ used in the real A2 exams — seen as: δείπνο
+
+1136
+ο Δέλλιος
+o dellios
+Dellios - a Greek surname — name — ⚠ used in the real A2 exams — seen as: Δέλλιου
+
+1137
+η διακόσμηση
+i diakosmisi
+decoration, interior design — noun — ⚠ used in the real A2 exams — seen as: διακόσμηση
+
+1138
+ο Δίας
+o dias
+Zeus - king of the Greek gods; here used as a hotel name — name — ⚠ used in the real A2 exams — seen as: Δίας
+
+1139
+το δωράκι
+to doraki
+little gift (diminutive of δώρο) — noun — ⚠ used in the real A2 exams — seen as: δωράκι
+
+1140
+επιπλωμένος
+epiplomenos
+furnished — adjective — ⚠ used in the real A2 exams — seen as: επιπλωμένο
+
+1141
+η επισκευή
+i episkevi
+repair — noun — ⚠ used in the real A2 exams — seen as: επισκευές
+
+1142
+εύχομαι
+efhome
+to wish — verb — ⚠ used in the real A2 exams
+
+1143
+ζητάω
+zitao
+to ask for, request — verb — ⚠ used in the real A2 exams — seen as: ζήτησαν
+
+1144
+το Ιπποκράτειο
+to ippokratio
+Hippokrateio - hospital and surrounding district in Thessaloniki — name — ⚠ used in the real A2 exams — seen as: Ιπποκράτειο
+
+1145
+η Ίρις
+i iris
+Iris - Greek goddess of the rainbow; here used as a hotel name — name — ⚠ used in the real A2 exams — seen as: Ίρις
+
+1146
+ιστορικός
+istorikos
+historic, historical — adjective — ⚠ used in the real A2 exams — seen as: ιστορικό
+
+1147
+η καθαριότητα
+i kathariotita
+cleaning (service); cleanliness — noun — ⚠ used in the real A2 exams — seen as: καθαριότητα
+
+1148
+ο καθαριστής
+o katharistis
+cleaner (male) — noun — ⚠ used in the real A2 exams — seen as: καθαριστής
+
+1149
+η καθαρίστρια
+i katharistria
+cleaner (female), cleaning lady — noun — ⚠ used in the real A2 exams — seen as: καθαρίστρια
+
+1150
+το κακάο
+to kakao
+cocoa — noun — ⚠ used in the real A2 exams — seen as: κακάο
+
+1151
+κολυμπάω
+kolimbao
+to swim — verb — ⚠ used in the real A2 exams — seen as: Κολυμπάτε
+
+1152
+το κράνος
+to kranos
+helmet — noun — ⚠ used in the real A2 exams — seen as: κράνος
+
+1153
+το Λιβάδι
+to livadi
+Livadi - village in Thermi, northern Greece — name — ⚠ used in the real A2 exams — seen as: Λιβάδι
+
+1154
+λογικός
+loyikos
+reasonable, sensible — adjective — ⚠ used in the real A2 exams — seen as: λογικές
+
+1155
+το λουκάνικο
+to loukaniko
+sausage — noun — ⚠ used in the real A2 exams — seen as: λουκάνικο
+
+1156
+η μαγεία
+i mayia
+magic, enchantment — noun — ⚠ used in the real A2 exams — seen as: μαγεία
+
+1157
+η μερίδα
+i merida
+portion, serving — noun — ⚠ used in the real A2 exams — seen as: μερίδες
+
+1158
+η Μερόπη
+i meropi
+Meropi - Greek female first name — name — ⚠ used in the real A2 exams — seen as: Μερόπης
+
+1159
+μεσιτικός
+mesitikos
+estate-agency (μεσιτικό γραφείο = real estate agency) — adjective — ⚠ used in the real A2 exams — seen as: μεσιτικό
+
+1160
+η μητρόπολη
+i mitropoli
+cathedral; metropolis — noun — ⚠ used in the real A2 exams — seen as: Μητρόπολη
+
+1161
+ο Μουτζούρης
+o moutzouris
+Moutzouris ('the Sooty One') - the historic narrow-gauge train of Mount Pelion — name — ⚠ used in the real A2 exams — seen as: Μουτζούρης
+
+1162
+το μυστήριο
+to mistirio
+mystery — noun — ⚠ used in the real A2 exams — seen as: μυστηρίου
+
+1163
+η νύφη
+i nifi
+bride; daughter-in-law, sister-in-law — noun — ⚠ used in the real A2 exams — seen as: νύφη
+
+1164
+η νύχτα
+i nihta
+night — noun — ⚠ used in the real A2 exams — seen as: νύχτα
+
+1165
+ξένος
+xenos
+foreign; strange (as noun: foreigner, stranger) — adjective — ⚠ used in the real A2 exams — seen as: ξένα
+
+1166
+οικογενειακός
+ikoyeniakos
+family, familial — adjective — ⚠ used in the real A2 exams — seen as: οικογενειακούς
+
+1167
+ο Οικονομίδης
+o ikonomidis
+Oikonomidis - Greek surname — name — ⚠ used in the real A2 exams — seen as: Οικονομίδης
+
+1168
+ονομάζω
+onomazo
+to name, to call — verb — ⚠ used in the real A2 exams — seen as: ονόμασε
+
+1169
+η ουρά
+i oura
+queue, line; tail — noun — ⚠ used in the real A2 exams — seen as: ουρές
+
+1170
+ο παίκτης
+o pektis
+player — noun — ⚠ used in the real A2 exams — seen as: παίκτες
+
+1171
+η Πανδαισία
+i pandesia
+Pandaisia - name of a restaurant (the word means 'feast, banquet') — name — ⚠ used in the real A2 exams — seen as: Πανδαισία
+
+1172
+ο Παντελής
+o pandelis
+Pantelis - Greek male first name — name — ⚠ used in the real A2 exams — seen as: Παντελή
+
+1173
+ο Παπαδάκης
+o papadakis
+Papadakis - Greek surname — name — ⚠ used in the real A2 exams — seen as: Παπαδάκης
+
+1174
+το πλανητάριο
+to planitario
+planetarium — noun — ⚠ used in the real A2 exams — seen as: Πλανητάριο
+
+1175
+η πληρωμή
+i pliromi
+payment — noun — ⚠ used in the real A2 exams — seen as: πληρωμή
+
+1176
+προγραμματίζω
+programmatizo
+to plan, to schedule — verb — ⚠ used in the real A2 exams — seen as: προγραμμάτισα
+
+1177
+η προτίμηση
+i protimisi
+preference — noun — ⚠ used in the real A2 exams — seen as: προτίμηση
+
+1178
+το ρυζόγαλο
+to rizogalo
+rice pudding — noun — ⚠ used in the real A2 exams — seen as: ρυζόγαλο
+
+1179
+ο Σεπτέμβρης
+o septemvris
+September (colloquial form of Σεπτέμβριος) — noun — ⚠ used in the real A2 exams — seen as: Σεπτέμβρη
+
+1180
+το σουπερμάρκετ
+to soupermarket
+supermarket — noun — ⚠ used in the real A2 exams — seen as: σουπερμάρκετ
+
+1181
+στρίβω
+strivo
+to turn (a corner) — verb — ⚠ used in the real A2 exams — seen as: στρίψε
+
+1182
+το ταξιδάκι
+to taxidaki
+little trip, short journey — noun — ⚠ used in the real A2 exams — seen as: ταξιδάκι
+
+1183
+το τεχνοπάρκο
+to tehnoparko
+technology park — noun — ⚠ used in the real A2 exams — seen as: Τεχνοπάρκο
+
+1184
+τιμωρώ
+timoro
+to punish — verb — ⚠ used in the real A2 exams — seen as: τιμωρήσει
+
+1185
+η τραπεζαρία
+i trapezaria
+dining room — noun — ⚠ used in the real A2 exams — seen as: τραπεζαρία
+
+1186
+το τρενάκι
+to trenaki
+little train (diminutive of train) — noun — ⚠ used in the real A2 exams — seen as: τρενάκι
+
+1187
+τρίκλινος
+triklinos
+triple, with three beds — adjective — ⚠ used in the real A2 exams — seen as: τρίκλινα
+
+1188
+υψηλός
+ipsilos
+high — adjective — ⚠ used in the real A2 exams — seen as: υψηλό
+
+1189
+φθινοπωρινός
+fthinoporinos
+autumn, autumnal — adjective — ⚠ used in the real A2 exams — seen as: φθινοπωρινές
+
+1190
+το φόρουμ
+to foroum
+forum (online discussion board) — noun — ⚠ used in the real A2 exams — seen as: φόρουμ
+
+1191
+φωτεινός
+fotinos
+bright, light-filled — adjective — ⚠ used in the real A2 exams — seen as: φωτεινό
+
+1192
+τα χαιρετίσματα
+ta heretismata
+greetings, regards — noun — ⚠ used in the real A2 exams — seen as: χαιρετίσματα
+
+1193
+η χιλιάδα
+i hiliada
+thousand (plural: thousands) — noun — ⚠ used in the real A2 exams — seen as: χιλιάδες
+
+1194
+χοιρινός
+hirinos
+pork, of pork — adjective — ⚠ used in the real A2 exams — seen as: χοιρινή
+
+1195
+χρυσός
+hrisos
+golden, gold — adjective — ⚠ used in the real A2 exams — seen as: χρυσό
