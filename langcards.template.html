@@ -313,6 +313,29 @@
       font-size: 1.25rem;
       color: var(--text-secondary);
       margin-top: 1rem;
+      /* Paradigms arrive as several lines, column-aligned with runs of spaces.
+         pre-wrap keeps both the breaks and the alignment; pre-line would eat
+         the spaces and the columns with them. */
+      white-space: pre-wrap;
+      line-height: 1.5;
+    }
+
+    /* the paradigm is reference material under the translation, so it is set
+       smaller and in the monospaced face that keeps its columns lined up */
+    .english-text .paradigm {
+      display: block;
+      margin-top: 0.6rem;
+      font-size: 0.95rem;
+      font-family: "Cascadia Mono", Consolas, "DejaVu Sans Mono", monospace;
+      color: var(--text-muted);
+    }
+
+    .know-button {
+      background: var(--know-bg, #15803d);
+    }
+
+    .know-button:hover {
+      background: var(--know-hover, #166534);
     }
 
     /* Speaker, top-left of the card, mirroring the card number on the right.
@@ -616,6 +639,8 @@ Translation: Excuse me.</pre>
           <label for="greek-only">Greek-only mode</label>
         </div>
         <button class="upload-button" id="next-button">Next Card</button>
+        <button class="upload-button know-button" id="know-button" type="button"
+                title="Drop this card for the rest of the session">I know this</button>
       </div>
 
       <div class="flashcard" id="flashcard">
@@ -633,7 +658,7 @@ Translation: Excuse me.</pre>
         <div class="english-text" id="english-text"></div>
       </div>
 
-      <div class="card-hint">Tap the card or press <kbd>Space</kbd> to reveal — again for the next card<span id="speak-hint" hidden> · <kbd>V</kbd> to hear it</span></div>
+      <div class="card-hint">Tap the card or press <kbd>Space</kbd> to reveal — again for the next card<span id="speak-hint" hidden> · <kbd>V</kbd> to hear it</span> · <kbd>N</kbd> if you know it</div>
     </div>
   </div>
 
@@ -673,6 +698,7 @@ Translation: Excuse me.</pre>
     const transcriptionText = document.getElementById('transcription-text');
     const englishText = document.getElementById('english-text');
     const nextButton = document.getElementById('next-button');
+    const knowButton = document.getElementById('know-button');
     const greekOnlyCheckbox = document.getElementById('greek-only');
     const themeToggle = document.getElementById('theme-toggle');
     const flashcard = document.getElementById('flashcard');
@@ -800,11 +826,15 @@ Translation: Excuse me.</pre>
         }
 
         if (fields.length === 3) {
+          // " | " in the English field is a line break: the file format is one
+          // field per line, so a multi-line card back has to travel inside one.
+          const parts = fields[2].split(' | ');
           newCards.push({
             number: cardNumber,
             greek: fields[0],
             transcription: fields[1],
-            english: fields[2]
+            english: parts[0],
+            paradigm: parts.slice(1).join('\n')
           });
         } else {
           debugMessages.push(`Card #${cardNumber} at line ${i + 1}: found ${fields.length} of 3 fields, skipping`);
@@ -1043,6 +1073,12 @@ Translation: Excuse me.</pre>
 
       if (!showGreek || showTranslation) {
         englishText.textContent = currentCard.english;
+        if (currentCard.paradigm) {
+          const box = document.createElement('span');
+          box.className = 'paradigm';
+          box.textContent = currentCard.paradigm;   // textContent: never markup
+          englishText.appendChild(box);
+        }
         englishText.style.display = 'block';
       } else {
         englishText.style.display = 'none';
@@ -1074,6 +1110,31 @@ Translation: Excuse me.</pre>
       }
     }
 
+    // Drop the current card for the rest of the session. The pack is rebuilt
+    // from scratch whenever a dictionary is chosen or the page is reloaded, so
+    // nothing has to be stored and nothing has to be undone.
+    function markKnown() {
+      if (cards.length === 0 || currentCardIndex === -1) return;
+      stopSpeaking();
+      cards.splice(currentCardIndex, 1);
+      totalCardsElement.textContent = cards.length;
+      if (cards.length === 0) {
+        currentCardIndex = -1;
+        greekText.style.display = 'none';
+        transcriptionText.style.display = 'none';
+        englishText.textContent = 'That is the whole pack. Reload the page or pick a dictionary to start again.';
+        englishText.style.display = 'block';
+        cardNumberElement.textContent = '';
+        updateSpeakButton();
+        statusDisplay.textContent = '0 cards left';
+        return;
+      }
+      statusDisplay.textContent = cards.length + ' cards left';
+      displayRandomCard();
+    }
+
+    knowButton.addEventListener('click', markKnown);
+
     flashcard.addEventListener('click', revealOrAdvance);
 
     document.addEventListener('keydown', function(event) {
@@ -1087,7 +1148,11 @@ Translation: Excuse me.</pre>
       // Modifiers are excluded, or Ctrl+V would talk instead of pasting.
       const isSpeak = event.code === 'KeyV' &&
                       !event.ctrlKey && !event.metaKey && !event.altKey;
-      if (!isSpace && !isSpeak) return;
+      // N drops the card. Matched on the physical key for the same reason as V:
+      // on a Russian layout that key types "т".
+      const isKnow = event.code === 'KeyN' &&
+                     !event.ctrlKey && !event.metaKey && !event.altKey;
+      if (!isSpace && !isSpeak && !isKnow) return;
       // the dialog owns the keyboard while it is open
       if (ttsHelp.classList.contains('open')) return;
       if (cards.length === 0 || currentCardIndex === -1) return;
@@ -1101,6 +1166,15 @@ Translation: Excuse me.</pre>
       if (isSpeak) {
         event.preventDefault();
         speakCurrentCard();
+        return;
+      }
+
+      if (isKnow) {
+        event.preventDefault();
+        if (active && active !== document.body && typeof active.blur === 'function') {
+          active.blur();
+        }
+        markKnown();
         return;
       }
 
