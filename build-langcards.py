@@ -23,6 +23,10 @@ DICTS = [
     # entries the two books print exactly once
     ('klik5',   'greek-a1-a2-klik-5timesplus.txt',
                 u'Greek A1-A2-Klik-5timesplus'),
+    # the oral interview for the article 111B(2) fast-track naturalisation
+    # (form M127): the officer's question on the front, a model A2 answer behind
+    ('interview', 'greek-cyprus-citizenship-interview.txt',
+                u'Cyprus citizenship interview — questions & answers'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
