@@ -369,606 +369,936 @@ pigenete se topikes yiortes ke ekdilosis;
 Do you go to local festivals and events? | Απάντηση: Ναι, πηγαίνω στα πανηγύρια και στις γιορτές της περιοχής μου. Πέρυσι πήγα στο καρναβάλι και στη γιορτή του κρασιού. | Yes, I go to the local fairs and festivals in my area. Last year I went to the carnival and to the wine festival.
 
 75
-Ποιοι είναι οι δύο εγγυητές στην αίτησή σας;
-pii ine i dio engiites stin etisi sas;
-Who are the two guarantors on your application? | Απάντηση: Οι εγγυητές μου είναι ο [όνομα] και η [όνομα]. Και οι δύο είναι Κύπριοι πολίτες και μένουν στη [πόλη]. | My guarantors are [name] and [name]. Both of them are Cypriot citizens and they live in [city].
-
-76
 Από πού γνωρίζετε τους εγγυητές σας και πόσα χρόνια;
 apo pou gnorizete tous engiites sas ke posa hronia;
 How do you know your guarantors, and for how many years? | Απάντηση: Τον [όνομα] τον γνωρίζω [πέντε] χρόνια από τη δουλειά, γιατί είναι συνάδελφός μου. Την [όνομα] τη γνωρίζω από τη γειτονιά, είναι γειτόνισσά μου και βλεπόμαστε συχνά. | I have known [name] for [five] years from work, because he is my colleague. I know [name] from the neighbourhood; she is my neighbour and we see each other often.
 
-77
+76
 Γιατί θέλετε να γίνετε Κύπριος πολίτης;
 yiati thelete na yinete kiprios politis;
 Why do you want to become a Cypriot citizen? | Απάντηση: Θέλω να γίνω Κύπριος πολίτης γιατί η Κύπρος είναι το σπίτι μου τώρα. Εδώ έχω τη δουλειά μου, τους φίλους μου και την οικογένειά μου. | I want to become a Cypriot citizen because Cyprus is my home now. Here I have my job, my friends and my family.
 
-78
+77
 Σκοπεύετε να μείνετε μόνιμα στην Κύπρο;
 skopevete na minete monima stin kipro;
 Do you intend to stay in Cyprus permanently? | Απάντηση: Ναι, θέλω να μείνω μόνιμα εδώ. Αγόρασα σπίτι στη [πόλη] και δεν σκέφτομαι να φύγω από την Κύπρο. | Yes, I want to stay here permanently. I bought a house in [city] and I am not thinking of leaving Cyprus.
 
-79
+78
 Ποια είναι τα σχέδιά σας για το μέλλον;
 pia ine ta shedia sas yia to mellon;
 What are your plans for the future? | Απάντηση: Θέλω να συνεχίσω τη δουλειά μου ως προγραμματιστής και να μάθω καλύτερα ελληνικά. Αργότερα θέλω να ανοίξω τη δική μου εταιρεία λογισμικού εδώ στην Κύπρο. | I want to continue my work as a software developer and to learn Greek better. Later I want to open my own software company here in Cyprus.
 
-80
+79
 Είστε έτοιμος να δώσετε όρκο πίστης στην Κυπριακή Δημοκρατία;
 iste etimos na dosete orko pistis stin kipriaki dimokratia;
 Are you ready to swear an oath of loyalty to the Republic of Cyprus? | Απάντηση: Ναι, είμαι έτοιμος. Σέβομαι τους νόμους της Κυπριακής Δημοκρατίας, πληρώνω τους φόρους μου και θέλω να είμαι καλός και πιστός πολίτης. | Yes, I am ready. I respect the laws of the Republic of Cyprus, I pay my taxes and I want to be a good and loyal citizen.
 
-81
+80
 Πότε υποβάλατε την αίτηση Μ127;
 pote ipovalate tin etisi m127;
 When did you submit the M127 application? | Απάντηση: Υπέβαλα την αίτηση τον [μήνας] του [χρονιά]. Πρώτα ετοίμασα όλα τα έγγραφα. Μετά πήγα ο ίδιος στο γραφείο και την κατέθεσα. | I submitted the application in [month] of [year]. First I prepared all the documents. Then I went to the office myself and handed it in.
 
-82
+81
 Πού καταθέσατε την αίτησή σας;
 pou katathesate tin etisi sas;
 Where did you file your application? | Απάντηση: Την κατέθεσα στην Επαρχιακή Διοίκηση [πόλη]. Το γραφείο είναι κοντά στο κέντρο. Πήγα το πρωί και περίμενα λίγη ώρα. | I filed it at the District Administration of [city]. The office is near the centre. I went in the morning and waited a little while.
 
-83
+82
 Πόσα χρήματα πληρώσατε για την αίτηση;
 posa hrimata plirosate yia tin etisi;
 How much did you pay for the application? | Απάντηση: Πλήρωσα πεντακόσια ευρώ. Πλήρωσα στο ταμείο, την ίδια μέρα. Πήρα απόδειξη και την κρατάω στον φάκελό μου. | I paid five hundred euros. I paid at the cashier's desk the same day. I got a receipt and I keep it in my file.
 
-84
+83
 Γιατί συμπληρώσατε το έντυπο Μ127 και όχι κάποιο άλλο;
 yiati simblirosate to endipo m127 ke ohi kapio allo;
 Why did you fill in form M127 and not another one? | Απάντηση: Το έντυπο Μ127 είναι για ξένους εργαζόμενους με υψηλή ειδίκευση. Εγώ δουλεύω ως προγραμματιστής σε εταιρεία ξένων συμφερόντων. Γι' αυτό κάνω αυτή την αίτηση. | Form M127 is for highly skilled foreign employees. I work as a software developer in a company of foreign interests. That is why I am making this application.
 
-85
+84
 Σας έδωσαν απόδειξη ή αριθμό για την αίτησή σας;
 sas edosan apodixi i arithmo yia tin etisi sas;
 Were you given a receipt or a number for your application? | Απάντηση: Ναι. Μου έδωσαν μια απόδειξη με αριθμό αίτησης. Έχω το πρωτότυπο στο σπίτι και μια φωτοτυπία στη δουλειά. Τον αριθμό τον ξέρω απ' έξω. | Yes. They gave me a receipt with an application number. I have the original at home and a photocopy at work. I know the number by heart.
 
-86
+85
 Τι πιστοποιητικό γέννησης καταθέσατε;
 ti pistopiitiko yennisis katathesate;
 What birth certificate did you submit? | Απάντηση: Κατέθεσα το πιστοποιητικό γέννησής μου από τη Ρωσία. Έχει σφραγίδα apostille. Έχει και επίσημη μετάφραση στα ελληνικά. | I submitted my birth certificate from Russia. It has an apostille stamp. It also has an official translation into Greek.
 
-87
+86
 Καταθέσατε πιστοποιητικό λευκού ποινικού μητρώου;
 katathesate pistopiitiko lefkou pinikou mitroou;
 Did you submit a clean criminal record certificate? | Απάντηση: Ναι, κατέθεσα δύο. Το ένα από την αστυνομία της Κύπρου και το άλλο από τη Ρωσία. Δεν έχω καμία καταδίκη και τα δύο είναι καθαρά. | Yes, I submitted two. One from the Cyprus police and the other from Russia. I have no convictions and both are clean.
 
-88
+87
 Ποια αντίγραφα διαβατηρίου δώσατε με την αίτηση;
 pia andigrafa diavatiriou dosate me tin etisi;
 Which passport copies did you provide with the application? | Απάντηση: Έδωσα φωτοτυπίες από όλες τις σελίδες του διαβατηρίου μου. Έδωσα και το παλιό διαβατήριο, γιατί δείχνει τα χρόνια που μένω εδώ. Φαίνονται όλες οι σφραγίδες και οι άδειες. | I gave photocopies of every page of my passport. I also gave my old passport, because it shows the years I have been living here. All the stamps and permits are visible.
 
-89
+88
 Τα ξένα έγγραφα είναι επίσημα μεταφρασμένα και επικυρωμένα;
 ta xena engrafa ine episima metafrasmena ke epikiromena;
 Are the foreign documents officially translated and certified? | Απάντηση: Ναι, όλα. Τα ρωσικά έγγραφα έχουν apostille από τη Ρωσία. Η μετάφραση στα ελληνικά είναι επίσημη, από το Γραφείο Τύπου και Πληροφοριών. | Yes, all of them. The Russian documents have an apostille from Russia. The Greek translation is official, from the Press and Information Office.
 
-90
+89
 Τι άλλα δικαιολογητικά επισυνάψατε στον φάκελό σας;
 ti alla dikeoloyitika episinapsate ston fakelo sas;
 What other supporting documents did you attach to your file? | Απάντηση: Επισύναψα τη σύμβαση εργασίας μου και βεβαίωση από την εταιρεία. Επισύναψα επίσης βεβαιώσεις για τον φόρο και τις κοινωνικές ασφαλίσεις. Στο τέλος έβαλα το συμβόλαιο του σπιτιού και λογαριασμούς ρεύματος. | I attached my employment contract and a letter from the company. I also attached certificates for tax and social insurance. At the end I put in my house contract and electricity bills.
 
-91
+90
 Τι επίπεδο ελληνικών έχετε και τι πιστοποιητικό καταθέσατε;
 ti epipedo ellinikon ehete ke ti pistopiitiko katathesate;
 What level of Greek do you have and what certificate did you submit? | Απάντηση: Έχω πιστοποιητικό επιπέδου Α2 στα ελληνικά. Το κατέθεσα μαζί με την αίτηση. Καταλαβαίνω απλές κουβέντες και μιλάω αργά, αλλά καθαρά. | I have an A2 level certificate in Greek. I submitted it together with the application. I understand simple conversations and I speak slowly, but clearly.
 
-92
+91
 Σε ποια εξέταση δώσατε για το πιστοποιητικό της ελληνικής γλώσσας;
 se pia exetasi dosate yia to pistopiitiko tis ellinikis glossas;
 Which examination did you take for the Greek language certificate? | Απάντηση: Έδωσα την κρατική εξέταση ελληνικής γλώσσας εδώ στην Κύπρο. Η εξέταση είχε τέσσερα μέρη: ακρόαση, ανάγνωση, γραπτό και προφορικό. Το προφορικό ήταν για μένα το πιο δύσκολο. | I took the state Greek language examination here in Cyprus. The exam had four parts: listening, reading, writing and speaking. The speaking part was the hardest for me.
 
-93
+92
 Πότε περάσατε αυτή την εξέταση;
 pote perasate afti tin exetasi;
 When did you pass that examination? | Απάντηση: Πέρασα την εξέταση τον [μήνας] του [χρονιά]. Πήρα τα αποτελέσματα μετά από ένα μήνα. Το πιστοποιητικό το πήρα λίγο αργότερα. | I passed the exam in [month] of [year]. I got the results a month later. I received the certificate a little after that.
 
-94
+93
 Πώς ετοιμαστήκατε για την εξέταση των ελληνικών;
 pos etimastikate yia tin exetasi ton ellinikon;
 How did you prepare for the Greek examination? | Απάντηση: Κάνω μαθήματα με δασκάλα δύο φορές την εβδομάδα. Διαβάζω και μόνος μου στο σπίτι, με βιβλίο και με κάρτες λεξιλογίου. Προσπαθώ να μιλάω ελληνικά στα μαγαζιά και με τους γείτονες. | I take lessons with a teacher twice a week. I also study alone at home, with a book and with vocabulary cards. I try to speak Greek in the shops and with my neighbours.
 
-95
+94
 Ποιος σας βοήθησε να ετοιμάσετε την αίτηση;
 pios sas voithise na etimasete tin etisi;
 Who helped you prepare the application? | Απάντηση: Με βοήθησε το τμήμα προσωπικού της εταιρείας μου. Μου έδωσαν μια λίστα με τα έγγραφα και τις βεβαιώσεις που χρειάζομαι. Τα υπόλοιπα τα μάζεψα μόνος μου. | The HR department of my company helped me. They gave me a list of the documents and certificates I needed. I collected the rest myself.
 
-96
+95
 Σας εκπροσωπεί δικηγόρος σε αυτή την υπόθεση;
 sas ekprosopi dikigoros se afti tin ipothesi;
 Is a lawyer representing you in this case? | Απάντηση: Όχι, δεν έχω δικηγόρο για την αίτηση. Μίλησα μία φορά με έναν δικηγόρο, μόνο για συμβουλή. Τα έγγραφα τα ετοίμασα και τα κατέθεσα μόνος μου. | No, I do not have a lawyer for the application. I spoke with a lawyer once, only for advice. I prepared and submitted the documents myself.
 
-97
+96
 Ποιος συμπλήρωσε το έντυπο, εσείς ή κάποιος άλλος;
 pios simblirose to endipo, esis i kapios allos;
 Who filled in the form, you or someone else? | Απάντηση: Το συμπλήρωσα εγώ, στα ελληνικά. Η δασκάλα μου με βοήθησε με μερικές δύσκολες λέξεις. Κατάλαβα όλες τις ερωτήσεις και όλα όσα έγραψα είναι αλήθεια. | I filled it in myself, in Greek. My teacher helped me with a few difficult words. I understood all the questions, and everything I wrote is true.
 
-98
+97
 Γιατί πιστεύετε ότι πληροίτε τις προϋποθέσεις του άρθρου 111Β(2);
 yiati pistevete oti plirite tis proipothesis tou arthrou 111v(2);
 Why do you believe you meet the conditions of article 111B(2)? | Απάντηση: Είμαι προγραμματιστής με υψηλή ειδίκευση. Δουλεύω με σύμβαση αορίστου χρόνου σε εγκεκριμένη εταιρεία ξένων συμφερόντων. Μένω νόμιμα στην Κύπρο [αριθμός] χρόνια, πληρώνω φόρους και έχω πιστοποιητικό ελληνικών. | I am a highly skilled software developer. I work on a permanent contract at an approved company of foreign interests. I have been living in Cyprus legally for [number] years, I pay taxes and I have a Greek language certificate.
 
-99
+98
 Η εταιρεία σας είναι εγγεγραμμένη ως εταιρεία ξένων συμφερόντων;
 i eteria sas ine engegrammeni os eteria xenon simferondon;
 Is your company registered as a company of foreign interests? | Απάντηση: Ναι, είναι. Η εταιρεία [όνομα εταιρείας] είναι εγγεγραμμένη στο σχετικό μητρώο. Έχει γραφεία στη [πόλη] και πολλούς ξένους εργαζόμενους. Μου έδωσαν βεβαίωση για την αίτηση. | Yes, it is. The company [company name] is registered in the relevant register. It has offices in [city] and many foreign employees. They gave me a certificate for the application.
 
-100
+99
 Τι θέση έχετε στην εταιρεία και πόσος είναι ο μισθός σας;
 ti thesi ehete stin eteria ke posos ine o misthos sas;
 What position do you hold in the company and what is your salary? | Απάντηση: Είμαι ανώτερος προγραμματιστής λογισμικού. Γράφω κώδικα και βοηθάω τους νέους συναδέλφους. Ο μισθός μου είναι [ποσό] ευρώ τον μήνα, πριν από τους φόρους. | I am a senior software developer. I write code and help the junior colleagues. My salary is [amount] euros a month, before tax.
 
-101
+100
 Σε ποια πόλη και σε ποια περιοχή μένετε;
 se pia poli ke se pia periohi menete;
 In which town and in which area do you live? | Απάντηση: Μένω στη [πόλη], στην περιοχή [περιοχή]. Μένω εκεί [αριθμός] χρόνια. Το σπίτι μου είναι ένα διαμέρισμα με δύο υπνοδωμάτια. Είναι κοντά στη θάλασσα και κοντά στο γραφείο μου. | I live in [town], in the [area] area. I have lived there for [number] years. My home is a two-bedroom flat. It is near the sea and near my office.
 
-102
+101
 Πόσον καιρό ζείτε στην Κύπρο;
 poson kero zite stin kipro;
 How long have you been living in Cyprus? | Απάντηση: Ζω στην Κύπρο [αριθμός] χρόνια. Ήρθα εδώ το [έτος] για τη δουλειά μου. Από τότε μένω συνέχεια εδώ. Φεύγω μόνο για λίγες μέρες, για διακοπές. | I have been living in Cyprus for [number] years. I came here in [year] for my job. Since then I have lived here continuously. I only leave for a few days, on holiday.
 
-103
+102
 Με τι ασχολείστε επαγγελματικά;
 me ti asholiste epangelmatika;
 What do you do for a living? | Απάντηση: Είμαι προγραμματιστής. Δουλεύω σε μια εταιρεία πληροφορικής στη [πόλη]. Γράφω προγράμματα για υπολογιστές. Η δουλειά μου είναι δύσκολη, αλλά μου αρέσει πολύ. | I am a software developer. I work for an IT company in [town]. I write computer programs. My job is difficult, but I like it very much.
 
-104
+103
 Το σπίτι σας είναι δικό σας ή το νοικιάζετε;
 to spiti sas ine diko sas i to nikiazete;
 Is your home your own or do you rent it? | Απάντηση: Νοικιάζω ένα διαμέρισμα στη [πόλη]. Πληρώνω [ποσό] ευρώ τον μήνα. Το συμβόλαιο είναι στο όνομά μου. Στο μέλλον θέλω να αγοράσω δικό μου σπίτι εδώ. | I rent a flat in [town]. I pay [amount] euros a month. The contract is in my name. In the future I want to buy my own house here.
 
-105
+104
 Γιατί επιλέξατε την Κύπρο για να ζήσετε;
 yiati epilexate tin kipro yia na zisete;
 Why did you choose Cyprus to live in? | Απάντηση: Επέλεξα την Κύπρο για τρεις λόγους. Πρώτα, βρήκα καλή δουλειά εδώ. Δεύτερον, ο καιρός είναι ωραίος όλο τον χρόνο. Τρίτον, η ζωή είναι ήσυχη και ασφαλής. Μου αρέσει που οι άνθρωποι είναι φιλικοί. | I chose Cyprus for three reasons. First, I found a good job here. Second, the weather is nice all year round. Third, life is quiet and safe. I like that the people are friendly.
 
-106
+105
 Γιατί μένετε σε αυτή την πόλη και όχι σε κάποια άλλη;
 yiati menete se afti tin poli ke ohi se kapia alli;
 Why do you live in this town and not in another one? | Απάντηση: Μένω στη [πόλη] γιατί εκεί είναι το γραφείο μου. Πηγαίνω στη δουλειά σε δεκαπέντε λεπτά. Η πόλη έχει θάλασσα, μαγαζιά και καλά σχολεία. Έχω και φίλους εδώ. Γι' αυτό δεν θέλω να αλλάξω πόλη. | I live in [town] because my office is there. I get to work in fifteen minutes. The town has the sea, shops and good schools. I also have friends here. That is why I do not want to change town.
 
-107
+106
 Γιατί διαλέξατε αυτό το επάγγελμα;
 yiati dialexate afto to epangelma;
 Why did you choose this profession? | Απάντηση: Μου αρέσουν οι υπολογιστές από μικρός. Σπούδασα πληροφορική στο πανεπιστήμιο. Η δουλειά είναι ενδιαφέρουσα και μαθαίνω κάτι καινούριο κάθε μέρα. Επίσης η εταιρεία μου είναι σοβαρή και πληρώνει καλά. | I have liked computers since I was a child. I studied computer science at university. The work is interesting and I learn something new every day. Also, my company is serious and pays well.
 
-108
+107
 Αν η αίτησή σας απορριφθεί, τι θα κάνετε;
 an i etisi sas aporrifthi, ti tha kanete;
 If your application is refused, what will you do? | Απάντηση: Θα στεναχωρηθώ, αλλά δεν θα φύγω. Θα ρωτήσω γιατί έγινε αυτό. Θα διορθώσω ό,τι χρειάζεται και θα κάνω νέα αίτηση αργότερα. Θα συνεχίσω να ζω και να δουλεύω νόμιμα στην Κύπρο. | I will be upset, but I will not leave. I will ask why it happened. I will correct whatever is needed and apply again later. I will go on living and working legally in Cyprus.
 
-109
+108
 Αν χάνατε τη δουλειά σας, θα μένατε στην Κύπρο;
 an hanate ti doulia sas, tha menate stin kipro;
 If you lost your job, would you stay in Cyprus? | Απάντηση: Ναι, θα έμενα. Θα έψαχνα αμέσως άλλη δουλειά εδώ. Στην Κύπρο υπάρχουν πολλές εταιρείες πληροφορικής. Έχω εμπειρία και πιστεύω ότι θα έβρισκα δουλειά γρήγορα. | Yes, I would stay. I would look for another job here straight away. There are many IT companies in Cyprus. I have experience and I believe I would find work quickly.
 
-110
+109
 Σκοπεύετε να φύγετε από την Κύπρο στο μέλλον;
 skopevete na fiyete apo tin kipro sto mellon;
 Do you intend to leave Cyprus in the future? | Απάντηση: Όχι, δεν σκοπεύω να φύγω. Θέλω να μείνω εδώ μόνιμα. Μου αρέσει η ζωή μου στην Κύπρο. Ταξιδεύω μόνο για διακοπές ή για δουλειά, αλλά γυρίζω πάντα πίσω. | No, I do not intend to leave. I want to stay here permanently. I like my life in Cyprus. I travel only for holidays or for work, but I always come back.
 
-111
+110
 Έχετε άλλη υπηκοότητα;
 ehete alli ipikootita;
 Do you hold another citizenship? | Απάντηση: Ναι, έχω τη ρωσική υπηκοότητα. Γεννήθηκα στη Ρωσία και έχω ρωσικό διαβατήριο. Άλλη υπηκοότητα δεν έχω. Στην Κύπρο έχω άδεια παραμονής και εργασίας. | Yes, I hold Russian citizenship. I was born in Russia and I have a Russian passport. I do not hold any other citizenship. In Cyprus I have a residence and work permit.
 
-112
+111
 Θα κρατήσετε τη ρωσική σας υπηκοότητα;
 tha kratisete ti rosiki sas ipikootita;
 Will you keep your Russian citizenship? | Απάντηση: Ναι, θα την κρατήσω, γιατί η οικογένειά μου είναι στη Ρωσία. Η Κύπρος δέχεται δύο υπηκοότητες. Όμως η πρώτη μου χώρα θα είναι η Κύπρος. Εδώ ζω, δουλεύω και πληρώνω φόρους. | Yes, I will keep it, because my family is in Russia. Cyprus accepts dual citizenship. But my first country will be Cyprus. I live, work and pay taxes here.
 
-113
+112
 Έχετε υπηρετήσει στον στρατό;
 ehete ipiretisi ston strato;
 Have you done military service? | Απάντηση: Όχι, δεν υπηρέτησα στον στρατό. Όταν τελείωσα το σχολείο, πήγα στο πανεπιστήμιο και πήρα αναβολή. Μετά άρχισα να δουλεύω και έφυγα από τη χώρα. Τώρα δεν έχω καμία στρατιωτική υποχρέωση. | No, I did not serve in the army. When I finished school I went to university and got a deferment. Then I started working and left the country. Now I have no military obligation.
 
-114
+113
 Τι σας αρέσει περισσότερο στην Κύπρο;
 ti sas aresi perissotero stin kipro;
 What do you like most about Cyprus? | Απάντηση: Μου αρέσει πολύ ο καιρός και η θάλασσα. Μου αρέσει που η ζωή είναι ήσυχη και ασφαλής. Οι άνθρωποι εδώ είναι ζεστοί και βοηθούν. Μου αρέσει και το φαγητό, ειδικά το σουβλάκι και το χαλούμι. | I like the weather and the sea very much. I like that life is quiet and safe. The people here are warm and they help you. I also like the food, especially souvlaki and halloumi.
 
-115
+114
 Υπάρχει κάτι που δεν σας αρέσει στην Κύπρο;
 iparhi kati pou den sas aresi stin kipro;
 Is there anything you do not like about Cyprus? | Απάντηση: Ναι, υπάρχουν μερικά πράγματα. Το καλοκαίρι κάνει πολλή ζέστη και αυτό είναι δύσκολο. Η γραφειοκρατία είναι αργή και περιμένεις πολύ. Επίσης τα λεωφορεία είναι λίγα, γι' αυτό χρειάζεσαι αυτοκίνητο. Αλλά αυτά είναι μικρά προβλήματα. | Yes, there are a few things. In summer it is very hot and that is hard. The bureaucracy is slow and you wait a long time. Also there are few buses, so you need a car. But these are small problems.
 
-116
+115
 Τι ήταν το πιο δύσκολο όταν ήρθατε στην Κύπρο;
 ti itan to pio diskolo otan irthate stin kipro;
 What was the most difficult thing when you came to Cyprus? | Απάντηση: Στην αρχή όλα ήταν καινούρια. Δεν ήξερα καθόλου ελληνικά και αυτό ήταν δύσκολο. Ήταν δύσκολο να βρω σπίτι και να κάνω τα χαρτιά μου. Μου έλειπε και η οικογένειά μου. Τώρα έχω συνηθίσει. | At first everything was new. I did not know any Greek and that was hard. It was difficult to find a house and to do my paperwork. I also missed my family. Now I have got used to it.
 
-117
+116
 Πώς έχει αλλάξει η ζωή σας από τότε που ήρθατε εδώ;
 pos ehi allaxi i zoi sas apo tote pou irthate edo;
 How has your life changed since you came here? | Απάντηση: Έχω αλλάξει πολύ. Τώρα μιλάω λίγα ελληνικά και καταλαβαίνω τους ανθρώπους. Έχω Κύπριους φίλους και ξέρω τα έθιμα. Είμαι πιο ήρεμος από πριν. Νιώθω ότι ανήκω εδώ. | I have changed a lot. Now I speak a little Greek and I understand people. I have Cypriot friends and I know the customs. I am calmer than before. I feel that I belong here.
 
-118
+117
 Νιώθετε ότι η Κύπρος είναι το σπίτι σας;
 niothete oti i kipros ine to spiti sas;
 Do you feel that Cyprus is your home? | Απάντηση: Ναι, το νιώθω. Εδώ είναι η δουλειά μου, το σπίτι μου και οι φίλοι μου. Εδώ περνάω τη ζωή μου κάθε μέρα. Η Ρωσία είναι η πατρίδα μου, αλλά η Κύπρος είναι το σπίτι μου τώρα. | Yes, I do. My job, my home and my friends are here. I live my daily life here. Russia is my homeland, but Cyprus is my home now.
 
-119
+118
 Πού εργάζεστε; Σε ποια εταιρεία;
 pou ergazeste; se pia eteria;
 Where do you work? At which company? | Απάντηση: Εργάζομαι σε μια εταιρεία πληροφορικής. Η εταιρεία λέγεται [όνομα εταιρείας]. Είμαι προγραμματιστής λογισμικού. Δουλεύω εκεί [τρία] χρόνια. | I work at an IT company. The company is called [company name]. I am a software developer. I have worked there for [three] years.
 
-120
+119
 Η εταιρεία σας είναι εταιρεία ξένων συμφερόντων; Τι σημαίνει αυτό;
 i eteria sas ine eteria xenon simferondon; ti simeni afto;
 Is your company a company of foreign interests? What does that mean? | Απάντηση: Ναι, είναι εταιρεία ξένων συμφερόντων. Οι ιδιοκτήτες δεν είναι Κύπριοι, είναι ξένοι. Η εταιρεία είναι γραμμένη στην Κύπρο και πληρώνει φόρους εδώ. Έτσι μπορεί να προσλαμβάνει και ξένους εργαζόμενους. | Yes, it is a company of foreign interests. The owners are not Cypriots, they are foreigners. The company is registered in Cyprus and pays taxes here. That is how it can also hire foreign workers.
 
-121
+120
 Ποιοι είναι οι μέτοχοι της εταιρείας σας;
 pii ine i metohi tis eterias sas;
 Who are the shareholders of your company? | Απάντηση: Οι μέτοχοι είναι [δύο] άτομα από [τη Ρωσία]. Έχουν πάνω από το ενενήντα τοις εκατό των μετοχών. Δεν είναι πολίτες της Κύπρου. Η μητρική εταιρεία είναι [στο Λονδίνο]. | The shareholders are [two] people from [Russia]. They hold more than ninety percent of the shares. They are not citizens of Cyprus. The parent company is [in London].
 
-122
+121
 Πόσους υπαλλήλους έχει η εταιρεία;
 posous ipallilous ehi i eteria;
 How many employees does the company have? | Απάντηση: Η εταιρεία έχει περίπου [διακόσιους] υπαλλήλους. Στην Κύπρο είμαστε περίπου [ογδόντα] άτομα. Οι άλλοι δουλεύουν σε άλλες χώρες. Η δική μου ομάδα έχει [επτά] άτομα. | The company has about [two hundred] employees. In Cyprus we are about [eighty] people. The others work in other countries. My own team has [seven] people.
 
-123
+122
 Ποια είναι η ακριβής διεύθυνση του γραφείου σας;
 pia ine i akrivis diefthinsi tou grafiou sas;
 What is the exact address of your office? | Απάντηση: Το γραφείο μου είναι στην οδό [Γρίβα Διγενή], αριθμός [πενήντα], στη [Λεμεσό]. Είναι ένα μεγάλο κτήριο με γραφεία. Ο ταχυδρομικός κώδικας είναι [3035]. Δίπλα υπάρχει [μια τράπεζα]. | My office is at [Grivas Digenis] street, number [fifty], in [Limassol]. It is a big office building. The postal code is [3035]. Next to it there is [a bank].
 
-124
+123
 Σε ποιον όροφο βρίσκεται το γραφείο σας;
 se pion orofo vriskete to grafio sas;
 On which floor is your office? | Απάντηση: Το γραφείο μας είναι στον [τρίτο] όροφο. Ανεβαίνω συνήθως με το ασανσέρ. Μερικές φορές παίρνω τις σκάλες. Στον ίδιο όροφο είναι και η κουζίνα μας. | Our office is on the [third] floor. I usually go up by lift. Sometimes I take the stairs. Our kitchen is on the same floor.
 
-125
+124
 Πώς πηγαίνετε κάθε μέρα στη δουλειά σας;
 pos pigenete kathe mera sti doulia sas;
 How do you get to work every day? | Απάντηση: Πηγαίνω στη δουλειά με το αυτοκίνητό μου. Το ταξίδι διαρκεί περίπου [είκοσι] λεπτά. Παρκάρω κάτω από το κτήριο. Όταν έχει πολλή κίνηση, φεύγω πιο νωρίς από το σπίτι. | I go to work by my car. The trip takes about [twenty] minutes. I park under the building. When there is a lot of traffic, I leave home earlier.
 
-126
+125
 Τι ώρα αρχίζετε και τι ώρα τελειώνετε τη δουλειά;
 ti ora arhizete ke ti ora telionete ti doulia;
 What time do you start and what time do you finish work? | Απάντηση: Αρχίζω τη δουλειά στις εννιά το πρωί. Τελειώνω στις έξι το απόγευμα. Έχω μία ώρα διάλειμμα για φαγητό. Δουλεύω οκτώ ώρες την ημέρα, πέντε μέρες την εβδομάδα. | I start work at nine in the morning. I finish at six in the afternoon. I have a one-hour break for lunch. I work eight hours a day, five days a week.
 
-127
+126
 Ποια ακριβώς είναι η θέση σας και τι κάνετε κάθε μέρα;
 pia akrivos ine i thesi sas ke ti kanete kathe mera;
 What exactly is your position and what do you do every day? | Απάντηση: Είμαι προγραμματιστής λογισμικού. Κάθε μέρα γράφω και ελέγχω κώδικα. Το πρωί έχουμε μια μικρή συνάντηση με την ομάδα. Διορθώνω επίσης λάθη στο πρόγραμμα. | I am a software developer. Every day I write and check code. In the morning we have a short meeting with the team. I also fix errors in the program.
 
-128
+127
 Πόσους συναδέλφους έχετε και πώς τα πάτε μαζί τους;
 posous sinadelfous ehete ke pos ta pate mazi tous;
 How many colleagues do you have and how do you get on with them? | Απάντηση: Στην ομάδα μου έχω [έξι] συναδέλφους. Είναι καλοί άνθρωποι και βοηθάμε ο ένας τον άλλον. Πίνουμε καφέ μαζί το πρωί. Μερικές φορές τρώμε μαζί το μεσημέρι. | In my team I have [six] colleagues. They are good people and we help one another. We drink coffee together in the morning. Sometimes we have lunch together.
 
-129
+128
 Από ποιες χώρες είναι οι συνάδελφοί σας;
 apo pies hores ine i sinadelfi sas;
 Which countries are your colleagues from? | Απάντηση: Οι συνάδελφοί μου είναι από πολλές χώρες. Μερικοί είναι Κύπριοι και άλλοι είναι από τη Ρωσία και την Ουκρανία. Έχουμε και έναν συνάδελφο από την Ινδία. Ο προϊστάμενός μου είναι [Έλληνας]. | My colleagues are from many countries. Some are Cypriots and others are from Russia and Ukraine. We also have a colleague from India. My manager is [Greek].
 
-130
+129
 Σε ποια γλώσσα εργάζεστε μέσα στο γραφείο;
 se pia glossa ergazeste mesa sto grafio;
 What language do you work in at the office? | Απάντηση: Στη δουλειά μιλάμε κυρίως αγγλικά. Όλα τα έγγραφα και τα μηνύματα είναι στα αγγλικά. Με μερικούς συναδέλφους μιλάω ρωσικά. Με τους Κύπριους συναδέλφους προσπαθώ να μιλάω ελληνικά. | At work we mainly speak English. All the documents and messages are in English. With some colleagues I speak Russian. With my Cypriot colleagues I try to speak Greek.
 
-131
+130
 Τι προϊόν φτιάχνει η εταιρεία σας;
 ti proion ftiahni i eteria sas;
 What product does your company make? | Απάντηση: Η εταιρεία φτιάχνει προγράμματα για υπολογιστές. Έχουμε και μια εφαρμογή για κινητά τηλέφωνα. Εγώ γράφω κώδικα για [την εφαρμογή]. Δουλεύω στο κομμάτι που δεν βλέπει ο πελάτης. | The company makes computer programs. We also have an app for mobile phones. I write code for [the app]. I work on the part the customer does not see.
 
-132
+131
 Ποιοι είναι οι πελάτες σας και πού βρίσκονται;
 pii ine i pelates sas ke pou vriskonde;
 Who are your clients and where are they? | Απάντηση: Οι πελάτες μας είναι άλλες εταιρείες. Οι περισσότεροι είναι στην Ευρώπη και στην Αμερική. Στην Κύπρο έχουμε λίγους πελάτες. Εγώ δεν μιλάω συχνά με τους πελάτες. | Our clients are other companies. Most of them are in Europe and in America. In Cyprus we have few clients. I do not often speak with the clients.
 
-133
+132
 Εργάζεστε από το σπίτι ή πηγαίνετε κάθε μέρα στο γραφείο;
 ergazeste apo to spiti i pigenete kathe mera sto grafio;
 Do you work from home or do you go to the office every day? | Απάντηση: Πηγαίνω στο γραφείο [τρεις] μέρες την εβδομάδα. Τις άλλες μέρες δουλεύω από το σπίτι. Η εταιρεία μάς αφήνει να διαλέγουμε. Εμένα μου αρέσει περισσότερο το γραφείο. | I go to the office [three] days a week. On the other days I work from home. The company lets us choose. Personally I prefer the office.
 
-134
+133
 Τι είδους συμβόλαιο έχετε με την εταιρεία;
 ti idous simvoleo ehete me tin eteria;
 What kind of contract do you have with the company? | Απάντηση: Έχω συμβόλαιο αορίστου χρόνου. Δουλεύω με πλήρη απασχόληση. Το συμβόλαιο είναι στα αγγλικά και στα ελληνικά. Πληρώνω φόρο και κοινωνικές ασφαλίσεις στην Κύπρο. | I have a permanent contract. I work full time. The contract is in English and in Greek. I pay tax and social insurance in Cyprus.
 
-135
+134
 Πόσες μέρες άδεια έχετε τον χρόνο;
 poses meres adia ehete ton hrono;
 How many days of leave do you have per year? | Απάντηση: Έχω [είκοσι μία] μέρες άδεια τον χρόνο. Έχουμε επίσης τις αργίες της Κύπρου. Συνήθως παίρνω άδεια το καλοκαίρι. Φέτος πήγα [στη Ρωσία] για δύο εβδομάδες. | I have [twenty-one] days of leave per year. We also have the Cyprus public holidays. I usually take leave in the summer. This year I went [to Russia] for two weeks.
 
-136
+135
 Έχετε πάρει προαγωγή από τότε που ξεκινήσατε;
 ehete pari proagoyi apo tote pou xekinisate;
 Have you been promoted since you started? | Απάντηση: Ναι, πήρα προαγωγή πριν από [έναν χρόνο]. Τώρα είμαι ανώτερος προγραμματιστής. Έχω περισσότερες ευθύνες και καλύτερο μισθό. Βοηθάω και τους νέους συναδέλφους. | Yes, I was promoted [a year] ago. Now I am a senior developer. I have more responsibilities and a better salary. I also help the new colleagues.
 
-137
+136
 Ποιος είναι ο προϊστάμενός σας;
 pios ine o proistamenos sas;
 Who is your manager? | Απάντηση: Ο προϊστάμενός μου λέγεται [όνομα]. Είναι ο επικεφαλής της ομάδας μου. Μιλάμε κάθε εβδομάδα για τη δουλειά μου. Είναι δίκαιος άνθρωπος και με βοηθάει πολύ. | My manager is called [name]. He is the head of my team. We talk every week about my work. He is a fair man and he helps me a lot.
 
-138
+137
 Πώς βρήκατε αυτή τη δουλειά και πόσο καιρό εργάζεστε εκεί;
 pos vrikate afti ti doulia ke poso kero ergazeste eki;
 How did you find this job and how long have you worked there? | Απάντηση: Βρήκα τη δουλειά στο ίντερνετ. Έστειλα το βιογραφικό μου και έκανα δύο συνεντεύξεις. Μετά η εταιρεία μού έβγαλε άδεια εργασίας. Δουλεύω εκεί από [το 2021]. | I found the job on the internet. I sent my CV and had two interviews. Then the company got me a work permit. I have worked there since [2021].
 
-139
+138
 Γνωρίζετε τους γείτονές σας;
 gnorizete tous yitones sas;
 Do you know your neighbours? | Απάντηση: Ναι, γνωρίζω τους γείτονές μου. Στο διαμέρισμα δίπλα μένει ένα κυπριακό ζευγάρι. Είναι πολύ ευγενικοί άνθρωποι. Μερικές φορές μιλάμε στον διάδρομο ή στο ασανσέρ. | Yes, I know my neighbours. A Cypriot couple lives in the flat next door. They are very polite people. Sometimes we talk in the corridor or in the lift.
 
-140
+139
 Τους χαιρετάτε στα ελληνικά;
 tous heretate sta ellinika;
 Do you greet them in Greek? | Απάντηση: Ναι, πάντα τους χαιρετώ στα ελληνικά. Λέω «καλημέρα» το πρωί και «καλησπέρα» το απόγευμα. Μιλάμε λίγο για τον καιρό. Δεν μιλάω τέλεια, αλλά προσπαθώ κάθε μέρα. | Yes, I always greet them in Greek. I say "good morning" in the morning and "good evening" in the afternoon. We talk a little about the weather. I do not speak perfectly, but I try every day.
 
-141
+140
 Βοηθάτε ποτέ τους γείτονές σας ή σας βοηθούν εκείνοι;
 voithate pote tous yitones sas i sas voithoun ekini;
 Do you ever help your neighbours, or do they help you? | Απάντηση: Ναι, βοηθάμε ο ένας τον άλλο. Όταν λείπω, η γειτόνισσα ποτίζει τα φυτά μου. Εγώ τη βοηθάω με τον υπολογιστή της, γιατί δουλεύω με υπολογιστές. Έχουμε καλή σχέση. | Yes, we help each other. When I am away, my neighbour waters my plants. I help her with her computer, because I work with computers. We have a good relationship.
 
-142
+141
 Σε ποιον δήμο ή κοινότητα ανήκετε;
 se pion dimo i kinotita anikete;
 Which municipality or community do you belong to? | Απάντηση: Μένω στη [πόλη] και ανήκω στον Δήμο [δήμος]. Το δημαρχείο είναι κοντά στο σπίτι μου. Έχω πάει εκεί για να πάρω ένα πιστοποιητικό. Οι υπάλληλοι ήταν πολύ εξυπηρετικοί. | I live in [town] and I belong to the Municipality of [municipality]. The town hall is near my house. I have been there to get a certificate. The staff were very helpful.
 
-143
+142
 Ποια είναι η διεύθυνσή σας και ο ταχυδρομικός σας κώδικας;
 pia ine i diefthinsi sas ke o tahidromikos sas kodikas;
 What is your address and your postcode? | Απάντηση: Η διεύθυνσή μου είναι οδός [όνομα οδού], αριθμός [αριθμός], διαμέρισμα [αριθμός]. Ο ταχυδρομικός κώδικας είναι [ταχυδρομικός κώδικας]. Μένω σε αυτό το σπίτι [αριθμός] χρόνια. Το ταχυδρομείο είναι λίγα λεπτά μακριά. | My address is [street name], number [number], flat [number]. The postcode is [postcode]. I have lived in this house for [number] years. The post office is a few minutes away.
 
-144
+143
 Πόσο καιρό μένετε σε αυτή τη γειτονιά;
 poso kero menete se afti ti yitonia;
 How long have you been living in this neighbourhood? | Απάντηση: Μένω σε αυτή τη γειτονιά [αριθμός] χρόνια. Πρώτα έμενα σε άλλη περιοχή, αλλά ήταν πιο θορυβώδης. Εδώ είμαι πιο ευχαριστημένος. Ξέρω πια όλους τους δρόμους γύρω από το σπίτι μου. | I have been living in this neighbourhood for [number] years. At first I lived in another area, but it was noisier. I am happier here. By now I know all the streets around my house.
 
-145
+144
 Πού είναι η πιο κοντινή υπεραγορά και πότε πηγαίνετε για ψώνια;
 pou ine i pio kondini iperagora ke pote pigenete yia psonia;
 Where is the nearest supermarket and when do you go shopping? | Απάντηση: Η πιο κοντινή υπεραγορά είναι πέντε λεπτά με τα πόδια από το σπίτι μου. Πηγαίνω συνήθως το Σάββατο το πρωί. Αγοράζω φρούτα, λαχανικά, ψωμί, γάλα και καφέ. Πληρώνω σχεδόν πάντα με κάρτα. | The nearest supermarket is five minutes on foot from my house. I usually go on Saturday morning. I buy fruit, vegetables, bread, milk and coffee. I almost always pay by card.
 
-146
+145
 Πού πηγαίνετε όταν χρειάζεστε φάρμακα;
 pou pigenete otan hriazeste farmaka;
 Where do you go when you need medicine? | Απάντηση: Υπάρχει ένα φαρμακείο στη γωνία, δίπλα στην τράπεζα. Είναι ανοιχτό από τις οκτώ το πρωί μέχρι το απόγευμα. Η φαρμακοποιός με ξέρει και μου εξηγεί τι να πάρω. Όταν είναι κλειστό, ψάχνω στο ίντερνετ το φαρμακείο που είναι ανοιχτό τη νύχτα. | There is a pharmacy on the corner, next to the bank. It is open from eight in the morning until the afternoon. The pharmacist knows me and explains what to take. When it is closed, I look on the internet for the pharmacy that is open at night.
 
-147
+146
 Υπάρχει εκκλησία κοντά στο σπίτι σας;
 iparhi ekklisia konda sto spiti sas;
 Is there a church near your house? | Απάντηση: Ναι, υπάρχει μια εκκλησία πολύ κοντά, δέκα λεπτά με τα πόδια. Λέγεται Άγιος [όνομα αγίου]. Δεν πηγαίνω κάθε Κυριακή, αλλά έχω μπει μέσα και είναι πολύ όμορφη. Την Κυριακή το πρωί ακούω τις καμπάνες από το μπαλκόνι μου. | Yes, there is a church very close by, ten minutes on foot. It is called Saint [saint's name]. I do not go every Sunday, but I have been inside and it is very beautiful. On Sunday morning I hear the bells from my balcony.
 
-148
+147
 Υπάρχει σχολείο στη γειτονιά σας;
 iparhi sholio sti yitonia sas;
 Is there a school in your neighbourhood? | Απάντηση: Ναι, υπάρχει ένα δημοτικό σχολείο δίπλα στο πάρκο. Στον ίδιο δρόμο υπάρχει και ένα νηπιαγωγείο. Το πρωί βλέπω τα παιδιά να πηγαίνουν στο σχολείο. Υπάρχει επίσης ένα γυμνάσιο, αλλά είναι πιο μακριά. | Yes, there is a primary school next to the park. On the same street there is also a kindergarten. In the morning I see the children going to school. There is a secondary school too, but it is further away.
 
-149
+148
 Πού είναι η πιο κοντινή στάση λεωφορείου;
 pou ine i pio kondini stasi leoforiou;
 Where is the nearest bus stop? | Απάντηση: Η στάση του λεωφορείου είναι δύο λεπτά με τα πόδια από την πολυκατοικία μου. Συνήθως πηγαίνω στη δουλειά με το αυτοκίνητο. Παίρνω το λεωφορείο όταν πηγαίνω στο κέντρο της πόλης. Το εισιτήριο κοστίζει περίπου ένα ευρώ και πενήντα σεντ. | The bus stop is two minutes on foot from my block of flats. I usually go to work by car. I take the bus when I go to the town centre. The ticket costs about one euro fifty.
 
-150
+149
 Πού πηγαίνετε όταν είστε άρρωστος;
 pou pigenete otan iste arrostos;
 Where do you go when you are ill? | Απάντηση: Είμαι εγγεγραμμένος στο ΓεΣΥ και έχω προσωπικό γιατρό. Το ιατρείο του είναι κοντά στο σπίτι μου, στον ίδιο δρόμο με το φαρμακείο. Κλείνω ραντεβού από το τηλέφωνο. Το νοσοκομείο είναι δέκα λεπτά με το αυτοκίνητο. | I am registered with GESY and I have a personal doctor. His surgery is near my house, on the same street as the pharmacy. I make an appointment by phone. The hospital is ten minutes away by car.
 
-151
+150
 Ποιος πληρώνει τον λογαριασμό του ρεύματος, εσείς ή ο ιδιοκτήτης;
 pios plironi ton logariasmo tou revmatos, esis i o idioktitis;
 Who pays the electricity bill, you or the landlord? | Απάντηση: Τον λογαριασμό του ρεύματος τον πληρώνω εγώ. Έρχεται κάθε δύο μήνες από την ΑΗΚ και είναι στο όνομά μου. Πληρώνω περίπου [ποσό] ευρώ. Το καλοκαίρι είναι πιο ακριβός, γιατί βάζω συνέχεια το κλιματιστικό. | I pay the electricity bill myself. It comes every two months from the EAC and it is in my name. I pay about [amount] euros. In the summer it is more expensive, because I keep the air conditioning on.
 
-152
+151
 Πώς πληρώνετε τον λογαριασμό του νερού;
 pos plironete ton logariasmo tou nerou;
 How do you pay the water bill? | Απάντηση: Τον λογαριασμό του νερού τον πληρώνω από το ίντερνετ, με την τραπεζική εφαρμογή. Έρχεται από το Συμβούλιο Υδατοπρομήθειας κάθε τρεις μήνες. Δεν είναι ακριβός, περίπου [ποσό] ευρώ. Προσέχω το νερό, γιατί στην Κύπρο είναι πολύτιμο. | I pay the water bill online, with the banking app. It comes from the Water Board every three months. It is not expensive, about [amount] euros. I am careful with water, because in Cyprus it is precious.
 
-153
+152
 Έχετε ίντερνετ στο σπίτι σας;
 ehete indernet sto spiti sas;
 Do you have internet at home? | Απάντηση: Ναι, έχω ίντερνετ στο σπίτι. Για μένα είναι πολύ σημαντικό, γιατί είμαι προγραμματιστής και δουλεύω μερικές μέρες από το σπίτι. Πληρώνω [ποσό] ευρώ κάθε μήνα. Η σύνδεση είναι γρήγορη και σπάνια έχω πρόβλημα. | Yes, I have internet at home. For me it is very important, because I am a software developer and I work from home some days. I pay [amount] euros every month. The connection is fast and I rarely have a problem.
 
-154
+153
 Ποια μέρα περνάει το σκουπιδιάρικο στη γειτονιά σας;
 pia mera pernai to skoupidiariko sti yitonia sas;
 Which day does the rubbish lorry come to your neighbourhood? | Απάντηση: Τα σκουπίδια τα μαζεύουν δύο φορές την εβδομάδα, [μέρα] και [μέρα]. Βγάζω τη σακούλα το βράδυ πριν. Υπάρχει και ξεχωριστός κάδος για ανακύκλωση, για χαρτί και πλαστικό. Ο δήμος μάς έδωσε και ένα πρόγραμμα με τις μέρες. | The rubbish is collected twice a week, [day] and [day]. I put the bag out the evening before. There is also a separate bin for recycling, for paper and plastic. The municipality also gave us a schedule with the days.
 
-155
+154
 Ποιος είναι ο ιδιοκτήτης του διαμερίσματος;
 pios ine o idioktitis tou diamerismatos;
 Who is the owner of the flat? | Απάντηση: Ο ιδιοκτήτης είναι Κύπριος, ο κύριος [όνομα]. Μένει στην ίδια πόλη, όχι μακριά από εμένα. Είναι καλός άνθρωπος και μιλάμε στα ελληνικά. Όταν έχω πρόβλημα στο σπίτι, του τηλεφωνώ και έρχεται γρήγορα. | The owner is a Cypriot, Mr [name]. He lives in the same town, not far from me. He is a good man and we speak in Greek. When I have a problem in the house, I phone him and he comes quickly.
 
-156
+155
 Πόσο ενοίκιο πληρώνετε κάθε μήνα;
 poso enikio plironete kathe mina;
 How much rent do you pay every month? | Απάντηση: Πληρώνω [ποσό] ευρώ τον μήνα. Πληρώνω στην αρχή κάθε μήνα, με τραπεζικό έμβασμα. Το ενοίκιο δεν περιλαμβάνει το ρεύμα και το νερό. Έδωσα επίσης εγγύηση ενός μήνα στην αρχή. | I pay [amount] euros a month. I pay at the beginning of each month, by bank transfer. The rent does not include electricity and water. I also paid a one-month deposit at the start.
 
-157
+156
 Έχετε γραπτό ενοικιαστήριο συμβόλαιο και για πόσο καιρό ισχύει;
 ehete grapto enikiastirio simvoleo ke yia poso kero ishii;
 Do you have a written rental contract, and how long does it run for? | Απάντηση: Ναι, έχω γραπτό συμβόλαιο. Το υπογράψαμε με τον ιδιοκτήτη και κρατάω ένα αντίγραφο στο σπίτι. Το συμβόλαιο είναι για ένα χρόνο και τελειώνει τον [μήνας]. Κάθε χρόνο το ανανεώνουμε, γιατί θέλω να μείνω εδώ. | Yes, I have a written contract. We signed it with the owner and I keep a copy at home. The contract is for one year and it ends in [month]. We renew it every year, because I want to stay here.
 
-158
+157
 Τι είδους άδεια διαμονής έχετε στην Κύπρο;
 ti idous adia diamonis ehete stin kipro;
 What kind of residence permit do you have in Cyprus? | Απάντηση: Έχω προσωρινή άδεια διαμονής και εργασίας. Είναι άδεια για εργαζόμενο σε εταιρεία ξένων συμφερόντων. Δουλεύω ως προγραμματιστής στην εταιρεία [όνομα εταιρείας]. Η εταιρεία έκανε την αίτηση για μένα. | I have a temporary residence and work permit. It is a permit for an employee of a company of foreign interests. I work as a software developer at [company name]. The company made the application for me.
 
-159
+158
 Μπορείτε να μου πείτε τον αριθμό της άδειας διαμονής σας;
 borite na mou pite ton arithmo tis adias diamonis sas;
 Can you tell me the number of your residence permit? | Απάντηση: Ναι, βέβαια. Ο αριθμός της άδειάς μου είναι [αριθμός άδειας]. Ο αριθμός είναι γραμμένος στην κάρτα μου. Έχω πάντα την κάρτα μαζί μου. | Yes, of course. My permit number is [permit number]. The number is written on my card. I always carry the card with me.
 
-160
+159
 Πότε λήγει η άδεια διαμονής σας;
 pote liyi i adia diamonis sas;
 When does your residence permit expire? | Απάντηση: Η άδειά μου λήγει στις [ημερομηνία λήξης]. Έχω ακόμα [αριθμός] μήνες. Θα κάνω αίτηση για ανανέωση δύο μήνες πριν. Δεν θέλω να αργήσω. | My permit expires on [expiry date]. I still have [number] months. I will apply for renewal two months beforehand. I do not want to be late.
 
-161
+160
 Πόσες φορές έχετε ανανεώσει την άδεια διαμονής σας;
 poses fores ehete ananeosi tin adia diamonis sas;
 How many times have you renewed your residence permit? | Απάντηση: Την έχω ανανεώσει [δύο] φορές. Η πρώτη άδεια ήταν για ένα χρόνο. Μετά πήρα άδεια για δύο χρόνια. Κάθε φορά η εταιρεία με βοήθησε με τα έγγραφα. | I have renewed it [two] times. The first permit was for one year. After that I got a permit for two years. Each time the company helped me with the documents.
 
-162
+161
 Πού κάνατε την ανανέωση της άδειάς σας;
 pou kanate tin ananeosi tis adias sas;
 Where did you renew your permit? | Απάντηση: Την έκανα στο Τμήμα Μετανάστευσης, στο γραφείο στη [πόλη]. Έκλεισα ραντεβού από το ίντερνετ. Πήγα το πρωί και περίμενα λίγο. Μετά έδωσα τα χαρτιά μου στον υπάλληλο. | I did it at the Immigration Department, at the office in [city]. I booked an appointment online. I went in the morning and waited a little. Then I gave my papers to the officer.
 
-163
+162
 Έχετε Πιστοποιητικό Εγγραφής Αλλοδαπού, το λεγόμενο ARC;
 ehete pistopiitiko engrafis allodapou, to legomeno arc;
 Do you have an Alien Registration Certificate, the so-called ARC? | Απάντηση: Ναι, έχω. Το πήρα λίγους μήνες αφού ήρθα για δουλειά. Ο αριθμός μου ARC είναι [αριθμός ARC]. Τον χρησιμοποιώ στην τράπεζα και στο νοσοκομείο. | Yes, I have one. I got it a few months after I came for work. My ARC number is [ARC number]. I use it at the bank and at the hospital.
 
-164
+163
 Έχετε την κίτρινη βεβαίωση εγγραφής;
 ehete tin kitrini veveosi engrafis;
 Do you have the yellow registration slip? | Απάντηση: Όχι, δεν έχω. Η κίτρινη βεβαίωση είναι για πολίτες της Ευρωπαϊκής Ένωσης. Εγώ είμαι από τη Ρωσία. Γι' αυτό έχω άδεια διαμονής και κάρτα ARC. | No, I do not. The yellow slip is for citizens of the European Union. I am from Russia. That is why I have a residence permit and an ARC card.
 
-165
+164
 Έχετε εγγραφεί στο Αρχείο Πληθυσμού;
 ehete engrafi sto arhio plithismou;
 Have you registered with the Civil Registry? | Απάντηση: Ναι, έχω εγγραφεί. Πήγα στο Τμήμα Αρχείου Πληθυσμού και Μετανάστευσης. Έδωσα τα δακτυλικά μου αποτυπώματα και μια φωτογραφία. Μετά από λίγες εβδομάδες πήρα την κάρτα μου. | Yes, I am registered. I went to the Civil Registry and Migration Department. I gave my fingerprints and a photograph. A few weeks later I received my card.
 
-166
+165
 Τι βίζα είχατε όταν ήρθατε πρώτη φορά στην Κύπρο;
 ti viza ihate otan irthate proti fora stin kipro;
 What visa did you have when you first came to Cyprus? | Απάντηση: Είχα βίζα για εργασία. Την πήρα από την πρεσβεία της Κύπρου στη [πόλη]. Η εταιρεία μού έστειλε όλα τα χαρτιά. Η βίζα ήταν για μία είσοδο. | I had a work visa. I got it from the Cyprus embassy in [city]. The company sent me all the papers. The visa was for a single entry.
 
-167
+166
 Πώς ήρθατε στην Κύπρο;
 pos irthate stin kipro;
 How did you come to Cyprus? | Απάντηση: Ήρθα με αεροπλάνο. Η πτήση ήταν από τη [πόλη] και κράτησε περίπου [τέσσερις] ώρες. Είχα δύο βαλίτσες και τον υπολογιστή μου. Ταξίδεψα μόνος μου. | I came by plane. The flight was from [city] and lasted about [four] hours. I had two suitcases and my computer. I travelled alone.
 
-168
+167
 Σε ποιο αεροδρόμιο φτάσατε;
 se pio aerodromio ftasate;
 Which airport did you arrive at? | Απάντηση: Έφτασα στο αεροδρόμιο της Λάρνακας. Στον έλεγχο διαβατηρίων έδειξα το διαβατήριο και τη βίζα μου. Ο αστυνομικός μού έκανε δύο ερωτήσεις. Μετά πήρα τις βαλίτσες μου και βγήκα. | I arrived at Larnaca airport. At passport control I showed my passport and my visa. The officer asked me two questions. Then I collected my suitcases and went out.
 
-169
+168
 Ποιος σας περίμενε στο αεροδρόμιο;
 pios sas perimene sto aerodromio;
 Who met you at the airport? | Απάντηση: Με περίμενε ένας συνάδελφος από την εταιρεία. Κρατούσε ένα χαρτί με το όνομά μου. Με πήγε με το αυτοκίνητο στο διαμέρισμά μου στη [πόλη]. Ήταν πολύ ευγενικός. | A colleague from the company met me. He was holding a sign with my name on it. He drove me to my flat in [city]. He was very kind.
 
-170
+169
 Πόσες φορές έχετε πάει στο Τμήμα Μετανάστευσης;
 poses fores ehete pai sto tmima metanastefsis;
 How many times have you been to the Immigration Office? | Απάντηση: Έχω πάει [τέσσερις] φορές. Πήγα για την πρώτη άδεια, για τις ανανεώσεις και για τα δακτυλικά αποτυπώματα. Κάθε φορά είχα ραντεβού. Οι υπάλληλοι ήταν ευγενικοί. | I have been [four] times. I went for the first permit, for the renewals and for the fingerprints. Each time I had an appointment. The staff were polite.
 
-171
+170
 Σας απέρριψαν ποτέ κάποια αίτηση για άδεια;
 sas aperripsan pote kapia etisi yia adia;
 Has any permit application of yours ever been refused? | Απάντηση: Όχι, ποτέ. Όλες οι αιτήσεις μου εγκρίθηκαν. Μία φορά μου ζήτησαν ένα επιπλέον έγγραφο. Το έφερα την επόμενη μέρα και όλα ήταν εντάξει. | No, never. All my applications were approved. Once they asked me for one extra document. I brought it the next day and everything was fine.
 
-172
+171
 Μείνατε ποτέ στην Κύπρο χωρίς άδεια, μετά τη λήξη της;
 minate pote stin kipro horis adia, meta ti lixi tis;
 Have you ever stayed in Cyprus without a permit, after it expired? | Απάντηση: Όχι, ποτέ. Πάντα κάνω την αίτηση νωρίς, πριν λήξει η άδεια. Κρατάω και τη βεβαίωση της αίτησης. Προσέχω πολύ τις ημερομηνίες. | No, never. I always apply early, before the permit expires. I also keep the receipt of the application. I am very careful with the dates.
 
-173
+172
 Είχατε ποτέ άλλη άδεια στην Κύπρο, για παράδειγμα φοιτητική;
 ihate pote alli adia stin kipro, yia paradigma fititiki;
 Have you ever held another permit in Cyprus, a student one for example? | Απάντηση: Όχι, δεν είχα. Ήρθα στην Κύπρο μόνο για δουλειά. Έχω πάντα την ίδια κατηγορία άδειας, για εργασία. Δεν άλλαξα ποτέ κατηγορία. | No, I have not. I came to Cyprus only for work. I have always had the same category of permit, for employment. I have never changed category.
 
-174
+173
 Έχετε ζήσει ποτέ σε άλλη χώρα της Ευρωπαϊκής Ένωσης;
 ehete zisi pote se alli hora tis evropaikis enosis;
 Have you ever lived in another European Union country? | Απάντηση: Όχι, δεν έχω ζήσει. Πριν από την Κύπρο ζούσα στη Ρωσία, στη [πόλη]. Έχω πάει διακοπές στην Ελλάδα και στην Ιταλία. Αλλά έμεινα μόνο λίγες μέρες. | No, I have not. Before Cyprus I lived in Russia, in [city]. I have been on holiday to Greece and Italy. But I only stayed a few days.
 
-175
+174
 Έχετε άδεια διαμονής σε άλλη χώρα;
 ehete adia diamonis se alli hora;
 Do you hold a residence permit in another country? | Απάντηση: Όχι, δεν έχω. Έχω μόνο το ρωσικό διαβατήριο και την κυπριακή άδεια διαμονής. Δεν έκανα ποτέ αίτηση σε άλλη χώρα. Η Κύπρος είναι το σπίτι μου τώρα. | No, I do not. I only have my Russian passport and the Cypriot residence permit. I have never applied in another country. Cyprus is my home now.
 
-176
+175
 Πότε ήρθατε για πρώτη φορά στην Κύπρο και για ποιο λόγο;
 pote irthate yia proti fora stin kipro ke yia pio logo;
 When did you first come to Cyprus and for what reason? | Απάντηση: Ήρθα για πρώτη φορά τον [μήνα] του [έτος]. Ήρθα για δουλειά, σε μια εταιρεία πληροφορικής. Βρήκα τη δουλειά από το ίντερνετ και έκανα συνέντευξη. Από τότε μένω συνέχεια εδώ. | I first came in [month] of [year]. I came for work, at an IT company. I found the job online and had an interview. Since then I have lived here continuously.
 
-177
+176
 Τι έγγραφα δώσατε για την άδεια διαμονής;
 ti engrafa dosate yia tin adia diamonis;
 What documents did you submit for the residence permit? | Απάντηση: Έδωσα το διαβατήριό μου, φωτογραφίες και το συμβόλαιο εργασίας. Έδωσα επίσης ιατρικές εξετάσεις και ασφάλεια υγείας. Η εταιρεία έδωσε τα δικά της έγγραφα. Πλήρωσα και τα τέλη. | I submitted my passport, photographs and my employment contract. I also submitted medical tests and health insurance. The company submitted its own documents. I also paid the fees.
 
-178
+177
 Πόσο καιρό διαμένετε συνεχώς και νόμιμα στην Κυπριακή Δημοκρατία;
 poso kero diamenete sinehos ke nomima stin kipriaki dimokratia;
 How long have you been residing continuously and legally in the Republic of Cyprus? | Απάντηση: Συγγνώμη, δεν κατάλαβα καλά. Μπορείτε να το επαναλάβετε, παρακαλώ; | Sorry, I did not understand well. Can you repeat it, please?
 
-179
+178
 Με ακούτε καλά; Καταλαβαίνετε τι λέω;
 me akoute kala; katalavenete ti leo;
 Can you hear me well? Do you understand what I am saying? | Απάντηση: Σας ακούω καλά, αλλά μιλάτε λίγο γρήγορα για μένα. Μπορείτε να μιλάτε πιο αργά, παρακαλώ; Έτσι καταλαβαίνω καλύτερα. | I hear you well, but you speak a little fast for me. Can you speak more slowly, please? That way I understand better.
 
-180
+179
 Ποια είναι η ιδιότητά σας στην εταιρεία;
 pia ine i idiotita sas stin eteria;
 What is your capacity (position) in the company? | Απάντηση: Συγγνώμη, δεν ξέρω τη λέξη «ιδιότητα». Τι σημαίνει, παρακαλώ; Μπορείτε να το πείτε με άλλα λόγια; | Sorry, I do not know the word "capacity". What does it mean, please? Can you say it in other words?
 
-181
+180
 Θέλετε να συνεχίσουμε τη συνέντευξη στα αγγλικά;
 thelete na sinehisoume ti sinendefxi sta anglika;
 Would you like us to continue the interview in English? | Απάντηση: Όχι, ευχαριστώ. Θέλω να μιλήσω ελληνικά. Μόνο πείτε το, παρακαλώ, πιο απλά και πιο αργά. | No, thank you. I want to speak Greek. Only say it, please, more simply and more slowly.
 
-182
+181
 Λοιπόν, πείτε μου λίγα λόγια για τη δουλειά σας.
 lipon, pite mou liga loyia yia ti doulia sas.
 So, tell me a few words about your job. | Απάντηση: Μισό λεπτό, παρακαλώ. Σκέφτομαι λίγο. Μιλάω λίγα ελληνικά και χρειάζομαι χρόνο. | One moment, please. I am thinking a little. I speak a little Greek and I need time.
 
-183
+182
 Πώς γράφεται το επώνυμό σας; Πείτε μου το γράμμα γράμμα.
 pos grafete to eponimo sas; pite mou to gramma gramma.
 How is your surname spelled? Tell me letter by letter. | Απάντηση: Το επώνυμό μου είναι [επώνυμο]. Το λέω γράμμα γράμμα: [τα γράμματα ένα ένα]. Αν θέλετε, μπορώ να το γράψω σε ένα χαρτί. | My surname is [surname]. I say it letter by letter: [the letters one by one]. If you like, I can write it on a piece of paper.
 
-184
+183
 Ποιο είναι το όνομά σας; Πώς γράφεται στα ελληνικά;
 pio ine to onoma sas; pos grafete sta ellinika;
 What is your first name? How is it written in Greek? | Απάντηση: Με λένε [όνομα]. Είναι ρωσικό όνομα. Στα ελληνικά γράφεται [όνομα με ελληνικά γράμματα]. Στο διαβατήριο είναι με λατινικά γράμματα. | My name is [name]. It is a Russian name. In Greek it is written [name in Greek letters]. In the passport it is in Latin letters.
 
-185
+184
 Μου λέτε τον αριθμό του διαβατηρίου σας;
 mou lete ton arithmo tou diavatiriou sas;
 Can you tell me your passport number? | Απάντηση: Βεβαίως. Ο αριθμός του διαβατηρίου μου είναι [αριθμός διαβατηρίου]. Τον λέω πάλι πιο αργά, αν θέλετε. Ορίστε και το διαβατήριο. | Of course. My passport number is [passport number]. I will say it again more slowly, if you like. Here is the passport too.
 
-186
+185
 Ποιο είναι το κινητό σας τηλέφωνο;
 pio ine to kinito sas tilefono;
 What is your mobile phone number? | Απάντηση: Το κινητό μου είναι [αριθμός τηλεφώνου]. Είναι κυπριακός αριθμός. Σας το λέω ξανά, πιο αργά, αριθμό αριθμό. | My mobile is [phone number]. It is a Cypriot number. I will say it again, more slowly, digit by digit.
 
-187
+186
 Ποια είναι η ηλεκτρονική σας διεύθυνση;
 pia ine i ilektroniki sas diefthinsi;
 What is your email address? | Απάντηση: Το email μου είναι [email]. Γράφεται με λατινικά γράμματα, όλα μικρά. Θέλετε να το πω γράμμα γράμμα; | My email is [email]. It is written in Latin letters, all lowercase. Would you like me to say it letter by letter?
 
-188
+187
 Πού μένετε; Πείτε μου τη διεύθυνσή σας.
 pou menete; pite mou ti diefthinsi sas.
 Where do you live? Tell me your address. | Απάντηση: Μένω στη [πόλη]. Η διεύθυνσή μου είναι οδός [οδός], αριθμός [αριθμός], διαμέρισμα [αριθμός διαμερίσματος]. Ο ταχυδρομικός κώδικας είναι [ταχυδρομικός κώδικας]. Να το πω πιο αργά; | I live in [city]. My address is [street] Street, number [number], apartment [apartment number]. The postal code is [postal code]. Shall I say it more slowly?
 
-189
+188
 Πότε και πού γεννηθήκατε;
 pote ke pou yennithikate;
 When and where were you born? | Απάντηση: Γεννήθηκα στις [ημέρα] [μήνα] [έτος]. Γεννήθηκα στη [πόλη], στη Ρωσία. | I was born on the [day] of [month] [year]. I was born in [city], in Russia.
 
-190
+189
 Πότε παντρευτήκατε και πού έγινε ο γάμος;
 pote pandreftikate ke pou eyine o gamos;
 When did you get married and where did the marriage take place? | Απάντηση: Παντρεύτηκα στις [ημερομηνία], στη [πόλη]. Η γυναίκα μου μένει μαζί μου εδώ στην Κύπρο. | I got married on [date], in [city]. My wife lives with me here in Cyprus.
 
-191
+190
 Τι ημερομηνία έχουμε σήμερα;
 ti imerominia ehoume simera;
 What is today's date? | Απάντηση: Σήμερα είναι [ημέρα της εβδομάδας], [ημερομηνία]. Το έτος είναι [έτος]. | Today is [day of the week], [date]. The year is [year].
 
-192
+191
 Τι ώρα φτάσατε σήμερα εδώ, στο γραφείο;
 ti ora ftasate simera edo, sto grafio;
 What time did you arrive here at the office today? | Απάντηση: Έφτασα στις εννιά και μισή το πρωί. Το ραντεβού μου ήταν στις δέκα. Ήρθα νωρίς με το αυτοκίνητο. | I arrived at half past nine in the morning. My appointment was at ten. I came early by car.
 
-193
+192
 Πόσα χρήματα παίρνετε τον μήνα;
 posa hrimata pernete ton mina;
 How much money do you earn per month? | Απάντηση: Ο μισθός μου είναι [ποσό] ευρώ τον μήνα, πριν τους φόρους. Δουλεύω ως προγραμματιστής σε εταιρεία λογισμικού. | My salary is [amount] euros a month, before taxes. I work as a developer in a software company.
 
-194
+193
 Πόσο ενοίκιο πληρώνετε για το σπίτι σας;
 poso enikio plironete yia to spiti sas;
 How much rent do you pay for your home? | Απάντηση: Πληρώνω [ποσό] ευρώ τον μήνα για το διαμέρισμα. Πληρώνω και το ρεύμα και το νερό, περίπου [ποσό] ευρώ τον μήνα. | I pay [amount] euros a month for the apartment. I also pay the electricity and the water, about [amount] euros a month.
 
-195
+194
 Πόσο καιρό εργάζεστε σε αυτή την εταιρεία;
 poso kero ergazeste se afti tin eteria;
 How long have you been working at this company? | Απάντηση: Εργάζομαι σε αυτή την εταιρεία [αριθμός] χρόνια και [αριθμός] μήνες. Είμαι προγραμματιστής λογισμικού. Μου αρέσει πολύ η δουλειά μου. | I have been working at this company for [number] years and [number] months. I am a software developer. I like my job very much.
+
+195
+Πείτε μου δύο παραδοσιακά κυπριακά φαγητά.
+pite mou dio paradosiaka kipriaka fayita.
+Tell me two traditional Cypriot dishes. | Απάντηση: Μου αρέσουν πολύ η σούβλα και οι σεφταλιές. Τρώω επίσης χαλούμι σχεδόν κάθε μέρα. Στο σπίτι μαγειρεύουμε μερικές φορές κουπέπια. | I really like souvla and sheftalia. I also eat halloumi almost every day. At home we sometimes cook koupepia.
+
+196
+Σας αρέσει το χαλούμι; Πώς το τρώτε;
+sas aresi to haloumi; pos to trote;
+Do you like halloumi? How do you eat it? | Απάντηση: Ναι, το χαλούμι είναι το αγαπημένο μου κυπριακό προϊόν. Μου αρέσει ψητό, στη σχάρα, με ντομάτα και ψωμί. Το αγοράζω κάθε εβδομάδα από το σούπερ μάρκετ. | Yes, halloumi is my favourite Cypriot product. I like it grilled, with tomato and bread. I buy it every week at the supermarket.
+
+197
+Τι είναι η σούβλα και πότε την τρώνε οι Κύπριοι;
+ti ine i souvla ke pote tin trone i kiprii;
+What is souvla and when do Cypriots eat it? | Απάντηση: Η σούβλα είναι μεγάλα κομμάτια κρέας που ψήνονται αργά στα κάρβουνα. Οι Κύπριοι τη φτιάχνουν συνήθως την Κυριακή ή σε γιορτές, με την οικογένεια. Έφαγα σούβλα στο σπίτι ενός φίλου μου και μου άρεσε πολύ. | Souvla is big pieces of meat cooked slowly over charcoal. Cypriots usually make it on Sunday or at celebrations, with the family. I ate souvla at a friend's house and I liked it very much.
+
+198
+Έχετε δοκιμάσει σεφταλιές;
+ehete dokimasi seftalies;
+Have you tried sheftalia? | Απάντηση: Ναι, έχω δοκιμάσει σεφταλιές πολλές φορές. Είναι κιμάς με μυρωδικά, ψημένος στα κάρβουνα. Τις τρώω με πίτα, ντομάτα και κρεμμύδι. | Yes, I have tried sheftalia many times. It is minced meat with herbs, grilled over charcoal. I eat them with pita bread, tomato and onion.
+
+199
+Ξέρετε τι είναι τα κουπέπια;
+xerete ti ine ta koupepia;
+Do you know what koupepia are? | Απάντηση: Ναι, τα κουπέπια είναι αμπελόφυλλα γεμιστά με ρύζι και κιμά. Μοιάζουν με ένα φαγητό από τη χώρα μου, γι' αυτό μου αρέσουν πολύ. Τα έφαγα πρώτη φορά σε μια ταβέρνα στη [πόλη]. | Yes, koupepia are vine leaves stuffed with rice and minced meat. They are similar to a dish from my country, so I like them a lot. I ate them for the first time in a tavern in [city].
+
+200
+Τι είναι ο μεζές στην Κύπρο;
+ti ine o mezes stin kipro;
+What is meze in Cyprus? | Απάντηση: Ο μεζές είναι πολλά μικρά πιάτα που έρχονται ένα ένα στο τραπέζι. Μπορεί να έχει είκοσι πιάτα και κρατάει πολλές ώρες. Πηγαίνω για μεζέ με φίλους όταν έχουμε κάτι να γιορτάσουμε. | Meze is many small plates that come to the table one by one. There can be twenty plates and it lasts many hours. I go for meze with friends when we have something to celebrate.
+
+201
+Ποιο κυπριακό γλυκό σας αρέσει;
+pio kipriako gliko sas aresi;
+Which Cypriot dessert do you like? | Απάντηση: Μου αρέσουν πολύ οι λουκουμάδες, με μέλι και κανέλα. Τους τρώω ζεστούς, στα πανηγύρια ή στη γιορτή του χωριού. Μου αρέσει επίσης το γλυκό του κουταλιού που δίνουν στα σπίτια. | I really like loukoumades, with honey and cinnamon. I eat them hot, at village festivals. I also like the spoon sweet that people give you in their homes.
+
+202
+Τι τρώνε οι Κύπριοι το Πάσχα;
+ti trone i kiprii to pasha;
+What do Cypriots eat at Easter? | Απάντηση: Το Πάσχα οι Κύπριοι φτιάχνουν φλαούνες, ένα ψωμάκι με τυρί, σταφίδες και σουσάμι. Βάφουν επίσης κόκκινα αβγά. Πέρσι μου έδωσαν φλαούνες οι γείτονές μου και ήταν πολύ νόστιμες. | At Easter Cypriots make flaounes, a small bread with cheese, raisins and sesame. They also dye red eggs. Last year my neighbours gave me flaounes and they were very tasty.
+
+203
+Πείτε μου δύο φεστιβάλ της Κύπρου.
+pite mou dio festival tis kiprou.
+Tell me two festivals of Cyprus. | Απάντηση: Ξέρω το Καρναβάλι της Λεμεσού και τον Κατακλυσμό. Υπάρχει επίσης η Γιορτή του Κρασιού στη Λεμεσό, τον Σεπτέμβριο. Έχω πάει στον Κατακλυσμό με την οικογένειά μου. | I know the Limassol Carnival and Kataklysmos. There is also the Wine Festival in Limassol, in September. I have been to Kataklysmos with my family.
+
+204
+Τι γίνεται στον Κατακλυσμό;
+ti yinete ston kataklismo;
+What happens at Kataklysmos? | Απάντηση: Ο Κατακλυσμός είναι γιορτή τον Ιούνιο, πενήντα μέρες μετά το Πάσχα. Οι άνθρωποι πάνε στη θάλασσα και ρίχνουν νερό ο ένας στον άλλο. Στη Λάρνακα έχει μουσική, παιχνίδια και φαγητό δίπλα στη θάλασσα. | Kataklysmos is a festival in June, fifty days after Easter. People go to the sea and throw water at each other. In Larnaca there is music, games and food by the sea.
+
+205
+Έχετε πάει ποτέ στο καρναβάλι της Λεμεσού;
+ehete pai pote sto karnavali tis lemesou;
+Have you ever been to the Limassol carnival? | Απάντηση: Ναι, πήγα στο καρναβάλι της Λεμεσού το [χρονιά]. Γίνεται τον Φεβρουάριο ή τον Μάρτιο, πριν τη Σαρακοστή. Είδα τη μεγάλη παρέλαση με τις στολές και τη μουσική και πέρασα πολύ ωραία. | Yes, I went to the Limassol carnival in [year]. It takes place in February or March, before Lent. I saw the big parade with the costumes and the music and I had a great time.
+
+206
+Ξέρετε τη Γιορτή του Κρασιού;
+xerete ti yiorti tou krasiou;
+Do you know the Wine Festival? | Απάντηση: Ναι, η Γιορτή του Κρασιού γίνεται κάθε Σεπτέμβριο στον Δημοτικό Κήπο της Λεμεσού. Υπάρχει κρασί από όλη την Κύπρο, μουσική και χορός. Πήγα μια φορά με φίλους και μου άρεσε πολύ. | Yes, the Wine Festival takes place every September in the Municipal Garden of Limassol. There is wine from all over Cyprus, music and dancing. I went once with friends and I liked it a lot.
+
+207
+Έχετε πάει σε πανηγύρι σε κάποιο χωριό;
+ehete pai se panigiri se kapio horio;
+Have you been to a panigiri in a village? | Απάντηση: Ναι, πήγα σε ένα πανηγύρι στο χωριό [όνομα χωριού]. Είχε παραδοσιακή μουσική, χορό, σουβλάκια και λουκουμάδες. Μου άρεσε που όλο το χωριό ήταν μαζί στην πλατεία. | Yes, I went to a village festival in [village name]. There was traditional music, dancing, souvlakia and loukoumades. I liked that the whole village was together in the square.
+
+208
+Πείτε μου μια μεγάλη θρησκευτική γιορτή στην Κύπρο.
+pite mou mia megali thriskeftiki yiorti stin kipro.
+Tell me one major religious celebration in Cyprus. | Απάντηση: Η πιο μεγάλη γιορτή στην Κύπρο είναι το Πάσχα. Είναι πιο σημαντικό από τα Χριστούγεννα για τους Κύπριους. Όλες οι οικογένειες είναι μαζί και τα μαγαζιά είναι κλειστά. | The biggest celebration in Cyprus is Easter. For Cypriots it is more important than Christmas. All the families are together and the shops are closed.
+
+209
+Πείτε μου ένα έθιμο για το Πάσχα.
+pite mou ena ethimo yia to pasha.
+Tell me one Easter custom. | Απάντηση: Το Μεγάλο Σάββατο οι Κύπριοι ανάβουν τη λαμπρατζιά, μια μεγάλη φωτιά έξω από την εκκλησία. Τα μεσάνυχτα λένε «Χριστός Ανέστη» και κρατούν αναμμένες λαμπάδες. Μετά τσουγκρίζουν κόκκινα αβγά και τρώνε σούπα αβγολέμονο. | On Holy Saturday Cypriots light the lambratzia, a big bonfire outside the church. At midnight they say "Christ is Risen" and hold lit candles. Then they knock red eggs together and eat avgolemono soup.
+
+210
+Πώς περνάτε τα Χριστούγεννα στην Κύπρο;
+pos pernate ta hristouyenna stin kipro;
+How do you spend Christmas in Cyprus? | Απάντηση: Τα Χριστούγεννα τα περνάω με την οικογένειά μου και με φίλους στο σπίτι. Μου αρέσει που εδώ τα παιδιά λένε τα κάλαντα στον δρόμο. Μου έκανε εντύπωση ότι τα Χριστούγεννα κάνει ζέστη και δεν έχει χιόνι. | I spend Christmas at home with my family and with friends. I like that here the children sing the carols in the street. It surprised me that at Christmas it is warm and there is no snow.
+
+211
+Τι είναι η Πράσινη Δευτέρα;
+ti ine i prasini deftera;
+What is Green Monday? | Απάντηση: Η Πράσινη Δευτέρα, ή Καθαρά Δευτέρα, είναι η πρώτη μέρα της Σαρακοστής, εφτά εβδομάδες πριν το Πάσχα. Οι οικογένειες πάνε εκδρομή στην εξοχή, τρώνε νηστίσιμο φαγητό και πετούν χαρταετό. Πέρσι πήγα κι εγώ και πέταξα χαρταετό. | Green Monday, or Clean Monday, is the first day of Lent, seven weeks before Easter. Families go on a picnic in the countryside, eat fasting food and fly kites. Last year I went too and I flew a kite.
+
+212
+Ξέρετε τι είναι η ονομαστική γιορτή;
+xerete ti ine i onomastiki yiorti;
+Do you know what a name day is? | Απάντηση: Ναι, στην Κύπρο οι άνθρωποι γιορτάζουν την ημέρα του αγίου τους, όχι μόνο τα γενέθλιά τους. Λέμε «Χρόνια πολλά» και πηγαίνουμε στο σπίτι τους και χωρίς πρόσκληση. Ο φίλος μου [όνομα φίλου] γιορτάζει στις [ημερομηνία] και πάντα πάω στη γιορτή του. | Yes, in Cyprus people celebrate their saint's day, not only their birthday. We say "Chronia polla" and we go to their house even without an invitation. My friend [friend's name] celebrates on [date] and I always go to his name day.
+
+213
+Έχετε πάει σε βάφτιση στην Κύπρο;
+ehete pai se vaftisi stin kipro;
+Have you been to a baptism in Cyprus? | Απάντηση: Ναι, πήγα σε μια βάφτιση το [χρονιά]. Ο παπάς βάφτισε το μωρό στην εκκλησία και μετά είχε μεγάλο γλέντι με φαγητό και μουσική. Μου έδωσαν και ένα μαρτυρικό για να το φορέσω. | Yes, I went to a baptism in [year]. The priest baptised the baby in the church and afterwards there was a big party with food and music. They also gave me a little witness pin to wear.
+
+214
+Πώς είναι ένας κυπριακός γάμος;
+pos ine enas kipriakos gamos;
+What is a Cypriot wedding like? | Απάντηση: Ο κυπριακός γάμος είναι πολύ μεγάλος, με εκατοντάδες καλεσμένους. Μετά την εκκλησία οι καλεσμένοι δίνουν χρήματα στο ζευγάρι και χορεύουν όλοι μαζί. Ο κουμπάρος είναι ο πιο σημαντικός άνθρωπος στον γάμο. | A Cypriot wedding is very big, with hundreds of guests. After the church the guests give money to the couple and everyone dances together. The koumbaros is the most important person at the wedding.
+
+215
+Σας έχουν καλέσει ποτέ σε κυπριακό γάμο;
+sas ehoun kalesi pote se kipriako gamo;
+Have you ever been invited to a Cypriot wedding? | Απάντηση: Ναι, ένας συνάδελφος από τη δουλειά με κάλεσε στον γάμο του στη [πόλη]. Ήμασταν πάρα πολλοί άνθρωποι και χορέψαμε μέχρι αργά. Μου άρεσε πολύ γιατί όλοι ήταν φιλικοί μαζί μου. | Yes, a colleague from work invited me to his wedding in [city]. There were very many people and we danced until late. I liked it very much because everyone was friendly to me.
+
+216
+Τι είναι το καφενείο για τους Κύπριους;
+ti ine to kafenio yia tous kiprious;
+What is the kafeneio for Cypriots? | Απάντηση: Το καφενείο είναι ένα μικρό μαγαζί στην πλατεία του χωριού, όπου οι άνθρωποι πίνουν καφέ και κουβεντιάζουν. Παίζουν τάβλι και συζητούν για πολλές ώρες. Μου αρέσει να κάθομαι κι εγώ στο καφενείο τα Σαββατοκύριακα. | The kafeneio is a small shop in the village square, where people drink coffee and chat. They play backgammon and talk for many hours. I like sitting in the kafeneio too at the weekend.
+
+217
+Πίνετε κυπριακό καφέ;
+pinete kipriako kafe;
+Do you drink Cypriot coffee? | Απάντηση: Ναι, πίνω κυπριακό καφέ σχεδόν κάθε μέρα. Τον πίνω [σκέτο], με ένα ποτήρι κρύο νερό. Είναι πολύ δυνατός, γι' αυτό τον πίνω σιγά σιγά. | Yes, I drink Cypriot coffee almost every day. I take it [plain, without sugar], with a glass of cold water. It is very strong, so I drink it slowly.
+
+218
+Τι κάνουν οι κυπριακές οικογένειες την Κυριακή;
+ti kanoun i kipriakes ikoyenies tin kiriaki;
+What do Cypriot families do on Sunday? | Απάντηση: Την Κυριακή οι Κύπριοι τρώνε μαζί με όλη την οικογένεια, συνήθως στο σπίτι της γιαγιάς. Πρώτα πάνε στην εκκλησία και μετά ψήνουν σούβλα στον κήπο. Το τραπέζι κρατάει όλο το απόγευμα. | On Sunday Cypriots eat together with the whole family, usually at the grandmother's house. First they go to church and then they cook souvla in the garden. The meal lasts all afternoon.
+
+219
+Τι σας έκανε εντύπωση στην κυπριακή κουλτούρα;
+ti sas ekane endiposi stin kipriaki koultoura;
+What impressed you about Cypriot culture? | Απάντηση: Μου έκανε εντύπωση η φιλοξενία. Όταν πηγαίνω σε ένα κυπριακό σπίτι, μου δίνουν αμέσως καφέ, γλυκό και νερό, και δεν με αφήνουν να φύγω νηστικός. Στην αρχή μου φαινόταν παράξενο, αλλά τώρα μου αρέσει πολύ. | What impressed me is the hospitality. When I go to a Cypriot home, they immediately give me coffee, a sweet and water, and they do not let me leave hungry. At first it seemed strange to me, but now I like it very much.
+
+220
+Πείτε μου το όνομά σας και το επώνυμο σας.
+pite mou to onoma sas ke to eponimo sas.
+Tell me your first name and your surname. | Απάντηση: Με λένε [όνομα] και το επώνυμό μου είναι [επώνυμο]. Είμαι από τη Ρωσία και μένω στην Κύπρο. | My name is [first name] and my surname is [surname]. I am from Russia and I live in Cyprus.
+
+221
+Είστε παντρεμένος;
+iste pandremenos;
+Are you married? | Απάντηση: Ναι, είμαι παντρεμένος. Η γυναίκα μου λέγεται [όνομα συζύγου] και μένουμε μαζί εδώ στην Κύπρο. | Yes, I am married. My wife's name is [wife's name] and we live here in Cyprus together.
+
+222
+Ποια είναι η μητρική σας γλώσσα;
+pia ine i mitriki sas glossa;
+What is your mother tongue? | Απάντηση: Η μητρική μου γλώσσα είναι τα ρωσικά. Μιλάω επίσης αγγλικά και μαθαίνω ελληνικά. | My mother tongue is Russian. I also speak English and I am learning Greek.
+
+223
+Το όνομα της εταιρείας που εργάζεστε;
+to onoma tis eterias pou ergazeste;
+The name of the company you work for? | Απάντηση: Εργάζομαι στην εταιρεία [όνομα εταιρείας]. Τα γραφεία της είναι στη [πόλη] και δουλεύω εκεί [αριθμός] χρόνια. | I work for the company [company name]. Its offices are in [city] and I have worked there for [number] years.
+
+224
+Έχετε Κύπριους φίλους ή φίλες; Πείτε μου ποιους.
+ehete kiprious filous i files; pite mou pious.
+Do you have Cypriot friends? Tell me who they are. | Απάντηση: Ναι, έχω Κύπριους φίλους. Οι καλύτεροί μου φίλοι είναι ο [όνομα φίλου] και η [όνομα φίλης]. Ο [όνομα φίλου] είναι γείτονάς μου και πίνουμε συχνά καφέ μαζί. | Yes, I have Cypriot friends. My closest friends are [male friend's name] and [female friend's name]. [Male friend's name] is my neighbour and we often have coffee together.
+
+225
+Πείτε μου δύο παραδοσιακά φαγητά της Κύπρου.
+pite mou dio paradosiaka fayita tis kiprou.
+Name two traditional Cypriot dishes. | Απάντηση: Δύο παραδοσιακά φαγητά της Κύπρου είναι το κλέφτικο και τα κουπέπια. Μου αρέσει πολύ και το χαλούμι με καρπούζι το καλοκαίρι. | Two traditional Cypriot dishes are kleftiko and koupepia. I also really like halloumi with watermelon in the summer.
+
+226
+Σε ποια χώρα γεννηθήκατε;
+se pia hora yennithikate;
+In which country were you born? | Απάντηση: Γεννήθηκα στη Ρωσία, στην πόλη [πόλη]. Ήρθα στην Κύπρο το [έτος]. | I was born in Russia, in the city of [city]. I came to Cyprus in [year].
+
+227
+Η διεύθυνσή σας εδώ στην Κύπρο; Πού μένετε;
+i diefthinsi sas edo stin kipro; pou menete;
+Your address here in Cyprus? Where do you live? | Απάντηση: Μένω στη [πόλη], στην οδό [διεύθυνση]. Μένω σε αυτό το διαμέρισμα [αριθμός] χρόνια με την οικογένειά μου. | I live in [city], at [street address]. I have lived in this apartment for [number] years with my family.
+
+228
+Πότε ήρθατε στην Κύπρο πρώτη φορά και γιατί;
+pote irthate stin kipro proti fora ke yiati;
+When did you first come to Cyprus, and why? | Απάντηση: Ήρθα πρώτη φορά στην Κύπρο το [έτος] για τη δουλειά μου. Μου άρεσε πολύ το νησί και οι άνθρωποι, γι' αυτό έμεινα εδώ με την οικογένειά μου. | I first came to Cyprus in [year] for my job. I liked the island and the people very much, so I stayed here with my family.
+
+229
+Πότε παντρευτήκατε και σε ποια χώρα;
+pote pandreftikate ke se pia hora;
+When did you get married, and in which country? | Απάντηση: Παντρεύτηκα το [έτος] στη Ρωσία, στην πόλη [πόλη]. Έχω μαζί μου το πιστοποιητικό γάμου. | I got married in [year] in Russia, in the city of [city]. I have the marriage certificate with me.
+
+230
+Πώς λέγεται η γυναίκα σας και πότε ήρθε στην Κύπρο;
+pos leyete i yineka sas ke pote irthe stin kipro;
+What is your wife's name and when did she come to Cyprus? | Απάντηση: Η γυναίκα μου λέγεται [όνομα συζύγου]. Γεννήθηκε το [έτος] στη Ρωσία και ήρθε στην Κύπρο το [έτος]. | My wife's name is [wife's name]. She was born in [year] in Russia and she came to Cyprus in [year].
+
+231
+Πού γεννήθηκαν τα παιδιά σας και σε ποιο σχολείο πηγαίνουν;
+pou yennithikan ta pedia sas ke se pio sholio pigenoun;
+Where were your children born and which school do they attend? | Απάντηση: Τα παιδιά μου γεννήθηκαν στη [χώρα]. Πηγαίνουν στο σχολείο [όνομα σχολείου] στη [πόλη] και μαθαίνουν ελληνικά. | My children were born in [country]. They go to [school name] school in [city] and they are learning Greek.
+
+232
+Τι σπουδάσατε και σε ποια χώρα;
+ti spoudasate ke se pia hora;
+What did you study and in which country? | Απάντηση: Σπούδασα πληροφορική στη Ρωσία, στο πανεπιστήμιο [όνομα πανεπιστημίου]. Πήρα το δίπλωμά μου το [έτος] και το έχω μαζί μου. | I studied computer science in Russia, at [university name]. I received my diploma in [year] and I have it with me.
+
+233
+Τι δουλειά κάνετε ακριβώς;
+ti doulia kanete akrivos;
+What exactly is your job? | Απάντηση: Είμαι προγραμματιστής. Γράφω προγράμματα για υπολογιστές και δουλεύω κάθε μέρα με μια ομάδα μηχανικών. | I am a software developer. I write computer programs and I work every day with a team of engineers.
+
+234
+Έχετε ακίνητη ιδιοκτησία; Το διαμέρισμα το αγοράσατε;
+ehete akiniti idioktisia; to diamerisma to agorasate;
+Do you own property? Did you buy the apartment? | Απάντηση: Ναι, αγόρασα ένα διαμέρισμα στη [πόλη] το [έτος] για [ποσό] ευρώ. Δεν έχω άλλη περιουσία στην Κύπρο. | Yes, I bought an apartment in [city] in [year] for [amount] euros. I have no other property in Cyprus.
+
+235
+Και άλλες γλώσσες που μιλάτε;
+ke alles glosses pou milate;
+And what other languages do you speak? | Απάντηση: Μιλάω ρωσικά, αγγλικά και λίγα ελληνικά. Κάνω μαθήματα ελληνικών κάθε εβδομάδα και θέλω να μιλάω καλύτερα. | I speak Russian, English and a little Greek. I take Greek lessons every week and I want to speak better.
+
+236
+Πώς περνάτε τον ελεύθερο σας χρόνο; Έχετε κάποιο χόμπι;
+pos pernate ton elefthero sas hrono; ehete kapio hombi;
+How do you spend your free time? Do you have a hobby? | Απάντηση: Στον ελεύθερο χρόνο μου κολυμπάω στη θάλασσα και κάνω πεζοπορία στα βουνά. Το Σαββατοκύριακο βγαίνω βόλτα με την οικογένεια και τους φίλους μου. | In my free time I swim in the sea and I go hiking in the mountains. At the weekend I go out with my family and my friends.
+
+237
+Όταν πάρετε το κυπριακό διαβατήριο, τι προθέσεις έχετε για μετά;
+otan parete to kipriako diavatirio, ti prothesis ehete yia meta;
+Once you get the Cypriot passport, what are your intentions for afterwards? | Απάντηση: Θέλω να μείνω στην Κύπρο με την οικογένειά μου. Θα συνεχίσω τη δουλειά μου, θα μάθω καλύτερα ελληνικά και τα παιδιά μου θα μεγαλώσουν εδώ. | I want to stay in Cyprus with my family. I will continue my job, I will learn Greek better, and my children will grow up here.
+
+238
+Ποιοι είναι οι τρεις Κύπριοι που υπέγραψαν την αίτησή σας; Πείτε μου τα ονόματά τους.
+pii ine i tris kiprii pou ipegrapsan tin etisi sas; pite mou ta onomata tous.
+Who are the three Cypriots who signed your application? Tell me their names. | Απάντηση: Οι τρεις εγγυητές μου είναι ο [όνομα εγγυητή 1], ο [όνομα εγγυητή 2] και η [όνομα εγγυητή 3]. Τους ξέρω προσωπικά και έχω τα τηλέφωνά τους στο κινητό μου. | My three guarantors are [guarantor 1], [guarantor 2] and [guarantor 3]. I know them personally and I have their numbers on my phone.
+
+239
+Τι δουλειά κάνουν οι εγγυητές σας;
+ti doulia kanoun i engiites sas;
+What work do your guarantors do? | Απάντηση: Ο [όνομα εγγυητή 1] δουλεύει ως [επάγγελμα] στη [εταιρεία]. Ο [όνομα εγγυητή 2] είναι [επάγγελμα] και έχει δικό του μαγαζί. Η [όνομα εγγυητή 3] είναι [επάγγελμα] στη [πόλη]. | [Guarantor 1] works as a [job] at [company]. [Guarantor 2] is a [job] and has his own shop. [Guarantor 3] is a [job] in [city].
+
+240
+Πόσο καιρό ξέρετε τον πρώτο εγγυητή σας και πώς γνωριστήκατε;
+poso kero xerete ton proto engiiti sas ke pos gnoristikate;
+How long have you known your first guarantor, and how did you meet? | Απάντηση: Τον [όνομα εγγυητή 1] τον ξέρω [αριθμός] χρόνια. Γνωριστήκαμε στο [μέρος]. Στην αρχή μιλούσαμε λίγο, μετά γίναμε φίλοι και τώρα βλεπόμαστε τακτικά. | I have known [guarantor 1] for [number] years. We met at [place]. At first we spoke a little, then we became friends, and now we see each other regularly.
+
+241
+Πότε είδατε τελευταία φορά τους εγγυητές σας;
+pote idate teleftea fora tous engiites sas;
+When did you last see your guarantors? | Απάντηση: Τον [όνομα εγγυητή 1] τον είδα την περασμένη εβδομάδα στο [μέρος]. Με τον [όνομα εγγυητή 2] μιλήσαμε στο τηλέφωνο πριν από λίγες μέρες. Τη [όνομα εγγυητή 3] την είδα τον [μήνα]. | I saw [guarantor 1] last week at [place]. I spoke with [guarantor 2] on the phone a few days ago. I saw [guarantor 3] in [month].
+
+242
+Έχετε πάει στο σπίτι κάποιου εγγυητή σας;
+ehete pai sto spiti kapiou engiiti sas;
+Have you been to the home of one of your guarantors? | Απάντηση: Ναι. Έχω πάει στο σπίτι του [όνομα εγγυητή] στη [περιοχή]. Μας κάλεσε για φαγητό με την οικογένειά μου. Ήρθε και αυτός στο δικό μας σπίτι για καφέ. | Yes. I have been to [guarantor]'s house in [area]. He invited us for a meal with my family. He has also come to our home for coffee.
+
+243
+Πού γνωρίσατε τον καλύτερό σας Κύπριο φίλο;
+pou gnorisate ton kalitero sas kiprio filo;
+Where did you meet your best Cypriot friend? | Απάντηση: Τον γνώρισα στο [μέρος] πριν από [αριθμός] χρόνια. Πηγαίναμε την ίδια ώρα κάθε εβδομάδα και αρχίσαμε να μιλάμε. Τώρα βγαίνουμε μαζί συχνά. | I met him at [place] [number] years ago. We used to go at the same time every week and we started talking. Now we often go out together.
+
+244
+Τι κάνετε μαζί με τους Κύπριους φίλους σας;
+ti kanete mazi me tous kiprious filous sas;
+What do you do together with your Cypriot friends? | Απάντηση: Πίνουμε καφέ στο [καφενείο], παίζουμε ποδόσφαιρο στο [γήπεδο] και το καλοκαίρι πάμε μαζί στην παραλία [όνομα παραλίας]. Καμιά φορά κάνουμε και μπάρμπεκιου. | We drink coffee at [coffee shop], we play football at [pitch], and in the summer we go together to [beach]. Sometimes we also have a barbecue.
+
+245
+Πηγαίνετε στα σπίτια τους; Έρχονται στο δικό σας;
+pigenete sta spitia tous; erhonde sto diko sas;
+Do you go to their homes? Do they come to yours? | Απάντηση: Ναι, πηγαίνουμε ο ένας στο σπίτι του άλλου. Ο [όνομα] ήρθε στο σπίτι μου στα γενέθλιά μου και εγώ πήγα στο σπίτι του στο [χωριό] τα Χριστούγεννα. | Yes, we go to each other's homes. [Name] came to my house for my birthday, and I went to his house in [village] at Christmas.
+
+246
+Σε ποια γλώσσα μιλάτε με τους Κύπριους φίλους σας;
+se pia glossa milate me tous kiprious filous sas;
+What language do you speak with your Cypriot friends? | Απάντηση: Μιλάμε ελληνικά. Όταν δεν καταλαβαίνω μια λέξη, λέμε κάτι και στα αγγλικά. Ο [όνομα] με βοηθάει πολύ με τα ελληνικά και με διορθώνει. | We speak Greek. When I do not understand a word, we also say something in English. [Name] helps me a lot with my Greek and corrects me.
+
+247
+Πηγαίνετε σε γυμναστήριο; Πώς λέγεται;
+pigenete se yimnastirio; pos leyete;
+Do you go to a gym? What is it called? | Απάντηση: Ναι, πηγαίνω στο γυμναστήριο [όνομα γυμναστηρίου] στη [περιοχή]. Πάω τρεις φορές την εβδομάδα, συνήθως το βράδυ. Ο προπονητής μου είναι Κύπριος και τον λένε [όνομα]. | Yes, I go to the gym [gym name] in [area]. I go three times a week, usually in the evening. My trainer is Cypriot and his name is [name].
+
+248
+Πού κουρεύεστε;
+pou koureveste;
+Where do you get your hair cut? | Απάντηση: Κουρεύομαι στο κουρείο [όνομα] στη [περιοχή]. Πηγαίνω κάθε μήνα στον ίδιο κουρέα, τον [όνομα]. Μιλάμε ελληνικά για το ποδόσφαιρο και για τον καιρό. | I get my hair cut at the barber shop [name] in [area]. I go every month to the same barber, [name]. We talk in Greek about football and the weather.
+
+249
+Από πού αγοράζετε ψωμί; Έχετε έναν φούρνο που πηγαίνετε συχνά;
+apo pou agorazete psomi; ehete enan fourno pou pigenete sihna;
+Where do you buy bread? Is there a bakery you often go to? | Απάντηση: Ναι, πηγαίνω στον φούρνο [όνομα] κοντά στο σπίτι μου, στη [περιοχή]. Αγοράζω ψωμί, κουλούρι και τυρόπιτα. Η κυρία στον φούρνο με ξέρει και με χαιρετάει με το όνομά μου. | Yes, I go to the bakery [name] near my house, in [area]. I buy bread, a koulouri and cheese pies. The lady at the bakery knows me and greets me by name.
+
+250
+Αθλείστε; Παίζετε κάποιο άθλημα με άλλους;
+athliste; pezete kapio athlima me allous;
+Do you do sport? Do you play any sport with others? | Απάντηση: Παίζω ποδόσφαιρο κάθε [μέρα] στο γήπεδο [όνομα γηπέδου]. Είμαστε μια παρέα και οι περισσότεροι είναι Κύπριοι. Μετά το παιχνίδι καθόμαστε και πίνουμε μια μπίρα. | I play football every [day] at [pitch]. We are a group and most of them are Cypriots. After the game we sit together and have a beer.
+
+251
+Πού πηγαίνετε τα Σαββατοκύριακα;
+pou pigenete ta savvatokiriaka;
+Where do you go at weekends? | Απάντηση: Το Σάββατο πάω με την οικογένειά μου στην παραλία [όνομα παραλίας]. Κολυμπάμε και μετά τρώμε στην ταβέρνα [όνομα]. Την Κυριακή κάνουμε βόλτα στο [μέρος]. | On Saturday I go with my family to [beach]. We swim and then we eat at the tavern [name]. On Sunday we go for a walk at [place].
+
+252
+Πού ψωνίζετε; Πηγαίνετε στη λαϊκή αγορά;
+pou psonizete; pigenete sti laiki agora;
+Where do you shop? Do you go to the farmers' market? | Απάντηση: Ναι, πηγαίνω στη λαϊκή αγορά στη [περιοχή] κάθε [μέρα]. Αγοράζω φρούτα και λαχανικά από Κύπριους παραγωγούς. Ξέρω έναν κύριο εκεί, τον [όνομα], που πουλάει πατάτες και ντομάτες. | Yes, I go to the farmers' market in [area] every [day]. I buy fruit and vegetables from Cypriot producers. I know a man there, [name], who sells potatoes and tomatoes.
+
+253
+Ξέρετε τους γείτονές σας; Πώς τους λένε;
+xerete tous yitones sas; pos tous lene;
+Do you know your neighbours? What are their names? | Απάντηση: Ναι. Δίπλα μου μένει ο κύριος [όνομα] με τη γυναίκα του, την κυρία [όνομα]. Είναι Κύπριοι και μένουν εκεί πολλά χρόνια. Από κάτω μένει η οικογένεια [επώνυμο]. | Yes. Next door to me live Mr [name] and his wife, Mrs [name]. They are Cypriots and have lived there for many years. The [surname] family lives downstairs.
+
+254
+Μιλάτε με τους γείτονές σας;
+milate me tous yitones sas;
+Do you talk with your neighbours? | Απάντηση: Ναι, τους χαιρετάω κάθε μέρα: «Καλημέρα, τι κάνετε;». Μερικές φορές στεκόμαστε και μιλάμε δέκα λεπτά έξω από την πολυκατοικία. Μιλάμε πάντα ελληνικά. | Yes, I greet them every day: "Good morning, how are you?". Sometimes we stand and talk for ten minutes outside the block of flats. We always speak Greek.
+
+255
+Σας έχει βοηθήσει ποτέ κάποιος γείτονας; Εσείς τους έχετε βοηθήσει;
+sas ehi voithisi pote kapios yitonas; esis tous ehete voithisi;
+Has a neighbour ever helped you? Have you helped them? | Απάντηση: Ναι. Ο κύριος [όνομα] με βοήθησε όταν χάλασε το αυτοκίνητό μου και με πήγε στη δουλειά. Εγώ ποτίζω τα λουλούδια του όταν λείπει και τον βοηθάω με τον υπολογιστή του. | Yes. Mr [name] helped me when my car broke down and drove me to work. I water his plants when he is away and I help him with his computer.
+
+256
+Έχετε πιει ποτέ καφέ στο σπίτι κάποιου γείτονα;
+ehete pii pote kafe sto spiti kapiou yitona;
+Have you ever had coffee at a neighbour's house? | Απάντηση: Ναι, η κυρία [όνομα] μας κάλεσε για καφέ και γλυκό του κουταλιού. Μας έμαθε και μια κυπριακή συνταγή. Τα Χριστούγεννα της πήγαμε ένα μικρό δώρο. | Yes, Mrs [name] invited us for coffee and spoon sweets. She also taught us a Cypriot recipe. At Christmas we took her a small present.
+
+257
+Έχετε πάει σε πανηγύρι ή σε φεστιβάλ σε κάποιο χωριό;
+ehete pai se panigiri i se festival se kapio horio;
+Have you been to a village festival or fair? | Απάντηση: Ναι, πήγα στο [όνομα φεστιβάλ] στο χωριό [όνομα χωριού] με την οικογένειά μου. Είχε μουσική, χορό και παραδοσιακό φαγητό. Πηγαίνουμε σχεδόν κάθε χρόνο. | Yes, I went to [festival] in the village of [village] with my family. There was music, dancing and traditional food. We go almost every year.
+
+258
+Πηγαίνετε στις συναντήσεις και στις γιορτές του σχολείου;
+pigenete stis sinandisis ke stis yiortes tou sholiou;
+Do you go to school meetings and school events? | Απάντηση: Ναι, πηγαίνω στις συναντήσεις με τους δασκάλους στο σχολείο [όνομα σχολείου]. Πήγα και στη γιορτή των παιδιών τον [μήνα]. Μιλάω με τους άλλους γονείς στα ελληνικά. | Yes, I go to the meetings with the teachers at [school]. I also went to the children's celebration in [month]. I talk with the other parents in Greek.
+
+259
+Έχετε κάνει ποτέ εθελοντική δουλειά στην Κύπρο;
+ehete kani pote ethelondiki doulia stin kipro;
+Have you ever done volunteer work in Cyprus? | Απάντηση: Ναι. Πήγα σε έναν καθαρισμό της παραλίας [όνομα παραλίας] με άλλους κατοίκους. Έδωσα επίσης ρούχα και φαγητό στο [όνομα οργάνωσης] για οικογένειες που έχουν ανάγκη. | Yes. I took part in a beach clean-up at [beach] with other residents. I also gave clothes and food to [organisation] for families in need.
+
+260
+Είστε μέλος σε κάποιο σωματείο, όμιλο ή σύλλογο;
+iste melos se kapio somatio, omilo i sillogo;
+Are you a member of any association, club or society? | Απάντηση: Ναι, είμαι μέλος στο [όνομα συλλόγου] στη [πόλη]. Κάνουμε μαζί [δραστηριότητα] μία φορά τον μήνα. Έχω και κάρτα μέλους μαζί μου. | Yes, I am a member of [club] in [city]. We do [activity] together once a month. I even have my membership card with me.
+
+261
+Υποστηρίζετε κάποια κυπριακή ομάδα; Πηγαίνετε στο γήπεδο;
+ipostirizete kapia kipriaki omada; pigenete sto yipedo;
+Do you support a Cypriot team? Do you go to the stadium? | Απάντηση: Ναι, είμαι με την [όνομα ομάδας]. Έχω πάει [αριθμός] φορές στο γήπεδο [όνομα γηπέδου] με τον φίλο μου τον [όνομα]. Βλέπουμε τα παιχνίδια και μαζί στο καφενείο. | Yes, I support [team]. I have been [number] times to [stadium] with my friend [name]. We also watch the matches together at the coffee shop.
