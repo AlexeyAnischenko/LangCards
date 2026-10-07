@@ -27,6 +27,9 @@ DICTS = [
     # (form M127): the officer's question on the front, a model A2 answer behind
     ('interview', 'greek-cyprus-citizenship-interview.txt',
                 u'Cyprus citizenship interview — questions & answers'),
+    # every adjective the two books and the exams use, fully declined
+    ('adj',     'greek-a2-adjectives.txt',
+                u'A2 adjectives — full declension'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
