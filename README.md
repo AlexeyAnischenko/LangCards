@@ -12,6 +12,7 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 | `build-langcards.py` | Compresses the `.txt` dictionaries into `langcards.template.html` and writes `langcards.html`. |
 | `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-3000.txt`, `greek-pronouns-3000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
 | `klik-a2-vocabulary.txt` | The KLIK A2 exam word list, one card per word, each tagged with its part of speech and A2 paradigm. |
+| `tools/` | The generators for the two built decks — Noun phrases and Pronouns — with their gold tests and the two checkers each deck has to pass. See `tools/README.md`. |
 
 Editing `langcards.html` directly is a mistake — the next build overwrites it. Change
 `langcards.template.html` or a `.txt` file, then run `python build-langcards.py`.
