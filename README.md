@@ -10,7 +10,7 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 | `langcards.html` | **The app.** Generated — open this one. Dictionaries are compressed inside it, so it works on its own. |
 | `langcards.template.html` | **The source.** Same app *without* the embedded dictionaries. Edit this when changing markup, CSS or JS. |
 | `build-langcards.py` | Compresses the `.txt` dictionaries into `langcards.template.html` and writes `langcards.html`. |
-| `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-3000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
+| `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-3000.txt`, `greek-pronouns-3000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
 | `klik-a2-vocabulary.txt` | The KLIK A2 exam word list, one card per word, each tagged with its part of speech and A2 paradigm. |
 
 Editing `langcards.html` directly is a mistake — the next build overwrites it. Change
@@ -130,7 +130,7 @@ together — the parser accepts both, along with CRLF line endings and a UTF-8 B
 
 ### A2 scope
 
-Two decks are held to the **KLIK A2** word list (`Greek KLIK A2 dictionary.xlsx` in the
+Three decks are held to the **KLIK A2** word list (`Greek KLIK A2 dictionary.xlsx` in the
 Greek-A2-Basics repo) and to the grammar rules of those sheets:
 
 | Deck | Scope |
@@ -138,6 +138,7 @@ Greek-A2-Basics repo) and to the grammar rules of those sheets:
 | **KLIK A2** | the glossary itself — 1,658 cards, every word tagged with its paradigm (`noun, feminine — F1 · -α`, `verb, group B1 (-άω / -ώ)`) |
 | **Grammar** | 1,000 fill-in-the-blank cards built only from glossary words, each one explained |
 | **Noun phrases** | 3,000 fill-in-the-blank cards on article + adjective + noun agreement, also built only from glossary words, 1,000 in each case |
+| **Pronouns** | 3,000 fill-in-the-blank cards on personal and possessive pronouns — weak, strong and the emphatic `δικός μου` — again only from glossary words |
 
 The other three decks (A2 exam, Common, Travel) are free-range: 7–12% of their words are outside
 that glossary. They are useful, but they are not a model of the exam's vocabulary.
@@ -208,6 +209,58 @@ Where KLIK lists only one gender of a pair, the other gender is the same word an
 both genders, which is where this deck earns its keep — `ο καλός γιατρός` and `η καλή γιατρός`
 differ only in the article and the adjective, since the noun itself does not change.
 
+### The Pronouns deck
+
+Same shape as the Noun phrases deck, but the gap holds a pronoun. The bracket names the
+referent in English and says which kind of pronoun is wanted; the sentence decides the case:
+
+```
+1
+___ βλέπω κάθε μέρα. (him - weak pronoun, direct object)
+Τον βλέπω κάθε μέρα.
+I see him every day. — Τον → weak personal pronoun, 3rd person masculine accusative singular — the direct object of βλέπω; the weak form goes in front of the verb, never after it
+
+2
+Αυτό το αυτοκίνητο είναι ___. (mine - emphatic δικός-type possessive)
+Αυτό το αυτοκίνητο είναι δικό μου.
+This car is mine. — δικό μου → emphatic possessive, neuter nominative singular to agree with αυτοκίνητο, with the weak genitive μου for the owner — δικός/δική/δικό takes the gender, case and number of the thing owned, and the clitic says whose it is
+```
+
+**The referent and the kind are given; the form is the exercise.** English *you* and *they*
+cover more ground than any one Greek form, so every third-person and plural gloss carries its
+gender or number — `them (feminine)`, `your (plural)` — and the bracket names which of the
+seven jobs a pronoun is doing here:
+
+| Bracket says | You write | Example |
+|---|---|---|
+| weak pronoun, direct object | accusative clitic, before the verb | `Τη βλέπω.` |
+| weak pronoun, indirect object | genitive clitic, before the verb | `Μου τηλεφωνεί.` |
+| weak possessive | genitive clitic, after its noun | `το σπίτι μου` |
+| strong pronoun after a preposition | the strong accusative | `για εσένα` |
+| strong pronoun, emphatic object | the strong accusative, after the verb | `ρωτάει εμένα, όχι εσένα` |
+| strong subject pronoun | the nominative | `Εγώ μένω εδώ.` |
+| emphatic δικός-type possessive | `δικός/δική/δικό` + genitive clitic | `το δικό μου βιβλίο` |
+
+Coverage, by the case of the pronoun: **1,200 nominative, 1,600 accusative, 200 genitive**,
+and an even **1,500 singular / 1,500 plural** by the number of the referent. The genitive is
+the small slice on purpose; it is where the weak possessive and the indirect object live.
+
+Three rules keep the sentences honest:
+
+- **Verbs are conjugated, not stored.** The present tense of all 76 verbs is derived from the
+  group KLIK assigns them (A, B1 `-άω`, B2 `-ώ`), with a table for the irregulars
+  (`είμαι`, `λέω`, `τρώω`, `ακούω`, `ζω`, `έρχομαι`, `κάθομαι`, `θυμάμαι`, `χρειάζομαι`).
+  89 gold paradigms guard the rules.
+- **The final-ν rule applies to the clitic too.** `Την ξέρω` but `Τη βλέπω`, by the same rule
+  as the article. `τον` keeps its ν everywhere, so it is never read as the neuter `το`.
+- **A frame about people never asks for a neuter pronoun**, and a frame about things runs in
+  the third person only and glosses every gender as English *it* — so no card says
+  *the waiter asks it*, and `αυτός`/`αυτή`/`αυτό` for an object are drilled as *it*, which is
+  what they mean.
+
+As with the Noun phrases deck, **every Greek word comes from the KLIK A2 list** and every card
+re-derives exactly from its own prompt; both are checked mechanically over all 3,000 cards.
+
 ### The bundled dictionaries
 
 | Deck | Cards | Third line holds |
@@ -217,6 +270,7 @@ differ only in the article and the adjective, since the noun itself does not cha
 | Travel | 292 | transcription |
 | Grammar | 1000 | the completed sentence |
 | Noun phrases | 3000 | the completed sentence |
+| Pronouns | 3000 | the completed sentence |
 | KLIK A2 | 1658 | transcription |
 
 They have been cleaned up:

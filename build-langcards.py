@@ -18,6 +18,9 @@ DICTS = [
     # fill-in-the-blank deck: field 2 holds the completed sentence
     ('phrases', 'greek-articles-adjectives-nouns-3000.txt',
                 u'Noun phrases — article + adjective + noun'),
+    # fill-in-the-blank deck: field 2 holds the completed sentence
+    ('pronouns', 'greek-pronouns-3000.txt',
+                u'Pronouns — weak, strong and δικός μου'),
     ('klik',    'klik-a2-vocabulary.txt', u'KLIK A2 — the exam word list'),
     # the words both KLIK books use 5+ times: the backbone, against the 1,509
     # entries the two books print exactly once
