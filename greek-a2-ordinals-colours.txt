@@ -1,0 +1,399 @@
+1
+πρώτος
+protos
+first — ordinal number | m  ο πρώτος | f  η πρώτη | n  το πρώτο | gen  του πρώτου | written  1ος / 1η / 1ο | ο πρώτος όροφος — the first floor
+
+2
+δεύτερος
+defteros
+second — ordinal number | m  ο δεύτερος | f  η δεύτερη | n  το δεύτερο | gen  του δεύτερου | written  2ος / 2η / 2ο | για δεύτερη φορά — for the second time
+
+3
+τρίτος
+tritos
+third — ordinal number | m  ο τρίτος | f  η τρίτη | n  το τρίτο | gen  του τρίτου | written  3ος / 3η / 3ο | η τρίτη πόρτα δεξιά — the third door on the right
+
+4
+τέταρτος
+tetartos
+fourth — ordinal number | m  ο τέταρτος | f  η τέταρτη | n  το τέταρτο | gen  του τέταρτου | written  4ος / 4η / 4ο | ένα τέταρτο — a quarter (of an hour)
+
+5
+πέμπτος
+pembtos
+fifth — ordinal number | m  ο πέμπτος | f  η πέμπτη | n  το πέμπτο | gen  του πέμπτου | written  5ος / 5η / 5ο | στον πέμπτο όροφο — on the fifth floor
+
+6
+έκτος
+ektos
+sixth — ordinal number | m  ο έκτος | f  η έκτη | n  το έκτο | gen  του έκτου | written  6ος / 6η / 6ο | η έκτη μέρα — the sixth day
+
+7
+έβδομος
+evdomos
+seventh — ordinal number | m  ο έβδομος | f  η έβδομη | n  το έβδομο | gen  του έβδομου | written  7ος / 7η / 7ο | ο έβδομος μήνας — the seventh month
+
+8
+όγδοος
+ogdoos
+eighth — ordinal number | m  ο όγδοος | f  η όγδοη | n  το όγδοο | gen  του όγδοου | written  8ος / 8η / 8ο | η όγδοη σελίδα — the eighth page
+
+9
+ένατος
+enatos
+ninth — ordinal number | m  ο ένατος | f  η ένατη | n  το ένατο | gen  του ένατου | written  9ος / 9η / 9ο | το ένατο μάθημα — the ninth lesson
+
+10
+δέκατος
+dekatos
+tenth — ordinal number | m  ο δέκατος | f  η δέκατη | n  το δέκατο | gen  του δέκατου | written  10ος / 10η / 10ο | τα δέκατα γενέθλιά του — his tenth birthday
+
+11
+ενδέκατος
+endekatos
+eleventh — ordinal number | m  ο ενδέκατος | f  η ενδέκατη | n  το ενδέκατο | gen  του ενδέκατου | written  11ος / 11η / 11ο | η ενδέκατη ώρα — the eleventh hour
+
+12
+δωδέκατος
+dodekatos
+twelfth — ordinal number | m  ο δωδέκατος | f  η δωδέκατη | n  το δωδέκατο | gen  του δωδέκατου | written  12ος / 12η / 12ο | ο δωδέκατος όροφος — the twelfth floor
+
+13
+δέκατος τρίτος
+dekatos tritos
+thirteenth — ordinal number | m  ο δέκατος τρίτος | f  η δέκατη τρίτη | n  το δέκατο τρίτο | gen  του δέκατου τρίτου | written  13ος / 13η / 13ο | ⚠ both halves take the ending
+
+14
+δέκατος τέταρτος
+dekatos tetartos
+fourteenth — ordinal number | m  ο δέκατος τέταρτος | f  η δέκατη τέταρτη | n  το δέκατο τέταρτο | gen  του δέκατου τέταρτου | written  14ος / 14η / 14ο | ⚠ both halves take the ending
+
+15
+δέκατος πέμπτος
+dekatos pembtos
+fifteenth — ordinal number | m  ο δέκατος πέμπτος | f  η δέκατη πέμπτη | n  το δέκατο πέμπτο | gen  του δέκατου πέμπτου | written  15ος / 15η / 15ο | ⚠ both halves take the ending
+
+16
+δέκατος έκτος
+dekatos ektos
+sixteenth — ordinal number | m  ο δέκατος έκτος | f  η δέκατη έκτη | n  το δέκατο έκτο | gen  του δέκατου έκτου | written  16ος / 16η / 16ο | ⚠ both halves take the ending
+
+17
+δέκατος έβδομος
+dekatos evdomos
+seventeenth — ordinal number | m  ο δέκατος έβδομος | f  η δέκατη έβδομη | n  το δέκατο έβδομο | gen  του δέκατου έβδομου | written  17ος / 17η / 17ο | ⚠ both halves take the ending
+
+18
+δέκατος όγδοος
+dekatos ogdoos
+eighteenth — ordinal number | m  ο δέκατος όγδοος | f  η δέκατη όγδοη | n  το δέκατο όγδοο | gen  του δέκατου όγδοου | written  18ος / 18η / 18ο | ⚠ both halves take the ending
+
+19
+δέκατος ένατος
+dekatos enatos
+nineteenth — ordinal number | m  ο δέκατος ένατος | f  η δέκατη ένατη | n  το δέκατο ένατο | gen  του δέκατου ένατου | written  19ος / 19η / 19ο | ⚠ both halves take the ending
+
+20
+εικοστός
+ikostos
+twentieth — ordinal number | m  ο εικοστός | f  η εικοστή | n  το εικοστό | gen  του εικοστού | written  20ός / 20ή / 20ό | ο εικοστός αιώνας — the twentieth century
+
+21
+εικοστός πρώτος
+ikostos protos
+twenty-first — ordinal number | m  ο εικοστός πρώτος | f  η εικοστή πρώτη | n  το εικοστό πρώτο | gen  του εικοστού πρώτου | written  21ος / 21η / 21ο | ⚠ both halves take the ending | ο εικοστός πρώτος αιώνας — the twenty-first century
+
+22
+εικοστός δεύτερος
+ikostos defteros
+twenty-second — ordinal number | m  ο εικοστός δεύτερος | f  η εικοστή δεύτερη | n  το εικοστό δεύτερο | gen  του εικοστού δεύτερου | written  22ος / 22η / 22ο | ⚠ both halves take the ending
+
+23
+εικοστός τρίτος
+ikostos tritos
+twenty-third — ordinal number | m  ο εικοστός τρίτος | f  η εικοστή τρίτη | n  το εικοστό τρίτο | gen  του εικοστού τρίτου | written  23ος / 23η / 23ο | ⚠ both halves take the ending
+
+24
+εικοστός τέταρτος
+ikostos tetartos
+twenty-fourth — ordinal number | m  ο εικοστός τέταρτος | f  η εικοστή τέταρτη | n  το εικοστό τέταρτο | gen  του εικοστού τέταρτου | written  24ος / 24η / 24ο | ⚠ both halves take the ending
+
+25
+εικοστός πέμπτος
+ikostos pembtos
+twenty-fifth — ordinal number | m  ο εικοστός πέμπτος | f  η εικοστή πέμπτη | n  το εικοστό πέμπτο | gen  του εικοστού πέμπτου | written  25ος / 25η / 25ο | ⚠ both halves take the ending
+
+26
+εικοστός έκτος
+ikostos ektos
+twenty-sixth — ordinal number | m  ο εικοστός έκτος | f  η εικοστή έκτη | n  το εικοστό έκτο | gen  του εικοστού έκτου | written  26ος / 26η / 26ο | ⚠ both halves take the ending
+
+27
+εικοστός έβδομος
+ikostos evdomos
+twenty-seventh — ordinal number | m  ο εικοστός έβδομος | f  η εικοστή έβδομη | n  το εικοστό έβδομο | gen  του εικοστού έβδομου | written  27ος / 27η / 27ο | ⚠ both halves take the ending
+
+28
+εικοστός όγδοος
+ikostos ogdoos
+twenty-eighth — ordinal number | m  ο εικοστός όγδοος | f  η εικοστή όγδοη | n  το εικοστό όγδοο | gen  του εικοστού όγδοου | written  28ος / 28η / 28ο | ⚠ both halves take the ending
+
+29
+εικοστός ένατος
+ikostos enatos
+twenty-ninth — ordinal number | m  ο εικοστός ένατος | f  η εικοστή ένατη | n  το εικοστό ένατο | gen  του εικοστού ένατου | written  29ος / 29η / 29ο | ⚠ both halves take the ending
+
+30
+τριακοστός
+triakostos
+thirtieth — ordinal number | m  ο τριακοστός | f  η τριακοστή | n  το τριακοστό | gen  του τριακοστού | written  30ός / 30ή / 30ό | ⚠ not built from τριάντα — learn it as a word | η τριακοστή μέρα — the thirtieth day
+
+31
+τριακοστός πρώτος
+triakostos protos
+thirty-first — ordinal number | m  ο τριακοστός πρώτος | f  η τριακοστή πρώτη | n  το τριακοστό πρώτο | gen  του τριακοστού πρώτου | written  31ος / 31η / 31ο | ⚠ both halves take the ending
+
+32
+τριακοστός δεύτερος
+triakostos defteros
+thirty-second — ordinal number | m  ο τριακοστός δεύτερος | f  η τριακοστή δεύτερη | n  το τριακοστό δεύτερο | gen  του τριακοστού δεύτερου | written  32ος / 32η / 32ο | ⚠ both halves take the ending
+
+33
+τριακοστός τρίτος
+triakostos tritos
+thirty-third — ordinal number | m  ο τριακοστός τρίτος | f  η τριακοστή τρίτη | n  το τριακοστό τρίτο | gen  του τριακοστού τρίτου | written  33ος / 33η / 33ο | ⚠ both halves take the ending
+
+34
+τριακοστός τέταρτος
+triakostos tetartos
+thirty-fourth — ordinal number | m  ο τριακοστός τέταρτος | f  η τριακοστή τέταρτη | n  το τριακοστό τέταρτο | gen  του τριακοστού τέταρτου | written  34ος / 34η / 34ο | ⚠ both halves take the ending
+
+35
+τριακοστός πέμπτος
+triakostos pembtos
+thirty-fifth — ordinal number | m  ο τριακοστός πέμπτος | f  η τριακοστή πέμπτη | n  το τριακοστό πέμπτο | gen  του τριακοστού πέμπτου | written  35ος / 35η / 35ο | ⚠ both halves take the ending
+
+36
+τριακοστός έκτος
+triakostos ektos
+thirty-sixth — ordinal number | m  ο τριακοστός έκτος | f  η τριακοστή έκτη | n  το τριακοστό έκτο | gen  του τριακοστού έκτου | written  36ος / 36η / 36ο | ⚠ both halves take the ending
+
+37
+τριακοστός έβδομος
+triakostos evdomos
+thirty-seventh — ordinal number | m  ο τριακοστός έβδομος | f  η τριακοστή έβδομη | n  το τριακοστό έβδομο | gen  του τριακοστού έβδομου | written  37ος / 37η / 37ο | ⚠ both halves take the ending
+
+38
+τριακοστός όγδοος
+triakostos ogdoos
+thirty-eighth — ordinal number | m  ο τριακοστός όγδοος | f  η τριακοστή όγδοη | n  το τριακοστό όγδοο | gen  του τριακοστού όγδοου | written  38ος / 38η / 38ο | ⚠ both halves take the ending
+
+39
+τριακοστός ένατος
+triakostos enatos
+thirty-ninth — ordinal number | m  ο τριακοστός ένατος | f  η τριακοστή ένατη | n  το τριακοστό ένατο | gen  του τριακοστού ένατου | written  39ος / 39η / 39ο | ⚠ both halves take the ending
+
+40
+τεσσαρακοστός
+tessarakostos
+fortieth — ordinal number | m  ο τεσσαρακοστός | f  η τεσσαρακοστή | n  το τεσσαρακοστό | gen  του τεσσαρακοστού | written  40ός / 40ή / 40ό | ⚠ not built from σαράντα — learn it as a word | τα τεσσαρακοστά του γενέθλια — his fortieth birthday
+
+41
+τεσσαρακοστός πρώτος
+tessarakostos protos
+forty-first — ordinal number | m  ο τεσσαρακοστός πρώτος | f  η τεσσαρακοστή πρώτη | n  το τεσσαρακοστό πρώτο | gen  του τεσσαρακοστού πρώτου | written  41ος / 41η / 41ο | ⚠ both halves take the ending
+
+42
+τεσσαρακοστός δεύτερος
+tessarakostos defteros
+forty-second — ordinal number | m  ο τεσσαρακοστός δεύτερος | f  η τεσσαρακοστή δεύτερη | n  το τεσσαρακοστό δεύτερο | gen  του τεσσαρακοστού δεύτερου | written  42ος / 42η / 42ο | ⚠ both halves take the ending
+
+43
+τεσσαρακοστός τρίτος
+tessarakostos tritos
+forty-third — ordinal number | m  ο τεσσαρακοστός τρίτος | f  η τεσσαρακοστή τρίτη | n  το τεσσαρακοστό τρίτο | gen  του τεσσαρακοστού τρίτου | written  43ος / 43η / 43ο | ⚠ both halves take the ending
+
+44
+τεσσαρακοστός τέταρτος
+tessarakostos tetartos
+forty-fourth — ordinal number | m  ο τεσσαρακοστός τέταρτος | f  η τεσσαρακοστή τέταρτη | n  το τεσσαρακοστό τέταρτο | gen  του τεσσαρακοστού τέταρτου | written  44ος / 44η / 44ο | ⚠ both halves take the ending
+
+45
+τεσσαρακοστός πέμπτος
+tessarakostos pembtos
+forty-fifth — ordinal number | m  ο τεσσαρακοστός πέμπτος | f  η τεσσαρακοστή πέμπτη | n  το τεσσαρακοστό πέμπτο | gen  του τεσσαρακοστού πέμπτου | written  45ος / 45η / 45ο | ⚠ both halves take the ending
+
+46
+τεσσαρακοστός έκτος
+tessarakostos ektos
+forty-sixth — ordinal number | m  ο τεσσαρακοστός έκτος | f  η τεσσαρακοστή έκτη | n  το τεσσαρακοστό έκτο | gen  του τεσσαρακοστού έκτου | written  46ος / 46η / 46ο | ⚠ both halves take the ending
+
+47
+τεσσαρακοστός έβδομος
+tessarakostos evdomos
+forty-seventh — ordinal number | m  ο τεσσαρακοστός έβδομος | f  η τεσσαρακοστή έβδομη | n  το τεσσαρακοστό έβδομο | gen  του τεσσαρακοστού έβδομου | written  47ος / 47η / 47ο | ⚠ both halves take the ending
+
+48
+τεσσαρακοστός όγδοος
+tessarakostos ogdoos
+forty-eighth — ordinal number | m  ο τεσσαρακοστός όγδοος | f  η τεσσαρακοστή όγδοη | n  το τεσσαρακοστό όγδοο | gen  του τεσσαρακοστού όγδοου | written  48ος / 48η / 48ο | ⚠ both halves take the ending
+
+49
+τεσσαρακοστός ένατος
+tessarakostos enatos
+forty-ninth — ordinal number | m  ο τεσσαρακοστός ένατος | f  η τεσσαρακοστή ένατη | n  το τεσσαρακοστό ένατο | gen  του τεσσαρακοστού ένατου | written  49ος / 49η / 49ο | ⚠ both halves take the ending
+
+50
+πεντηκοστός
+pendikostos
+fiftieth — ordinal number | m  ο πεντηκοστός | f  η πεντηκοστή | n  το πεντηκοστό | gen  του πεντηκοστού | written  50ός / 50ή / 50ό | ⚠ not built from πενήντα — learn it as a word | η πεντηκοστή φορά — the fiftieth time
+
+51
+άσπρος
+aspros
+white — colour | agrees — type A | άσπρος / άσπρη / άσπρο | το άσπρο πουκάμισο · η άσπρη πόρτα · τα άσπρα μαλλιά
+
+52
+λευκός
+lefkos
+white (formal, written) — colour | agrees — type A | λευκός / λευκή / λευκό | το λευκό κρασί · η Λευκωσία
+
+53
+μαύρος
+mavros
+black — colour | agrees — type A | μαύρος / μαύρη / μαύρο | ο μαύρος καφές · η μαύρη τσάντα · τα μαύρα παπούτσια
+
+54
+κόκκινος
+kokkinos
+red — colour | agrees — type A | κόκκινος / κόκκινη / κόκκινο | το κόκκινο κρασί · η κόκκινη μπλούζα · το κόκκινο φανάρι
+
+55
+πράσινος
+prasinos
+green — colour | agrees — type A | πράσινος / πράσινη / πράσινο | τα πράσινα μάτια · το πράσινο φανάρι
+
+56
+κίτρινος
+kitrinos
+yellow — colour | agrees — type A | κίτρινος / κίτρινη / κίτρινο | ο κίτρινος ήλιος · τα κίτρινα λουλούδια
+
+57
+γαλάζιος
+galazios
+light blue, sky blue — colour | agrees — type B ⚠ -α not -η | γαλάζιος / γαλάζια / γαλάζιο | έχει γαλάζια μάτια — she has blue eyes
+
+58
+γκρίζος
+grizos
+grey — colour | agrees — type B ⚠ -α not -η | γκρίζος / γκρίζα / γκρίζο | τα γκρίζα μαλλιά · μια γκρίζα μέρα
+
+59
+χρυσός
+hrisos
+gold, golden — colour | agrees — type A | χρυσός / χρυσή / χρυσό | το χρυσό μετάλλιο — the gold medal | ένα χρυσό δαχτυλίδι — a gold ring | ο χρυσός = gold, the metal
+
+60
+ασημένιος
+asimenios
+silver — colour | agrees — type B ⚠ -α not -η | ασημένιος / ασημένια / ασημένιο | το ασημένιο μετάλλιο — the silver medal | ένα ασημένιο δαχτυλίδι — a silver ring | το ασήμι = silver, the metal
+
+61
+χάλκινος
+halkinos
+bronze, copper — colour | agrees — type A | χάλκινος / χάλκινη / χάλκινο | το χάλκινο μετάλλιο — the bronze medal | ο χαλκός = copper | ⚠ μπρούντζινος is the material (ένα μπρούντζινο άγαλμα), never the medal
+
+62
+καστανός
+kastanos
+brown (hair and eyes) — colour | agrees — type A | καστανός / καστανή / καστανό | έχει καστανά μάτια — he has brown eyes
+
+63
+ξανθός
+xanthos
+blond, fair — colour | agrees — the -ός / -ιά / -ό type | ξανθός / ξανθιά (ξανθή) / ξανθό | είναι ξανθιά — she is blonde
+
+64
+μελαχρινός
+melahrinos
+dark-haired, olive-skinned — colour | agrees — type A | μελαχρινός / μελαχρινή / μελαχρινό | ο θείος είναι ψηλός και μελαχρινός
+
+65
+μπλε
+ble
+blue — colour | ⚠ never changes — same in every gender, case and number | ο μπλε τοίχος · η μπλε μπλούζα · το μπλε αυτοκίνητο · τα μπλε αυτοκίνητα
+
+66
+γκρι
+gri
+grey — colour | ⚠ never changes — same in every gender, case and number | το γκρι παντελόνι · οι γκρι τοίχοι  (γκρίζος is the one that agrees)
+
+67
+καφέ
+kafe
+brown — colour | ⚠ never changes — same in every gender, case and number | τα καφέ παπούτσια · μια καφέ τσάντα  (καστανός for hair and eyes)
+
+68
+ροζ
+roz
+pink — colour | ⚠ never changes — same in every gender, case and number | το ροζ φόρεμα · τα ροζ λουλούδια
+
+69
+μωβ
+mov
+purple — colour | ⚠ never changes — same in every gender, case and number | μια μωβ μπλούζα · τα μωβ λουλούδια
+
+70
+μπεζ
+bez
+beige — colour | ⚠ never changes — same in every gender, case and number | ένα μπεζ παλτό
+
+71
+πορτοκαλί
+portokali
+orange — colour | one form for everything (neuter of an old -ής / -ιά / -ί word) | ένα πορτοκαλί μπλουζάκι · μια πορτοκαλί τσάντα | ⚠ η πορτοκαλιά = the orange TREE
+
+72
+θαλασσί
+thalassi
+sea blue, turquoise — colour | one form for everything (neuter of an old -ής / -ιά / -ί word) | ένα θαλασσί φόρεμα
+
+73
+ασημί
+asimi
+silver (the colour) — colour | one form for everything (neuter of an old -ής / -ιά / -ί word) | ένα ασημί αυτοκίνητο — a silver car | ⚠ ασημένιος = made of silver; ασημί = silver-coloured
+
+74
+βυσσινί
+vissini
+cherry red, maroon — colour | one form for everything (neuter of an old -ής / -ιά / -ί word) | ένα βυσσινί παλτό
+
+75
+το χρώμα
+to hroma
+the colour — noun, neuter, -μα type | τα χρώματα — the colours | Το αγαπημένο μου χρώμα είναι το πράσινο. — My favourite colour is green. | το κόκκινο, το μπλε — a colour on its own takes το
+
+76
+Τι χρώμα είναι;
+ti hroma ine;
+What colour is it? | also Τι χρώμα έχει; | the answer agrees with the NOUN, not with χρώμα | Τι χρώμα είναι η μπλούζα σου; — Είναι κόκκινη. | Τι χρώμα είναι τα παπούτσια σου; — Είναι μαύρα.
+
+77
+ανοιχτό
+anihto
+light (shade) | ανοιχτό μπλε, ανοιχτό γκρι — stays neuter before an invariable colour | ανοιχτοπράσινος, ανοιχτογάλαζος — as one word it declines normally
+
+78
+σκούρο
+skouro
+dark (shade) | σκούρο μπλε, σκούρο καφέ — stays neuter before an invariable colour | σκουροπράσινος, σκουροκόκκινος — as one word it declines normally | ένα σκούρο μπλε παντελόνι — a dark blue pair of trousers
+
+79
+το μετάλλιο
+to metallio
+the medal — noun, neuter | τα μετάλλια — the medals | the colour is neuter too: το χρυσό / ασημένιο / χάλκινο μετάλλιο | Πήρε το χρυσό. — He/She took the gold. | Κέρδισε δύο χρυσά μετάλλια. — He/She won two gold medals.
+
+80
+ασπρόμαυρος
+aspromavros
+black and white | ασπρόμαυρος / ασπρόμαυρη / ασπρόμαυρο | ⚠ Greek says it the other way round — white-black | μια ασπρόμαυρη φωτογραφία — a black-and-white photo

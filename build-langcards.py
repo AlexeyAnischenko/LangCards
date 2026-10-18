@@ -33,6 +33,10 @@ DICTS = [
     # every adjective the two books and the exams use, fully declined
     ('adj',     'greek-a2-adjectives.txt',
                 u'A2 adjectives — full declension'),
+    # 1st to 50th plus the basic colours: both are adjectives that have to
+    # agree, except the six colour loanwords that never change
+    ('ordcol',  'greek-a2-ordinals-colours.txt',
+                u'Ordinals 1–50 & colours'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
