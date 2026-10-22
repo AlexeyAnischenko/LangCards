@@ -31,15 +31,15 @@ DICTS = [
     ('interview', 'greek-cyprus-citizenship-interview.txt',
                 u'Cyprus citizenship interview — questions & answers'),
     # every adjective the two books and the exams use, fully declined
-    ('adj',     'greek-a2-adjectives.txt',
-                u'A2 adjectives — full declension'),
+    ('adj',     'klik-a2-adjectives.txt',
+                u'KLIK A2 adjectives — full declension'),
     # 1st to 50th plus the basic colours: both are adjectives that have to
     # agree, except the six colour loanwords that never change
     ('ordcol',  'greek-a2-ordinals-colours.txt',
                 u'Ordinals 1–50 & colours'),
     # words the B1 book uses 3+ times that none of the A2 material covers
-    ('b1add',   'greek-b1-additions-3times.txt',
-                u'B1 additions — new words, 3+ times'),
+    ('b1add',   'klik-b1-additions-3times.txt',
+                u'KLIK B1 additions — new words, 3+ times'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()

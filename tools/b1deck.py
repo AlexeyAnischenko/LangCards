@@ -26,7 +26,7 @@ LC = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SC = (r'C:/Users/ALEKSE~1.ANI/AppData/Local/Temp/claude/C--Work-Personal/'
       r'76763e5c-92fc-4381-9832-65f387224c81/scratchpad')
 B1 = os.path.join(SC, 'b1')
-OUT = os.path.join(LC, 'greek-b1-additions-3times.txt')
+OUT = os.path.join(LC, 'klik-b1-additions-3times.txt')
 
 ART = (u'ο', u'η', u'το', u'οι', u'τα')
 
