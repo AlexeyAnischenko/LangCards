@@ -1,0 +1,1449 @@
+1
+η διακοπή
+i diakopi
+interruption, cut-off (power cut); in the plural οι διακοπές = holidays, vacation — noun | as printed: διακοπές, διακοπών | seen 42 times in the B1 book
+
+2
+παχύς
+pahis
+thick; fat — adjective | as printed: παχιά, παχιάς, παχύ | seen 24 times in the B1 book | ⚠ παχιά is the feminine of παχύς
+
+3
+η κατασκευή
+i kataskevi
+construction, building; structure — noun | as printed: κατασκευής | seen 19 times in the B1 book
+
+4
+περιέχω
+perieho
+to contain, include — verb | as printed: περιέχει, περιέχουν | seen 19 times in the B1 book
+
+5
+η παράγραφος
+i paragrafos
+paragraph — noun | as printed: παράγραφο | seen 17 times in the B1 book | ⚠ feminine despite the -ος ending
+
+6
+τεμπέλης
+tembelis
+lazy; as a noun, a lazy person — adjective | as printed: τεμπέλα, τεμπέλες, τεμπέλη, τεμπέλο | seen 17 times in the B1 book | ⚠ wrong lemma ending from spaCy; feminine τεμπέλα, neuter τεμπέλικο
+
+7
+το ρήμα
+to rima
+verb (grammar) — noun | as printed: ρήματα | seen 17 times in the B1 book
+
+8
+τοπικός
+topikos
+local — adjective | as printed: τοπικά, τοπικές, τοπική, τοπικού, τοπικό | seen 16 times in the B1 book
+
+9
+ανήκω
+aniko
+to belong (to) — verb | as printed: ανήκει, ανήκετε, ανήκουν | seen 14 times in the B1 book
+
+10
+θετικός
+thetikos
+positive — adjective | as printed: θετικά, θετικές, θετική | seen 14 times in the B1 book
+
+11
+ανθρώπινος
+anthropinos
+human — adjective | as printed: ανθρώπινα, ανθρώπινες, ανθρώπινη, ανθρώπινης, ανθρώπινο, ανθρώπινων | seen 12 times in the B1 book
+
+12
+η ποσότητα
+i posotita
+quantity, amount — noun | as printed: ποσότητες | seen 12 times in the B1 book
+
+13
+η αξία
+i axia
+value, worth; in the plural οι αξίες = values, principles — noun | as printed: αξίας, αξίες | seen 11 times in the B1 book
+
+14
+η κριτική
+i kritiki
+criticism; a review (of a film, book) — noun | as printed: κριτικής | seen 11 times in the B1 book
+
+15
+η πολυτέλεια
+i politelia
+luxury — noun | as printed: πολυτελείας | seen 11 times in the B1 book | ⚠ spaCy failed to shift the accent back from the printed genitive; printed in the fixed phrase for a luxury house/flat
+
+16
+ισχυρός
+ishiros
+strong, powerful — adjective | as printed: ισχυρές, ισχυροί, ισχυρούς | seen 11 times in the B1 book
+
+17
+ο εκφοβισμός
+o ekfovismos
+bullying, intimidation — noun | as printed: εκφοβισμού, εκφοβισμό | seen 11 times in the B1 book
+
+18
+πετυχαίνω
+petiheno
+succeed, achieve, manage — verb | as printed: πετυχαίνει, πετυχαίνουν, πετύχει, πετύχετε, πετύχω | seen 11 times in the B1 book | ⚠ πετύχω/πετύχει are aorist subjunctive forms of πετυχαίνω.
+
+19
+φυσικός
+fisikos
+natural — adjective | as printed: φυσικά, φυσικές, φυσική, φυσικό | seen 11 times in the B1 book | ⚠ φυσικά as adverb = 'of course, naturally'; η φυσική = physics
+
+20
+δυτικός
+ditikos
+western, west — adjective | as printed: δυτικές, δυτική, δυτικής, δυτικό | seen 10 times in the B1 book
+
+21
+η υποχρέωση
+i ipohreosi
+obligation, duty, commitment — noun | as printed: υποχρεώσεις | seen 10 times in the B1 book
+
+22
+προέρχομαι
+proerhome
+to come from, originate, derive — verb | as printed: προέρχονται | seen 10 times in the B1 book | ⚠ spaCy returned the 3rd person plural as the lemma; deponent verb in -ομαι
+
+23
+το συναίσθημα
+to sinesthima
+feeling, emotion — noun | as printed: συναισθήματα | seen 10 times in the B1 book | ⚠ spaCy kept the plural; singular is το συναίσθημα
+
+24
+αρνητικός
+arnitikos
+negative — adjective | as printed: αρνητικά, αρνητικές, αρνητική, αρνητικό | seen 9 times in the B1 book
+
+25
+βιαστικός
+viastikos
+hurried, in a hurry — adjective | as printed: βιαστικά, βιαστικές, βιαστική | seen 9 times in the B1 book | ⚠ βιαστικά as adverb = 'hastily, in a rush'
+
+26
+η ακροστιχίδα
+i akrostihida
+acrostic (word puzzle) — noun | seen 9 times in the B1 book | ⚠ spaCy gave the genitive as the lemma
+
+27
+η καριέρα
+i kariera
+career — noun | as printed: καριέρας | seen 9 times in the B1 book
+
+28
+η περίοδος
+i periodos
+period, spell of time — noun | as printed: περίοδο | seen 9 times in the B1 book | ⚠ feminine despite the -ος ending
+
+29
+καταναλώνω
+katanalono
+to consume, use up — verb | as printed: καταναλώνει, καταναλώνετε, καταναλώνουν | seen 9 times in the B1 book
+
+30
+νευρικός
+nevrikos
+nervous, edgy, irritable — adjective | as printed: νευρική | seen 9 times in the B1 book
+
+31
+πραγματικός
+pragmatikos
+real, actual, genuine — adjective | as printed: πραγματικές, πραγματική, πραγματικό | seen 9 times in the B1 book | ⚠ πραγματικά as adverb = 'really'
+
+32
+το θάρρος
+to tharros
+courage, nerve — noun | seen 9 times in the B1 book
+
+33
+υγιεινά
+iyiina
+healthily, in a healthy way — adverb | seen 9 times in the B1 book | ⚠ almost always in the fixed expression τρώω υγιεινά (eat healthily); the adjective behind it is υγιεινός
+
+34
+αισιόδοξος
+esiodoxos
+optimistic — adjective | as printed: αισιόδοξη | seen 8 times in the B1 book | ⚠ an adjective, not a noun as tagged
+
+35
+εκτυπώνω
+ektipono
+to print (out) — verb | as printed: εκτυπώστε | seen 8 times in the B1 book | ⚠ printed form is the imperative εκτυπώστε in exercise instructions
+
+36
+ευαίσθητος
+evesthitos
+sensitive — adjective | as printed: ευαίσθητο | seen 8 times in the B1 book
+
+37
+η ανακαίνιση
+i anakenisi
+renovation, refurbishment — noun | seen 8 times in the B1 book
+
+38
+η θερμίδα
+i thermida
+calorie — noun | as printed: θερμίδες | seen 8 times in the B1 book
+
+39
+η ρύπανση
+i ripansi
+pollution — noun | as printed: ρύπανσης | seen 8 times in the B1 book
+
+40
+η υγρασία
+i igrasia
+humidity, damp, moisture — noun | as printed: υγρασίες | seen 8 times in the B1 book
+
+41
+η ψυχή
+i psihi
+soul, spirit — noun | as printed: ψυχές, ψυχής, ψυχών | seen 8 times in the B1 book
+
+42
+ιδανικός
+idanikos
+ideal, perfect — adjective | as printed: ιδανικές, ιδανικό | seen 8 times in the B1 book
+
+43
+ο καταναλωτής
+o katanalotis
+consumer — noun | as printed: καταναλωτές, καταναλωτή | seen 8 times in the B1 book
+
+44
+παρόμοιος
+paromios
+similar, alike — adjective | as printed: παρόμοια, παρόμοιες, παρόμοιο | seen 8 times in the B1 book
+
+45
+το μπαχαρικό
+to bahariko
+spice (usually plural τα μπαχαρικά) — noun | as printed: μπαχαρικά | seen 8 times in the B1 book | ⚠ a neuter noun, not an adjective
+
+46
+το νεύρο
+to nevro
+nerve; in the plural τα νεύρα = nerves, temper — noun | as printed: νεύρα | seen 8 times in the B1 book | ⚠ printed only in the plural, in the idioms έχω νεύρα 'be irritable' and μου δίνει στα νεύρα 'it gets on my nerves'
+
+47
+το χώμα
+to homa
+soil, earth, ground — noun | seen 8 times in the B1 book
+
+48
+τοποθετώ
+topotheto
+place, put, position — verb | as printed: τοποθετείτε, τοποθετούμε | seen 8 times in the B1 book | ⚠ spaCy mistagged as proper noun; it is a verb.
+
+49
+εργατικός
+ergatikos
+hard-working; labour- (εργατικό δυναμικό) — adjective | as printed: εργατική, εργατικοί | seen 7 times in the B1 book
+
+50
+η αρχιτεκτονική
+i arhitektoniki
+architecture — noun | as printed: αρχιτεκτονικό | seen 7 times in the B1 book | ⚠ the adjective αρχιτεκτονικός 'architectural' also occurs (αρχιτεκτονικό σχέδιο)
+
+51
+η αύξηση
+i afxisi
+increase, rise — noun | as printed: αύξησης | seen 7 times in the B1 book
+
+52
+η εμπιστοσύνη
+i embistosini
+trust, confidence — noun | as printed: εμπιστοσύνης | seen 7 times in the B1 book
+
+53
+η επιστολή
+i epistoli
+letter (formal), missive — noun | as printed: επιστολές, επιστολής | seen 7 times in the B1 book | ⚠ the formal counterpart of το γράμμα
+
+54
+η κακοκαιρία
+i kakokeria
+bad weather, spell of bad weather — noun | as printed: κακοκαιρίας | seen 7 times in the B1 book
+
+55
+η κατανάλωση
+i katanalosi
+consumption — noun | as printed: κατανάλωσης | seen 7 times in the B1 book
+
+56
+κλιτικός
+klitikos
+inflectional — adjective | as printed: κλιτικά, κλιτικό, κλπικό | seen 7 times in the B1 book | ⚠ grammar metalanguage (κλιτικά μέρη του λόγου)
+
+57
+ο παρατατικός
+o paratatikos
+imperfect tense — noun | as printed: παρατατικού, παρατατικό | seen 7 times in the B1 book | ⚠ Grammar metalanguage of the textbook, not general vocabulary.
+
+58
+ο πλαγιότιτλος
+o playiotitlos
+subheading (given to a paragraph) — noun | as printed: πλαγιότιτλο | seen 7 times in the B1 book | ⚠ schoolbook term, used in the exercise instruction «βάλε πλαγιότιτλους»
+
+59
+ο τουρισμός
+o tourismos
+tourism — noun | as printed: τουρισμού, τουρισμό | seen 7 times in the B1 book
+
+60
+περιβαλλοντικός
+perivallondikos
+environmental — adjective | as printed: περιβαλλοντικά, περιβαλλοντική, περιβαλλοντικό | seen 7 times in the B1 book
+
+61
+πνέω
+pneo
+blow (of wind) — verb | as printed: πνέουν | seen 7 times in the B1 book | ⚠ Used almost only of wind: πνέουν ισχυροί άνεμοι.
+
+62
+πωλούμαι
+poloume
+be sold, be for sale — verb | as printed: πωλούνται | seen 7 times in the B1 book | ⚠ Formal register; met mostly as πωλείται/πωλούνται in classified ads.
+
+63
+το θύμα
+to thima
+victim — noun | as printed: θύματα | seen 7 times in the B1 book
+
+64
+χαρακτηριστικός
+haraktiristikos
+characteristic, typical — adjective | as printed: χαρακτηριστικά, χαρακτηριστική, χαρακτηριστικό | seen 7 times in the B1 book | ⚠ the neuter noun το χαρακτηριστικό = feature, trait (τα χαρακτηριστικά also = facial features)
+
+65
+βιολογικός
+violoyikos
+organic (food); biological — adjective | as printed: βιολογικά, βιολογικών | seen 6 times in the B1 book
+
+66
+γραφικός
+grafikos
+picturesque, quaint; graphic, written — adjective | as printed: γραφικά, γραφική, γραφικό | seen 6 times in the B1 book
+
+67
+διαδικτυακός
+diadiktiakos
+online, internet- — adjective | as printed: διαδικτυακές, διαδικτυακή, διαδικτυακό | seen 6 times in the B1 book
+
+68
+ζεσταίνω
+zesteno
+heat, warm up — verb | as printed: ζεσταίνει, ζεσταίνουν | seen 6 times in the B1 book
+
+69
+η απειλή
+i apili
+threat — noun | seen 6 times in the B1 book
+
+70
+η έκταση
+i ektasi
+area, expanse; extent — noun | seen 6 times in the B1 book
+
+71
+η καταστροφή
+i katastrofi
+destruction, disaster — noun | as printed: καταστροφές | seen 6 times in the B1 book
+
+72
+η μόλυνση
+i molinsi
+pollution; infection — noun | seen 6 times in the B1 book
+
+73
+η μοναξιά
+i monaxia
+loneliness, solitude — noun | seen 6 times in the B1 book
+
+74
+η οδήγηση
+i odiyisi
+driving — noun | as printed: οδήγησης | seen 6 times in the B1 book
+
+75
+η πορεία
+i poria
+course, route; march, protest march — noun | seen 6 times in the B1 book
+
+76
+η σκηνή
+i skini
+scene; stage; tent — noun | as printed: σκηνές | seen 6 times in the B1 book | ⚠ Tagged an adjective by spaCy; it is a feminine noun.
+
+77
+λιγότερος
+ligoteros
+less, fewer — adjective | as printed: λιγότερα | seen 6 times in the B1 book | ⚠ comparative of λίγος
+
+78
+ξεκουράζω
+xekourazo
+rest, give rest to (ξεκουράζομαι = to rest, relax) — verb | as printed: ξεκουράζει, ξεκουράζονται, ξεκουράζουν | seen 6 times in the B1 book
+
+79
+ο κλιματισμός
+o klimatismos
+air conditioning — noun | as printed: κλιματισμού, κλιματισμό | seen 6 times in the B1 book
+
+80
+ο λαός
+o laos
+people, nation — noun | as printed: λαού, λαούς | seen 6 times in the B1 book
+
+81
+οργανωμένος
+organomenos
+organized, well-run — adjective | as printed: οργανωμένα, οργανωμένες, οργανωμένο | seen 6 times in the B1 book
+
+82
+πλήρης
+pliris
+full, complete — adjective | as printed: πλήρες | seen 6 times in the B1 book | ⚠ Neuter πλήρες was the printed form; this is an adjective, not a noun as tagged.
+
+83
+το έδαφος
+to edafos
+ground, soil; territory — noun | seen 6 times in the B1 book
+
+84
+το παρελθόν
+to parelthon
+the past — noun | seen 6 times in the B1 book
+
+85
+φανερώνω
+fanerono
+reveal, show, make evident — verb | as printed: φανερώνει, φανερώνουν | seen 6 times in the B1 book
+
+86
+αναγκάζω
+anangazo
+force, compel (αναγκάζομαι = be forced to) — verb | as printed: αναγκάζομαι | seen 5 times in the B1 book
+
+87
+ασχολούμαι
+asholoume
+be occupied with, deal with, take an interest in (+ με) — verb | as printed: ασχολούνται | seen 5 times in the B1 book
+
+88
+διώροφος
+diorofos
+two-storey — adjective | as printed: διώροφο | seen 5 times in the B1 book | ⚠ Tagged an adverb by spaCy; the neuter διώροφο also stands alone for a two-storey house.
+
+89
+η αξιοποίηση
+i axiopiisi
+utilization, making good use of — noun | seen 5 times in the B1 book
+
+90
+η απαίτηση
+i apetisi
+demand, requirement — noun | as printed: απαιτήσεις | seen 5 times in the B1 book
+
+91
+η δημιουργία
+i dimiouryia
+creation — noun | seen 5 times in the B1 book
+
+92
+η ημιδιατροφή
+i imidiatrofi
+half board (hotel) — noun | as printed: ημιδιατροφές | seen 5 times in the B1 book
+
+93
+η μετακόμιση
+i metakomisi
+moving house, relocation — noun | seen 5 times in the B1 book
+
+94
+η πάπια
+i papia
+duck — noun | as printed: πάπιες | seen 5 times in the B1 book | ⚠ Also the idiom κάνω την πάπια, to play dumb.
+
+95
+η πείνα
+i pina
+hunger — noun | as printed: πείνας | seen 5 times in the B1 book
+
+96
+θρεπτικός
+threptikos
+nutritious — adjective | as printed: θρεπτικά, θρεπτικές, θρεπτικό | seen 5 times in the B1 book
+
+97
+κοντινός
+kondinos
+nearby, close — adjective | as printed: κοντινή, κοντινοί, κοντινό | seen 5 times in the B1 book
+
+98
+μεσογειακός
+mesoyiakos
+Mediterranean — adjective | as printed: μεσογειακή, μεσογειακής | seen 5 times in the B1 book
+
+99
+μεταφορικός
+metaforikos
+figurative, metaphorical; transport- — adjective | as printed: μεταφορικές, μεταφορική, μεταφορικό | seen 5 times in the B1 book
+
+100
+ο πηλός
+o pilos
+clay — noun | as printed: πηλό | seen 5 times in the B1 book | ⚠ Tagged an adjective by spaCy; it is a masculine noun.
+
+101
+ο φιλοξενούμενος
+o filoxenoumenos
+guest — noun | as printed: φιλοξενούμενοι | seen 5 times in the B1 book
+
+102
+ο φόρος
+o foros
+tax — noun | as printed: φόρους | seen 5 times in the B1 book
+
+103
+ορεινός
+orinos
+mountainous, mountain- — adjective | as printed: ορεινά, ορεινό | seen 5 times in the B1 book
+
+104
+παραμένω
+parameno
+remain, stay — verb | as printed: παραμένει, παραμένουν, παραμείνει | seen 5 times in the B1 book
+
+105
+σημερινός
+simerinos
+today's, present-day — adjective | as printed: σημερινή, σημερινό | seen 5 times in the B1 book
+
+106
+συγγενικός
+singenikos
+related, kindred (συγγενικά πρόσωπα; συγγενικές λέξεις = cognate words) — adjective | as printed: συγγενικές, συγγενική, συγγενικό | seen 5 times in the B1 book
+
+107
+συνηθίζω
+sinithizo
+be in the habit of, usually do — verb | as printed: συνηθίζει | seen 5 times in the B1 book
+
+108
+το ζήτημα
+to zitima
+issue, matter — noun | as printed: ζητήματα | seen 5 times in the B1 book
+
+109
+το μήκος
+to mikos
+length — noun | as printed: μήκους | seen 5 times in the B1 book
+
+110
+το πλακάκι
+to plakaki
+tile — noun | as printed: πλακάκια | seen 5 times in the B1 book
+
+111
+τρομερός
+tromeros
+terrible; (colloq.) terrific — adjective | as printed: τρομερή, τρομερό | seen 5 times in the B1 book
+
+112
+υδραυλικός
+idravlikos
+plumbing-, hydraulic; (as a noun, ο υδραυλικός) plumber — adjective | as printed: υδραυλικά | seen 5 times in the B1 book
+
+113
+φιλόξενος
+filoxenos
+hospitable, welcoming — adjective | as printed: φιλόξενα | seen 5 times in the B1 book | ⚠ Tagged a proper noun by spaCy; it is an ordinary adjective.
+
+114
+χρονικός
+hronikos
+of time, temporal (χρονικό διάστημα = period of time) — adjective | as printed: χρονική, χρονικό | seen 5 times in the B1 book
+
+115
+χτίζω
+htizo
+build — verb | as printed: χτίζουν, χτίσω | seen 5 times in the B1 book
+
+116
+ωφελώ
+ofelo
+benefit, be of use to — verb | as printed: ωφελεί, ωφελούν | seen 5 times in the B1 book | ⚠ Tagged a noun by spaCy; it is a verb.
+
+117
+ακουστικός
+akoustikos
+auditory, acoustic — adjective | as printed: ακουστική, ακουστικό, ακουστικών | seen 4 times in the B1 book | ⚠ textbook metalanguage (ακουστική κατανόηση = listening comprehension); η ακουστική = acoustics, το ακουστικό = earpiece
+
+118
+απειλητικός
+apilitikos
+threatening — adjective | seen 4 times in the B1 book
+
+119
+απέχω
+apeho
+be distant from, be X away; abstain — verb | as printed: απέχει, απέχουν | seen 4 times in the B1 book
+
+120
+ασφαλίζω
+asfalizo
+insure; secure, fasten — verb | seen 4 times in the B1 book
+
+121
+γευστικός
+yefstikos
+tasty; of taste — adjective | as printed: γευστικά, γευστική | seen 4 times in the B1 book
+
+122
+δορυφορικός
+doriforikos
+satellite (TV, dish) — adjective | as printed: δορυφορική | seen 4 times in the B1 book
+
+123
+εναλλακτικός
+enallaktikos
+alternative — adjective | as printed: εναλλακτική, εναλλακτικό | seen 4 times in the B1 book
+
+124
+έντονος
+endonos
+intense, strong — adjective | as printed: έντονα, έντονο | seen 4 times in the B1 book | ⚠ adverb έντονα = intensely
+
+125
+εξωτικός
+exotikos
+exotic — adjective | as printed: εξωτικά, εξωτικό | seen 4 times in the B1 book
+
+126
+ερωτευμένος
+erotevmenos
+in love — adjective | as printed: ερωτευμένοι | seen 4 times in the B1 book | ⚠ passive participle of ερωτεύομαι used as an adjective
+
+127
+ερωτεύομαι
+erotevome
+fall in love — verb | as printed: ερωτεύεται | seen 4 times in the B1 book
+
+128
+ευρύχωρος
+evrihoros
+spacious, roomy — adjective | as printed: ευρύχωρο | seen 4 times in the B1 book
+
+129
+η αντοχή
+i andohi
+endurance, stamina — noun | seen 4 times in the B1 book
+
+130
+η βάρκα
+i varka
+boat — noun | seen 4 times in the B1 book
+
+131
+η βιασύνη
+i viasini
+haste, hurry — noun | seen 4 times in the B1 book
+
+132
+η διανυκτέρευση
+i dianikterefsi
+overnight stay — noun | as printed: διανυκτερεύσεις | seen 4 times in the B1 book
+
+133
+η εισαγωγή
+i isagoyi
+introduction; import — noun | seen 4 times in the B1 book
+
+134
+η ένταση
+i endasi
+tension; intensity; volume (of sound) — noun | seen 4 times in the B1 book
+
+135
+η ευθύνη
+i efthini
+responsibility — noun | as printed: ευθύνες | seen 4 times in the B1 book
+
+136
+η καταγωγή
+i katagoyi
+origin, descent — noun | seen 4 times in the B1 book | ⚠ spaCy tagged it as a proper noun
+
+137
+η κούνια
+i kounia
+swing; cradle — noun | seen 4 times in the B1 book
+
+138
+η κυβέρνηση
+i kivernisi
+government — noun | as printed: κυβέρνησης, κυβερνήσεις | seen 4 times in the B1 book
+
+139
+η ξεκούραση
+i xekourasi
+rest, relaxation — noun | seen 4 times in the B1 book
+
+140
+η πέτρα
+i petra
+stone — noun | as printed: πέτρες | seen 4 times in the B1 book
+
+141
+η ρίζα
+i riza
+root — noun | as printed: ρίζες | seen 4 times in the B1 book
+
+142
+η σοφίτα
+i sofita
+attic, loft — noun | seen 4 times in the B1 book
+
+143
+η συλλαβή
+i sillavi
+syllable — noun | as printed: συλλαβών | seen 4 times in the B1 book | ⚠ only the genitive plural was printed; grammar metalanguage
+
+144
+η υποψηφιότητα
+i ipopsifiotita
+candidacy, nomination — noun | as printed: υποψηφιότητες | seen 4 times in the B1 book
+
+145
+καλοκαιρινός
+kalokerinos
+summer-, summery — adjective | as printed: καλοκαιρινά, καλοκαιρινές | seen 4 times in the B1 book
+
+146
+κειμενικός
+kimenikos
+textual, text- — adjective | as printed: κειμενικά, κειμενικών | seen 4 times in the B1 book | ⚠ textbook metalanguage (κειμενικά είδη = text types)
+
+147
+κινηματογραφικός
+kinimatografikos
+cinematic, film- — adjective | as printed: κινηματογραφικά, κινηματογραφικές, κινηματογραφική | seen 4 times in the B1 book
+
+148
+κουράζομαι
+kourazome
+get tired — verb | as printed: κουράζεται | seen 4 times in the B1 book
+
+149
+ξαφνικός
+xafnikos
+sudden — adjective | as printed: ξαφνικά, ξαφνικές, ξαφνική, ξαφνικό | seen 4 times in the B1 book | ⚠ the adverb ξαφνικά (suddenly) is the commoner form
+
+150
+ξερός
+xeros
+dry — adjective | as printed: ξερά | seen 4 times in the B1 book | ⚠ Printed as neuter plural ξερά (ξερά φρούτα, ξερά φύλλα); spaCy mistagged it as an adverb.
+
+151
+ο δυναμισμός
+o dinamismos
+dynamism, drive — noun | as printed: δυναμισμό | seen 4 times in the B1 book
+
+152
+ο εξοπλισμός
+o exoplismos
+equipment — noun | as printed: εξοπλισμό | seen 4 times in the B1 book
+
+153
+ο καπετάνιος
+o kapetanios
+captain, skipper — noun | seen 4 times in the B1 book | ⚠ spaCy tagged it as an adjective
+
+154
+ο κόπος
+o kopos
+effort, trouble — noun | as printed: κόπο | seen 4 times in the B1 book | ⚠ μπαίνω στον κόπο = go to the trouble
+
+155
+ο μεταβολισμός
+o metavolismos
+metabolism — noun | as printed: μεταβολισμού, μεταβολισμό | seen 4 times in the B1 book
+
+156
+ο ναύτης
+o naftis
+sailor — noun | as printed: ναύτες | seen 4 times in the B1 book
+
+157
+ο παράγοντας
+o paragondas
+factor — noun | as printed: παράγοντα, παράγοντες | seen 4 times in the B1 book
+
+158
+ο πεθερός
+o petheros
+father-in-law — noun | as printed: πεθερό | seen 4 times in the B1 book
+
+159
+ο ταξιτζής
+o taxitzis
+taxi driver — noun | seen 4 times in the B1 book | ⚠ spaCy tagged it as an adverb
+
+160
+ορισμένος
+orismenos
+certain, some, specified — adjective | as printed: ορισμένα, ορισμένη, ορισμένων | seen 4 times in the B1 book
+
+161
+πειράζω
+pirazo
+bother; tease — verb | as printed: πειράζει | seen 4 times in the B1 book | ⚠ δεν πειράζει = never mind
+
+162
+πραγματοποιώ
+pragmatopio
+carry out, realize — verb | as printed: πραγματοποίησαν, πραγματοποιεί, πραγματοποιείται, πραγματοποιούνται | seen 4 times in the B1 book
+
+163
+προβάλλω
+provallo
+screen, show; put forward — verb | as printed: προβάλλει, προβάλλεται, προβάλλονται | seen 4 times in the B1 book
+
+164
+προστατεύω
+prostatevo
+protect — verb | as printed: προστατεύεται, προστατεύουν | seen 4 times in the B1 book
+
+165
+σπασμένος
+spasmenos
+broken — adjective | as printed: σπασμένα, σπασμένοι | seen 4 times in the B1 book | ⚠ passive participle of σπάω used as an adjective
+
+166
+στρογγυλός
+strongilos
+round — adjective | as printed: στρογγυλό | seen 4 times in the B1 book
+
+167
+συμβαίνω
+simveno
+happen, occur — verb | as printed: συμβαίνει, συμβαίνουν | seen 4 times in the B1 book
+
+168
+συμβολίζω
+simvolizo
+symbolize, stand for — verb | as printed: συμβολίζει, συμβολίζουν | seen 4 times in the B1 book
+
+169
+συνδυάζω
+sindiazo
+combine, match — verb | as printed: συνδυάζει, συνδυάσουμε, συνδυάσουν | seen 4 times in the B1 book
+
+170
+συνθέτω
+sintheto
+compose, put together — verb | as printed: συνθέτουν | seen 4 times in the B1 book
+
+171
+το άδικο
+to adiko
+the wrong, injustice; έχω άδικο = to be wrong — noun | seen 4 times in the B1 book | ⚠ mostly in the fixed expression έχω/έχεις άδικο; the adjective άδικος = unfair
+
+172
+το άκρο
+to akro
+edge, extreme; (pl.) limbs — noun | as printed: άκρα | seen 4 times in the B1 book
+
+173
+το ελάττωμα
+to elattoma
+flaw, defect, fault — noun | seen 4 times in the B1 book
+
+174
+το κυνήγι
+to kiniyi
+hunting, hunt — noun | seen 4 times in the B1 book
+
+175
+το λίπος
+to lipos
+fat — noun | seen 4 times in the B1 book
+
+176
+το ντους
+to dous
+shower — noun | seen 4 times in the B1 book | ⚠ Printed form ντους; indeclinable. spaCy invented the -ος lemma.
+
+177
+το ρεβίθι
+to revithi
+chickpea — noun | as printed: ρεβίθια | seen 4 times in the B1 book | ⚠ Printed only in the plural τα ρεβίθια.
+
+178
+το χαλάζι
+to halazi
+hail — noun | seen 4 times in the B1 book
+
+179
+το χείλι
+to hili
+lip — noun | as printed: χείλη | seen 4 times in the B1 book | ⚠ printed only in the plural τα χείλη
+
+180
+φανταστικός
+fandastikos
+imaginary; (colloq.) fantastic — adjective | as printed: φανταστικά | seen 4 times in the B1 book
+
+181
+χειμερινός
+himerinos
+winter, wintry — adjective | as printed: χειμερινά, χειμερινούς | seen 4 times in the B1 book
+
+182
+ψυχολογικός
+psiholoyikos
+psychological — adjective | as printed: ψυχολογικά, ψυχολογική | seen 4 times in the B1 book
+
+183
+ψυχρός
+psihros
+cold (also of manner) — adjective | seen 4 times in the B1 book | ⚠ spaCy tagged it as a noun
+
+184
+αθλούμαι
+athloume
+do sports, work out — verb | seen 3 times in the B1 book | ⚠ deponent: passive forms only
+
+185
+ακίνδυνος
+akindinos
+harmless, safe — adjective | as printed: ακίνδυνο | seen 3 times in the B1 book
+
+186
+αναγκαίος
+anangeos
+necessary, essential — adjective | as printed: αναγκαίο | seen 3 times in the B1 book | ⚠ spaCy mistagged it as a noun.
+
+187
+αναγκαστικός
+anangastikos
+forced, compulsory — adjective | as printed: αναγκαστική | seen 3 times in the B1 book
+
+188
+ανίκανος
+anikanos
+incapable, incompetent — adjective | seen 3 times in the B1 book | ⚠ spaCy mistagged it as an adverb; the book prints ανίκανος/ανίκανη.
+
+189
+αντιστοιχώ
+andistiho
+correspond to, match — verb | as printed: αντιστοιχεί, αντιστοιχούν | seen 3 times in the B1 book
+
+190
+αξίζω
+axizo
+be worth, deserve — verb | as printed: αξίζει | seen 3 times in the B1 book | ⚠ very often impersonal: αξίζει να…
+
+191
+απαισιόδοξος
+apesiodoxos
+pessimistic — adjective | seen 3 times in the B1 book | ⚠ spaCy mistagged it as a noun.
+
+192
+αποτελεσματικά
+apotelesmatika
+effectively — adverb | seen 3 times in the B1 book | ⚠ Adjective αποτελεσματικός 'effective'.
+
+193
+αποφασιστικός
+apofasistikos
+decisive, determined — adjective | as printed: αποφασιστικό | seen 3 times in the B1 book | ⚠ spaCy mistagged it as an adverb.
+
+194
+αυστηρός
+afstiros
+strict, severe — adjective | as printed: αυστηρή | seen 3 times in the B1 book
+
+195
+άχρηστος
+ahristos
+useless — adjective | as printed: άχρηστα, άχρηστο | seen 3 times in the B1 book
+
+196
+βαθμολογώ
+vathmologo
+grade, mark, rate — verb | as printed: βαθμολογούν | seen 3 times in the B1 book
+
+197
+γεμιστός
+yemistos
+stuffed, filled; (τα γεμιστά) stuffed tomatoes and peppers — adjective | as printed: γεμιστές | seen 3 times in the B1 book
+
+198
+γλυκαίνω
+glikeno
+sweeten; (of weather) turn milder — verb | as printed: γλυκαίνει | seen 3 times in the B1 book
+
+199
+διασκεδαστικός
+diaskedastikos
+entertaining, fun — adjective | as printed: διασκεδαστική, διασκεδαστικό | seen 3 times in the B1 book
+
+200
+δραστήριος
+drastirios
+active, energetic — adjective | as printed: δραστήριοι | seen 3 times in the B1 book | ⚠ adjective, not a noun as spaCy tagged it
+
+201
+εκπληκτικός
+ekpliktikos
+amazing, astonishing — adjective | as printed: εκπληκτική | seen 3 times in the B1 book
+
+202
+ελαττωματικός
+elattomatikos
+defective, faulty — adjective | as printed: ελαττωματική, ελαττωματικών | seen 3 times in the B1 book
+
+203
+εντυπωσιακός
+endiposiakos
+impressive, striking — adjective | as printed: εντυπωσιακές, εντυπωσιακό | seen 3 times in the B1 book
+
+204
+εξαιρετικός
+exeretikos
+excellent, outstanding — adjective | as printed: εξαιρετική, εξαιρετικούς, εξαιρετικό | seen 3 times in the B1 book
+
+205
+επίμονος
+epimonos
+persistent, insistent — adjective | seen 3 times in the B1 book | ⚠ taught beside the verb επιμένω; adjective, not an adverb
+
+206
+ερμηνεύω
+erminevo
+interpret; perform (a role, a song) — verb | as printed: ερμηνεύει, ερμηνεύουν | seen 3 times in the B1 book
+
+207
+εσωτερικός
+esoterikos
+internal, inner, indoor — adjective | as printed: εσωτερική, εσωτερικούς | seen 3 times in the B1 book | ⚠ spaCy mistagged it as an adverb; opposed to εξωτερικός in the text.
+
+208
+εχθρικός
+ehthrikos
+hostile — adjective | seen 3 times in the B1 book
+
+209
+η ακτινογραφία
+i aktinografia
+X-ray — noun | seen 3 times in the B1 book
+
+210
+η ακύρωση
+i akirosi
+cancellation — noun | seen 3 times in the B1 book
+
+211
+η ανεξαρτησία
+i anexartisia
+independence — noun | seen 3 times in the B1 book
+
+212
+η αντίθεση
+i andithesi
+contrast, opposition — noun | seen 3 times in the B1 book | ⚠ Common in the phrase σε αντίθεση με 'in contrast to'.
+
+213
+η απορία
+i aporia
+question, query; puzzlement — noun | as printed: απορίες | seen 3 times in the B1 book
+
+214
+η αποτυχία
+i apotihia
+failure — noun | seen 3 times in the B1 book
+
+215
+η δοκιμή
+i dokimi
+trial, test; trying on — noun | seen 3 times in the B1 book
+
+216
+η εγκατάσταση
+i engatastasi
+installation, setting up; (pl.) facilities, premises — noun | as printed: εγκαταστάσεις | seen 3 times in the B1 book | ⚠ in this book almost always plural = facilities
+
+217
+η επιθυμία
+i epithimia
+wish, desire — noun | seen 3 times in the B1 book
+
+218
+η επιφάνεια
+i epifania
+surface — noun | seen 3 times in the B1 book
+
+219
+η ευγένεια
+i evyenia
+politeness, courtesy — noun | seen 3 times in the B1 book
+
+220
+η ηλιοφάνεια
+i iliofania
+sunshine — noun | as printed: πλιοφάνεια | seen 3 times in the B1 book | ⚠ OCR ate word-initial η and read it as π
+
+221
+η ηρεμία
+i iremia
+calm, tranquility — noun | as printed: πρεμία | seen 3 times in the B1 book | ⚠ OCR: word-initial η eaten and read as π. Confirmed by context - printed next to γαλήνη and glossed from ήρεμος.
+
+222
+η μεριά
+i meria
+side — noun | seen 3 times in the B1 book | ⚠ mostly in the fixed phrase 'από την άλλη μεριά' = on the other hand
+
+223
+η μόρφωση
+i morfosi
+education, schooling — noun | seen 3 times in the B1 book
+
+224
+η νέφωση
+i nefosi
+cloud cover, cloudiness — noun | as printed: νεφώσεις | seen 3 times in the B1 book | ⚠ weather-forecast register; practically always plural (τοπικές / πυκνές νεφώσεις)
+
+225
+η ουσία
+i ousia
+substance; essence — noun | as printed: ουσίες | seen 3 times in the B1 book | ⚠ Also in the phrase στην ουσία 'essentially, in fact'.
+
+226
+η παράδοση
+i paradosi
+tradition; delivery; handing in — noun | as printed: παράδοσης | seen 3 times in the B1 book | ⚠ all three senses appear in the book
+
+227
+η πεθερά
+i pethera
+mother-in-law — noun | seen 3 times in the B1 book | ⚠ spaCy mistagged it as an adverb.
+
+228
+η περιπέτεια
+i peripetia
+adventure; (pl.) mishaps, trouble — noun | seen 3 times in the B1 book
+
+229
+η πίκλα
+i pikla
+pickle — noun | as printed: πίκλες | seen 3 times in the B1 book | ⚠ spaCy invented a masculine lemma; printed only in the plural πίκλες
+
+230
+η πρωτεύουσα
+i protevousa
+capital city — noun | seen 3 times in the B1 book
+
+231
+η σκεπή
+i skepi
+roof — noun | as printed: σκεπές | seen 3 times in the B1 book
+
+232
+η σκηνοθεσία
+i skinothesia
+direction, staging (of a film or play) — noun | as printed: σκηνοθεσίας | seen 3 times in the B1 book
+
+233
+η συνέπεια
+i sinepia
+consequence; (sg. also) consistency, reliability — noun | as printed: συνέπειες | seen 3 times in the B1 book
+
+234
+η ψύχρα
+i psihra
+chill, nip in the air — noun | seen 3 times in the B1 book
+
+235
+θαλασσινός
+thalassinos
+of the sea; (neut. pl. τα θαλασσινά) seafood — adjective | as printed: θαλασσινά, θαλασσινό | seen 3 times in the B1 book
+
+236
+θυμώνω
+thimono
+get angry; make someone angry — verb | as printed: θυμώνει, θυμώνετε | seen 3 times in the B1 book
+
+237
+κατηγορώ
+katigoro
+accuse, blame — verb | as printed: κατηγορούν | seen 3 times in the B1 book
+
+238
+κλίνω
+klino
+inflect, decline, conjugate — verb | as printed: κλίνονται | seen 3 times in the B1 book | ⚠ grammar term here ('ποια ρήματα κλίνονται όπως αυτά'); spaCy returned the 3pl form
+
+239
+μαγεύω
+mayevo
+enchant, charm, cast a spell on — verb | as printed: μαγέψει, μαγέψουν | seen 3 times in the B1 book | ⚠ spaCy returned the aorist stem
+
+240
+μακρόστενος
+makrostenos
+long and narrow, oblong — adjective | as printed: μακρόστενο | seen 3 times in the B1 book
+
+241
+μετεωρολογικός
+meteoroloyikos
+meteorological, weather- — adjective | as printed: μετεωρολογικά, μετεωρολογικές | seen 3 times in the B1 book
+
+242
+ντόπιος
+dopios
+local, native — adjective | as printed: ντόπιους | seen 3 times in the B1 book
+
+243
+ο αναγνώστης
+o anagnostis
+reader — noun | as printed: αναγνώστες | seen 3 times in the B1 book
+
+244
+ο ατμός
+o atmos
+steam, vapour — noun | as printed: ατμό | seen 3 times in the B1 book | ⚠ accusative given as lemma; in this book in 'στον ατμό' = steamed
+
+245
+ο μυς
+o mis
+muscle — noun | as printed: μύες | seen 3 times in the B1 book | ⚠ irregular: nominative singular ο μυς (no accent), plural οι μύες. Noun, not a verb as spaCy tagged it
+
+246
+ο σεβασμός
+o sevasmos
+respect — noun | as printed: σεβασμό | seen 3 times in the B1 book
+
+247
+ο/η αεροσυνοδός
+o/i aerosinodos
+flight attendant — noun | as printed: αεροσυνοδός | seen 3 times in the B1 book | ⚠ common gender, same form for both; noun, not a verb
+
+248
+οφείλω
+ofilo
+owe; (οφείλεται σε) be due to — verb | as printed: οφείλει, οφείλεται, οφείλονται | seen 3 times in the B1 book
+
+249
+παλ
+pal
+pale, pastel (of colours) — adjective | seen 3 times in the B1 book | ⚠ indeclinable loanword: 'ρούχα σε παλ αποχρώσεις', 'τα παλ ή τα έντονα χρώματα'
+
+250
+παράξενος
+paraxenos
+strange, odd — adjective | as printed: παράξενα, παράξενη, παράξενο | seen 3 times in the B1 book
+
+251
+περασμένος
+perasmenos
+past, last — adjective | as printed: περασμένες, περασμένο | seen 3 times in the B1 book | ⚠ Chiefly in time expressions: την περασμένη εβδομάδα.
+
+252
+περιποιούμαι
+peripioume
+take care of, look after, groom — verb | seen 3 times in the B1 book
+
+253
+περσινός
+persinos
+last year's — adjective | as printed: περσινά, περσινής, περσινού | seen 3 times in the B1 book
+
+254
+πλένομαι
+plenome
+wash oneself, get washed — verb | as printed: πλένεται | seen 3 times in the B1 book | ⚠ spaCy returned the 3sg form
+
+255
+πολιτικός
+politikos
+political; (as noun) politician — adjective | as printed: πολιτικά, πολιτικές | seen 3 times in the B1 book | ⚠ τα πολιτικά as a noun = politics
+
+256
+προπονούμαι
+proponoume
+train, practise (sport) — verb | seen 3 times in the B1 book
+
+257
+πρώην
+proin
+ex-, former — other | seen 3 times in the B1 book | ⚠ Indeclinable; always precedes the noun (ο πρώην άντρας μου).
+
+258
+ρομαντικός
+romandikos
+romantic — adjective | as printed: ρομαντικές, ρομαντική | seen 3 times in the B1 book
+
+259
+ρυπαίνω
+ripeno
+pollute — verb | as printed: ρυπαίνει | seen 3 times in the B1 book
+
+260
+σκεπτικός
+skeptikos
+pensive, thoughtful — adjective | as printed: σκεπτική | seen 3 times in the B1 book | ⚠ In the book's sense 'lost in thought' (φαίνεται σκεπτική ή λυπημένη), not 'sceptical'.
+
+261
+σπάνιος
+spanios
+rare — adjective | as printed: σπάνια | seen 3 times in the B1 book | ⚠ the neuter plural σπάνια doubles as the adverb 'rarely'
+
+262
+στεγνώνω
+stegnono
+dry, dry out — verb | as printed: στεγνώνει, στεγνώνουν | seen 3 times in the B1 book
+
+263
+συναντιέμαι
+sinandieme
+meet (one another) — verb | as printed: συναντιούνται | seen 3 times in the B1 book | ⚠ spaCy returned the 3pl form; reciprocal passive of συναντώ
+
+264
+συνολικός
+sinolikos
+total, overall — adjective | as printed: συνολική, συνολικό | seen 3 times in the B1 book
+
+265
+σωματικός
+somatikos
+bodily, physical — adjective | as printed: σωματική, σωματικής | seen 3 times in the B1 book
+
+266
+ταραγμένος
+taragmenos
+upset, shaken, agitated — adjective | as printed: ταραγμένη | seen 3 times in the B1 book | ⚠ participle used as an adjective, not a noun
+
+267
+το ανθότυρο
+to anthotiro
+anthotyro, mild Greek whey cheese — noun | seen 3 times in the B1 book | ⚠ noun, not an adjective as spaCy tagged it
+
+268
+το άχυρο
+to ahiro
+straw — noun | as printed: άχυρα | seen 3 times in the B1 book
+
+269
+το γεγονός
+to yegonos
+fact, event — noun | as printed: γεγονότα | seen 3 times in the B1 book
+
+270
+το γένος
+to yenos
+gender (grammar); kind, race — noun | seen 3 times in the B1 book
+
+271
+το διαζύγιο
+to diaziyio
+divorce — noun | seen 3 times in the B1 book
+
+272
+το δοκιμαστήριο
+to dokimastirio
+fitting room, changing room — noun | seen 3 times in the B1 book
+
+273
+το εμπόδιο
+to embodio
+obstacle; (pl., athletics) hurdles — noun | as printed: εμπόδια | seen 3 times in the B1 book
+
+274
+το θράσος
+to thrasos
+audacity, nerve, cheek — noun | seen 3 times in the B1 book | ⚠ Noun, not an adjective; listed in the book among nouns with no plural.
+
+275
+το κάθισμα
+to kathisma
+seat — noun | seen 3 times in the B1 book
+
+276
+το κατάλυμα
+to katalima
+accommodation, lodging — noun | as printed: καταλύματα, καταλύματος | seen 3 times in the B1 book | ⚠ accent repaired: κατάλυμα, not καταλύμα
+
+277
+το κέφι
+to kefi
+high spirits, good mood; gusto — noun | seen 3 times in the B1 book
+
+278
+το κούφωμα
+to koufoma
+window/door frame — noun | as printed: κουφώματα | seen 3 times in the B1 book | ⚠ Accent on the antepenult in the singular: το κούφωμα, τα κουφώματα.
+
+279
+το λικέρ
+to liker
+liqueur — noun | seen 3 times in the B1 book | ⚠ Indeclinable.
+
+280
+το πλεονέκτημα
+to pleonektima
+advantage — noun | as printed: πλεονεκτήματα | seen 3 times in the B1 book
+
+281
+το σπάσιμο
+to spasimo
+breaking, break — noun | seen 3 times in the B1 book | ⚠ Noun, not an adverb (το σπάσιμο του ροδιού).
+
+282
+το φρύδι
+to fridi
+eyebrow — noun | as printed: φρύδια | seen 3 times in the B1 book | ⚠ Printed only in the plural τα φρύδια.
+
+283
+το ψάρεμα
+to psarema
+fishing — noun | seen 3 times in the B1 book
+
+284
+υγρός
+igros
+damp, humid, wet — adjective | seen 3 times in the B1 book | ⚠ adjective, not a proper noun; weather vocabulary
+
+285
+υπερβολικός
+ipervolikos
+excessive, exaggerated — adjective | as printed: υπερβολική, υπερβολικό | seen 3 times in the B1 book
+
+286
+φημίζομαι
+fimizome
+be famous (for) — verb | as printed: φημίζεται | seen 3 times in the B1 book | ⚠ Deponent; spaCy returned the 3rd person singular as the lemma.
+
+287
+φοβίζω
+fovizo
+frighten, scare (someone) — verb | as printed: φοβίζει, φοβίζουν | seen 3 times in the B1 book | ⚠ transitive; contrast φοβάμαι = be afraid
+
+288
+φτιαγμένος
+ftiagmenos
+made (of), built — adjective | as printed: φτιαγμένο | seen 3 times in the B1 book | ⚠ Passive participle of φτιάχνω, used adjectivally: 'από τι υλικό είναι φτιαγμένο;'
+
+289
+χημικός
+himikos
+chemical; (neut. pl. τα χημικά) chemicals — adjective | as printed: χημικά | seen 3 times in the B1 book | ⚠ Printed as χημικά - both 'χημικά απόβλητα' and the noun use 'χωρίς χημικά'.
+
+290
+ψυχαγωγικός
+psihagoyikos
+recreational, entertainment- — adjective | as printed: ψυχαγωγικές, ψυχαγωγικούς | seen 3 times in the B1 book

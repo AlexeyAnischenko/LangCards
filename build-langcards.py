@@ -37,6 +37,9 @@ DICTS = [
     # agree, except the six colour loanwords that never change
     ('ordcol',  'greek-a2-ordinals-colours.txt',
                 u'Ordinals 1–50 & colours'),
+    # words the B1 book uses 3+ times that none of the A2 material covers
+    ('b1add',   'greek-b1-additions-3times.txt',
+                u'B1 additions — new words, 3+ times'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
