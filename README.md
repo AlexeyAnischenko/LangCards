@@ -12,6 +12,7 @@ Built with vanilla JavaScript and CSS, this single-page application runs entirel
 | `build-langcards.py` | Compresses the `.txt` dictionaries into `langcards.template.html` and writes `langcards.html`. |
 | `*-greek-sentences.txt`, `greek-endings-...-1000.txt`, `greek-articles-adjectives-nouns-3000.txt`, `greek-pronouns-3000.txt` | The dictionary sources. Edit these to change card content, then rebuild. |
 | `klik-a2-vocabulary.txt` | The KLIK A2 exam word list, one card per word, each tagged with its part of speech and A2 paradigm. |
+| `klik-a2-names.txt`, `klik-5timesplus-names.txt` | The proper names lifted out of the two KLIK word decks, one sidecar each — not decks themselves, never embedded. See below. |
 | `tools/` | The generators for the two built decks — Noun phrases and Pronouns — with their gold tests and the two checkers each deck has to pass. See `tools/README.md`. |
 
 Editing `langcards.html` directly is a mistake — the next build overwrites it. Change
@@ -272,10 +273,26 @@ re-derives exactly from its own prompt; both are checked mechanically over all 3
 | Grammar | 1000 | the completed sentence |
 | Noun phrases | 3000 | the completed sentence |
 | Pronouns | 3000 | the completed sentence |
-| KLIK A2 | 1658 | transcription |
+| KLIK A2 | 1585 | transcription |
+| Greek A1-A2 KLIK 5×+ | 1114 | transcription |
 
 They have been cleaned up:
 
+- **Names taken out** — the two KLIK word decks listed every first name, surname and Greek
+  place name the books happen to print: Μαρία, Γιώργος, Παπαδάκης, η Αθήνα, η Καβάλα, η Κηφισιά.
+  Knowing that Μαρία is Maria teaches nothing an exam asks, so the 154 of them came out — 73
+  from the A2 list into `klik-a2-names.txt`, 81 from the 5×+ list into
+  `klik-5timesplus-names.txt`. Neither sidecar is a deck and neither is embedded in the app.
+  Countries and continents, the demonyms built on them (`ο Έλληνας`, `ο Γάλλος`), weekdays,
+  months, holidays, school and institution names, school subjects and the foreign cities
+  (Λονδίνο, Βερολίνο, Ζυρίχη) all stay — those are ordinary A2 vocabulary. Islands and regions
+  went with the cities: Κρήτη, Κέρκυρα, Σάμος, Πάτμος, Μακεδονία, Χαλκιδική.
+
+  The names are moved rather than deleted because `tools/klikcheck.py` and `tools/pklik.py`
+  read `klik-a2-vocabulary.txt` as the definition of "inside the A2 word list", and the
+  generated decks legitimately say *στην Αθήνα*. Both checkers read `klik-a2-names.txt`
+  alongside it, so the headword set is byte-for-byte the one they saw before — 1,634 forms.
+  The 5×+ sidecar is deliberately **not** in that set: those names were never A2 words.
 - **Deduplicated** — where two entries had identical Greek text, only the first was kept.
 - **Proofread** — every card was checked for Greek and English grammar. Corrections covered
   gender and agreement errors, the final-ν rule (`μη`/`μην`, `στη`/`στην`), missing second

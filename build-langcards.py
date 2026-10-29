@@ -169,6 +169,7 @@ rep("""    greekOnlyCheckbox.addEventListener('change', function() {
       const newCards = parseVocabularyData(text);
       if (newCards.length > 0) {
         cards = newCards;
+        resetTally();
         statusDisplay.textContent = `${cards.length} cards loaded`;
         flashcardUI.style.display = 'block';
         totalCardsElement.textContent = cards.length;

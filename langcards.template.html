@@ -220,6 +220,11 @@
       color: var(--text-secondary);
     }
 
+    .tally {
+      display: inline-block;
+      color: var(--text-muted);
+    }
+
     .controls {
       display: flex;
       justify-content: space-between;
@@ -630,7 +635,9 @@ Translation: Excuse me.</pre>
 
     <div id="flashcard-ui" style="display: none;">
       <div class="progress">
-        Card <span id="current-card">0</span> of <span id="total-cards">0</span>
+        Card <span id="current-card">0</span> of <span id="total-cards">0</span>.
+        <span class="tally"><span id="cards-seen">0</span> displayed,
+        <span id="cards-known">0</span> known, <span id="known-ratio">—</span></span>
       </div>
 
       <div class="controls">
@@ -682,6 +689,14 @@ Translation: Excuse me.</pre>
     let debugMessages = [];
     let helpTimeout;
 
+    // Session tallies. A card counts as displayed the first time the user does
+    // something with it - reveals it, skips it, or marks it known - so a card
+    // sitting unread on screen is not counted yet and known can never exceed
+    // displayed. Both reset whenever a new pack is loaded.
+    let cardsSeen = 0;
+    let cardsKnown = 0;
+    let currentCounted = false;
+
     // DOM Elements
     const fileInput = document.getElementById('file-input');
     const uploadButton = document.getElementById('upload-button');
@@ -693,6 +708,9 @@ Translation: Excuse me.</pre>
     const flashcardUI = document.getElementById('flashcard-ui');
     const currentCardElement = document.getElementById('current-card');
     const totalCardsElement = document.getElementById('total-cards');
+    const cardsSeenElement = document.getElementById('cards-seen');
+    const cardsKnownElement = document.getElementById('cards-known');
+    const knownRatioElement = document.getElementById('known-ratio');
     const cardNumberElement = document.getElementById('card-number');
     const greekText = document.getElementById('greek-text');
     const transcriptionText = document.getElementById('transcription-text');
@@ -765,6 +783,7 @@ Translation: Excuse me.</pre>
 
         if (newCards.length > 0) {
           cards = newCards;
+          resetTally();
           statusDisplay.textContent = `${cards.length} cards loaded`;
           flashcardUI.style.display = 'block';
           totalCardsElement.textContent = cards.length;
@@ -862,6 +881,30 @@ Translation: Excuse me.</pre>
       return newCards;
     }
 
+    function updateTally() {
+      cardsSeenElement.textContent = cardsSeen;
+      cardsKnownElement.textContent = cardsKnown;
+      knownRatioElement.textContent = cardsSeen
+        ? Math.round(100 * cardsKnown / cardsSeen) + ' %'
+        : '—';
+    }
+
+    // Called when a pack is loaded, from both the upload path and the
+    // built-in dictionary loader that build-langcards.py appends.
+    function resetTally() {
+      cardsSeen = 0;
+      cardsKnown = 0;
+      currentCounted = false;
+      updateTally();
+    }
+
+    function countCurrentCard() {
+      if (currentCardIndex === -1 || currentCounted) return;
+      currentCounted = true;
+      cardsSeen++;
+      updateTally();
+    }
+
     function displayRandomCard() {
       if (cards.length === 0) {
         statusDisplay.textContent = '';
@@ -871,6 +914,7 @@ Translation: Excuse me.</pre>
 
       const randomIndex = Math.floor(Math.random() * cards.length);
       currentCardIndex = randomIndex;
+      currentCounted = false;
       const currentCard = cards[currentCardIndex];
 
       currentCardElement.textContent = currentCard.number;
@@ -1094,13 +1138,17 @@ Translation: Excuse me.</pre>
       this.textContent = isVisible ? 'Show parsing details' : 'Hide parsing details';
     });
 
-    nextButton.addEventListener('click', displayRandomCard);
+    nextButton.addEventListener('click', function() {
+      countCurrentCard();
+      displayRandomCard();
+    });
 
     // One step of the study loop: first reveal the card, then draw the next one.
     // Space and a tap/click on the card both go through here.
     function revealOrAdvance() {
       if (cards.length === 0 || currentCardIndex === -1) return;
       stopSpeaking();
+      countCurrentCard();
 
       if (!showTranslation) {
         showTranslation = true;
@@ -1116,6 +1164,9 @@ Translation: Excuse me.</pre>
     function markKnown() {
       if (cards.length === 0 || currentCardIndex === -1) return;
       stopSpeaking();
+      countCurrentCard();
+      cardsKnown++;
+      updateTally();
       cards.splice(currentCardIndex, 1);
       totalCardsElement.textContent = cards.length;
       if (cards.length === 0) {
