@@ -39,6 +39,11 @@ Editing `langcards.html` directly is a mistake — the next build overwrites it.
 - **Shuffled, not sampled**: the pack is shuffled once and then walked in order, so every
   card comes up before any card comes up twice. Reaching the end reshuffles and starts a
   fresh pass — running out of unseen cards is the only way to see one again
+- **Session tallies**: the progress line counts the cards you have worked through and the
+  ones you marked known, with the percentage. They count the current round, not the whole
+  session: a known card leaves the pack, so a card still there on the second round is one
+  you did not know, and carrying the numbers over would count it twice against the same
+  knowns. The round number appears from the second round on
 - **Debug Information**: Optional detailed parsing information for troubleshooting
 
 ## Hearing the cards

@@ -674,7 +674,8 @@ Translation: Excuse me.</pre>
       <div class="progress">
         Card <span id="current-card">0</span> of <span id="total-cards">0</span>.
         <span class="tally"><span id="cards-seen">0</span> displayed,
-        <span id="cards-known">0</span> known, <span id="known-ratio">—</span></span>
+        <span id="cards-known">0</span> known, <span id="known-ratio">—</span><span
+        id="pass-no"></span></span>
       </div>
 
       <div class="controls">
@@ -7288,9 +7289,14 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
     // something with it - reveals it, skips it, or marks it known - so a card
     // sitting unread on screen is not counted yet and known can never exceed
     // displayed. Both reset whenever a new pack is loaded.
+    // They count the current pass, not the whole session: a card marked known
+    // leaves the pack, so a card still there on the second pass is one you did
+    // not know, and carrying the first pass's numbers over would count it twice
+    // against the same knowns. The round number says why they went back to zero.
     let cardsSeen = 0;
     let cardsKnown = 0;
     let currentCounted = false;
+    let passNumber = 1;
 
     // DOM Elements
     const fileInput = document.getElementById('file-input');
@@ -7306,6 +7312,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
     const cardsSeenElement = document.getElementById('cards-seen');
     const cardsKnownElement = document.getElementById('cards-known');
     const knownRatioElement = document.getElementById('known-ratio');
+    const passNumberElement = document.getElementById('pass-no');
     const cardNumberElement = document.getElementById('card-number');
     const greekText = document.getElementById('greek-text');
     const transcriptionText = document.getElementById('transcription-text');
@@ -7485,6 +7492,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
       knownRatioElement.textContent = cardsSeen
         ? Math.round(100 * cardsKnown / cardsSeen) + ' %'
         : '—';
+      passNumberElement.textContent = passNumber > 1 ? ` · round ${passNumber}` : '';
     }
 
     // Called when a pack is loaded, from both the upload path and the
@@ -7493,6 +7501,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
       cardsSeen = 0;
       cardsKnown = 0;
       currentCounted = false;
+      passNumber = 1;
       updateTally();
     }
 
@@ -7543,6 +7552,11 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
           cards[cards.length - 1] = justSeen;
         }
         currentCardIndex = 0;
+        // a new pass is a new count - see the note on cardsSeen
+        cardsSeen = 0;
+        cardsKnown = 0;
+        passNumber++;
+        updateTally();
       }
 
       currentCounted = false;
