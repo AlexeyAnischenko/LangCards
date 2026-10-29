@@ -173,7 +173,7 @@ rep("""    greekOnlyCheckbox.addEventListener('change', function() {
         statusDisplay.textContent = `${cards.length} cards loaded`;
         flashcardUI.style.display = 'block';
         totalCardsElement.textContent = cards.length;
-        displayRandomCard();
+        startPack();
       } else {
         cards = [];
         currentCardIndex = -1;

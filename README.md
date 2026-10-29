@@ -36,7 +36,9 @@ Editing `langcards.html` directly is a mistake — the next build overwrites it.
 - **Phone-friendly**: on a narrow screen the controls stack into a single column, the deck
   picker leads, and the card fills the tall viewport — the whole study loop is one thumb tap
 - **Progress Tracking**: Shows current card number and total cards
-- **Random Card Selection**: Cards are presented in random order for better learning
+- **Shuffled, not sampled**: the pack is shuffled once and then walked in order, so every
+  card comes up before any card comes up twice. Reaching the end reshuffles and starts a
+  fresh pass — running out of unseen cards is the only way to see one again
 - **Debug Information**: Optional detailed parsing information for troubleshooting
 
 ## Hearing the cards

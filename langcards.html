@@ -7385,7 +7385,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
           statusDisplay.textContent = `${cards.length} cards loaded`;
           flashcardUI.style.display = 'block';
           totalCardsElement.textContent = cards.length;
-          displayRandomCard();
+          startPack();
         } else {
           statusDisplay.textContent = 'No valid cards found';
           fileNameDisplay.textContent = 'Please check the file format';
@@ -7503,15 +7503,48 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
       updateTally();
     }
 
-    function displayRandomCard() {
+    // Fisher-Yates, in place. The pack is the deal order, not a bag to draw
+    // from, so currentCardIndex doubles as the position in the shuffle.
+    function shufflePack() {
+      for (let i = cards.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        const swap = cards[i];
+        cards[i] = cards[j];
+        cards[j] = swap;
+      }
+    }
+
+    // Shuffle and deal the first card. Called whenever a pack is loaded, from
+    // the upload path here and from the built-in loader build-langcards.py
+    // appends.
+    function startPack() {
+      shufflePack();
+      currentCardIndex = -1;
+      showNextCard();
+    }
+
+    // One step through the shuffled pack, so every card comes up once before
+    // any comes up twice. Reaching the end reshuffles and starts a new pass -
+    // running out of unseen cards is the only way to see one again.
+    function showNextCard() {
       if (cards.length === 0) {
         statusDisplay.textContent = '';
         fileNameDisplay.textContent = 'No cards available';
         return;
       }
 
-      const randomIndex = Math.floor(Math.random() * cards.length);
-      currentCardIndex = randomIndex;
+      currentCardIndex++;
+      if (currentCardIndex >= cards.length) {
+        const justSeen = cards[cards.length - 1];
+        shufflePack();
+        // a new pass should not open with the card that closed the old one
+        if (cards.length > 1 && cards[0] === justSeen) {
+          cards[0] = cards[cards.length - 1];
+          cards[cards.length - 1] = justSeen;
+        }
+        currentCardIndex = 0;
+      }
+
       currentCounted = false;
       const currentCard = cards[currentCardIndex];
 
@@ -7738,7 +7771,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
 
     nextButton.addEventListener('click', function() {
       countCurrentCard();
-      displayRandomCard();
+      showNextCard();
     });
 
     // One step of the study loop: first reveal the card, then draw the next one.
@@ -7752,7 +7785,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
         showTranslation = true;
         updateCardDisplay();
       } else {
-        displayRandomCard();
+        showNextCard();
       }
     }
 
@@ -7766,9 +7799,11 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
       cardsKnown++;
       updateTally();
       cards.splice(currentCardIndex, 1);
+      currentCardIndex--;
       totalCardsElement.textContent = cards.length;
       if (cards.length === 0) {
         currentCardIndex = -1;
+        currentCardElement.textContent = '0';
         greekText.style.display = 'none';
         transcriptionText.style.display = 'none';
         englishText.textContent = 'That is the whole pack. Reload the page or pick a dictionary to start again.';
@@ -7779,7 +7814,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
         return;
       }
       statusDisplay.textContent = cards.length + ' cards left';
-      displayRandomCard();
+      showNextCard();
     }
 
     knowButton.addEventListener('click', markKnown);
@@ -7883,7 +7918,7 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
         statusDisplay.textContent = `${cards.length} cards loaded`;
         flashcardUI.style.display = 'block';
         totalCardsElement.textContent = cards.length;
-        displayRandomCard();
+        startPack();
       } else {
         cards = [];
         currentCardIndex = -1;
