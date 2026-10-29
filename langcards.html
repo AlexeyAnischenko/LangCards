@@ -674,7 +674,7 @@ Translation: Excuse me.</pre>
       <div class="progress">
         Card <span id="current-card">0</span> of <span id="total-cards">0</span>.
         <span class="tally"><span id="cards-seen">0</span> of <span
-        id="pass-size">0</span> displayed,
+        id="pass-size">0</span> shown,
         <span id="cards-known">0</span> known, <span id="known-ratio">—</span><span
         id="pass-no"></span></span>
       </div>
@@ -7286,14 +7286,18 @@ zwRmfVcG8N26xd0wrr3pj0+XWDqihY5cWtDVmxg/2eR+LcU5BrZSfYELgIiiAaEQ9ndpW/Z/3uZRxxfR
     let debugMessages = [];
     let helpTimeout;
 
-    // Session tallies. A card counts as displayed the first time the user does
+    // Round tallies. A card counts as shown the first time the user does
     // something with it - reveals it, skips it, or marks it known - so a card
     // sitting unread on screen is not counted yet and known can never exceed
-    // displayed. Both reset whenever a new pack is loaded.
-    // They count the current pass, not the whole session: a card marked known
-    // leaves the pack, so a card still there on the second pass is one you did
-    // not know, and carrying the first pass's numbers over would count it twice
-    // against the same knowns. The round number says why they went back to zero.
+    // shown.
+    //
+    // They count the current round, not the whole session. A card marked known
+    // leaves the pack, so a card still there next round is one you did not
+    // know, and carrying the numbers over would count it twice against the same
+    // knowns; the round number says why they went back to zero. passSize is the
+    // round's own total, fixed when the round starts - it is not cards.length,
+    // which shrinks as cards are marked known even though those cards have
+    // already been shown and the round still has as far to go.
     let cardsSeen = 0;
     let cardsKnown = 0;
     let currentCounted = false;

@@ -39,7 +39,7 @@ Editing `langcards.html` directly is a mistake — the next build overwrites it.
 - **Shuffled, not sampled**: the pack is shuffled once and then walked in order, so every
   card comes up before any card comes up twice. Reaching the end reshuffles and starts a
   fresh pass — running out of unseen cards is the only way to see one again
-- **Round tallies**: the progress line reads `73 of 80 displayed, 24 known, 33 %` — how far
+- **Round tallies**: the progress line reads `73 of 80 shown, 24 known, 33 %` — how far
   through the round you are, how many of those you marked known, and the percentage. The
   round's total is fixed when the round starts, so it does *not* match the `of Y` in
   `Card X of Y`: marking a card known takes it out of the pack, but it has already been
