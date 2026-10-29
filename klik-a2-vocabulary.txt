@@ -29,8261 +29,7896 @@ sti sinehia
 afterwards, after that — adverb — it never changes
 
 7
-η Ζέτα
-i zeta
-Zeta — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-8
 το αβγό
 to avgo
 egg — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-9
+8
 αγαπάω
 agapao
 love — verb, group B1 (-άω / -ώ)
 
-10
+9
 αγαπώ
 agapo
 love — verb, group B2 (-ώ, -είς, -εί)
 
-11
+10
 η αγάπη
 i agapi
 love — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-12
+11
 αγαπημένος, -η, -ο
 agapimenos
 beloved — adjective, -ος / -η / -ο — it agrees with its noun
 
-13
+12
 η αγγελία
 i angelia
 ad — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-14
+13
 η Αγγλία
 i anglia
 England — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-15
+14
 ο Άγγλος
 o anglos
 English man — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-16
+15
 η Αγγλίδα
 i anglida
 English woman — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-17
+16
 το αγγούρι
 to angouri
 cucumber — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-18
+17
 ο άγιος
 o ayios
 saint — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-19
+18
 η αγκαλιά
 i angalia
 hug — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-20
+19
 αγνός, -ή, -ό
 agnos
 pure — adjective, -ος / -η / -ο — it agrees with its noun
 
-21
+20
 άγνωστος, -η, -ο
 agnostos
 unknown — adjective, -ος / -η / -ο — it agrees with its noun
 
-22
+21
 η αγορά
 i agora
 market — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-23
+22
 αγοράζω
 agorazo
 buy — verb, group A (-ω, -εις, -ει)
 
-24
+23
 το αγόρι
 to agori
 boy — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-25
+24
 άγριος, -α, -ο
 agrios
 wild — adjective, -ος / -η / -ο — it agrees with its noun
 
-26
+25
 το άγχος
 to aghos
 anxiety — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-27
+26
 ο αγώνας
 o agonas
 competition — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-28
+27
 η αγωνία
 i agonia
 anxiety — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-29
+28
 άδειος, -α, -ο
 adios
 empty — adjective, -ος / -η / -ο — it agrees with its noun
 
-30
+29
 η άδεια
 i adia
 permission — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-31
+30
 η αδερφή
 i aderfi
 sister — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-32
+31
 ο αδερφός
 o aderfos
 brother — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-33
+32
 αδύνατος, -η, -ο
 adinatos
 thin — adjective, -ος / -η / -ο — it agrees with its noun
 
-34
+33
 ο αέρας
 o aeras
 air — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-35
+34
 το αεροδρόμιο
 to aerodromio
 airport — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-36
+35
 το αεροπλάνο
 to aeroplano
 airplane — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-37
+36
 το αεροπορικό ταξίδι
 to aeroporiko taxidi
 flight — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-38
-η Αθανασία
-i athanasia
-Athanasia — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-39
-η Αθήνα
-i athina
-Athens — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-40
+37
 το άθλημα
 to athlima
 sport — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-41
+38
 αθλητικός, -ή, -ό
 athlitikos
 athletic — adjective, -ος / -η / -ο — it agrees with its noun
 
-42
+39
 τα αθλητικά γεγονότα
 ta athlitika yegonota
 sporting events — expression — learn it whole
 
-43
+40
 οι αθλητικοί αγώνες
 i athlitiki agones
 athletic competitions — expression — learn it whole
 
-44
+41
 ο αθλητισμός
 o athlitismos
 sport — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-45
+42
 η αίθουσα
 i ethousa
 hall — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-46
+43
 αισθάνομαι
 esthanome
 feel — verb, passive form (-ομαι)
 
-47
+44
 αισθηματικός, -ή, -ό
 esthimatikos
 emotional — adjective, -ος / -η / -ο — it agrees with its noun
 
-48
+45
 η αίτηση
 i etisi
 application — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-49
+46
 η αιτία
 i etia
 cause — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-50
+47
 ακολουθώ
 akoloutho
 follow — verb, group B2 (-ώ, -είς, -εί)
 
-51
+48
 ακόμη
 akomi
 more — adverb — it never changes
 
-52
+49
 ακούω
 akouo
 hear — verb, group A (-ω, -εις, -ει)
 
-53
+50
 η άκρη
 i akri
 edge — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-54
+51
 ακριβός, -ή, -ό
 akrivos
 expensive — adjective, -ος / -η / -ο — it agrees with its noun
 
-55
+52
 ακριβώς
 akrivos
 exactly — adverb — it never changes
 
-56
+53
 η ακτή
 i akti
 shore — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-57
+54
 το αλάτι
 to alati
 salt — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-58
-ο Αλέξανδρος
-o alexandros
-Alexander — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-59
-ο Αλέξανδρος ο Μέγας
-o alexandros o megas
-Alexander the Great — noun, masculine — M1 · -ας (τον -α, οι -ες)
-
-60
-ο Αλέξης
-o alexis
-Alexis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-61
-η Αλεξία
-i alexia
-Alexia — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-62
+55
 το αλεύρι
 to alevri
 flour — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-63
+56
 αλήθεια
 alithia
 truly — adverb — it never changes
 
-64
+57
 η αλήθεια
 i alithia
 truth — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-65
-η Αλίκη
-i aliki
-Alice — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-66
+58
 άλλος, -η, -ο
 allos
 other — adjective, -ος / -η / -ο — it agrees with its noun
 
-67
+59
 αλλά
 alla
 but — word
 
-68
+60
 η αλλαγή
 i allayi
 change — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-69
+61
 αλλάζω
 allazo
 change — verb, group A (-ω, -εις, -ει)
 
-70
+62
 αμέσως
 amesos
 immediately — word
 
-71
+63
 το αμύγδαλο
 to amigdalo
 almond — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-72
+64
 αν
 an
 if — word
 
-73
+65
 η ανάγκη
 i anangi
 need — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-74
+66
 ανακατεμένος, -η, -ο
 anakatemenos
 mixed — adjective, -ος / -η / -ο — it agrees with its noun
 
-75
+67
 ανακατεύω
 anakatevo
 stir — verb, group A (-ω, -εις, -ει)
 
-76
+68
 η ανακύκλωση
 i anakiklosi
 recycling — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-77
+69
 η ανάληψη χρημάτων
 i analipsi hrimaton
 withdrawal of money — noun, feminine — irregular — learn its forms one by one
 
-78
+70
 ανάλογα
 analoga
 accordingly — word
 
-79
+71
 αναπαυτικά
 anapaftika
 comfortably — word
 
-80
+72
 η αναπνοή
 i anapnoi
 breath — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-81
-η Αναστασία
-i anastasia
-Anastasia — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-82
+73
 ανατολικός, -ή, -ό
 anatolikos
 eastern — adjective, -ος / -η / -ο — it agrees with its noun
 
-83
+74
 το αναψυκτικό
 to anapsiktiko
 soft drink — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-84
+75
 ανεβαίνω
 aneveno
 climb — verb, group A (-ω, -εις, -ει)
 
-85
+76
 ο άνεμος
 o anemos
 wind — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-86
+77
 η άνεση
 i anesi
 comfort — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-87
+78
 ο άνθρωπος
 o anthropos
 person — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-88
+79
 η ανιψιά
 i anipsia
 niece — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-89
+80
 ο ανιψιός
 o anipsios
 nephew — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-90
-η Αννα
-i anna
-Anna — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-91
-η Άννα
-i anna
-Anna — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-92
+81
 ανοίγω
 anigo
 open — verb, group A (-ω, -εις, -ει)
 
-93
+82
 η άνοιξη
 i anixi
 spring — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-94
+83
 ανοιχτός, -ή, -ό
 anihtos
 open — adjective, -ος / -η / -ο — it agrees with its noun
 
-95
+84
 αντίθετος, -η, -ο
 andithetos
 opposite — adjective, -ος / -η / -ο — it agrees with its noun
 
-96
+85
 ο άντρας
 o andras
 man — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-97
+86
 αντρικός, -ή, -ό
 andrikos
 masculine — adjective, -ος / -η / -ο — it agrees with its noun
 
-98
-ο Αντώνης
-o andonis
-Antonis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-99
+87
 το αξεσουάρ
 to axesouar
 accessory — noun, neuter — invariable — it never changes
 
-100
+88
 το αξιοθέατο
 to axiotheato
 attraction — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-101
+89
 απαντάω
 apandao
 answer — verb, group B1 (-άω / -ώ)
 
-102
+90
 απαντώ
 apando
 answer — verb, group B2 (-ώ, -είς, -εί)
 
-103
+91
 η απάντηση
 i apandisi
 answer — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-104
+92
 απαραίτητος, -η, -ο
 aparetitos
 necessary — adjective, -ος / -η / -ο — it agrees with its noun
 
-105
+93
 απέναντι
 apenandi
 opposite — word
 
-106
+94
 απλός, -ή, -ό
 aplos
 simple — adjective, -ος / -η / -ο — it agrees with its noun
 
-107
+95
 απλό εισιτήριο
 aplo isitirio
 single ticket — expression — learn it whole
 
-108
+96
 απλώνω
 aplono
 spread — verb, group A (-ω, -εις, -ει)
 
-109
+97
 από
 apo
 from — word
 
-110
+98
 από μέσα
 apo mesa
 from inside — expression — learn it whole
 
-111
+99
 από έξω
 apo exo
 from outside — verb, group A (-ω, -εις, -ει)
 
-112
+100
 από τότε
 apo tote
 since then — expression — learn it whole
 
-113
+101
 το απόγευμα
 to apoyevma
 afternoon — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-114
+102
 απογευματινός, -ή, -ό
 apoyevmatinos
 afternoon — adjective, -ος / -η / -ο — it agrees with its noun
 
-115
+103
 η αποθήκη
 i apothiki
 warehouse — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-116
+104
 οι Απόκριες
 i apokries
 Carnival — expression — learn it whole
 
-117
+105
 αποκτώ
 apokto
 acquire — verb, group B2 (-ώ, -είς, -εί)
 
-118
+106
 το απορρυπαντικό
 to aporripandiko
 detergent — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-119
+107
 το αποτέλεσμα
 to apotelesma
 result — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-120
+108
 η απόφαση
 i apofasi
 decision — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-121
+109
 αποφασίζω
 apofasizo
 decide — verb, group A (-ω, -εις, -ει)
 
-122
+110
 αργός, -ή, -ό
 argos
 slow — adjective, -ος / -η / -ο — it agrees with its noun
 
-123
+111
 αργώ
 argo
 be late — verb, group B2 (-ώ, -είς, -εί)
 
-124
+112
 το άρθρο
 to arthro
 article — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-125
+113
 ο αριθμός
 o arithmos
 number — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-126
+114
 αριστερά
 aristera
 left — adverb — it never changes
 
-127
+115
 αρκετός, -ή, -ό
 arketos
 enough — adjective, -ος / -η / -ο — it agrees with its noun
 
-128
+116
 αρνητικά
 arnitika
 negatively — adverb — it never changes
 
-129
+117
 το αρνί
 to arni
 lamb — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-130
+118
 άρρωστος, -η, -ο
 arrostos
 sick — adjective, -ος / -η / -ο — it agrees with its noun
 
-131
+119
 η αρχαιότητα
 i arheotita
 antiquity — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-132
+120
 η αρχή
 i arhi
 beginning — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-133
+121
 αρχίζω
 arhizo
 begin — verb, group A (-ω, -εις, -ει)
 
-134
+122
 ο αρχιτέκτονας
 o arhitektonas
 architect — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-135
+123
 η αρχιτέκτονας
 i arhitektonas
 architect — noun, feminine — irregular — learn its forms one by one
 
-136
+124
 ας
 as
 let — word
 
-137
+125
 το ασανσέρ
 to asanser
 elevator — noun, neuter — invariable — it never changes
 
-138
+126
 ο ασθενής άνεμος
 o asthenis anemos
 light wind — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-139
+127
 η άσκηση
 i askisi
 exercise — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-140
+128
 άσπρος, -η, -ο
 aspros
 white — adjective, -ος / -η / -ο — it agrees with its noun
 
-141
+129
 αστείος, -α, -ο
 astios
 funny — adjective, -ος / -η / -ο — it agrees with its noun
 
-142
+130
 αστράφτει
 astrafti
 lightning — word
 
-143
+131
 αστράφτω
 astrafto
 shine — verb, group A (-ω, -εις, -ει)
 
-144
+132
 η αστυνομία
 i astinomia
 police — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-145
+133
 ο αστυνομικός
 o astinomikos
 police officer — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-146
+134
 η αστυνομικός
 i astinomikos
 police officer — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-147
+135
 η ασφάλεια
 i asfalia
 safety — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-148
+136
 άσχημος, -η, -ο
 ashimos
 ugly — adjective, -ος / -η / -ο — it agrees with its noun
 
-149
+137
 άσχημα
 ashima
 badly — adverb — it never changes
 
-150
+138
 η ασχολία
 i asholia
 occupation — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-151
+139
 το άτομο
 to atomo
 individual — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-152
+140
 η ατυχία
 i atihia
 misfortune — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-153
+141
 ο Αύγουστος
 o avgoustos
 August — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-154
+142
 η αυλή
 i avli
 yard — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-155
+143
 αύριο
 avrio
 tomorrow — adverb — it never changes
 
-156
+144
 αυτοί
 afti
 they — pronoun
 
-157
+145
 αυτές
 aftes
 they — pronoun
 
-158
+146
 αυτά
 afta
 they — pronoun
 
-159
+147
 αυτός, -ή, -ό
 aftos
 he — adjective, -ος / -η / -ο — it agrees with its noun
 
-160
+148
 το αυτοκίνητο
 to aftokinito
 car — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-161
+149
 αυτόν τον καιρό
 afton ton kero
 at this time — adverb — it never changes
 
-162
+150
 το αφεντικό
 to afendiko
 boss — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-163
+151
 η αφετηρία λεωφορείου
 i afetiria leoforiou
 bus terminal — noun, feminine — irregular — learn its forms one by one
 
-164
+152
 η αφετηρία
 i afetiria
 starting point — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-165
+153
 αφήνω
 afino
 leave — verb, group A (-ω, -εις, -ει)
 
-166
+154
 η αφίσα
 i afisa
 poster — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-167
+155
 βάζω
 vazo
 put — verb, group A (-ω, -εις, -ει)
 
-168
+156
 βάζω βάρος
 vazo varos
 gain weight — expression — learn it whole
 
-169
+157
 βάζω πλυντήριο
 vazo plindirio
 do laundry — expression — learn it whole
 
-170
+158
 ο βαθμός
 o vathmos
 grade — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-171
+159
 η βαλίτσα
 i valitsa
 suitcase — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-172
+160
 το βαμβάκι
 to vamvaki
 cotton — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-173
+161
 βαρετός, -ή, -ό
 varetos
 boring — adjective, -ος / -η / -ο — it agrees with its noun
 
-174
+162
 η βάση
 i vasi
 base — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-175
+163
 βασικός, -ή, -ό
 vasikos
 basic — adjective, -ος / -η / -ο — it agrees with its noun
 
-176
-ο Βασίλης
-o vasilis
-Vasilis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-177
-η Βασιλική
-i vasiliki
-Vasiliki — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-178
+164
 ο βασιλικός
 o vasilikos
 basil — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-179
-η Βάσω
-i vaso
-Vaso — noun, feminine — irregular — learn its forms one by one
-
-180
+165
 η βάφτιση
 i vaftisi
 baptism — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-181
+166
 βάφω
 vafo
 paint — verb, group A (-ω, -εις, -ει)
 
-182
+167
 βγάζω
 vgazo
 take out — verb, group A (-ω, -εις, -ει)
 
-183
+168
 βγαίνω
 vgeno
 go out — verb, group A (-ω, -εις, -ει)
 
-184
+169
 βέβαια
 vevea
 of course — adverb — it never changes
 
-185
+170
 βεβαιώνω
 veveono
 confirm — verb, group A (-ω, -εις, -ει)
 
-186
+171
 το Βερολίνο
 to verolino
 Berlin — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-187
+172
 το βήμα
 to vima
 step — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-188
+173
 ο βήχας
 o vihas
 cough — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-189
+174
 το βιβλιάριο τράπεζας
 to vivliario trapezas
 bank book — noun, neuter — irregular — learn its forms one by one
 
-190
+175
 το βιβλίο
 to vivlio
 book — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-191
+176
 η βιβλιοθήκη
 i vivliothiki
 library — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-192
+177
 το βιβλιοπωλείο
 to vivliopolio
 bookstore — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-193
-η Βίκυ
-i viki
-Vicky — noun, feminine — irregular — learn its forms one by one
-
-194
+178
 το βιογραφικό
 to viografiko
 resume — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-195
+179
 βλέπω
 vlepo
 see — verb, group A (-ω, -εις, -ει)
 
-196
+180
 βοηθάω
 voithao
 help — verb, group B1 (-άω / -ώ)
 
-197
+181
 βοηθώ
 voitho
 help — verb, group B2 (-ώ, -είς, -εί)
 
-198
+182
 η βοήθεια
 i voithia
 help — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-199
+183
 η βόλτα
 i volta
 walk — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-200
+184
 βόρειος, -α, -ο
 vorios
 northern — adjective, -ος / -η / -ο — it agrees with its noun
 
-201
+185
 η Βουλγαρία
 i voulgaria
 Bulgaria — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-202
+186
 το βουνό
 to vouno
 mountain — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-203
+187
 το βούτυρο
 to voutiro
 butter — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-204
+188
 η βραδιά
 i vradia
 evening — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-205
+189
 το βραδινό
 to vradino
 dinner — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-206
+190
 το βράδυ
 to vradi
 night — noun, neuter — irregular — learn its forms one by one
 
-207
+191
 βράζω
 vrazo
 boil — verb, group A (-ω, -εις, -ει)
 
-208
+192
 βραστός, -ή, -ό
 vrastos
 boiled — adjective, -ος / -η / -ο — it agrees with its noun
 
-209
+193
 ο βρεφονηπιακός σταθμός
 o vrefonipiakos stathmos
 kindergarten — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-210
+194
 βρέχει
 vrehi
 it rains — word
 
-211
+195
 βρέχομαι
 vrehome
 get wet — verb, passive form (-ομαι)
 
-212
+196
 βρίσκομαι
 vriskome
 be located — verb, passive form (-ομαι)
 
-213
+197
 βρίσκω
 vrisko
 find — verb, group A (-ω, -εις, -ει)
 
-214
+198
 η βρομιά
 i vromia
 dirt — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-215
+199
 βρόμικος, -η, -ο
 vromikos
 dirty — adjective, -ος / -η / -ο — it agrees with its noun
 
-216
+200
 η βροχή
 i vrohi
 rain — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-217
+201
 ο βυθός
 o vithos
 depth — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-218
+202
 η γάζα
 i gaza
 gauze — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-219
+203
 το γάλα
 to gala
 milk — noun, neuter — irregular — learn its forms one by one
 
-220
+204
 γαλακτοκομικός, -ή, -ό
 galaktokomikos
 dairy — adjective, -ος / -η / -ο — it agrees with its noun
 
-221
+205
 η Γαλλία
 i gallia
 France — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-222
+206
 γαλλικός, -ή, -ό
 gallikos
 French — adjective, -ος / -η / -ο — it agrees with its noun
 
-223
+207
 ο Γάλλος
 o gallos
 Frenchman — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-224
+208
 η Γαλλίδα
 i gallida
 Frenchwoman — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-225
+209
 ο γάμος
 o gamos
 marriage — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-226
+210
 το γάντι
 to gandi
 glove — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-227
+211
 το γαρίφαλο
 to garifalo
 carnation — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-228
+212
 η γάτα
 i gata
 cat — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-229
+213
 γεια
 yia
 hello — word
 
-230
+214
 ο γείτονας
 o yitonas
 neighbor — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-231
+215
 η γειτόνισσα
 i yitonissa
 neighbor — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-232
+216
 η γειτονιά
 i yitonia
 neighborhood — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-233
+217
 γεμάτος, -η, -o
 yematos
 full — adjective, -ος / -η / -ο — it agrees with its noun
 
-234
+218
 γεμίζω
 yemizo
 fill — verb, group A (-ω, -εις, -ει)
 
-235
+219
 τα γενέθλια
 ta yenethlia
 birthday — expression — learn it whole
 
-236
+220
 γεννάω
 yennao
 give birth — verb, group B1 (-άω / -ώ)
 
-237
+221
 γεννώ
 yenno
 give birth — verb, group B2 (-ώ, -είς, -εί)
 
-238
+222
 η γέννηση
 i yennisi
 birth — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-239
+223
 γερός, -ή, -ό
 yeros
 strong — adjective, -ος / -η / -ο — it agrees with its noun
 
-240
+224
 γερά
 yera
 strongly — adverb — it never changes
 
-241
-ο Γεράσιμος
-o yerasimos
-Gerasimos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-242
+225
 η Γερμανία
 i yermania
 Germany — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-243
+226
 γερμανικός, -ή, -ό
 yermanikos
 German — adjective, -ος / -η / -ο — it agrees with its noun
 
-244
+227
 ο Γερμανός
 o yermanos
 German — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-245
+228
 η Γερμανίδα
 i yermanida
 German — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-246
+229
 το γεύμα
 to yevma
 meal — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-247
+230
 η γεύση
 i yefsi
 taste — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-248
+231
 το γήπεδο
 to yipedo
 field — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-249
+232
 γι' αυτό
 yi' afto
 therefore — adverb — it never changes
 
-250
+233
 η γιαγιά
 i yiayia
 grandmother — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-251
+234
 ο γιαλός
 o yialos
 shore — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-252
-ο Γιάννης
-o yiannis
-John — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-253
+235
 το γιαούρτι
 to yiaourti
 yogurt — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-254
+236
 γιατί
 yiati
 because — adverb — it never changes
 
-255
+237
 ο γιατρός
 o yiatros
 doctor — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-256
+238
 η γιατρός
 i yiatros
 doctor — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-257
+239
 γίνομαι
 yinome
 become — verb, passive form (-ομαι)
 
-258
+240
 γιορτάζω
 yiortazo
 celebrate — verb, group A (-ω, -εις, -ει)
 
-259
+241
 η γιορτή
 i yiorti
 celebration — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-260
+242
 ο γιος
 o yios
 son — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-261
-ο Γιώργος
-o yiorgos
-George — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-262
+243
 το γκαράζ
 to garaz
 garage — noun, neuter — invariable — it never changes
 
-263
+244
 το γλέντι
 to glendi
 feast — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-264
+245
 γλυκός, -ιά, -ό
 glikos
 sweet — word
 
-265
+246
 το γλυκό
 to gliko
 dessert — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-266
+247
 η γλώσσα μητρική
 i glossa mitriki
 mother tongue — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-267
+248
 η γλώσσα
 i glossa
 language — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-268
+249
 η γνώμη
 i gnomi
 opinion — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-269
+250
 γνωρίζω
 gnorizo
 know — verb, group A (-ω, -εις, -ει)
 
-270
+251
 η γνωριμία
 i gnorimia
 acquaintance — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-271
+252
 η γνώση
 i gnosi
 knowledge — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-272
+253
 γνωστός, -ή, -ό
 gnostos
 known — adjective, -ος / -η / -ο — it agrees with its noun
 
-273
+254
 οι γονείς
 i gonis
 parents — expression — learn it whole
 
-274
+255
 το γράμμα
 to gramma
 letter — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-275
+256
 ο γραμματέας
 o grammateas
 secretary — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-276
+257
 η γραμματέας
 i grammateas
 secretary — noun, feminine — irregular — learn its forms one by one
 
-277
+258
 η γραμματική
 i grammatiki
 grammar — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-278
+259
 το γραμματοκιβώτιο
 to grammatokivotio
 mailbox — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-279
+260
 το γραμματόσημο
 to grammatosimo
 stamp — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-280
+261
 η γραμμή
 i grammi
 line — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-281
+262
 γραπτός, -ή, -ό
 graptos
 written — adjective, -ος / -η / -ο — it agrees with its noun
 
-282
+263
 το γραφείο
 to grafio
 desk — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-283
+264
 γράφω
 grafo
 write — verb, group A (-ω, -εις, -ει)
 
-284
+265
 γρήγορα
 grigora
 quickly — adverb — it never changes
 
-285
-ο Γρηγόρης
-o grigoris
-Gregory — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-286
+266
 η γρίπη
 i gripi
 flu — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-287
+267
 το γυαλί
 to yiali
 glass — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-288
+268
 τα γυαλιά ηλίου
 ta yialia iliou
 sunglasses — expression — learn it whole
 
-289
+269
 τα γυαλιά
 ta yialia
 glasses — expression — learn it whole
 
-290
+270
 το Γυμνάσιο
 to yimnasio
 Gymnasium — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-291
+271
 το γυμναστήριο
 to yimnastirio
 gym — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-292
+272
 η γυμναστική
 i yimnastiki
 gymnastics — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-293
+273
 η γυναίκα
 i yineka
 woman — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-294
+274
 γυρίζω
 yirizo
 turn — verb, group A (-ω, -εις, -ει)
 
-295
+275
 γυρνάω
 yirnao
 turn — verb, group B1 (-άω / -ώ)
 
-296
+276
 γύρω
 giro
 around — verb, group A (-ω, -εις, -ει)
 
-297
+277
 ο δάσκαλος
 o daskalos
 teacher — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-298
+278
 η δασκάλα
 i daskala
 teacher — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-299
+279
 το δάσος
 to dasos
 forest — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-300
+280
 δείχνω
 dihno
 show — verb, group A (-ω, -εις, -ει)
 
-301
+281
 δέκα
 deka
 ten — number
 
-302
+282
 δεκαεννιά
 dekaennia
 nineteen — number
 
-303
+283
 δεκαέξι
 dekaexi
 sixteen — word
 
-304
+284
 δεκαεπτά
 dekaepta
 seventeen — word
 
-305
+285
 δεκαοκτώ
 dekaokto
 eighteen — verb, group B2 (-ώ, -είς, -εί)
 
-306
+286
 δεκαπέντε
 dekapende
 fifteen — number
 
-307
+287
 δέκατος, -η, -ο
 dekatos
 tenth — adjective, -ος / -η / -ο — it agrees with its noun
 
-308
+288
 δεκατρείς
 dekatris
 thirteen — word
 
-309
+289
 δεκατρία
 dekatria
 thirteen — word
 
-310
+290
 ο Δεκέμβριος
 o dekemvrios
 December — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-311
+291
 δεξιά
 dexia
 right — adverb — it never changes
 
-312
+292
 δερμάτινος, -η, -ο
 dermatinos
 leather — adjective, -ος / -η / -ο — it agrees with its noun
 
-313
-η Δέσποινα
-i despina
-Despina — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-314
+293
 δεύτερος, -η, -ο
 defteros
 second — adjective, -ος / -η / -ο — it agrees with its noun
 
-315
+294
 η Δευτέρα
 i deftera
 Monday — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-316
+295
 δηλαδή
 diladi
 meaning — adverb — it never changes
 
-317
+296
 δηλητηριάζω
 dilitiriazo
 poison — verb, group A (-ω, -εις, -ει)
 
-318
+297
 η δηλητηρίαση
 i dilitiriasi
 poisoning — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-319
+298
 δηλώνω
 dilono
 state — verb, group A (-ω, -εις, -ει)
 
-320
+299
 το Δημαρχείο
 to dimarhio
 City Hall — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-321
+300
 ο δήμαρχος
 o dimarhos
 mayor — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-322
+301
 η δήμαρχος
 i dimarhos
 mayor — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-323
-ο Δημήτρης
-o dimitris
-Dimitris — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-324
+302
 τα δημητριακά
 ta dimitriaka
 cereals — expression — learn it whole
 
-325
-ο Δημήτριος
-o dimitrios
-Dimitrios — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-326
+303
 ο δήμος
 o dimos
 municipality — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-327
+304
 δημόσιος, -α, -ο
 dimosios
 public — adjective, -ος / -η / -ο — it agrees with its noun
 
-328
+305
 ο δημοσιογράφος
 o dimosiografos
 journalist — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-329
+306
 η δημοσιογράφος
 i dimosiografos
 journalist — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-330
+307
 δημοτικός, -ή, -ό
 dimotikos
 municipal — adjective, -ος / -η / -ο — it agrees with its noun
 
-331
+308
 το Δημοτικό σχολείο
 to dimotiko sholio
 Primary School — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-332
+309
 διαβάζω
 diavazo
 read — verb, group A (-ω, -εις, -ει)
 
-333
+310
 το διάβασμα
 to diavasma
 reading — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-334
+311
 το διαβατήριο
 to diavatirio
 passport — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-335
+312
 διαγράφω
 diagrafo
 delete — verb, group A (-ω, -εις, -ει)
 
-336
+313
 το διαγώνισμα
 to diagonisma
 test — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-337
+314
 η διαδικασία
 i diadikasia
 process — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-338
+315
 το διαδίκτυο
 to diadiktio
 internet — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-339
+316
 διαδοχικός, -ή, -ό
 diadohikos
 successive — adjective, -ος / -η / -ο — it agrees with its noun
 
-340
+317
 η διαδρομή
 i diadromi
 route — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-341
+318
 η διάθεση
 i diathesi
 mood — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-342
+319
 η δίαιτα
 i dieta
 diet — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-343
+320
 οι διακοπές
 i diakopes
 holidays — expression — learn it whole
 
-344
+321
 διαλέγω
 dialego
 choose — verb, group A (-ω, -εις, -ει)
 
-345
+322
 το διάλειμμα
 to dialimma
 break — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-346
+323
 ο διάλογος
 o dialogos
 dialogue — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-347
+324
 το διαμέρισμα
 to diamerisma
 apartment — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-348
+325
 η διάρκεια
 i diarkia
 duration — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-349
+326
 διαρκώ
 diarko
 last — verb, group B2 (-ώ, -είς, -εί)
 
-350
+327
 διασκεδάζω
 diaskedazo
 have fun — verb, group A (-ω, -εις, -ει)
 
-351
+328
 η διασκέδαση
 i diaskedasi
 entertainment — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-352
+329
 το διάστημα
 to diastima
 period — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-353
+330
 η διατροφή
 i diatrofi
 alimony — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-354
+331
 διαφημίζω
 diafimizo
 advertise — verb, group A (-ω, -εις, -ει)
 
-355
+332
 η διαφήμιση
 i diafimisi
 advertisement — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-356
+333
 διαφημιστικός, -ή, -ό
 diafimistikos
 advertising — adjective, -ος / -η / -ο — it agrees with its noun
 
-357
+334
 διάφορος, -η, -ο
 diaforos
 various — adjective, -ος / -η / -ο — it agrees with its noun
 
-358
+335
 η διαφορά
 i diafora
 difference — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-359
+336
 διαφορετικός, -ή, -ό
 diaforetikos
 different — adjective, -ος / -η / -ο — it agrees with its noun
 
-360
+337
 διαφωνώ
 diafono
 disagree — verb, group B2 (-ώ, -είς, -εί)
 
-361
+338
 η διεύθυνση
 i diefthinsi
 address — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-362
+339
 δικός, -ή, -ό
 dikos
 our — adjective, -ος / -η / -ο — it agrees with its noun
 
-363
+340
 ο δικηγόρος
 o dikigoros
 lawyer — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-364
+341
 η δικηγόρος
 i dikigoros
 lawyer — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-365
+342
 το δίκλινο δωμάτιο
 to diklino domatio
 double room — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-366
+343
 δίνομαι
 dinome
 give oneself — verb, passive form (-ομαι)
 
-367
+344
 δίνω
 dino
 give — verb, group A (-ω, -εις, -ει)
 
-368
+345
 διορθώνω
 diorthono
 correct — verb, group A (-ω, -εις, -ει)
 
-369
+346
 διπλός, -ή, -ό
 diplos
 double — adjective, -ος / -η / -ο — it agrees with its noun
 
-370
+347
 δίπλα
 dipla
 near — word
 
-371
+348
 διπλανός, -ή, -ό
 diplanos
 next — adjective, -ος / -η / -ο — it agrees with its noun
 
-372
+349
 δοκιμάζω
 dokimazo
 try — verb, group A (-ω, -εις, -ει)
 
-373
+350
 η δουλειά
 i doulia
 work — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-374
+351
 οι δουλειές σπιτιού
 i doulies spitiou
 housework — expression — learn it whole
 
-375
+352
 δουλεύω
 doulevo
 work — verb, group A (-ω, -εις, -ει)
 
-376
-η Δράμα
-i drama
-Drama — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-377
+353
 δραματικός, -ή, -ό
 dramatikos
 dramatic — adjective, -ος / -η / -ο — it agrees with its noun
 
-378
+354
 η δραματική ταινία
 i dramatiki tenia
 drama movie — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-379
+355
 η δραστηριότητα
 i drastiriotita
 activity — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-380
+356
 το δρομολόγιο
 to dromoloyio
 schedule — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-381
+357
 ο δρόμος
 o dromos
 road — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-382
+358
 το δυάρι
 to diari
 two-room apartment — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-383
+359
 δυνατός, -ή, -ό
 dinatos
 strong — adjective, -ος / -η / -ο — it agrees with its noun
 
-384
+360
 δυνατά
 dinata
 loudly — adverb — it never changes
 
-385
+361
 η δυνατότητα
 i dinatotita
 possibility — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-386
+362
 δύο
 dio
 two — pronoun
 
-387
+363
 δύο φορές
 dio fores
 twice — expression — learn it whole
 
-388
+364
 δύσκολος, -η, -ο
 diskolos
 difficult — adjective, -ος / -η / -ο — it agrees with its noun
 
-389
+365
 δύσκολα
 diskola
 difficultly — adverb — it never changes
 
-390
+366
 η δυσκολία
 i diskolia
 difficulty — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-391
+367
 δυστυχώς
 distihos
 unfortunately — adverb — it never changes
 
-392
+368
 το δωμάτιο
 to domatio
 room — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-393
+369
 δωρεάν
 dorean
 free — adverb — it never changes
 
-394
+370
 το δώρο
 to doro
 gift — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-395
+371
 ο εαυτός
 o eaftos
 self — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-396
+372
 έβδομος, -η, -ο
 evdomos
 seventh — adjective, -ος / -η / -ο — it agrees with its noun
 
-397
+373
 εβδομήντα
 evdominda
 seventy — word
 
-398
+374
 η εγγονή
 i engoni
 granddaughter — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-399
+375
 το εγγόνι
 to engoni
 grandchild — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-400
+376
 ο εγγονός
 o engonos
 grandson — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-401
+377
 το έγγραφο
 to engrafo
 document — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-402
+378
 τα εγκαίνια
 ta engenia
 opening — expression — learn it whole
 
-403
+379
 εγώ
 ego
 I — verb, group B2 (-ώ, -είς, -εί)
 
-404
+380
 εδώ
 edo
 here — verb, group B2 (-ώ, -είς, -εί)
 
-405
+381
 εδώ γύρω
 edo giro
 around here — verb, group A (-ω, -εις, -ει)
 
-406
+382
 εδώ και πολύ καιρό
 edo ke poli kero
 for a long time — expression — learn it whole
 
-407
+383
 το έθιμο
 to ethimo
 custom — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-408
+384
 η εθνικότητα
 i ethnikotita
 nationality — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-409
+385
 οι ειδήσεις
 i idisis
 news — adverb — it never changes
 
-410
+386
 ο ειδικός
 o idikos
 specialist — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-411
+387
 η ειδικός
 i idikos
 specialist — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-412
+388
 η ειδοποίηση
 i idopiisi
 notice — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-413
+389
 το είδος
 to idos
 kind — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-414
+390
 η εικόνα
 i ikona
 image — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-415
+391
 είμαι
 ime
 I am — verb
 
-416
+392
 είμαι σπίτι
 ime spiti
 be home — expression — learn it whole
 
-417
+393
 η ειρήνη
 i irini
 peace — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-418
-η Ειρήνη
-i irini
-Irene — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-419
+394
 εισιτήριο με επιστροφή
 isitirio me epistrofi
 return ticket — adverb — it never changes
 
-420
+395
 το εισιτήριο
 to isitirio
 ticket — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-421
+396
 η είσοδος
 i isodos
 entrance — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-422
+397
 η εκδήλωση
 i ekdilosi
 event — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-423
+398
 η εκδρομή
 i ekdromi
 excursion — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-424
+399
 εκεί
 eki
 there — word
 
-425
+400
 εκείνος, -η, -ο
 ekinos
 that — adjective, -ος / -η / -ο — it agrees with its noun
 
-426
+401
 εκείνη
 ekini
 that — word
 
-427
+402
 εκείνον
 ekinon
 that — word
 
-428
+403
 η εκκλησία
 i ekklisia
 church — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-429
+404
 η εκπαίδευση
 i ekpedefsi
 education — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-430
+405
 η έκπληξη
 i ekplixi
 surprise — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-431
+406
 η εκπομπή
 i ekpombi
 program — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-432
+407
 οι εκπτώσεις
 i ekptosis
 sales — expression — learn it whole
 
-433
+408
 η έκπτωση
 i ekptosi
 discount — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-434
+409
 έκτος, -η, -ο
 ektos
 sixth — adjective, -ος / -η / -ο — it agrees with its noun
 
-435
+410
 η εκτίμηση
 i ektimisi
 estimate — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-436
+411
 το ελαιόλαδο
 to eleolado
 olive oil — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-437
+412
 ελαφρύς, -ιά, -ύ
 elafris
 light — word
 
-438
-η Ελένη
-i eleni
-Helen — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-439
+413
 ελεύθερος, -η, -ο
 eleftheros
 free — adjective, -ος / -η / -ο — it agrees with its noun
 
-440
-η Ελίνα
-i elina
-Elina — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-441
+414
 η Ελλάδα
 i ellada
 Greece — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-442
+415
 ο Έλληνας
 o ellinas
 Greek — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-443
+416
 η Ελληνίδα
 i ellinida
 Greek — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-444
+417
 ελληνικός, -ή, -ό
 ellinikos
 Greek — adjective, -ος / -η / -ο — it agrees with its noun
 
-445
+418
 ελπίζω
 elpizo
 hope — verb, group A (-ω, -εις, -ει)
 
-446
-η Έλσα
-i elsa
-Elsa — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-447
+419
 εμείς
 emis
 we — word
 
-448
+420
 εμένα
 emena
 me — word
 
-449
+421
 η εμπειρία
 i embiria
 experience — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-450
+422
 το εμπορικό κέντρο
 to emboriko kendro
 Shopping center — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-451
+423
 η εμφάνιση
 i emfanisi
 appearance — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-452
+424
 ένας
 enas
 a — word
 
-453
+425
 μια
 mia
 a — word
 
-454
+426
 ένα
 ena
 a — word
 
-455
+427
 μία
 mia
 one — number
 
-456
+428
 ένατος, -η, -ο
 enatos
 ninth — adjective, -ος / -η / -ο — it agrees with its noun
 
-457
+429
 ενδιαφέρομαι
 endiaferome
 be interested — verb, passive form (-ομαι)
 
-458
+430
 το ενδιαφέρον
 to endiaferon
 interest — noun, neuter — N5 · -ον (του -οντος, τα -οντα)
 
-459
+431
 ενενήντα
 eneninda
 ninety — number
 
-460
+432
 ενημερώνω
 enimerono
 inform — verb, group A (-ω, -εις, -ει)
 
-461
+433
 ενθουσιάζω
 enthousiazo
 excite — verb, group A (-ω, -εις, -ει)
 
-462
+434
 εννέα
 ennea
 nine — number
 
-463
+435
 εννιά
 ennia
 nine — number
 
-464
+436
 η ενοικίαση
 i enikiasi
 rental — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-465
+437
 το ενοίκιο
 to enikio
 rent — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-466
+438
 η ενότητα
 i enotita
 unity — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-467
+439
 ενώνω
 enono
 unite — verb, group A (-ω, -εις, -ει)
 
-468
+440
 οι εξετάσεις
 i exetasis
 exams — expression — learn it whole
 
-469
+441
 εξηγώ
 exigo
 explain — verb, group B2 (-ώ, -είς, -εί)
 
-470
+442
 εξήντα
 exinda
 sixty — number
 
-471
+443
 έξι
 exi
 six — number
 
-472
+444
 η έξοδος
 i exodos
 exit — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-473
+445
 η εξοχή
 i exohi
 countryside — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-474
+446
 η εξυπηρέτηση
 i exipiretisi
 service — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-475
+447
 εξυπηρετώ
 exipireto
 serve — verb, group B2 (-ώ, -είς, -εί)
 
-476
+448
 έξω
 exo
 outside — verb, group A (-ω, -εις, -ει)
 
-477
+449
 έξω από
 exo apo
 outside of — adverb — it never changes
 
-478
+450
 το εξωτερικό
 to exoteriko
 abroad — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-479
+451
 το επάγγελμα
 to epangelma
 profession — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-480
+452
 επαγγελματικός, -ή, -ό
 epangelmatikos
 professional — adjective, -ος / -η / -ο — it agrees with its noun
 
-481
+453
 επαναλαμβάνω
 epanalamvano
 repeat — verb, group A (-ω, -εις, -ει)
 
-482
+454
 επειδή
 epidi
 because — word
 
-483
+455
 επιθυμώ
 epithimo
 desire — verb, group B2 (-ώ, -είς, -εί)
 
-484
+456
 επικίνδυνος, -η, -ο
 epikindinos
 dangerous — adjective, -ος / -η / -ο — it agrees with its noun
 
-485
+457
 η επικοινωνία
 i epikinonia
 communication — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-486
+458
 επικοινωνώ
 epikinono
 communicate — verb, group B2 (-ώ, -είς, -εί)
 
-487
+459
 επιλέγω
 epilego
 select — verb, group A (-ω, -εις, -ει)
 
-488
+460
 το έπιπλο
 to epiplo
 furniture — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-489
+461
 επίσημος, -η, -ο
 episimos
 official — adjective, -ος / -η / -ο — it agrees with its noun
 
-490
+462
 επίσημα
 episima
 officially — adverb — it never changes
 
-491
+463
 επίσης
 episis
 also — adverb — it never changes
 
-492
+464
 επισκέπτομαι
 episkeptome
 visit — verb, passive form (-ομαι)
 
-493
+465
 επιστρέφω
 epistrefo
 return — verb, group A (-ω, -εις, -ει)
 
-494
+466
 επιτέλους
 epitelous
 finally — adverb — it never changes
 
-495
+467
 η επιτυχία
 i epitihia
 success — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-496
+468
 επόμενος, -η, -ο
 epomenos
 next — adjective, -ος / -η / -ο — it agrees with its noun
 
-497
+469
 η εποχή
 i epohi
 season — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-498
+470
 το επώνυμο
 to eponimo
 surname — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-499
+471
 η εργασία
 i ergasia
 work — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-500
+472
 το θεατρικό έργο
 to theatriko ergo
 play (theatre) — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-501
+473
 το εργοστάσιο
 to ergostasio
 factory — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-502
+474
 η έρευνα
 i erevna
 research — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-503
+475
 έρχομαι
 erhome
 come — verb, passive form (-ομαι)
 
-504
+476
 το ερωτηματολόγιο
 to erotimatoloyio
 questionnaire — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-505
+477
 η ερώτηση
 i erotisi
 question — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-506
+478
 εσένα
 esena
 you — pronoun
 
-507
+479
 το εστιατόριο
 to estiatorio
 restaurant — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-508
+480
 εσύ
 esi
 you — pronoun
 
-509
+481
 εσείς
 esis
 you — pronoun
 
-510
+482
 η εταιρεία
 i eteria
 company — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-511
+483
 έτοιμος, -η, -ο
 etimos
 ready — adjective, -ος / -η / -ο — it agrees with its noun
 
-512
+484
 ετοιμάζω
 etimazo
 prepare — verb, group A (-ω, -εις, -ει)
 
-513
+485
 το έτος
 to etos
 year — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-514
+486
 έτσι
 etsi
 so — adverb — it never changes
 
-515
+487
 ευγενικός, -ή, -ό
 evyenikos
 polite — adjective, -ος / -η / -ο — it agrees with its noun
 
-516
+488
 η ευκαιρία
 i efkeria
 opportunity — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-517
+489
 εύκολος, -η, -ο
 efkolos
 easy — adjective, -ος / -η / -ο — it agrees with its noun
 
-518
+490
 το ευρώ
 to evro
 euro — noun, neuter — invariable — it never changes
 
-519
+491
 ευρωπαϊκός, -ή, -ό
 evropaikos
 European — word
 
-520
+492
 ο Ευρωπαίος
 o evropeos
 European — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-521
+493
 η Ευρωπαία
 i evropea
 European — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-522
+494
 η Ευρώπη
 i evropi
 Europe — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-523
+495
 η ευτυχία
 i eftihia
 happiness — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-524
+496
 ευτυχώς
 eftihos
 fortunately — adverb — it never changes
 
-525
+497
 ευχάριστος, -η, -ο
 efharistos
 pleasant — adjective, -ος / -η / -ο — it agrees with its noun
 
-526
+498
 ευχαριστημένος, -η, -ο
 efharistimenos
 satisfied — adjective, -ος / -η / -ο — it agrees with its noun
 
-527
+499
 ευχαριστώ
 efharisto
 thank — verb, group B2 (-ώ, -είς, -εί)
 
-528
+500
 η ευχή
 i efhi
 wish — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-529
+501
 τα εφέ
 ta efe
 effects — expression — learn it whole
 
-530
+502
 η εφημερίδα
 i efimerida
 newspaper — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-531
+503
 η εφορία
 i eforia
 tax office — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-532
+504
 έχει αέρα
 ehi aera
 windy — expression — learn it whole
 
-533
+505
 έχει ήλιο
 ehi ilio
 it's sunny — expression — learn it whole
 
-534
+506
 έχει συννεφιά
 ehi sinnefia
 it is cloudy — expression — learn it whole
 
-535
+507
 έχω
 eho
 have — verb, group A (-ω, -εις, -ει)
 
-536
+508
 η ζάχαρη
 i zahari
 sugar — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-537
+509
 ζεστός, -ή, -ό
 zestos
 warm — adjective, -ος / -η / -ο — it agrees with its noun
 
-538
+510
 η ζέστη
 i zesti
 heat — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-539
+511
 το ζευγάρι
 to zevgari
 couple — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-540
-ο Ζήσης
-o zisis
-Zisis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-541
+512
 ζητάω
 zitao
 ask — verb, group B1 (-άω / -ώ)
 
-542
+513
 ζητώ
 zito
 ask — verb, group B2 (-ώ, -είς, -εί)
 
-543
+514
 το ζυμαρικό
 to zimariko
 pasta — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-544
+515
 η Ζυρίχη
 i zirihi
 Zurich — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-545
+516
 ζω
 zo
 live — verb, group A (-ω, -εις, -ει)
 
-546
+517
 ζωγραφίζω
 zografizo
 paint — verb, group A (-ω, -εις, -ει)
 
-547
+518
 η ζωγραφική
 i zografiki
 painting — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-548
+519
 η ζωή
 i zoi
 life — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-549
+520
 ζωηρός, -ή, -ό
 zoiros
 lively — adjective, -ος / -η / -ο — it agrees with its noun
 
-550
+521
 ζωντανός, -ή, -ό
 zondanos
 alive — adjective, -ος / -η / -ο — it agrees with its noun
 
-551
+522
 η ζωντανή μουσική
 i zondani mousiki
 live music — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-552
+523
 το ζώο
 to zoo
 animal — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-553
+524
 η σειρά μου
 i sira mou
 my turn — noun, feminine — irregular — learn its forms one by one
 
-554
+525
 η ώρα είναι τέσσερις
 i ora ine tesseris
 it is four o’clock — noun, feminine — irregular — learn its forms one by one
 
-555
+526
 η ώρα είναι τεσσερισήμισι
 i ora ine tesserisimisi
 it is half past four — noun, feminine — irregular — learn its forms one by one
 
-556
+527
 η ηθοποιός
 i ithopios
 actress — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-557
+528
 ο ηθοποιός
 o ithopios
 actor — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-558
+529
 ηλεκτρικός, -ή, -ό
 ilektrikos
 electric — adjective, -ος / -η / -ο — it agrees with its noun
 
-559
+530
 τα ηλεκτρικά είδη
 ta ilektrika idi
 electronics — expression — learn it whole
 
-560
+531
 η ηλεκτροπληξία
 i ilektroplixia
 electrocution — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-561
+532
 η ηλικία
 i ilikia
 age — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-562
+533
 ο ήλιος
 o ilios
 sun — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-563
+534
 η ημέρα
 i imera
 day — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-564
+535
 η ημερομηνία
 i imerominia
 date — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-565
+536
 ήπιος, -α, -ο
 ipios
 mild — adjective, -ος / -η / -ο — it agrees with its noun
 
-566
+537
 ήρεμος, -η, -ο
 iremos
 calm — adjective, -ος / -η / -ο — it agrees with its noun
 
-567
+538
 ήσυχος, -η, -ο
 isihos
 quiet — adjective, -ος / -η / -ο — it agrees with its noun
 
-568
+539
 η ησυχία
 i isihia
 quiet — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-569
+540
 θα
 tha
 will — word
 
-570
+541
 θα είμαι πίσω
 tha ime piso
 I will be back — verb, group A (-ω, -εις, -ει)
 
-571
+542
 η θάλασσα
 i thalassa
 sea — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-572
-ο Θανάσης
-o thanasis
-Thanasis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-573
+543
 η θέα
 i thea
 view — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-574
+544
 ο θεατής
 o theatis
 viewer — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-575
+545
 η θεατής
 i theatis
 viewer — noun, feminine — irregular — learn its forms one by one
 
-576
+546
 θεατρικός, -ή, -ό
 theatrikos
 theatrical — adjective, -ος / -η / -ο — it agrees with its noun
 
-577
+547
 το θέατρο
 to theatro
 theater — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-578
+548
 η θεία
 i thia
 aunt — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-579
+549
 ο θείος
 o thios
 uncle — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-580
+550
 θέλω
 thelo
 want — verb, group A (-ω, -εις, -ει)
 
-581
+551
 το θέμα
 to thema
 subject — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-582
+552
 η θερμοκρασία
 i thermokrasia
 temperature — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-583
+553
 η θέση
 i thesi
 position — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-584
+554
 θετικά
 thetika
 positively — adverb — it never changes
 
-585
+555
 η θήκη
 i thiki
 case — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-586
+556
 θυμάμαι
 thimame
 remember — verb, passive form (B2 -άμαι)
 
-587
+557
 θυμίζω
 thimizo
 remind — verb, group A (-ω, -εις, -ει)
 
-588
-η Θωμαή
-i thomai
-Thomai — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-589
+558
 η ιδέα
 i idea
 idea — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-590
+559
 ίδιος, -α, -ο
 idios
 same — adjective, -ος / -η / -ο — it agrees with its noun
 
-591
+560
 ιδιαίτερα
 idietera
 particularly — adverb — it never changes
 
-592
+561
 το ίδρυμα
 to idrima
 institution — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-593
+562
 ιερός, -ή, -ό
 ieros
 sacred — adjective, -ος / -η / -ο — it agrees with its noun
 
-594
+563
 η ικανότητα
 i ikanotita
 ability — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-595
+564
 ο Ιούνιος
 o iounios
 June — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-596
+565
 ίσιος, -α, -ο
 isios
 straight — adjective, -ος / -η / -ο — it agrees with its noun
 
-597
+566
 το ισόγειο
 to isoyio
 ground floor — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-598
+567
 η ιστορία
 i istoria
 history — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-599
+568
 η Ιστορία
 i istoria
 History — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-600
+569
 η ιστοσελίδα
 i istoselida
 website — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-601
+570
 ίσως
 isos
 perhaps — adverb — it never changes
 
-602
-η Καβάλα
-i kavala
-Kavala — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-603
+571
 το κάγκελο
 to kangelo
 rail — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-604
+572
 το κάδρο
 to kadro
 frame — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-605
+573
 καθαρός, -ή, -ό
 katharos
 clean — adjective, -ος / -η / -ο — it agrees with its noun
 
-606
+574
 καθαρίζω
 katharizo
 clean — verb, group A (-ω, -εις, -ει)
 
-607
+575
 το καθαριστικό
 to katharistiko
 cleaner — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-608
+576
 κάθε
 kathe
 each — word
 
-609
+577
 κάθετα
 katheta
 vertically — adverb — it never changes
 
-610
+578
 καθημερινά
 kathimerina
 daily — adverb — it never changes
 
-611
+579
 καθόλου
 katholou
 not at all — adverb — it never changes
 
-612
+580
 κάθομαι
 kathome
 sit — verb, passive form (-ομαι)
 
-613
+581
 ο καθρέφτης
 o kathreftis
 mirror — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-614
+582
 η καθυστέρηση
 i kathisterisi
 delay — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-615
+583
 και
 ke
 and — word
 
-616
+584
 και οι δύο
 ke i dio
 both — expression — learn it whole
 
-617
+585
 καινούριος, -α, -ο
 kenourios
 new — adjective, -ος / -η / -ο — it agrees with its noun
 
-618
+586
 ο καιρός
 o keros
 weather — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-619
+587
 καίω
 keo
 burn — verb, group A (-ω, -εις, -ει)
 
-620
+588
 κακός, -ή, -ό
 kakos
 bad — adjective, -ος / -η / -ο — it agrees with its noun
 
-621
+589
 καλός, -ή, -ό
 kalos
 good — adjective, -ος / -η / -ο — it agrees with its noun
 
-622
+590
 καλά
 kala
 well — adverb — it never changes
 
-623
+591
 το καλαμπόκι
 to kalamboki
 corn — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-624
+592
 τα κάλαντα
 ta kalanda
 carols — expression — learn it whole
 
-625
+593
 καλεσμένος, -η, -ο
 kalesmenos
 guest — adjective, -ος / -η / -ο — it agrees with its noun
 
-626
+594
 καλημέρα
 kalimera
 good morning — word
 
-627
-η Καλλιόπη
-i kalliopi
-Calliope — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-628
+595
 ο καλλιτέχνης
 o kallitehnis
 artist — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-629
+596
 η καλλιτέχνης
 i kallitehnis
 artist — noun, feminine — irregular — learn its forms one by one
 
-630
+597
 το καλλυντικό
 to kallindiko
 cosmetic — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-631
+598
 το καλοκαίρι
 to kalokeri
 summer — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-632
+599
 καλύπτω
 kalipto
 cover — verb, group A (-ω, -εις, -ει)
 
-633
+600
 καλώ
 kalo
 call — verb, group B2 (-ώ, -είς, -εί)
 
-634
+601
 το κανάλι
 to kanali
 channel — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-635
+602
 ο καναπές
 o kanapes
 sofa — noun, masculine — M4 · adds -δ- in the plural (οι -δες)
 
-636
+603
 κάνει ζέστη
 kani zesti
 it's hot — expression — learn it whole
 
-637
+604
 κάνει
 kani
 it is — word
 
-638
+605
 έχει κρύο
 ehi krio
 it is cold — expression — learn it whole
 
-639
+606
 κανονικός, -ή, -ό
 kanonikos
 normal — adjective, -ος / -η / -ο — it agrees with its noun
 
-640
+607
 κανονικά
 kanonika
 normally — adverb — it never changes
 
-641
+608
 κάνω
 kano
 do — verb, group A (-ω, -εις, -ει)
 
-642
+609
 κάνω βόλτα
 kano volta
 go for a walk — expression — learn it whole
 
-643
+610
 κάνω μπάνιο
 kano banio
 bathe — expression — learn it whole
 
-644
+611
 κάποιος
 kapios
 someone — adjective, -ος / -η / -ο — it agrees with its noun
 
-645
+612
 κάποια
 kapia
 someone — adjective, -ος / -η / -ο — it agrees with its noun
 
-646
+613
 κάποιος, -α, -ο
 kapios
 some — adjective, -ος / -η / -ο — it agrees with its noun
 
-647
+614
 το καράβι
 to karavi
 ship — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-648
+615
 η καρδιά
 i kardia
 heart — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-649
+616
 ο καρδιολόγος
 o kardiologos
 cardiologist — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-650
+617
 η καρδιολόγος
 i kardiologos
 cardiologist — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-651
+618
 η καρέκλα
 i karekla
 chair — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-652
-η Κάρμεν
-i karmen
-Carmen — noun, feminine — irregular — learn its forms one by one
-
-653
+619
 το καρότο
 to karoto
 carrot — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-654
+620
 η κάρτα
 i karta
 card — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-655
+621
 το καρύδι
 to karidi
 walnut — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-656
+622
 το κασκόλ
 to kaskol
 scarf — noun, neuter — invariable — it never changes
 
-657
+623
 το κάστρο
 to kastro
 castle — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-658
+624
 η κατάθεση
 i katathesi
 deposit — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-659
+625
 η καταιγίδα
 i kateyida
 storm — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-660
+626
 καταλαβαίνω
 katalaveno
 understand — verb, group A (-ω, -εις, -ει)
 
-661
+627
 κατάλληλος, -η, -ο
 katallilos
 suitable — adjective, -ος / -η / -ο — it agrees with its noun
 
-662
+628
 καταπληκτικός, -ή, -ό
 katapliktikos
 amazing — adjective, -ος / -η / -ο — it agrees with its noun
 
-663
+629
 καταπληκτικά
 katapliktika
 amazingly — adverb — it never changes
 
-664
+630
 η κατάσταση
 i katastasi
 situation — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-665
+631
 καταφέρνω
 kataferno
 achieve — verb, group A (-ω, -εις, -ει)
 
-666
+632
 κατεβάζω μουσική
 katevazo mousiki
 download music — expression — learn it whole
 
-667
+633
 κατεβαίνω
 kateveno
 go down — verb, group A (-ω, -εις, -ει)
 
-668
-η Κατερίνα
-i katerina
-Catherine — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-669
+634
 η κατηγορία
 i katigoria
 category — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-670
+635
 κάτι
 kati
 something — word
 
-671
-η Κάτια
-i katia
-Katia — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-672
+636
 ο κάτοικος
 o katikos
 inhabitant — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-673
+637
 η κάτοικος
 i katikos
 inhabitant — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-674
+638
 η κατσαρόλα
 i katsarola
 pot — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-675
+639
 κάτω
 kato
 down — verb, group A (-ω, -εις, -ει)
 
-676
+640
 κάτω από
 kato apo
 under — adverb — it never changes
 
-677
+641
 καφέ
 kafe
 brown — word
 
-678
+642
 ο καφές
 o kafes
 coffee — noun, masculine — M4 · adds -δ- in the plural (οι -δες)
 
-679
+643
 η καφετέρια
 i kafeteria
 café — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-680
+644
 το κέικ
 to keik
 cake — noun, neuter — invariable — it never changes
 
-681
+645
 το κείμενο
 to kimeno
 text — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-682
+646
 το κελί
 to keli
 cell — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-683
+647
 το κενό
 to keno
 blank — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-684
+648
 κεντρικός, -ή, -ό
 kendrikos
 central — adjective, -ος / -η / -ο — it agrees with its noun
 
-685
+649
 το κεντρικό δελτίο ειδήσεων
 to kendriko deltio idiseon
 main news — noun, neuter — irregular — learn its forms one by one
 
-686
+650
 το κέντρο
 to kendro
 center — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-687
+651
 το κεράσι
 to kerasi
 cherry — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-688
+652
 ο κεραυνός
 o keravnos
 thunder — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-689
+653
 κερδίζω
 kerdizo
 win — verb, group A (-ω, -εις, -ει)
 
-690
-η Κέρκυρα
-i kerkira
-Corfu — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-691
+654
 το κεφαλαίο γράμμα
 to kefaleo gramma
 capital letter — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-692
+655
 το κεφάλι
 to kefali
 head — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-693
+656
 ο κήπος
 o kipos
 garden — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-694
+657
 η κιθάρα
 i kithara
 guitar — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-695
+658
 το κιλό
 to kilo
 kilogram — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-696
+659
 ο κίνδυνος
 o kindinos
 danger — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-697
+660
 η κίνηση
 i kinisi
 movement — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-698
+661
 το κινητό τηλέφωνο
 to kinito tilefono
 mobile phone — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-699
+662
 κιόλας
 kiolas
 already — adverb — it never changes
 
-700
+663
 κλασικός, -ή, -ό
 klasikos
 classic — adjective, -ος / -η / -ο — it agrees with its noun
 
-701
+664
 η κλειδί-λέξη
 i klidi-lexi
 keyword — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-702
+665
 κλειδώνω
 klidono
 lock — verb, group A (-ω, -εις, -ει)
 
-703
+666
 κλείνω
 klino
 reserve — verb, group A (-ω, -εις, -ει)
 
-704
+667
 ο κλέφτης
 o kleftis
 thief — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-705
+668
 η κλέφτρα
 i kleftra
 thief — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-706
+669
 ο κλόουν
 o klooun
 clown — noun, masculine — invariable — it never changes
 
-707
+670
 η κλοπή
 i klopi
 theft — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-708
+671
 κόβω
 kovo
 cut — verb, group A (-ω, -εις, -ει)
 
-709
+672
 κοιμάμαι
 kimame
 sleep — verb, passive form (B2 -άμαι)
 
-710
+673
 κοινωνικός, -ή, -ό
 kinonikos
 social — adjective, -ος / -η / -ο — it agrees with its noun
 
-711
+674
 κοιτώ
 kito
 look — verb, group B2 (-ώ, -είς, -εί)
 
-712
+675
 κοιτάζω
 kitazo
 look — verb, group A (-ω, -εις, -ει)
 
-713
+676
 κόκκινος, -η, -ο
 kokkinos
 red — adjective, -ος / -η / -ο — it agrees with its noun
 
-714
+677
 κολλάω
 kollao
 stick — verb, group B1 (-άω / -ώ)
 
-715
+678
 κολλώ
 kollo
 stick — verb, group B2 (-ώ, -είς, -εί)
 
-716
+679
 η κολόνα
 i kolona
 column — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-717
+680
 το κολυμβητήριο
 to kolimvitirio
 swimming pool — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-718
+681
 το κολύμπι
 to kolimbi
 swimming — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-719
+682
 το κομμάτι
 to kommati
 part — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-720
+683
 το κομμωτήριο
 to kommotirio
 hairdresser — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-721
-η Κομοτηνή
-i komotini
-Komotini — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-722
+684
 κοντός, -ή, -ό
 kondos
 short — adjective, -ος / -η / -ο — it agrees with its noun
 
-723
+685
 κοντά
 konda
 near — adverb — it never changes
 
-724
+686
 η κοπέλα
 i kopela
 girl — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-725
+687
 η κόρη
 i kori
 daughter — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-726
+688
 το κορίτσι
 to koritsi
 girl — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-727
+689
 η κορυφή
 i korifi
 top — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-728
+690
 το κόσμημα
 to kosmima
 jewel — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-729
+691
 ο κόσμος
 o kosmos
 world — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-730
+692
 κοστίζω
 kostizo
 cost — verb, group A (-ω, -εις, -ει)
 
-731
+693
 το κοστούμι
 to kostoumi
 suit — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-732
+694
 το κοτόπουλο
 to kotopoulo
 chicken — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-733
+695
 η κότα
 i kota
 chicken — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-734
+696
 η κουβέρτα
 i kouverta
 blanket — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-735
+697
 η κουζίνα
 i kouzina
 kitchen — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-736
+698
 η κουμπάρα
 i koumbara
 maid of honor — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-737
+699
 ο κουμπάρος
 o koumbaros
 best man — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-738
+700
 το κουνουπίδι
 to kounoupidi
 cauliflower — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-739
+701
 κουράζω
 kourazo
 tire — verb, group A (-ω, -εις, -ει)
 
-740
+702
 η κούραση
 i kourasi
 fatigue — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-741
+703
 κουρασμένος, -η, -ο
 kourasmenos
 tired — adjective, -ος / -η / -ο — it agrees with its noun
 
-742
+704
 κουραστικός, -ή, -ό
 kourastikos
 tiring — adjective, -ος / -η / -ο — it agrees with its noun
 
-743
+705
 η κουρτίνα
 i kourtina
 curtain — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-744
+706
 η κουταλιά
 i koutalia
 spoonful — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-745
+707
 το κουτί
 to kouti
 box — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-746
+708
 το κρασί
 to krasi
 wine — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-747
+709
 κρατάω
 kratao
 hold — verb, group B1 (-άω / -ώ)
 
-748
+710
 κρατώ
 krato
 hold — verb, group B2 (-ώ, -είς, -εί)
 
-749
+711
 κρατικός, -ή, -ό
 kratikos
 state — adjective, -ος / -η / -ο — it agrees with its noun
 
-750
+712
 το κρέας
 to kreas
 meat — noun, neuter — irregular — learn its forms one by one
 
-751
+713
 το κρεβάτι
 to krevati
 bed — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-752
+714
 η κρέμα
 i krema
 cream — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-753
-η Κρήτη
-i kriti
-Crete — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-754
+715
 Κρητικός, -ιά, -ό
 kritikos
 Cretan — word
 
-755
+716
 το κριθάρι
 to krithari
 barley — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-756
+717
 κρύος, -α, -ο
 krios
 cold — adjective, -ος / -η / -ο — it agrees with its noun
 
-757
+718
 κρύβω
 krivo
 hide — verb, group A (-ω, -εις, -ει)
 
-758
+719
 το κρύο
 to krio
 cold — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-759
+720
 κρυώνω
 kriono
 get cold — verb, group A (-ω, -εις, -ει)
 
-760
+721
 το κτίριο
 to ktirio
 building — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-761
+722
 ο κύκλος
 o kiklos
 circle — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-762
+723
 το κυλικείο
 to kilikio
 cafeteria — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-763
+724
 το κύμα
 to kima
 wave — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-764
+725
 η κυρία
 i kiria
 lady — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-765
+726
 η Κυριακή
 i kiriaki
 Sunday — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-766
-ο Κυριάκος
-o kiriakos
-Kyriakos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-767
+727
 ο κύριος
 o kirios
 Mr. — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-768
+728
 κωμικός, -ή, -ό
 komikos
 comic — adjective, -ος / -η / -ο — it agrees with its noun
 
-769
-ο Κώστας
-o kostas
-Kostas — noun, masculine — M1 · -ας (τον -α, οι -ες)
-
-770
+729
 ο λαβύρινθος
 o lavirinthos
 labyrinth — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-771
+730
 το λάθος
 to lathos
 mistake — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-772
+731
 η λαϊκή μουσική
 i laiki mousiki
 folk music — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-773
+732
 ο λαιμός
 o lemos
 neck — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-774
-η Λάρισα
-i larisa
-Larissa — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-775
+733
 ο λάτιν χορός
 o latin horos
 Latin dance — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-776
+734
 το λαχανικό
 to lahaniko
 vegetable — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-777
+735
 λείπω
 lipo
 be absent — verb, group A (-ω, -εις, -ει)
 
-778
+736
 η λειτουργία
 i litouryia
 function — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-779
+737
 λειτουργώ
 litourgo
 operate — verb, group B2 (-ώ, -είς, -εί)
 
-780
+738
 ο λεκές
 o lekes
 stain — noun, masculine — M4 · adds -δ- in the plural (οι -δες)
 
-781
+739
 το λεμόνι
 to lemoni
 lemon — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-782
+740
 η λέξη
 i lexi
 word — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-783
+741
 το λεξικό
 to lexiko
 dictionary — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-784
+742
 το λεξιλόγιο
 to lexiloyio
 vocabulary — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-785
+743
 το λεπτό
 to lepto
 minute — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-786
+744
 η λεπτομέρεια
 i leptomeria
 detail — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-787
+745
 τα λεφτά
 ta lefta
 money — expression — learn it whole
 
-788
+746
 λέω
 leo
 say — verb, group A (-ω, -εις, -ει)
 
-789
+747
 λέω ψέματα
 leo psemata
 to lie — expression — learn it whole
 
-790
+748
 το λεωφορείο
 to leoforio
 bus — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-791
+749
 λήγω
 ligo
 end — verb, group A (-ω, -εις, -ει)
 
-792
+750
 το ληξιαρχείο
 to lixiarhio
 registry office — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-793
+751
 η λιακάδα
 i liakada
 sunshine — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-794
+752
 λίγοι
 ligi
 few — word
 
-795
+753
 λίγες
 liyes
 few — word
 
-796
+754
 λίγα
 liga
 few — word
 
-797
+755
 λίγος, -η, -ο
 ligos
 little — adjective, -ος / -η / -ο — it agrees with its noun
 
-798
+756
 το λιμάνι
 to limani
 port — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-799
-η Λίτσα
-i litsa
-Litsa — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-800
+757
 λιώνω
 liono
 melt — verb, group A (-ω, -εις, -ει)
 
-801
+758
 ο λογαριασμός
 o logariasmos
 account — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-802
+759
 τα λόγια
 ta loyia
 words — expression — learn it whole
 
-803
+760
 η λογοτεχνία
 i logotehnia
 literature — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-804
+761
 το Λονδίνο
 to londino
 London — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-805
+762
 το Λούβρο
 to louvro
 Louvre — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-806
+763
 το λουλούδι
 to louloudi
 flower — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-807
+764
 το Λύκειο
 to likio
 High School — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-808
+765
 λυπάμαι
 lipame
 sorry — verb, passive form (B2 -άμαι)
 
-809
+766
 η λύση
 i lisi
 solution — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-810
+767
 μα
 ma
 but — word
 
-811
+768
 ο μάγειρας
 o mayiras
 cook — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-812
+769
 μαγειρεύω
 mayirevo
 cook — verb, group A (-ω, -εις, -ει)
 
-813
+770
 η μαγειρική
 i mayiriki
 cooking — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-814
+771
 το μαγιό
 to mayio
 swimsuit — noun, neuter — invariable — it never changes
 
-815
+772
 μαζεύω
 mazevo
 collect — verb, group A (-ω, -εις, -ει)
 
-816
+773
 μαζεύω από κάτω
 mazevo apo kato
 pick up — verb, group A (-ω, -εις, -ει)
 
-817
+774
 μαζί
 mazi
 together — adverb — it never changes
 
-818
+775
 μαζί με
 mazi me
 with — expression — learn it whole
 
-819
+776
 μαθαίνω
 matheno
 learn — verb, group A (-ω, -εις, -ει)
 
-820
+777
 το μάθημα
 to mathima
 lesson — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-821
+778
 τα Μαθηματικά
 ta mathimatika
 Mathematics — expression — learn it whole
 
-822
+779
 ο Μάιος
 o maios
 May — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-823
-η Μαίρη
-i meri
-Mary — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-824
+780
 μακάρι
 makari
 if only — adverb — it never changes
 
-825
+781
 τα μακαρόνια
 ta makaronia
 macaroni — expression — learn it whole
 
-826
+782
 μακριά
 makria
 far — adverb — it never changes
 
-827
+783
 μαλακός, -ή, -ό
 malakos
 soft — adjective, -ος / -η / -ο — it agrees with its noun
 
-828
+784
 τα μαλλιά
 ta mallia
 hair — expression — learn it whole
 
-829
+785
 μαλώνω
 malono
 argue — verb, group A (-ω, -εις, -ει)
 
-830
+786
 η μαμά
 i mama
 mom — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-831
-ο Μανόλης
-o manolis
-Manolis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-832
+787
 μαντεύω
 mandevo
 guess — verb, group A (-ω, -εις, -ει)
 
-833
+788
 το μαξιλάρι
 to maxilari
 pillow — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-834
-η Μάρθα
-i martha
-Martha — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-835
-η Μαρία
-i maria
-Maria — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-836
-η Μαριάννα
-i marianna
-Marianna — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-837
-η Μαρίνα
-i marina
-Marina — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-838
-ο Μάριος
-o marios
-Marios — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-839
+789
 η μάρκα αυτοκινήτου
 i marka aftokinitou
 car brand — noun, feminine — irregular — learn its forms one by one
 
-840
+790
 το μαρούλι
 to marouli
 lettuce — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-841
+791
 ο Μάρτιος
 o martios
 March — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-842
+792
 ο μάρτυρας
 o martiras
 witness — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-843
+793
 η μάρτυρας
 i martiras
 witness — noun, feminine — irregular — learn its forms one by one
 
-844
+794
 η μάσκα ομορφιάς
 i maska omorfias
 beauty mask — noun, feminine — irregular — learn its forms one by one
 
-845
+795
 η μάσκα
 i maska
 mask — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-846
+796
 το μάτι
 to mati
 eye — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-847
+797
 το μαχαίρι
 to maheri
 knife — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-848
+798
 με λένε
 me lene
 my name is — expression — learn it whole
 
-849
+799
 μεγάλος, -η, -ο
 megalos
 large — adjective, -ος / -η / -ο — it agrees with its noun
 
-850
+800
 μεγαλώνω
 megalono
 grow up — verb, group A (-ω, -εις, -ει)
 
-851
+801
 το μέγαρο
 to megaro
 mansion — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-852
+802
 ο μεζές
 o mezes
 meze — noun, masculine — M4 · adds -δ- in the plural (οι -δες)
 
-853
+803
 μειωμένος, -η, -ο
 miomenos
 reduced — adjective, -ος / -η / -ο — it agrees with its noun
 
-854
+804
 μελαχρινός, -ή, -ό
 melahrinos
 brunette — adjective, -ος / -η / -ο — it agrees with its noun
 
-855
+805
 το μέλι
 to meli
 honey — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-856
+806
 το μέλλον
 to mellon
 future — noun, neuter — N5 · -ον (του -οντος, τα -οντα)
 
-857
+807
 μένω
 meno
 live — verb, group A (-ω, -εις, -ει)
 
-858
+808
 μένω σπίτι
 meno spiti
 stay home — expression — learn it whole
 
-859
+809
 η μέρα
 i mera
 day — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-860
+810
 μερικοί
 meriki
 some — word
 
-861
+811
 μερικές
 merikes
 some — word
 
-862
+812
 μερικά
 merika
 some — word
 
-863
+813
 το μέρος
 to meros
 part — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-864
+814
 μέσα σε
 mesa se
 inside — expression — learn it whole
 
-865
+815
 το μεσημέρι
 to mesimeri
 noon — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-866
+816
 το μεσημεριανό
 to mesimeriano
 lunch — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-867
+817
 ο μεσίτης
 o mesitis
 real estate agent — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-868
+818
 η μεσίτρια
 i mesitria
 real estate agent — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-869
+819
 μετά
 meta
 after — adverb — it never changes
 
-870
+820
 η μετακίνηση
 i metakinisi
 transport — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-871
+821
 μετακομίζω
 metakomizo
 move — verb, group A (-ω, -εις, -ει)
 
-872
+822
 μεταφέρω
 metafero
 transfer — verb, group A (-ω, -εις, -ει)
 
-873
+823
 το μεταφορικό μέσο
 to metaforiko meso
 means of transport — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-874
+824
 μέτριος, -α, -ο
 metrios
 average — adjective, -ος / -η / -ο — it agrees with its noun
 
-875
+825
 το μετρό
 to metro
 metro — noun, neuter — invariable — it never changes
 
-876
+826
 μέχρι
 mehri
 until — adverb — it never changes
 
-877
+827
 το μήλο
 to milo
 apple — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-878
+828
 ο μήνας
 o minas
 month — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-879
+829
 το μήνυμα
 to minima
 message — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-880
+830
 μήπως
 mipos
 maybe — adverb — it never changes
 
-881
+831
 η μητέρα
 i mitera
 mother — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-882
+832
 ο μηχανικός
 o mihanikos
 engineer — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-883
+833
 η μηχανικός
 i mihanikos
 engineer — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-884
+834
 μία φορά
 mia fora
 once — expression — learn it whole
 
-885
+835
 μικρός, -ή, -ό
 mikros
 small — adjective, -ος / -η / -ο — it agrees with its noun
 
-886
+836
 το μικρόφωνο
 to mikrofono
 microphone — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-887
+837
 μιλάω
 milao
 talk — verb, group B1 (-άω / -ώ)
 
-888
+838
 μιλώ
 milo
 talk — verb, group B2 (-ώ, -είς, -εί)
 
-889
-η Μίρκα
-i mirka
-Mirka — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-890
+839
 μισός, -ή, -ό
 misos
 half — adjective, -ος / -η / -ο — it agrees with its noun
 
-891
+840
 ο μισθός
 o misthos
 salary — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-892
-ο Μιχάλης
-o mihalis
-Michael — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-893
+841
 το μνημείο
 to mnimio
 monument — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-894
+842
 η μόδα
 i moda
 fashion — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-895
+843
 το μολύβι
 to molivi
 pencil — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-896
+844
 μόνος, -η, -ο
 monos
 alone — adjective, -ος / -η / -ο — it agrees with its noun
 
-897
+845
 μόνιμα
 monima
 permanently — adverb — it never changes
 
-898
+846
 μόνο
 mono
 only — adverb — it never changes
 
-899
+847
 η μονοκατοικία
 i monokatikia
 house — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-900
+848
 το μονόκλινο δωμάτιο
 to monoklino domatio
 single room — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-901
+849
 μοντέρνος, -α, -ο
 mondernos
 modern — adjective, -ος / -η / -ο — it agrees with its noun
 
-902
+850
 μου πηγαίνει
 mou pigeni
 it suits me — expression — learn it whole
 
-903
+851
 μου φαίνεται
 mou fenete
 it seems to me — expression — learn it whole
 
-904
+852
 το μουσείο
 to mousio
 museum — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-905
+853
 η μουσική
 i mousiki
 music — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-906
+854
 το μουσικό κουτί
 to mousiko kouti
 music box — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-907
+855
 το μουσικό όργανο
 to mousiko organo
 musical instrument — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-908
+856
 ο μουσικός
 o mousikos
 musician — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-909
+857
 η μουσικός
 i mousikos
 musician — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-910
+858
 μπαίνω
 beno
 enter — verb, group A (-ω, -εις, -ει)
 
-911
+859
 το μπαλκόνι
 to balkoni
 balcony — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-912
+860
 ο μπαμπάς
 o bambas
 dad — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-913
-ο Μπάμπης
-o bambis
-Babis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-914
+861
 η μπανάνα
 i banana
 banana — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-915
+862
 η μπανιέρα
 i baniera
 bathtub — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-916
+863
 το μπάνιο
 to banio
 bathroom — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-917
+864
 το μπαρ
 to bar
 bar — noun, neuter — invariable — it never changes
 
-918
+865
 μπερδεύω
 berdevo
 confuse — verb, group A (-ω, -εις, -ει)
 
-919
+866
 μπλε
 ble
 blue — word
 
-920
+867
 μπορώ
 boro
 can — verb, group B2 (-ώ, -είς, -εί)
 
-921
+868
 το μπουκάλι
 to boukali
 bottle — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-922
+869
 το μπουφάν
 to boufan
 jacket — noun, neuter — invariable — it never changes
 
-923
+870
 η μπριζόλα
 i brizola
 steak — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-924
+871
 το μπρόκολο
 to brokolo
 broccoli — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-925
+872
 μπροστά
 brosta
 in front — adverb — it never changes
 
-926
+873
 μπροστά από
 brosta apo
 in front of — expression — learn it whole
 
-927
+874
 η μπύρα
 i bira
 beer — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-928
+875
 το μυστικό
 to mistiko
 secret — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-929
+876
 το μωρό
 to moro
 baby — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-930
+877
 να
 na
 yes — word
 
-931
+878
 ο ναός
 o naos
 temple — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-932
+879
 τα νέα
 ta nea
 news — expression — learn it whole
 
-933
+880
 νεαρός, -ή, -ό
 nearos
 young — adjective, -ος / -η / -ο — it agrees with its noun
 
-934
-ο Νεκτάριος
-o nektarios
-Nektarios — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-935
+881
 το νερό
 to nero
 water — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-936
+882
 νευριάζω
 nevriazo
 annoy — verb, group A (-ω, -εις, -ει)
 
-937
+883
 το νηπιαγωγείο
 to nipiagoyio
 kindergarten — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-938
+884
 το νησί
 to nisi
 island — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-939
+885
 νησιώτικος, -η, -ο
 nisiotikos
 island — adjective, -ος / -η / -ο — it agrees with its noun
 
-940
-η Νίκη
-i niki
-Niki — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-941
+886
 ο νικητής
 o nikitis
 winner — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-942
+887
 η νικήτρια
 i nikitria
 winner — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-943
-ο Νίκος
-o nikos
-Nikos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-944
+888
 νιώθω
 niotho
 feel — verb, group A (-ω, -εις, -ει)
 
-945
+889
 νοικιάζω
 nikiazo
 rent — verb, group A (-ω, -εις, -ει)
 
-946
+890
 νομίζω
 nomizo
 think — verb, group A (-ω, -εις, -ει)
 
-947
+891
 η νονά
 i nona
 godmother — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-948
+892
 ο νονός
 o nonos
 godfather — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-949
+893
 ο νοσοκόμος
 o nosokomos
 nurse — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-950
+894
 η νοσοκόμα
 i nosokoma
 nurse — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-951
+895
 νόστιμος, -η, -ο
 nostimos
 tasty — adjective, -ος / -η / -ο — it agrees with its noun
 
-952
+896
 η νότα
 i nota
 note — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-953
+897
 νότιος, -α, -ο
 notios
 southern — adjective, -ος / -η / -ο — it agrees with its noun
 
-954
-η Ντίνα
-i dina
-Dina — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-955
+898
 το ντοκιμαντέρ
 to dokimander
 documentary — noun, neuter — invariable — it never changes
 
-956
+899
 η ντομάτα
 i domata
 tomato — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-957
+900
 η ντουλάπα
 i doulapa
 wardrobe — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-958
+901
 το ντουλάπι
 to doulapi
 cupboard — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-959
+902
 ντύνομαι
 dinome
 dress — verb, passive form (-ομαι)
 
-960
+903
 νυστάζω
 nistazo
 feel sleepy — verb, group A (-ω, -εις, -ει)
 
-961
+904
 η νύχτα
 i nihta
 night — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-962
+905
 νυχτερινός, -ή, -ό
 nihterinos
 night — adjective, -ος / -η / -ο — it agrees with its noun
 
-963
+906
 νωρίς
 noris
 early — adverb — it never changes
 
-964
+907
 ο ξάδερφος
 o xaderfos
 cousin — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-965
+908
 η ξαδέρφη
 i xaderfi
 cousin — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-966
+909
 ξανά
 xana
 again — adverb — it never changes
 
-967
+910
 ξαναβλέπω
 xanavlepo
 see again — verb, group A (-ω, -εις, -ει)
 
-968
+911
 ξαναγυρίζω
 xanayirizo
 return — verb, group A (-ω, -εις, -ει)
 
-969
+912
 ξαναδιαβάζω
 xanadiavazo
 read again — verb, group A (-ω, -εις, -ει)
 
-970
+913
 ξαναδίνω
 xanadino
 give again — verb, group A (-ω, -εις, -ει)
 
-971
+914
 ξαναλέω
 xanaleo
 say again — verb, group A (-ω, -εις, -ει)
 
-972
+915
 ξαναμιλάω
 xanamilao
 speak again — verb, group B1 (-άω / -ώ)
 
-973
+916
 ξαναμιλώ
 xanamilo
 speak again — verb, group B2 (-ώ, -είς, -εί)
 
-974
+917
 ξαναπερνάω
 xanapernao
 pass again — verb, group B1 (-άω / -ώ)
 
-975
+918
 ξαναπερνώ
 xanaperno
 pass again — verb, group B2 (-ώ, -είς, -εί)
 
-976
+919
 ξανθός, -ή/-ιά, -ό
 xanthos
 blonde — adjective, -ος / -η / -ο — it agrees with its noun
 
-977
-η Ξάνθη
-i xanthi
-Xanthi — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-978
+920
 ξεκινάω
 xekinao
 start — verb, group B1 (-άω / -ώ)
 
-979
+921
 ξεκινώ
 xekino
 start — verb, group B2 (-ώ, -είς, -εί)
 
-980
+922
 ξεκουράζομαι
 xekourazome
 rest — verb, passive form (-ομαι)
 
-981
+923
 ξένος, -η, -ο
 xenos
 foreign — adjective, -ος / -η / -ο — it agrees with its noun
 
-982
+924
 το ξενοδοχείο
 to xenodohio
 hotel — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-983
+925
 ο ξένος
 o xenos
 foreigner — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-984
+926
 η ξένη
 i xeni
 foreigner — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-985
+927
 ξεπερνάω
 xepernao
 exceed — verb, group B1 (-άω / -ώ)
 
-986
+928
 ξεπερνώ
 xeperno
 exceed — verb, group B2 (-ώ, -είς, -εί)
 
-987
+929
 ξεπλένω
 xepleno
 rinse — verb, group A (-ω, -εις, -ει)
 
-988
+930
 ξέρω
 xero
 know — verb, group A (-ω, -εις, -ει)
 
-989
+931
 ξεχνάω
 xehnao
 forget — verb, group B1 (-άω / -ώ)
 
-990
+932
 ξεχνώ
 xehno
 forget — verb, group B2 (-ώ, -είς, -εί)
 
-991
+933
 ξεχωριστός, -ή, -ό
 xehoristos
 special — adjective, -ος / -η / -ο — it agrees with its noun
 
-992
+934
 ξηρός, -ή, -ό
 xiros
 dry — adjective, -ος / -η / -ο — it agrees with its noun
 
-993
+935
 ο ξηρός καρπός
 o xiros karpos
 nut — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-994
+936
 ξοδεύω
 xodevo
 spend — verb, group A (-ω, -εις, -ει)
 
-995
+937
 το ξύδι
 to xidi
 vinegar — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-996
+938
 ξύλινος, -η, -ο
 xilinos
 wooden — adjective, -ος / -η / -ο — it agrees with its noun
 
-997
+939
 ξυπνάω
 xipnao
 wake up — verb, group B1 (-άω / -ώ)
 
-998
+940
 ξυπνώ
 xipno
 wake up — verb, group B2 (-ώ, -είς, -εί)
 
-999
+941
 το
 to
 the — word
 
-1000
+942
 όγδοος, -η, -ο
 ogdoos
 eighth — adjective, -ος / -η / -ο — it agrees with its noun
 
-1001
+943
 ογδόντα
 ogdonda
 eighty — number
 
-1002
+944
 οδηγάω
 odigao
 drive — verb, group B1 (-άω / -ώ)
 
-1003
+945
 οδηγώ
 odigo
 drive — verb, group B2 (-ώ, -είς, -εί)
 
-1004
+946
 η οδηγία
 i odiyia
 instruction — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1005
+947
 ο οδοντίατρος
 o odondiatros
 dentist — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1006
+948
 η οδοντίατρος
 i odondiatros
 dentist — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1007
+949
 η οδός
 i odos
 street — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1008
+950
 η οικογένεια
 i ikoyenia
 family — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1009
+951
 η οικογενειακή κατάσταση
 i ikoyeniaki katastasi
 marital status — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1010
+952
 το οικογενειακό δέντρο
 to ikoyeniako dendro
 family tree — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1011
+953
 το οινόπνευμα
 to inopnevma
 alcohol — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1012
+954
 ο Οκτώβριος
 o oktovrios
 October — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1013
+955
 όλοι
 oli
 all — word
 
-1014
+956
 όλες
 oles
 all — word
 
-1015
+957
 όλα
 ola
 all — word
 
-1016
+958
 όλος, -η, -ο
 olos
 whole — adjective, -ος / -η / -ο — it agrees with its noun
 
-1017
+959
 ολόκληρος, -η, -ο
 olokliros
 whole — adjective, -ος / -η / -ο — it agrees with its noun
 
-1018
+960
 η ομάδα
 i omada
 team — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1019
+961
 ο ομιλητής
 o omilitis
 speaker — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1020
+962
 η ομιλήτρια
 i omilitria
 speaker — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1021
+963
 η ομίχλη
 i omihli
 fog — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1022
+964
 όμορφος, -η, -ο
 omorfos
 beautiful — adjective, -ος / -η / -ο — it agrees with its noun
 
-1023
+965
 η ομορφιά
 i omorfia
 beauty — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1024
+966
 η ομπρέλα
 i ombrela
 umbrella — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1025
+967
 όμως
 omos
 however — word
 
-1026
+968
 ονειρεύομαι
 onirevome
 dream — verb, passive form (-ομαι)
 
-1027
+969
 το όνομα
 to onoma
 name — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1028
+970
 το ονοματεπώνυμο
 to onomateponimo
 full name — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1029
+971
 το οξυγόνο
 to oxigono
 oxygen — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1030
+972
 όποιος, -α, -ο
 opios
 whoever — adjective, -ος / -η / -ο — it agrees with its noun
 
-1031
+973
 ο όροφος
 o orofos
 floor — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1032
+974
 όσα
 osa
 as many as — pronoun
 
-1033
+975
 το Όσκαρ βραβείο
 to oskar vravio
 Oscar award — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1034
+976
 το όσπριο
 to osprio
 legume — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1035
+977
 όταν
 otan
 when — word
 
-1036
+978
 ότι
 oti
 that — word
 
-1037
+979
 το ουζερί
 to ouzeri
 ouzeri — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1038
+980
 το ούζο
 to ouzo
 ouzo — noun, neuter — invariable — it never changes
 
-1039
+981
 όχι
 ohi
 no — adverb — it never changes
 
-1040
+982
 ο πάγος
 o pagos
 ice — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1041
+983
 η παγωνιά
 i pagonia
 frost — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1042
+984
 το παγωτό
 to pagoto
 ice cream — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1043
+985
 παθαίνω
 patheno
 suffer — verb, group A (-ω, -εις, -ει)
 
-1044
+986
 το παιδί
 to pedi
 child — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1045
+987
 τα παιδιά
 ta pedia
 children — expression — learn it whole
 
-1046
+988
 παιδικός, -ή, -ό
 pedikos
 child — adjective, -ος / -η / -ο — it agrees with its noun
 
-1047
+989
 παίζω
 pezo
 play — verb, group A (-ω, -εις, -ει)
 
-1048
+990
 παίρνω
 perno
 take — verb, group A (-ω, -εις, -ει)
 
-1049
+991
 παίρνω συνέντευξη
 perno sinendefxi
 to take an interview — expression — learn it whole
 
-1050
+992
 το παιχνίδι
 to pehnidi
 game — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1051
+993
 πάλι
 pali
 again — adverb — it never changes
 
-1052
+994
 παλιός, -ά, -ό
 palios
 old — adjective, -ος / -η / -ο — it agrees with its noun
 
-1053
+995
 το παλτό
 to palto
 coat — noun, neuter — invariable — it never changes
 
-1054
+996
 πανεπιστημιακός, -ή, -ό
 panepistimiakos
 university — adjective, -ος / -η / -ο — it agrees with its noun
 
-1055
+997
 το Πανεπιστήμιο
 to panepistimio
 University — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1056
+998
 η πανσέληνος
 i panselinos
 full moon — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1057
+999
 πάντα
 panda
 always — adverb — it never changes
 
-1058
+1000
 το παντελόνι
 to pandeloni
 trousers — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1059
+1001
 το παντζάρι
 to pandzari
 beetroot — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1060
+1002
 παντρεύομαι
 pandrevome
 get married — verb, passive form (-ομαι)
 
-1061
+1003
 παντρεύω
 pandrevo
 marry — verb, group A (-ω, -εις, -ει)
 
-1062
+1004
 το πάπλωμα
 to paploma
 quilt — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1063
+1005
 ο παππούς
 o pappous
 grandfather — noun, masculine — M4 · adds -δ- in the plural (οι -δες)
 
-1064
+1006
 η παραγγελία
 i parangelia
 order — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1065
+1007
 παραγγέλλω
 parangello
 order — verb, group A (-ω, -εις, -ει)
 
-1066
+1008
 παραγγέλνω
 parangelno
 order — verb, group A (-ω, -εις, -ει)
 
-1067
+1009
 η παραγωγή γραπτού λόγου
 i paragoyi graptou logou
 writing production — noun, feminine — irregular — learn its forms one by one
 
-1068
+1010
 το παράδειγμα
 to paradigma
 example — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1069
+1011
 παραδοσιακός, -ή, -ό
 paradosiakos
 traditional — adjective, -ος / -η / -ο — it agrees with its noun
 
-1070
+1012
 το παράθυρο
 to parathiro
 window — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1071
+1013
 παρακαλώ
 parakalo
 please — verb, group B2 (-ώ, -είς, -εί)
 
-1072
+1014
 παρακάτω
 parakato
 below — verb, group A (-ω, -εις, -ει)
 
-1073
+1015
 παρακολουθώ
 parakoloutho
 watch — verb, group B2 (-ώ, -είς, -εί)
 
-1074
+1016
 η παραλία
 i paralia
 beach — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1075
+1017
 η παραμονή
 i paramoni
 stay — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1076
+1018
 παραπάνω
 parapano
 more — verb, group A (-ω, -εις, -ει)
 
-1077
+1019
 το παράπονο
 to parapono
 complaint — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1078
+1020
 η Παρασκευή
 i paraskevi
 Friday — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1079
+1021
 η παράσταση
 i parastasi
 performance — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1080
+1022
 η παρατήρηση
 i paratirisi
 remark — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1081
+1023
 παρατηρώ
 paratiro
 observe — verb, group B2 (-ώ, -είς, -εί)
 
-1082
+1024
 η παρέα
 i parea
 company — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1083
+1025
 το πάρκιγκ
 to parking
 parking — noun, neuter — invariable — it never changes
 
-1084
+1026
 η παροιμία
 i parimia
 proverb — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1085
+1027
 παρουσιάζομαι
 parousiazome
 introduce oneself — verb, passive form (-ομαι)
 
-1086
+1028
 παρουσιάζω
 parousiazo
 present — verb, group A (-ω, -εις, -ει)
 
-1087
+1029
 η πάστα
 i pasta
 pasta — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1088
+1030
 το Πάσχα
 to pasha
 Easter — noun, neuter — irregular — learn its forms one by one
 
-1089
+1031
 η πατάτα
 i patata
 potato — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1090
+1032
 το πάτωμα
 to patoma
 floor — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1091
+1033
 πεθαίνω
 petheno
 die — verb, group A (-ω, -εις, -ει)
 
-1092
+1034
 πείθω
 pitho
 persuade — verb, group A (-ω, -εις, -ει)
 
-1093
+1035
 πεινάω
 pinao
 hungry — verb, group B1 (-άω / -ώ)
 
-1094
+1036
 πεινώ
 pino
 hungry — verb, group B2 (-ώ, -είς, -εί)
 
-1095
+1037
 πειράζει
 pirazi
 bother — word
 
-1096
+1038
 ο πελάτης
 o pelatis
 client — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1097
+1039
 η πελάτισσα
 i pelatissa
 client — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1098
+1040
 πέμπτος, -η, -ο
 pembtos
 fifth — adjective, -ος / -η / -ο — it agrees with its noun
 
-1099
+1041
 η Πέμπτη
 i pembti
 Thursday — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1100
+1042
 πενήντα
 peninda
 fifty — number
 
-1101
+1043
 το πεντάγραμμο
 to pendagrammo
 stave — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1102
+1044
 πέντε
 pende
 five — number
 
-1103
+1045
 το πεπόνι
 to peponi
 melon — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1104
+1046
 το περιβάλλον
 to perivallon
 environment — noun, neuter — N5 · -ον (του -οντος, τα -οντα)
 
-1105
+1047
 περιγράφω
 perigrafo
 describe — verb, group A (-ω, -εις, -ει)
 
-1106
+1048
 περιλαμβάνω
 perilamvano
 include — verb, group A (-ω, -εις, -ει)
 
-1107
+1049
 περιμένω
 perimeno
 wait — verb, group A (-ω, -εις, -ει)
 
-1108
+1050
 το περιοδικό
 to periodiko
 magazine — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1109
+1051
 η περιοχή
 i periohi
 region — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1110
+1052
 περίπου
 peripou
 approximately — adverb — it never changes
 
-1111
+1053
 η περίπτωση
 i periptosi
 case — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1112
+1054
 περισσότερος, -η, -ο
 perissoteros
 more — adjective, -ος / -η / -ο — it agrees with its noun
 
-1113
+1055
 περνάω καλά
 pernao kala
 have a good time — expression — learn it whole
 
-1114
+1056
 περνάω
 pernao
 pass — verb, group B1 (-άω / -ώ)
 
-1115
+1057
 περνώ
 perno
 pass — verb, group B2 (-ώ, -είς, -εί)
 
-1116
+1058
 περπατάω
 perpatao
 walk — verb, group B1 (-άω / -ώ)
 
-1117
+1059
 περπατώ
 perpato
 walk — verb, group B2 (-ώ, -είς, -εί)
 
-1118
+1060
 πέρσι
 persi
 last year — adverb — it never changes
 
-1119
+1061
 πετάω
 petao
 throw — verb, group B1 (-άω / -ώ)
 
-1120
+1062
 πετώ
 peto
 throw — verb, group B2 (-ώ, -είς, -εί)
 
-1121
-ο Πέτρος
-o petros
-Petros — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-1122
+1063
 η πετσέτα
 i petseta
 towel — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1123
+1064
 πέφτω
 pefto
 fall — verb, group A (-ω, -εις, -ει)
 
-1124
+1065
 πηγαίνω
 pigeno
 go — verb, group A (-ω, -εις, -ει)
 
-1125
+1066
 πηγαίνω για τρέξιμο
 pigeno yia treximo
 to go running — expression — learn it whole
 
-1126
+1067
 πηγαίνω διακοπές
 pigeno diakopes
 go on vacation — expression — learn it whole
 
-1127
+1068
 πηγαίνω στο σχολείο
 pigeno sto sholio
 to go to school — expression — learn it whole
 
-1128
+1069
 το πιάνο
 to piano
 piano — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1129
+1070
 το πιάτο
 to piato
 plate — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1130
+1071
 η πιάτσα ταξί
 i piatsa taxi
 taxi rank — noun, feminine — invariable — it never changes
 
-1131
+1072
 ο πίνακας
 o pinakas
 board — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-1132
+1073
 πίνω
 pino
 drink — verb, group A (-ω, -εις, -ει)
 
-1133
+1074
 το πιπέρι
 to piperi
 pepper — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1134
+1075
 το πιρούνι
 to pirouni
 fork — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1135
+1076
 η πισίνα
 i pisina
 pool — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1136
+1077
 πιστεύω
 pistevo
 believe — verb, group A (-ω, -εις, -ει)
 
-1137
+1078
 το πιστοποιητικό
 to pistopiitiko
 certificate — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1138
+1079
 πίσω
 piso
 back — verb, group A (-ω, -εις, -ει)
 
-1139
+1080
 ο πλανήτης
 o planitis
 planet — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1140
+1081
 πλαστικός, -ή, -ό
 plastikos
 plastic — adjective, -ος / -η / -ο — it agrees with its noun
 
-1141
-η Πλατεία Συντάγματος
-i platia sindagmatos
-Syntagma Constitution Square — noun, feminine — F4 · -ος feminine — only the article shows the gender
-
-1142
+1082
 η πλατεία
 i platia
 square — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1143
+1083
 πλένω
 pleno
 wash — verb, group A (-ω, -εις, -ει)
 
-1144
+1084
 πλένω τα πιάτα
 pleno ta piata
 wash the dishes — expression — learn it whole
 
-1145
+1085
 η πληγή
 i pliyi
 wound — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1146
+1086
 πληρώνω
 plirono
 pay — verb, group A (-ω, -εις, -ει)
 
-1147
+1087
 πλησιάζω
 plisiazo
 approach — verb, group A (-ω, -εις, -ει)
 
-1148
+1088
 το πλοίο
 to plio
 ship — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1149
+1089
 πλούσιος, -α, -ο
 plousios
 rich — adjective, -ος / -η / -ο — it agrees with its noun
 
-1150
+1090
 το πλυντήριο
 to plindirio
 washing machine — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1151
+1091
 πνίγομαι
 pnigome
 choke — verb, passive form (-ομαι)
 
-1152
+1092
 το ποδήλατο
 to podilato
 bicycle — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1153
+1093
 η ποδιά
 i podia
 apron — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1154
+1094
 ποιανού
 pianou
 whose — pronoun
 
-1155
+1095
 ποιανής
 pianis
 whose — pronoun
 
-1156
+1096
 η ποίηση
 i piisi
 poetry — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1157
+1097
 ποιος, -α, -ο
 pios
 who — pronoun
 
-1158
+1098
 η ποιότητα
 i piotita
 quality — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1159
+1099
 η πόλη
 i poli
 city — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1160
+1100
 ο πολίτης
 o politis
 citizen — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1161
+1101
 ο πολιτισμός
 o politismos
 culture — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1162
+1102
 πολιτιστικός, -ή, -ό
 politistikos
 cultural — adjective, -ος / -η / -ο — it agrees with its noun
 
-1163
+1103
 πολλοί
 polli
 many — word
 
-1164
+1104
 πολλές
 polles
 many — word
 
-1165
+1105
 πολλά
 polla
 many — word
 
-1166
+1106
 πολύ
 poli
 much — adverb — it never changes
 
-1167
+1107
 η πολυθρόνα
 i polithrona
 armchair — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1168
+1108
 το πολυκατάστημα
 to polikatastima
 department store — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1169
+1109
 η πολυκατοικία
 i polikatikia
 apartment building — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1170
+1110
 πολύχρωμος
 polihromos
 colorful — adjective, -ος / -η / -ο — it agrees with its noun
 
-1171
+1111
 πολύχρωμη
 polihromi
 colorful — adjective, -ος / -η / -ο — it agrees with its noun
 
-1172
+1112
 πολύχρωμο
 polihromo
 colorful — adjective, -ος / -η / -ο — it agrees with its noun
 
-1173
+1113
 πονάει η κοιλιά μου
 ponai i kilia mou
 my stomach hurts — expression — learn it whole
 
-1174
+1114
 πονάω
 ponao
 hurt — verb, group B1 (-άω / -ώ)
 
-1175
+1115
 πονώ
 pono
 hurt — verb, group B2 (-ώ, -είς, -εί)
 
-1176
+1116
 ο πονόδοντος
 o ponodondos
 toothache — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1177
+1117
 ο πονοκέφαλος
 o ponokefalos
 headache — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1178
+1118
 ο πόνος
 o ponos
 pain — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1179
+1119
 ποντιακός, -ή, -ό
 pondiakos
 Pontian — adjective, -ος / -η / -ο — it agrees with its noun
 
-1180
+1120
 το ποντίκι
 to pondiki
 mouse — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1181
+1121
 τα ποντίκια
 ta pondikia
 mice — expression — learn it whole
 
-1182
+1122
 η πόρτα
 i porta
 door — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1183
+1123
 το πορτοκάλι
 to portokali
 orange — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1184
+1124
 το πορτοφόλι
 to portofoli
 wallet — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1185
+1125
 πόσοι
 posi
 how many — word
 
-1186
+1126
 πόσες
 poses
 how many — word
 
-1187
+1127
 πόσα
 posa
 how many — word
 
-1188
+1128
 πόσος, -η, -ο
 posos
 how much — adjective, -ος / -η / -ο — it agrees with its noun
 
-1189
+1129
 ποτέ
 pote
 never — adverb — it never changes
 
-1190
+1130
 πότε
 pote
 when — adverb — it never changes
 
-1191
+1131
 το ποτήρι
 to potiri
 glass — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1192
+1132
 το ποτό
 to poto
 drink — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1193
+1133
 πού
 pou
 where — pronoun
 
-1194
+1134
 πουθενά
 pouthena
 nowhere — adverb — it never changes
 
-1195
+1135
 το πουκάμισο
 to poukamiso
 shirt — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1196
+1136
 πουλάω
 poulao
 sell — verb, group B1 (-άω / -ώ)
 
-1197
+1137
 πουλώ
 poulo
 sell — verb, group B2 (-ώ, -είς, -εί)
 
-1198
+1138
 το πουλί
 to pouli
 bird — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1199
+1139
 πραγματικά
 pragmatika
 really — adverb — it never changes
 
-1200
+1140
 η πράξη
 i praxi
 act — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1201
+1141
 πράσινος, -η, -ο
 prasinos
 green — adjective, -ος / -η / -ο — it agrees with its noun
 
-1202
+1142
 η πρεμιέρα
 i premiera
 premiere — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1203
+1143
 πρέπει
 prepi
 should — word
 
-1204
+1144
 η πρίζα
 i priza
 outlet — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1205
+1145
 πριν
 prin
 before — adverb — it never changes
 
-1206
+1146
 πριν από λίγο
 prin apo ligo
 a while ago — expression — learn it whole
 
-1207
+1147
 πριν από καιρό
 prin apo kero
 a long time ago — expression — learn it whole
 
-1208
+1148
 το πρόβλημα
 to provlima
 problem — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1209
+1149
 η προβολή
 i provoli
 showing — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1210
+1150
 το πρόγραμμα
 to programma
 program — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1211
+1151
 προετοιμάζω
 proetimazo
 prepare — verb, group A (-ω, -εις, -ει)
 
-1212
+1152
 προηγούμενος, -η, -o
 proigoumenos
 previous — adjective, -ος / -η / -ο — it agrees with its noun
 
-1213
+1153
 το προϊόν
 to proion
 product — noun, neuter — N5 · -ον (του -οντος, τα -οντα)
 
-1214
+1154
 η πρόκληση
 i proklisi
 challenge — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1215
+1155
 προλαβαίνω
 prolaveno
 catch — verb, group A (-ω, -εις, -ει)
 
-1216
+1156
 προσεκτικά
 prosektika
 carefully — adverb — it never changes
 
-1217
+1157
 προσέχω
 proseho
 care — verb, group A (-ω, -εις, -ει)
 
-1218
+1158
 προσθέτω
 prostheto
 add — verb, group A (-ω, -εις, -ει)
 
-1219
+1159
 η πρόσκληση
 i prosklisi
 invitation — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1220
+1160
 η προσοχή
 i prosohi
 attention — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1221
+1161
 προσπαθώ
 prospatho
 try — verb, group B2 (-ώ, -είς, -εί)
 
-1222
+1162
 προσχολικός, -ή, -ό
 prosholikos
 preschool — adjective, -ος / -η / -ο — it agrees with its noun
 
-1223
+1163
 προσωπικός, -ή, -ό
 prosopikos
 personal — adjective, -ος / -η / -ο — it agrees with its noun
 
-1224
+1164
 το πρόσωπο
 to prosopo
 face — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1225
+1165
 η πρόταση
 i protasi
 proposal — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1226
+1166
 προτείνω
 protino
 propose — verb, group A (-ω, -εις, -ει)
 
-1227
+1167
 προτιμάω
 protimao
 prefer — verb, group B1 (-άω / -ώ)
 
-1228
+1168
 προτιμώ
 protimo
 prefer — verb, group B2 (-ώ, -είς, -εί)
 
-1229
+1169
 η προφορά
 i profora
 pronunciation — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1230
+1170
 το πρωί
 to proi
 morning — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1231
+1171
 πρωινός, -ή, -ό
 proinos
 morning — adjective, -ος / -η / -ο — it agrees with its noun
 
-1232
+1172
 το πρωινό γεύμα
 to proino yevma
 breakfast — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1233
+1173
 το πρωινό
 to proino
 breakfast — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1234
+1174
 πρώτος, -η, -ο
 protos
 first — adjective, -ος / -η / -ο — it agrees with its noun
 
-1235
+1175
 πρώτα
 prota
 first — adverb — it never changes
 
-1236
+1176
 οι πρώτες βοήθειες
 i protes voithies
 first aid — expression — learn it whole
 
-1237
+1177
 η Πρωτοχρονιά
 i protohronia
 New Year — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1238
+1178
 η πτήση
 i ptisi
 flight — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1239
+1179
 η πυραμίδα
 i piramida
 pyramid — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1240
+1180
 ο πυρετός
 o piretos
 fever — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1241
+1181
 η πυροσβεστική
 i pirosvestiki
 fire department — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1242
+1182
 ο πωλητής
 o politis
 seller — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1243
+1183
 η πωλήτρια
 i politria
 seller — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1244
+1184
 η ραδιοφωνική εκπομπή
 i radiofoniki ekpombi
 radio show — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1245
+1185
 ο ραδιοφωνικός σταθμός
 o radiofonikos stathmos
 radio station — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1246
+1186
 το ραδιόφωνο
 to radiofono
 radio — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1247
+1187
 το ραντεβού
 to randevou
 appointment — noun, neuter — invariable — it never changes
 
-1248
+1188
 η ράτσα ζώου
 i ratsa zoou
 breed — noun, feminine — irregular — learn its forms one by one
 
-1249
+1189
 το ρεσιτάλ
 to resital
 recital — noun, neuter — invariable — it never changes
 
-1250
+1190
 το ρεύμα
 to revma
 current — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1251
+1191
 η ρίγανη
 i rigani
 oregano — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1252
+1192
 ρίχνω
 rihno
 throw — verb, group A (-ω, -εις, -ει)
 
-1253
+1193
 η ροκ μουσική
 i rok mousiki
 rock music — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1254
+1194
 ο ρόλος
 o rolos
 role — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1255
+1195
 το ρούχο
 to rouho
 clothing — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1256
+1196
 το ρύζι
 to rizi
 rice — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1257
+1197
 ο ρυθμός
 o rithmos
 rhythm — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1258
+1198
 ρωτάω
 rotao
 ask — verb, group B1 (-άω / -ώ)
 
-1259
+1199
 ρωτώ
 roto
 ask — verb, group B2 (-ώ, -είς, -εί)
 
-1260
+1200
 το Σάββατο
 to savvato
 Saturday — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1261
+1201
 το Σαββατοκύριακο
 to savvatokiriako
 weekend — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1262
-ο Ουίλιαμ Σαίξπηρ
-o ouiliam sexpir
-William Shakespeare — noun, masculine — irregular — learn its forms one by one
-
-1263
+1202
 το σακάκι
 to sakaki
 jacket — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1264
+1203
 η σακούλα
 i sakoula
 bag — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1265
+1204
 η σαλάτα
 i salata
 salad — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1266
+1205
 το σαλόνι
 to saloni
 living room — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1267
-ο Σαμ
-o sam
-Sam — noun, masculine — irregular — learn its forms one by one
-
-1268
+1206
 το σαμπουάν
 to sambouan
 shampoo — noun, neuter — invariable — it never changes
 
-1269
+1207
 το σαπούνι
 to sapouni
 soap — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1270
+1208
 σαράντα
 saranda
 forty — number
 
-1271
+1209
 σβήνω
 svino
 turn off — verb, group A (-ω, -εις, -ει)
 
-1272
+1210
 σβήνω τη φωτιά
 svino ti fotia
 put out the fire — expression — learn it whole
 
-1273
+1211
 σγουρός, -ή, -ό
 sgouros
 curly — adjective, -ος / -η / -ο — it agrees with its noun
 
-1274
+1212
 σε
 se
 in — word
 
-1275
+1213
 σε σχέση με
 se shesi me
 relating to — expression — learn it whole
 
-1276
+1214
 η σειρά
 i sira
 series — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1277
+1215
 η σελίδα
 i selida
 page — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1278
+1216
 το σεντόνι
 to sendoni
 sheet — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1279
+1217
 ο Σεπτέμβριος
 o septemvrios
 September — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1280
+1218
 σερβίρω
 serviro
 serve — verb, group A (-ω, -εις, -ει)
 
-1281
+1219
 ο σερβιτόρος
 o servitoros
 waiter — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1282
+1220
 η σερβιτόρα
 i servitora
 waitress — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1283
+1221
 σημαίνω
 simeno
 mean — verb, group A (-ω, -εις, -ει)
 
-1284
+1222
 σημαντικός, -ή, -ό
 simandikos
 important — adjective, -ος / -η / -ο — it agrees with its noun
 
-1285
+1223
 η σημασία
 i simasia
 meaning — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1286
+1224
 σημειώνω
 simiono
 note — verb, group A (-ω, -εις, -ει)
 
-1287
+1225
 κρατάω σημειώσεις
 kratao simiosis
 take notes — expression — learn it whole
 
-1288
+1226
 η σημείωση
 i simiosi
 note — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1289
+1227
 σήμερα
 simera
 today — adverb — it never changes
 
-1290
+1228
 σίγουρος, -η, -ο
 sigouros
 sure — adjective, -ος / -η / -ο — it agrees with its noun
 
-1291
+1229
 η σκάλα
 i skala
 ladder — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1292
+1230
 οι σκάλες
 i skales
 stairs — expression — learn it whole
 
-1293
+1231
 σκέφτομαι
 skeftome
 think — verb, passive form (-ομαι)
 
-1294
+1232
 η σκέψη
 i skepsi
 thought — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1295
+1233
 το σκηνικό
 to skiniko
 scenery — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1296
+1234
 ο σκηνοθέτης
 o skinothetis
 director — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1297
+1235
 η σκηνοθέτης
 i skinothetis
 director — noun, feminine — irregular — learn its forms one by one
 
-1298
+1236
 το σκίτσο
 to skitso
 sketch — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1299
+1237
 σκληρός, -ή, -ό
 skliros
 hard — adjective, -ος / -η / -ο — it agrees with its noun
 
-1300
+1238
 η σκόνη
 i skoni
 dust — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1301
+1239
 ο σκοπός
 o skopos
 purpose — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1302
+1240
 το σκόρδο
 to skordo
 garlic — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1303
+1241
 σκορπίζω
 skorpizo
 scatter — verb, group A (-ω, -εις, -ει)
 
-1304
+1242
 το σκουπίδι
 to skoupidi
 garbage — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1305
+1243
 σκουπίζω
 skoupizo
 sweep — verb, group A (-ω, -εις, -ει)
 
-1306
+1244
 ο σκούφος
 o skoufos
 hat — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1307
+1245
 το σκουφί
 to skoufi
 hat — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1308
+1246
 ο σκύλος
 o skilos
 dog — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1309
+1247
 σοβαρός, -ή, -ό
 sovaros
 serious — adjective, -ος / -η / -ο — it agrees with its noun
 
-1310
+1248
 η σόδα
 i soda
 baking soda — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1311
+1249
 η σοπράνο
 i soprano
 soprano — noun, feminine — invariable — it never changes
 
-1312
+1250
 η σούπα
 i soupa
 soup — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1313
-η Σοφία
-i sofia
-Sophia — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-1314
+1251
 σπάζω
 spazo
 break — verb, group A (-ω, -εις, -ει)
 
-1315
+1252
 σπάνια
 spania
 rarely — adverb — it never changes
 
-1316
+1253
 το σπίτι
 to spiti
 home — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1317
+1254
 σπιτικός, -ή, -ό
 spitikos
 home-made — adjective, -ος / -η / -ο — it agrees with its noun
 
-1318
+1255
 σπουδάζω
 spoudazo
 study — verb, group A (-ω, -εις, -ει)
 
-1319
+1256
 σπουδαίος, -α, -ο
 spoudeos
 great — adjective, -ος / -η / -ο — it agrees with its noun
 
-1320
+1257
 οι σπουδές
 i spoudes
 studies — expression — learn it whole
 
-1321
+1258
 το σπυρί
 to spiri
 pimple — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1322
+1259
 η σταγόνα
 i stagona
 drop — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1323
+1260
 ο σταθμός
 o stathmos
 station — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1324
+1261
 σταματάω
 stamatao
 stop — verb, group B1 (-άω / -ώ)
 
-1325
+1262
 σταματώ
 stamato
 stop — verb, group B2 (-ώ, -είς, -εί)
 
-1326
+1263
 η στάση λεωφορείου
 i stasi leoforiou
 bus stop — noun, feminine — irregular — learn its forms one by one
 
-1327
+1264
 στέλνω
 stelno
 send — verb, group A (-ω, -εις, -ει)
 
-1328
+1265
 στενός, -ή, -ό
 stenos
 narrow — adjective, -ος / -η / -ο — it agrees with its noun
 
-1329
+1266
 στεναχωρημένος, -η, -ο
 stenahorimenos
 sad — adjective, -ος / -η / -ο — it agrees with its noun
 
-1330
+1267
 η στήλη
 i stili
 column — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1331
+1268
 στην τηλεόραση
 stin tileorasi
 on the television — expression — learn it whole
 
-1332
+1269
 η στιγμή
 i stigmi
 moment — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1333
+1270
 το στιλ
 to stil
 style — noun, neuter — invariable — it never changes
 
-1334
+1271
 το στοιχείο
 to stihio
 element — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1335
+1272
 το στόμα
 to stoma
 mouth — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1336
+1273
 το στομάχι
 to stomahi
 stomach — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1337
+1274
 το στρώμα
 to stroma
 mattress — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1338
+1275
 στρώνω
 strono
 make — verb, group A (-ω, -εις, -ει)
 
-1339
+1276
 η συγγνώμη
 i singnomi
 apology — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1340
+1277
 ο συγκάτοικος
 o singatikos
 roommate — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1341
+1278
 η συγκάτοικος
 i singatikos
 roommate — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1342
+1279
 συγκρίνω
 singrino
 compare — verb, group A (-ω, -εις, -ει)
 
-1343
+1280
 το συγκρότημα
 to singrotima
 group — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1344
+1281
 τα συγχαρητήρια
 ta sigharitiria
 congratulations — expression — learn it whole
 
-1345
+1282
 σύγχρονος, -η, -ο
 sighronos
 modern — adjective, -ος / -η / -ο — it agrees with its noun
 
-1346
+1283
 συζητάω
 sizitao
 chat — verb, group B1 (-άω / -ώ)
 
-1347
+1284
 συζητώ
 sizito
 chat — verb, group B2 (-ώ, -είς, -εί)
 
-1348
+1285
 η συζήτηση
 i sizitisi
 conversation, talk, discussion — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1349
+1286
 συλλέγω
 sillego
 to collect — verb, group A (-ω, -εις, -ει)
 
-1350
+1287
 τα συλλυπητήρια
 ta sillipitiria
 condolences — expression — learn it whole
 
-1351
+1288
 η συμβουλή
 i simvouli
 advice — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1352
+1289
 ο συμμαθητής
 o simmathitis
 classmate — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1353
+1290
 η συμμαθήτρια
 i simmathitria
 classmate — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1354
+1291
 συμπαθητικός, -ή, -ό
 simbathitikos
 nice — adjective, -ος / -η / -ο — it agrees with its noun
 
-1355
+1292
 συμπαθώ
 simbatho
 to like — verb, group B2 (-ώ, -είς, -εί)
 
-1356
+1293
 η συμπεριφορά
 i simberifora
 behaviour, attitude — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1357
+1294
 συμπληρώνω
 simblirono
 to complete, to fill — verb, group A (-ω, -εις, -ει)
 
-1358
+1295
 ο συμφοιτητής
 o simfititis
 classmate — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1359
+1296
 η συμφοιτήτρια
 i simfititria
 classmate — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1360
+1297
 συμφωνώ
 simfono
 to agree — verb, group B2 (-ώ, -είς, -εί)
 
-1361
+1298
 ο συνάδελφος
 o sinadelfos
 colleague — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1362
+1299
 η συνάδελφος
 i sinadelfos
 colleague — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1363
+1300
 συναντάω
 sinandao
 meet — verb, group B1 (-άω / -ώ)
 
-1364
+1301
 συναντώ
 sinando
 meet — verb, group B2 (-ώ, -είς, -εί)
 
-1365
+1302
 η συνάντηση
 i sinandisi
 meeting — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1366
+1303
 η συναυλία
 i sinavlia
 concert — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1367
+1304
 η συνέντευξη
 i sinendefxi
 interview — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1368
+1305
 το συνεργείο
 to sineryio
 garage — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1369
+1306
 συνέχεια
 sinehia
 all the time, constantly, continuously — adverb — it never changes
 
-1370
+1307
 η συνέχεια
 i sinehia
 continuation — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1371
+1308
 συνεχίζω
 sinehizo
 to continue — verb, group A (-ω, -εις, -ει)
 
-1372
+1309
 η συνήθεια
 i sinithia
 habit — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1373
+1310
 συνηθισμένος, -η, -ο
 sinithismenos
 usual — adjective, -ος / -η / -ο — it agrees with its noun
 
-1374
+1311
 συνήθως
 sinithos
 usually — adverb — it never changes
 
-1375
+1312
 ο συνθέτης
 o sinthetis
 composer — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1376
+1313
 η συνθέτης
 i sinthetis
 composer — noun, feminine — irregular — learn its forms one by one
 
-1377
+1314
 το σύννεφο
 to sinnefo
 cloud — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1378
+1315
 η συνταγή
 i sindayi
 recipe — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1379
+1316
 σύντομος, -η, -ο
 sindomos
 short — adjective, -ος / -η / -ο — it agrees with its noun
 
-1380
+1317
 σύντομα
 sindoma
 soon, shortly — adverb — it never changes
 
-1381
+1318
 το συρτάκι
 to sirtaki
 syrtaki — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1382
+1319
 το συρτάρι
 to sirtari
 drawer — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1383
+1320
 η συσκευή
 i siskevi
 device, appliance — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1384
+1321
 συστημένος, -η, -ο
 sistimenos
 registered — adjective, -ος / -η / -ο — it agrees with its noun
 
-1385
+1322
 το συστημένο γράμμα
 to sistimeno gramma
 registered letter — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1386
+1323
 συστήνω
 sistino
 to introduce, to recommend — verb, group A (-ω, -εις, -ει)
 
-1387
+1324
 συχνός, -ή, -ό
 sihnos
 frequent — adjective, -ος / -η / -ο — it agrees with its noun
 
-1388
+1325
 συχνά
 sihna
 often — adverb — it never changes
 
-1389
+1326
 σφιχτός, -ή, -ό
 sfihtos
 tight — adjective, -ος / -η / -ο — it agrees with its noun
 
-1390
+1327
 το σχεδιάγραμμα
 to shediagramma
 sketch, diagram — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1391
+1328
 σχεδιάζω
 shediazo
 to draw, to design — verb, group A (-ω, -εις, -ει)
 
-1392
+1329
 σχεδόν
 shedon
 almost — adverb — it never changes
 
-1393
+1330
 σχετικά
 shetika
 concerning, regarding, in regard to — adverb — it never changes
 
-1394
+1331
 το σχολείο
 to sholio
 school — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1395
+1332
 η σχολή
 i sholi
 school — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1396
+1333
 σχολικός, -ή, -ό
 sholikos
 school — adjective, -ος / -η / -ο — it agrees with its noun
 
-1397
+1334
 το σώμα
 to soma
 body — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1398
+1335
 σωστός, -ή, -ό
 sostos
 right — adjective, -ος / -η / -ο — it agrees with its noun
 
-1399
+1336
 σωστά
 sosta
 right, correctly — adverb — it never changes
 
-1400
-η Σωτηρία
-i sotiria
-Sotiria — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-1401
+1337
 ταυ
 tav
 Tau — word
 
-1402
+1338
 η ταβέρνα
 i taverna
 tavern — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1403
+1339
 το τάγκο
 to tango
 tango — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1404
+1340
 η ταινία
 i tenia
 movie, film — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1405
+1341
 ταιριάζω
 teriazo
 to fit, to match, to suit — verb, group A (-ω, -εις, -ει)
 
-1406
-η Τάνια
-i tania
-Tania — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-1407
+1342
 η τάξη
 i taxi
 class — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1408
+1343
 το ταξί
 to taxi
 taxi, cab — noun, neuter — invariable — it never changes
 
-1409
+1344
 ταξιδεύω
 taxidevo
 to travel, to take a trip, to make a journey — verb, group A (-ω, -εις, -ει)
 
-1410
+1345
 το ταξίδι
 to taxidi
 travel, journey, trip — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1411
+1346
 το ταξιδιωτικό γραφείο
 to taxidiotiko grafio
 travel agency — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1412
-ο Τάσος
-o tasos
-Tassos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-1413
-η Τασούλα
-i tasoula
-Tassoula — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-1414
+1347
 η ταυτότητα αστυνομική
 i taftotita astinomiki
 identification card — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1415
+1348
 το ταχυδρομείο
 to tahidromio
 post office — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1416
+1349
 το ταψί
 to tapsi
 tray, baking sheet — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1417
+1350
 τέλειος, -α, -ο
 telios
 perfect — adjective, -ος / -η / -ο — it agrees with its noun
 
-1418
+1351
 τέλεια
 telia
 perfect — adverb — it never changes
 
-1419
+1352
 η τελεία
 i telia
 dot — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1420
+1353
 τελειώνω
 teliono
 to end, to finish — verb, group A (-ω, -εις, -ει)
 
-1421
+1354
 τελευταίος, -α, -ο
 telefteos
 last — adjective, -ος / -η / -ο — it agrees with its noun
 
-1422
+1355
 τελικά
 telika
 finally, after all — adverb — it never changes
 
-1423
+1356
 το τέλος
 to telos
 end — noun, neuter — N4 · -ος neuter (του -ους, τα -η)
 
-1424
+1357
 το τένις
 to tenis
 tennis — noun, neuter — invariable — it never changes
 
-1425
+1358
 τεράστιος, -α, -ο
 terastios
 huge — adjective, -ος / -η / -ο — it agrees with its noun
 
-1426
+1359
 το τέρμα λεωφορείου
 to terma leoforiou
 final stop, terminal — noun, neuter — irregular — learn its forms one by one
 
-1427
+1360
 τέσσερις
 tesseris
 four — number
 
-1428
+1361
 τέσσερα
 tessera
 four — number
 
-1429
+1362
 τέταρτος, -η, -ο
 tetartos
 fourth — adjective, -ος / -η / -ο — it agrees with its noun
 
-1430
+1363
 η Τετάρτη
 i tetarti
 Wednesday — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1431
+1364
 τέτοιος, -α, -ο
 tetios
 such — adjective, -ος / -η / -ο — it agrees with its noun
 
-1432
+1365
 τευσης Πρωτεύουσας
 tefsis protevousas
 supply of the Capital — expression — learn it whole
 
-1433
+1366
 η τέχνη
 i tehni
 art — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1434
+1367
 τεχνολογικός, -ή, -ό
 tehnoloyikos
 technological — adjective, -ος / -η / -ο — it agrees with its noun
 
-1435
+1368
 η τζαζ
 i tzaz
 jazz — noun, feminine — invariable — it never changes
 
-1436
+1369
 το τζάκι
 to tzaki
 fire place — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1437
+1370
 το τζάμι
 to tzami
 window — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1438
+1371
 το τηγάνι
 to tigani
 pan — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1439
+1372
 η τηλεόραση
 i tileorasi
 television — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1440
+1373
 το τηλεφώνημα
 to tilefonima
 call, phonecall — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1441
+1374
 το τηλέφωνο
 to tilefono
 telephone, phone — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1442
+1375
 τηλεφωνώ
 tilefono
 call — verb, group B2 (-ώ, -είς, -εί)
 
-1443
+1376
 παίρνω τηλέφωνο
 perno tilefono
 call — expression — learn it whole
 
-1444
+1377
 τι
 ti
 what — pronoun
 
-1445
+1378
 η τιμή
 i timi
 price — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1446
+1379
 τίποτα
 tipota
 nothing — pronoun
 
-1447
+1380
 το τμήμα αστυνομικό
 to tmima astinomiko
 police department — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1448
+1381
 τονισμένος, -η, -ο
 tonismenos
 stressed — adjective, -ος / -η / -ο — it agrees with its noun
 
-1449
+1382
 ο τόνος
 o tonos
 accent mark — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1450
+1383
 η τοποθεσία
 i topothesia
 location — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1451
+1384
 ο τόπος
 o topos
 place, area — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1452
+1385
 τόσος, -η, -ο
 tosos
 so much — adjective, -ος / -η / -ο — it agrees with its noun
 
-1453
+1386
 τουλάχιστον
 toulahiston
 at least — adverb — it never changes
 
-1454
+1387
 ο τουρίστας
 o touristas
 tourist — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-1455
+1388
 η τουρίστρια
 i touristria
 tourist — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1456
+1389
 τουριστικός, -ή, -ό
 touristikos
 touristic — adjective, -ος / -η / -ο — it agrees with its noun
 
-1457
+1390
 η Τουρκία
 i tourkia
 Turkey — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1458
+1391
 η τούρτα
 i tourta
 birthday cake — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1459
+1392
 τραγουδάω
 tragoudao
 sing — verb, group B1 (-άω / -ώ)
 
-1460
+1393
 τραγουδώ
 tragoudo
 sing — verb, group B2 (-ώ, -είς, -εί)
 
-1461
+1394
 το τραγούδι
 to tragoudi
 song — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1462
+1395
 ο τραγουδιστής
 o tragoudistis
 singer — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1463
+1396
 η τραγουδίστρια
 i tragoudistria
 singer — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1464
+1397
 το τραπεζομάντιλο
 to trapezomandilo
 tablecloth — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1465
+1398
 τρεις
 tris
 three — number
 
-1466
+1399
 τρία
 tria
 three — number
 
-1467
+1400
 το τρέξιμο
 to treximo
 running — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1468
+1401
 τρέχω
 treho
 to run — verb, group A (-ω, -εις, -ει)
 
-1469
-τα τρία πόδια Χαλκιδικής
-ta tria podia halkidikis
-three fingers of Chalkidiki — expression — learn it whole
-
-1470
+1402
 τριάντα
 trianda
 thirty — number
 
-1471
+1403
 τρίβω
 trivo
 to rub — verb, group A (-ω, -εις, -ει)
 
-1472
-η Τρίπολη
-i tripoli
-Tripoli — noun, feminine — F2 · -η (της -ης, οι -ες)
-
-1473
+1404
 τρίτος, -η, -ο
 tritos
 third — adjective, -ος / -η / -ο — it agrees with its noun
 
-1474
+1405
 η Τρίτη
 i triti
 Tuesday — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1475
+1406
 ο τρόπος
 o tropos
 way, manner, style — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1476
+1407
 η τροφή
 i trofi
 food — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1477
+1408
 η Τροχαία
 i trohea
 Traffic police — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1478
+1409
 τρυφερός, -ή, -ό
 triferos
 tender — adjective, -ος / -η / -ο — it agrees with its noun
 
-1479
+1410
 τρώω
 troo
 to eat — verb, group A (-ω, -εις, -ει)
 
-1480
+1411
 η τσάντα
 i tsanda
 bag, purse — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1481
-ο Βασίλης Τσιτσάνης
-o vasilis tsitsanis
-Vassilis Tsitsanis — noun, masculine — M2 · -ης (τον -η, οι -ες)
-
-1482
+1412
 ο τύπος
 o tipos
 type, kind — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1483
+1413
 το τυρί
 to tiri
 cheese — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1484
+1414
 τυχερός, -ή, -ό
 tiheros
 lucky — adjective, -ος / -η / -ο — it agrees with its noun
 
-1485
+1415
 τώρα
 tora
 now — adverb — it never changes
 
-1486
+1416
 ύψιλον
 ipsilon
 Upsilon — word
 
-1487
+1417
 η υγεία
 i iyia
 health — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1488
+1418
 ο υδράργυρος
 o idraryiros
 mercury — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1489
+1419
 το υλικό
 to iliko
 ingredient — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1490
+1420
 ο υπάλληλος
 o ipallilos
 employee — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1491
+1421
 η υπάλληλος
 i ipallilos
 employee — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1492
+1422
 υπάρχει
 iparhi
 there is — word
 
-1493
+1423
 υπάρχω
 iparho
 to exist, to be — verb, group A (-ω, -εις, -ει)
 
-1494
+1424
 υπέροχος, -η, -ο
 iperohos
 wonderful — adjective, -ος / -η / -ο — it agrees with its noun
 
-1495
+1425
 η υπερωρία
 i iperoria
 overtime, extra time — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1496
+1426
 υπεύθυνος, -η, -ο
 ipefthinos
 responsible — adjective, -ος / -η / -ο — it agrees with its noun
 
-1497
+1427
 η υπηρεσία
 i ipiresia
 service, agency, office — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1498
+1428
 το υπνοδω μάτιο
 to ipnodo matio
 bedroom — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1499
+1429
 ο ύπνος
 o ipnos
 sleep — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1500
+1430
 υπογραμμίζω
 ipogrammizo
 to underline — verb, group A (-ω, -εις, -ει)
 
-1501
+1431
 ο υπολογιστής
 o ipoloyistis
 computer — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1502
+1432
 υπόλοιπος, -η, -ο
 ipolipos
 remaining — adjective, -ος / -η / -ο — it agrees with its noun
 
-1503
+1433
 υποχρεωτικός, -ή, -ό
 ipohreotikos
 mandatory — adjective, -ος / -η / -ο — it agrees with its noun
 
-1504
+1434
 ο υποψήφιος
 o ipopsifios
 candidate — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1505
+1435
 η υποψήφια
 i ipopsifia
 candidate — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1506
+1436
 ύστερα
 istera
 after, afterwards, then — adverb — it never changes
 
-1507
+1437
 το ύφασμα
 to ifasma
 cloth, fabric — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1508
+1438
 υψηλή θερμοκρασία
 ipsili thermokrasia
 high temperature — expression — learn it whole
 
-1509
+1439
 φι
 fi
 Phi — word
 
-1510
+1440
 το φαγητό
 to fayito
 food — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1511
+1441
 φαίνομαι
 fenome
 to seem — verb, passive form (-ομαι)
 
-1512
+1442
 ο φάκελος
 o fakelos
 envelope — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1513
+1443
 η φακή
 i faki
 lentil — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1514
-ο Φάμπιο
-o fambio
-Fabio — noun, masculine — irregular — learn its forms one by one
-
-1515
+1444
 φανταστικά
 fandastika
 wonderfully — adverb — it never changes
 
-1516
+1445
 το φαρμακείο
 to farmakio
 pharmacy, drugstore — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1517
+1446
 το φάρμακο
 to farmako
 drug, medicine — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1518
+1447
 ο φαρμακοποιός
 o farmakopios
 pharmacist — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1519
+1448
 η φαρμακοποιός
 i farmakopios
 pharmacist — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1520
+1449
 η φασαρία
 i fasaria
 fuss — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1521
+1450
 το φασόλι
 to fasoli
 bean — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1522
+1451
 ο Φεβρουάριος
 o fevrouarios
 February — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1523
+1452
 το φέιγ βολάν
 to feig volan
 flysheet, leaflet, handout — noun, neuter — irregular — learn its forms one by one
 
-1524
+1453
 φέρνω
 ferno
 to bring — verb, group A (-ω, -εις, -ει)
 
-1525
+1454
 το φεστιβάλ
 to festival
 festival — noun, neuter — invariable — it never changes
 
-1526
+1455
 φετινός, -ή, -ό
 fetinos
 this year's — adjective, -ος / -η / -ο — it agrees with its noun
 
-1527
+1456
 φέτος
 fetos
 this year — adverb — it never changes
 
-1528
+1457
 φεύγω
 fevgo
 to leave — verb, group A (-ω, -εις, -ει)
 
-1529
+1458
 φθηνός, -ή, -ό
 fthinos
 cheap — adjective, -ος / -η / -ο — it agrees with its noun
 
-1530
+1459
 το φθινόπωρο
 to fthinoporo
 autumn — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1531
+1460
 φιλάω
 filao
 kiss — verb, group B1 (-άω / -ώ)
 
-1532
+1461
 φιλώ
 filo
 kiss — verb, group B2 (-ώ, -είς, -εί)
 
-1533
+1462
 φιλικός
 filikos
 friendly — word
 
-1534
+1463
 το φιλί
 to fili
 kiss — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1535
+1464
 φιλικός, -ή, -ό
 filikos
 friendly — adjective, -ος / -η / -ο — it agrees with its noun
 
-1536
+1465
 η φιλολογία
 i filoloyia
 literature, philology — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1537
+1466
 φιλοξενώ
 filoxeno
 to host, to offer hospitality — verb, group B2 (-ώ, -είς, -εί)
 
-1538
+1467
 η φίλη
 i fili
 friend — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1539
+1468
 ο φοιτητής
 o fititis
 student — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1540
+1469
 το φλιτζάνι
 to flitzani
 cup — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1541
+1470
 φοβάμαι
 fovame
 to be afraid of, to fear — verb, passive form (B2 -άμαι)
 
-1542
+1471
 η φοιτήτρια
 i fititria
 student — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1543
+1472
 η φοιτητική εστία
 i fititiki estia
 student residence — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1544
+1473
 φοιτώ
 fito
 to study — verb, group B2 (-ώ, -είς, -εί)
 
-1545
+1474
 η φορά
 i fora
 time — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1546
+1475
 φοράω
 forao
 wear — verb, group B1 (-άω / -ώ)
 
-1547
+1476
 φορώ
 foro
 wear — verb, group B2 (-ώ, -είς, -εί)
 
-1548
+1477
 το φόρεμα
 to forema
 dress — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1549
+1478
 η φόρμα
 i forma
 tracksuit — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1550
+1479
 το φουντούκι
 to foundouki
 hazelnut — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1551
+1480
 ο φούρνος
 o fournos
 oven — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1552
+1481
 η φούστα
 i fousta
 skirt — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1553
+1482
 το φουστάνι
 to foustani
 dress — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1554
+1483
 η φράση
 i frasi
 phrase — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1555
+1484
 η φροντίδα
 i frondida
 care — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1556
+1485
 φροντίζω
 frondizo
 to take care of, to look after — verb, group A (-ω, -εις, -ει)
 
-1557
+1486
 το φρούτο
 to frouto
 fruit — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1558
+1487
 φτάνω
 ftano
 to arrive, to reach — verb, group A (-ω, -εις, -ει)
 
-1559
+1488
 το φτερό
 to ftero
 feather, wing — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1560
+1489
 φτηνός, -ή, -ό
 ftinos
 cheap — adjective, -ος / -η / -ο — it agrees with its noun
 
-1561
+1490
 φτιάχνω
 ftiahno
 to fix, to repair — verb, group A (-ω, -εις, -ει)
 
-1562
+1491
 το φυλλάδιο
 to filladio
 booklet, leaflet — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1563
+1492
 το φύλλο
 to fillo
 leaf — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1564
+1493
 φυσάω
 fisao
 to blow — verb, group B1 (-άω / -ώ)
 
-1565
+1494
 φυσώ
 fiso
 blow — verb, group B2 (-ώ, -είς, -εί)
 
-1566
+1495
 η φύση
 i fisi
 nature — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1567
+1496
 φυσικά
 fisika
 of course, certainly — adverb — it never changes
 
-1568
+1497
 το φυσικό αέριο
 to fisiko aerio
 natural gas — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1569
+1498
 φυτεύω
 fitevo
 to plant — verb, group A (-ω, -εις, -ει)
 
-1570
+1499
 το φυτό
 to fito
 plant — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1571
+1500
 η φωτιά
 i fotia
 fire — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1572
+1501
 φωτίζω
 fotizo
 to light, to illuminate — verb, group A (-ω, -εις, -ει)
 
-1573
+1502
 το φωτιστικό
 to fotistiko
 lamp — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1574
+1503
 η φωτογραφία
 i fotografia
 picture, photo — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1575
+1504
 ο φωτογράφος
 o fotografos
 photographer — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1576
+1505
 η φωτογράφος
 i fotografos
 photographer — noun, feminine — F4 · -ος feminine — only the article shows the gender
 
-1577
+1506
 το χάδι
 to hadi
 touch — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1578
+1507
 χαιρετάω
 heretao
 greet — verb, group B1 (-άω / -ώ)
 
-1579
+1508
 χαιρετώ
 hereto
 greet — verb, group B2 (-ώ, -είς, -εί)
 
-1580
+1509
 χαίρετε
 herete
 hello or goodbye — word
 
-1581
+1510
 ο χαιρετισμός
 o heretismos
 greeting — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1582
+1511
 χαίρομαι
 herome
 to be glad — verb, passive form (-ομαι)
 
-1583
+1512
 χαλάω
 halao
 break — verb, group B1 (-άω / -ώ)
 
-1584
+1513
 χαλώ
 halo
 break — verb, group B2 (-ώ, -είς, -εί)
 
-1585
+1514
 το χαλί
 to hali
 carpet — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1586
+1515
 το χαμάμ
 to hamam
 Turkish bath — noun, neuter — invariable — it never changes
 
-1587
+1516
 χαμηλός, -ή, -ό
 hamilos
 low — adjective, -ος / -η / -ο — it agrees with its noun
 
-1588
+1517
 το χαμόγελο
 to hamoyelo
 smile — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1589
+1518
 το χαμομήλι
 to hamomili
 chamomile — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1590
+1519
 χάνω
 hano
 to lose, to miss — verb, group A (-ω, -εις, -ει)
 
-1591
+1520
 το χάπι
 to hapi
 pill — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1592
+1521
 η χαρά
 i hara
 happiness, joy — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1593
+1522
 ο χάρακας
 o harakas
 ruler — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-1594
+1523
 ο χαρακτήρας
 o haraktiras
 character, personality — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-1595
-ο Χαράλαμπος
-o haralambos
-Charalambos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
-
-1596
+1524
 χαρίζω
 harizo
 to donate, to gift — verb, group A (-ω, -εις, -ει)
 
-1597
-η Χαρίκλεια
-i hariklia
-Chariklia — noun, feminine — F1 · -α (της -ας, οι -ες)
-
-1598
+1525
 χαρούμενος, -η, -ο
 haroumenos
 happy — adjective, -ος / -η / -ο — it agrees with its noun
 
-1599
+1526
 ο χάρτης
 o hartis
 map — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1600
+1527
 η χαρτοπετσέτα
 i hartopetseta
 napkin — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1601
+1528
 ο χειμώνας
 o himonas
 winter — noun, masculine — M1 · -ας (τον -α, οι -ες)
 
-1602
+1529
 το χέρι
 to heri
 hand, arm — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1603
+1530
 το χιλιόμετρο
 to hiliometro
 kilometre — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1604
+1531
 το χιόνι
 to hioni
 snow — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1605
+1532
 χιονίζει
 hionizi
 it is snowing — word
 
-1606
+1533
 χλιαρός, -ή, -ό
 hliaros
 lukewarm — word
 
-1607
+1534
 το χολ
 to hol
 corridor — noun, neuter — invariable — it never changes
 
-1608
+1535
 το χόμπι
 to hombi
 hobby — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1609
+1536
 χοντρός, -ή, -ό
 hondros
 fat — adjective, -ος / -η / -ο — it agrees with its noun
 
-1610
+1537
 ο χορευτής
 o horeftis
 dancer — noun, masculine — M2 · -ης (τον -η, οι -ες)
 
-1611
+1538
 η χορεύτρια
 i horeftria
 dancer — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1612
+1539
 χορεύω
 horevo
 to dance — verb, group A (-ω, -εις, -ει)
 
-1613
+1540
 ο χορός
 o horos
 dancing — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1614
+1541
 χρειάζομαι
 hriazome
 to need — verb, passive form (-ομαι)
 
-1615
+1542
 τα χρήματα
 ta hrimata
 money — expression — learn it whole
 
-1616
+1543
 η χρήση
 i hrisi
 usage — noun, feminine — F3 · -ση/-ξη/-ψη (οι -εις, των -εων)
 
-1617
+1544
 χρησιμοποιώ
 hrisimopio
 to use — verb, group B2 (-ώ, -είς, -εί)
 
-1618
+1545
 τα Χριστούγεννα
 ta hristouyenna
 Christmas — expression — learn it whole
 
-1619
+1546
 χριστουγεννιάτικος, -η, -ο
 hristouyenniatikos
 Christmas — adjective, -ος / -η / -ο — it agrees with its noun
 
-1620
+1547
 η χρονιά
 i hronia
 year — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1621
+1548
 ο χρόνος
 o hronos
 time — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1622
+1549
 τα χρόνια
 ta hronia
 time — expression — learn it whole
 
-1623
+1550
 το χρώμα
 to hroma
 colour — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1624
+1551
 χρωματιστός, -ή, -ό
 hromatistos
 colored — adjective, -ος / -η / -ο — it agrees with its noun
 
-1625
+1552
 χτες
 htes
 yesterday — adverb — it never changes
 
-1626
+1553
 χθες
 hthes
 yesterday — adverb — it never changes
 
-1627
+1554
 χτυπάει το τηλέφωνο
 htipai to tilefono
 the phone is ringing — expression — learn it whole
 
-1628
+1555
 χτυπάω
 htipao
 hit — verb, group B1 (-άω / -ώ)
 
-1629
+1556
 χτυπώ
 htipo
 hit — verb, group B2 (-ώ, -είς, -εί)
 
-1630
+1557
 ο χυμός
 o himos
 juice — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1631
+1558
 η χώρα
 i hora
 country — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1632
+1559
 το χωριό
 to horio
 village — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1633
+1560
 χωρίς
 horis
 without — word
 
-1634
+1561
 ο χωρισμένος
 o horismenos
 divorced — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1635
+1562
 η χωρισμένη
 i horismeni
 divorced — noun, feminine — F2 · -η (της -ης, οι -ες)
 
-1636
+1563
 ο χώρος
 o horos
 space, room — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
 
-1637
+1564
 ψι
 psi
 Psi — word
 
-1638
+1565
 το ψάρι
 to psari
 fish — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1639
+1566
 τα ψάρια
 ta psaria
 fish — expression — learn it whole
 
-1640
+1567
 ψάχνω
 psahno
 to search, to look for — verb, group A (-ω, -εις, -ει)
 
-1641
+1568
 το ψέμα
 to psema
 lie — noun, neuter — N3 · -μα (του -ματος, τα -ματα)
 
-1642
+1569
 ψηλός, -ή, -ό
 psilos
 tall — adjective, -ος / -η / -ο — it agrees with its noun
 
-1643
+1570
 το ψης Μετρητών
 to psis metriton
 cash register — noun, neuter — irregular — learn its forms one by one
 
-1644
+1571
 ψητός, -ή, -ό
 psitos
 roasted — adjective, -ος / -η / -ο — it agrees with its noun
 
-1645
+1572
 ψιχαλίζει
 psihalizi
 it drizzles — word
 
-1646
+1573
 το ψυγείο
 to psiyio
 refrigerator, fridge — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1647
+1574
 το ψωμί
 to psomi
 bread — noun, neuter — N2 · -ι (του -ιού, τα -ιά)
 
-1648
+1575
 τα ψώνια
 ta psonia
 shopping — expression — learn it whole
 
-1649
+1576
 ψωνίζω
 psonizo
 to shop, to go shopping — verb, group A (-ω, -εις, -ει)
 
-1650
+1577
 ωμέγα
 omega
 Omega — word
 
-1651
+1578
 το ωδείο
 to odio
 conservatory — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1652
+1579
 η ώρα
 i ora
 hour — noun, feminine — F1 · -α (της -ας, οι -ες)
 
-1653
+1580
 ωραίος, -α, -ο
 oreos
 beautiful — adjective, -ος / -η / -ο — it agrees with its noun
 
-1654
+1581
 ωραία
 orea
 nice — adverb — it never changes
 
-1655
+1582
 το ωράριο
 to orario
 schedule, working hours — noun, neuter — N1 · -ο (του -ου, τα -α)
 
-1656
+1583
 ως
 os
 until, till — word
 
-1657
+1584
 ώστε
 oste
 in order to, so that — word
 
-1658
+1585
 ωστόσο
 ostoso
 however — word

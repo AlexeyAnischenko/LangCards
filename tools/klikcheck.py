@@ -12,20 +12,24 @@ import io, os, re, sys
 from greeklex import deaccent, decline_noun, decline_adj, DEF_ART, INDEF_ART
 from data2 import NOUNS, ADJS
 
-# the word list lives one level up, next to the decks it constrains
-KLIK_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                         os.pardir, 'klik-a2-vocabulary.txt')
+# the word list lives one level up, next to the decks it constrains. The
+# proper names were moved into a sidecar so they would stop coming up as
+# flashcards, but they are still KLIK headwords, so both files count here.
+_UP = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir)
+KLIK_PATH = os.path.join(_UP, 'klik-a2-vocabulary.txt')
+KLIK_NAMES_PATH = os.path.join(_UP, 'klik-a2-names.txt')
 GREEK = re.compile(u'[\u0370-\u03ff\u1f00-\u1fff]+')
 
 
-def klik_forms(path=KLIK_PATH):
-    raw = io.open(path, encoding='utf-8-sig').read().replace('\r\n', '\n')
+def klik_forms(paths=(KLIK_PATH, KLIK_NAMES_PATH)):
     out = set()
-    for block in raw.split('\n\n'):
-        lines = block.split('\n')
-        if len(lines) >= 2:
-            for w in GREEK.findall(lines[1]):
-                out.add(deaccent(w.lower()))
+    for path in paths:
+        raw = io.open(path, encoding='utf-8-sig').read().replace('\r\n', '\n')
+        for block in raw.split('\n\n'):
+            lines = block.split('\n')
+            if len(lines) >= 2:
+                for w in GREEK.findall(lines[1]):
+                    out.add(deaccent(w.lower()))
     return out
 
 

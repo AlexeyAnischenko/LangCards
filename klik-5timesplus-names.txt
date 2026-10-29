@@ -1,0 +1,404 @@
+1
+η Μαρία
+i maria
+Maria — noun |         nominative, accusative, genitive | sg      η Μαρία, τη Μαρία, της Μαρίας | (κύριο  όνομα - χωρίς πληθυντικό)
+
+2
+ο Κώστας
+o kostas
+Kostas — noun |     nominative, accusative, genitive | sg  ο Κώστας/Κώστα, τον Κώστα, του Κώστα
+
+3
+η Ελένη
+i eleni
+Helen — noun |     nominative, accusative, genitive | sg  η Ελένη, την Ελένη, της Ελένης
+
+4
+ο Νίκος
+o nikos
+Nikos — noun |     nominative, accusative, genitive | sg  ο Νίκος/Νίκο, τον Νίκο, του Νίκου
+
+5
+ο Γιώργος
+o yiorgos
+George — noun |     nominative, accusative, genitive | sg  ο Γιώργος/Γιώργο, τον Γιώργο, του Γιώργου
+
+6
+ο Δημήτρης
+o dimitris
+Dimitris — noun |     nominative, accusative, genitive | sg  ο Δημήτρης/Δημήτρη, τον Δημήτρη, του Δημήτρη
+
+7
+ο Γιάννης
+o yiannis
+John — noun |     nominative, accusative, genitive | sg  ο Γιάννης/Γιάννη, τον Γιάννη, του Γιάννη
+
+8
+η Αννα
+i anna
+Anna — noun |     nominative, accusative, genitive | sg  η Άννα, την Άννα, της Άννας
+
+9
+η Αθήνα
+i athina
+Athens — noun |     nominative, accusative, genitive | sg  η Αθήνα, την Αθήνα, της Αθήνας
+
+10
+ο Πέτρος
+o petros
+Petros — noun |     nominative, accusative, genitive | sg  ο Πέτρος/Πέτρο, τον Πέτρο, του Πέτρου
+
+11
+η Αλίκη
+i aliki
+Alice — noun |     nominative, accusative, genitive | sg  η Αλίκη, την Αλίκη, της Αλίκης
+
+12
+η Κατερίνα
+i katerina
+Catherine — noun |     nominative, accusative, genitive | sg  η Κατερίνα, την Κατερίνα, της Κατερίνας
+
+13
+η Βασιλική
+i vasiliki
+Vasiliki — noun |     nominative, accusative, genitive | sg  η Βασιλική, τη Βασιλική, της Βασιλικής
+
+14
+η Σοφία
+i sofia
+Sophia — noun |     nominative, accusative, genitive | sg  η Σοφία, τη Σοφία, της Σοφίας | pl  —
+
+15
+η Δέσποινα
+i despina
+Despina — noun |     nominative, accusative, genitive | sg  η Δέσποινα, τη Δέσποινα, της Δέσποινας
+
+16
+η Μαίρη
+i meri
+Mary — noun |         nominative, accusative, genitive | sg      η Μαίρη, τη Μαίρη, της Μαίρης | (κύριο  όνομα - χωρίς πληθυντικό)
+
+17
+ο Αντώνης
+o andonis
+Antonis — noun |     nominative, accusative, genitive | sg  ο Αντώνης, τον Αντώνη, του Αντώνη / Αντώνη | pl  οι Αντώνηδες, τους Αντώνηδες, των Αντώνηδων
+
+18
+η Βίκυ
+i viki
+Vicky — noun | indeclinable - only the article changes
+
+19
+η Μαρίνα
+i marina
+Marina — noun |         nominative, accusative, genitive | sg      η Μαρίνα, τη Μαρίνα, της Μαρίνας | (κύριο  όνομα - χωρίς πληθυντικό)
+
+20
+ο Μιχάλης
+o mihalis
+Michael — noun |     nominative, accusative, genitive | sg  ο Μιχάλης/Μιχάλη, τον Μιχάλη, του Μιχάλη
+
+21
+η Αλεξία
+i alexia
+Alexia — noun |     nominative, accusative, genitive | sg  η Αλεξία, την Αλεξία, της Αλεξίας
+
+22
+ο Βασίλης
+o vasilis
+Vasilis — noun |     nominative, accusative, genitive | sg  ο Βασίλης, τον Βασίλη, του Βασίλη / Βασίλη | pl  οι Βασίληδες, τους Βασίληδες, των Βασίληδων
+
+23
+η Αναστασία
+i anastasia
+Anastasia — noun |     nominative, accusative, genitive | sg  η Αναστασία, την Αναστασία, της Αναστασίας
+
+24
+ο Αλέξης
+o alexis
+Alexis — noun |     nominative, accusative, genitive | sg  ο Αλέξης, τον Αλέξη, του Αλέξη / Αλέξη | pl  οι Αλέξηδες, τους Αλέξηδες, των Αλέξηδων
+
+25
+η Νίκη
+i niki
+Niki — noun |         nominative, accusative, genitive | sg      η Νίκη, τη Νίκη, της Νίκης | (κύριο  όνομα - χωρίς πληθυντικό)
+
+26
+η Δράμα
+i drama
+Drama — noun |     nominative, accusative, genitive | sg  η Δράμα, τη Δράμα, της Δράμας
+
+27
+η Καβάλα
+i kavala
+Kavala — noun |     nominative, accusative, genitive | sg  η Καβάλα, την Καβάλα, της Καβάλας
+
+28
+ο Μανόλης
+o manolis
+Manolis — noun |     nominative, accusative, genitive | sg  ο Μανόλης/Μανόλη, τον Μανόλη, του Μανόλη
+
+29
+η Μιραντίδου
+i mirandidou
+Mirantidou - a (female) surname — name | seen as: Μιραντίδου
+
+30
+ο Θανάσης
+o thanasis
+Thanasis — noun |     nominative, accusative, genitive | sg  ο Θανάσης/Θανάση, τον Θανάση, του Θανάση
+
+31
+η Μάρθα
+i martha
+Martha — noun |         nominative, accusative, genitive | sg      η Μάρθα, τη Μάρθα, της Μάρθας | (κύριο  όνομα - χωρίς πληθυντικό)
+
+32
+ο Τάσος
+o tasos
+Tassos — noun |     nominative, accusative, genitive | sg  ο Τάσος/Τάσο, τον Τάσο, του Τάσου
+
+33
+η Κομοτηνή
+i komotini
+Komotini — noun |     nominative, accusative, genitive | sg  η Κομοτηνή, την Κομοτηνή, της Κομοτηνής
+
+34
+ο Γεράσιμος
+o yerasimos
+Gerasimos — noun |     nominative, accusative, genitive | sg  ο Γεράσιμος/Γεράσιμε, τον Γεράσιμο, του Γεράσιμου
+
+35
+η Σωτηρία
+i sotiria
+Sotiria — noun |     nominative, accusative, genitive | sg  η Σωτηρία, τη Σωτηρία, της Σωτηρίας
+
+36
+η Φωφώ
+i fofo
+Fofo - female first name (pet form of Φωτεινή) — name | seen as: Φωφώ, Φωφώς
+
+37
+ο Χαράλαμπος
+o haralambos
+Charalambos — noun |     nominative, accusative, genitive | sg  ο Χαράλαμπος/Χαράλαμπε, τον Χαράλαμπο, του Χαράλαμπου
+
+38
+ο Γρηγόρης
+o grigoris
+Gregory — noun |     nominative, accusative, genitive | sg  ο Γρηγόρης/Γρηγόρη, τον Γρηγόρη, του Γρηγόρη
+
+39
+η Κρήτη
+i kriti
+Crete — noun |     nominative, accusative, genitive | sg  η Κρήτη, την Κρήτη, της Κρήτης
+
+40
+ο Νεκτάριος
+o nektarios
+Nektarios — noun |     nominative, accusative, genitive | sg  ο Νεκτάριος/Νεκτάριε, τον Νεκτάριο, του Νεκταρίου
+
+41
+η Βάσω
+i vaso
+Vaso — noun |     nominative, accusative, genitive | sg  η Βάσω, τη Βάσω, της Βάσως
+
+42
+ο Θόδωρος
+o thodoros
+Thodoros - male first name (short for Θεόδωρος) — name | seen as: Θόδωρος, Θόδωρου
+
+43
+ο Μάριος
+o marios
+Marios — noun |     nominative, accusative, genitive | sg  ο Μάριος/Μάριε, τον Μάριο, του Μάριου
+
+44
+η Ξάνθη
+i xanthi
+Xanthi — noun |         nominative, accusative, genitive | sg      η Ξάνθη, την Ξάνθη, της Ξάνθης | (κύριο  όνομα - χωρίς πληθυντικό)
+
+45
+η Θεσσαλονίκη
+i thessaloniki
+Thessaloniki - second largest city in Greece — name | seen as: Θεσσαλονίκη, Θεσσαλονίκης
+
+46
+η Καλλιόπη
+i kalliopi
+Calliope — noun |     nominative, accusative, genitive | sg  η Καλλιόπη, την Καλλιόπη, της Καλλιόπης
+
+47
+η Λάρισα
+i larisa
+Larissa — noun |         nominative, accusative, genitive | sg      η Λάρισα, τη Λάρισα, της Λάρισας | (κύριο  όνομα - χωρίς πληθυντικό)
+
+48
+τα τρία πόδια Χαλκιδικής
+ta tria podia halkidikis
+three fingers of Chalkidiki — phrase | seen as: Χαλκιδική, Χαλκιδικής
+
+49
+η Κηφισιά
+i kifisia
+Kifisia - northern suburb of Athens — name | seen as: Κηφισιάς
+
+50
+ο Λευτεράκης
+o lefterakis
+Lefterakis - a surname — name | seen as: Λευτεράκης, Λευτεράκη
+
+51
+η Νόησις
+i noisis
+Noesis - Science Centre and Technology Museum in Thessaloniki — name | seen as: Νόησις
+
+52
+η Πάτμος
+i patmos
+Patmos - Greek island in the Dodecanese — name | seen as: Πάτμο
+
+53
+ο Τριβιζάς
+o trivizas
+Trivizas - surname (Evgenios Trivizas, Greek children's author) — name | seen as: Τριβιζά, Τριβιζάς
+
+54
+η Μακεδονία
+i makedonia
+Macedonia - region of northern Greece (here used as a street name) — name | seen as: Μακεδονίας
+
+55
+η Παπαδάκη
+i papadaki
+Papadaki - surname (female form of Παπαδάκης) — name | seen as: Παπαδάκη
+
+56
+ο Σαμαράκης
+o samarakis
+Samarakis - surname (Antonis Samarakis, Greek writer, 1919-2003) — name | seen as: Σαμαράκης, Σαμαράκη
+
+57
+η Σάμος
+i samos
+Samos - Greek island in the eastern Aegean — name | seen as: Σάμο
+
+58
+ο Τάκης
+o takis
+Takis - Greek male first name (familiar form of Panagiotis/Dimitrios) — name | seen as: Τάκη, Τάκης
+
+59
+Βασιλείου
+vasiliou
+Vasiliou - Greek surname (indeclinable) — name
+
+60
+ο Βιγκάλης
+o vingalis
+Vingalis - Greek surname — name | seen as: Βιγκάλης
+
+61
+ο Ευγένιος
+o evyenios
+Evgenios (Eugene) - Greek male first name; here the children's author Ευγένιος Τριβιζάς — name | seen as: Ευγένιου
+
+62
+Ζερβός
+zervos
+Zervos - Greek surname (feminine form Ζερβού, as in Ματίνα Ζερβού) — name | seen as: Ζερβού
+
+63
+η Καλλιθέα
+i kallithea
+Kallithea - place name (here a resort village in Chalkidiki) — name | seen as: Καλλιθέα
+
+64
+η Λένα
+i lena
+Lena - Greek female first name — name | seen as: Λένα
+
+65
+Παππάς
+pappas
+Pappas - Greek surname (feminine form Παππά, as in Τίνα Παππά) — name | seen as: Παππά
+
+66
+ο Ρομέλ
+o romel
+Romel - a man's (foreign) personal name — name | seen as: Ρομέλ
+
+67
+ο Σαράφης
+o sarafis
+Sarafis - Greek surname; here a street name (Σαράφη 53 = 53 Sarafi St.) — name | seen as: Σαράφη
+
+68
+Σολ
+sol
+Sol - name of a music school (from the note sol/G) — name
+
+69
+το Γεράνι
+to yerani
+Gerani - village and beach in Crete — name | seen as: Γεράνι
+
+70
+ο Γερμανός
+o yermanos
+Germanos - surname (Palaion Patron Germanos), used here as an Athens street name — name | seen as: Γερμανού
+
+71
+ο Δέλλιος
+o dellios
+Dellios - a Greek surname — name | seen as: Δέλλιου
+
+72
+ο Δίας
+o dias
+Zeus - king of the Greek gods; here used as a hotel name — name | seen as: Δίας
+
+73
+το Ιπποκράτειο
+to ippokratio
+Hippokrateio - hospital and surrounding district in Thessaloniki — name | seen as: Ιπποκράτειο
+
+74
+η Ίρις
+i iris
+Iris - Greek goddess of the rainbow; here used as a hotel name — name | seen as: Ίρις
+
+75
+το Λιβάδι
+to livadi
+Livadi - village in Thermi, northern Greece — name | seen as: Λιβάδι
+
+76
+η Μερόπη
+i meropi
+Meropi - Greek female first name — name | seen as: Μερόπης
+
+77
+ο Μουτζούρης
+o moutzouris
+Moutzouris ('the Sooty One') - the historic narrow-gauge train of Mount Pelion — name | seen as: Μουτζούρης
+
+78
+ο Οικονομίδης
+o ikonomidis
+Oikonomidis - Greek surname — name | seen as: Οικονομίδης
+
+79
+η Πανδαισία
+i pandesia
+Pandaisia - name of a restaurant (the word means 'feast, banquet') — name | seen as: Πανδαισία
+
+80
+ο Παντελής
+o pandelis
+Pantelis - Greek male first name — name | seen as: Παντελή
+
+81
+ο Παπαδάκης
+o papadakis
+Papadakis - Greek surname — name | seen as: Παπαδάκης

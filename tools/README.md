@@ -44,7 +44,12 @@ in the explanation — rebuild the missing words from the paradigm tables, and r
 to equal the answer character for character. A card that fails this is one a learner could not
 solve, however good it looks.
 
-**Every Greek word traces back to a KLIK A2 headword.** `klikcheck.py` and `pklik.py` check
+**Every Greek word traces back to a KLIK A2 headword.** The headword set is read from
+`../klik-a2-vocabulary.txt` *and* `../klik-a2-names.txt` — the proper names were moved out of
+the deck so they would stop coming up as flashcards, but they are still A2 words and the frames
+legitimately say *στην Αθήνα*. Reading both reproduces the headword set exactly as it was
+before the split (1,634 forms); `../klik-5timesplus-names.txt` is left out on purpose, because
+those names come from the 5×+ list and were never inside A2. `klikcheck.py` and `pklik.py` check
 three things: that every noun, adjective and verb the deck inflects is a KLIK headword; that
 every word hard-coded into a sentence frame is one too, or an inflected form of one named
 explicitly in the script; and that every Greek token of every finished card is one of those, an

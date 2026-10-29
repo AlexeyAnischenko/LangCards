@@ -1,0 +1,364 @@
+1
+η Ζέτα
+i zeta
+Zeta — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+2
+η Αθανασία
+i athanasia
+Athanasia — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+3
+η Αθήνα
+i athina
+Athens — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+4
+ο Αλέξανδρος
+o alexandros
+Alexander — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+5
+ο Αλέξανδρος ο Μέγας
+o alexandros o megas
+Alexander the Great — noun, masculine — M1 · -ας (τον -α, οι -ες)
+
+6
+ο Αλέξης
+o alexis
+Alexis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+7
+η Αλεξία
+i alexia
+Alexia — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+8
+η Αλίκη
+i aliki
+Alice — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+9
+η Αναστασία
+i anastasia
+Anastasia — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+10
+η Αννα
+i anna
+Anna — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+11
+η Άννα
+i anna
+Anna — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+12
+ο Αντώνης
+o andonis
+Antonis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+13
+ο Βασίλης
+o vasilis
+Vasilis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+14
+η Βασιλική
+i vasiliki
+Vasiliki — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+15
+η Βάσω
+i vaso
+Vaso — noun, feminine — irregular — learn its forms one by one
+
+16
+η Βίκυ
+i viki
+Vicky — noun, feminine — irregular — learn its forms one by one
+
+17
+ο Γεράσιμος
+o yerasimos
+Gerasimos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+18
+ο Γιάννης
+o yiannis
+John — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+19
+ο Γιώργος
+o yiorgos
+George — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+20
+ο Γρηγόρης
+o grigoris
+Gregory — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+21
+η Δέσποινα
+i despina
+Despina — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+22
+ο Δημήτρης
+o dimitris
+Dimitris — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+23
+ο Δημήτριος
+o dimitrios
+Dimitrios — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+24
+η Δράμα
+i drama
+Drama — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+25
+η Ειρήνη
+i irini
+Irene — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+26
+η Ελένη
+i eleni
+Helen — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+27
+η Ελίνα
+i elina
+Elina — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+28
+η Έλσα
+i elsa
+Elsa — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+29
+ο Ζήσης
+o zisis
+Zisis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+30
+ο Θανάσης
+o thanasis
+Thanasis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+31
+η Θωμαή
+i thomai
+Thomai — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+32
+η Καβάλα
+i kavala
+Kavala — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+33
+η Καλλιόπη
+i kalliopi
+Calliope — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+34
+η Κάρμεν
+i karmen
+Carmen — noun, feminine — irregular — learn its forms one by one
+
+35
+η Κατερίνα
+i katerina
+Catherine — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+36
+η Κάτια
+i katia
+Katia — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+37
+η Κέρκυρα
+i kerkira
+Corfu — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+38
+η Κομοτηνή
+i komotini
+Komotini — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+39
+η Κρήτη
+i kriti
+Crete — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+40
+ο Κυριάκος
+o kiriakos
+Kyriakos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+41
+ο Κώστας
+o kostas
+Kostas — noun, masculine — M1 · -ας (τον -α, οι -ες)
+
+42
+η Λάρισα
+i larisa
+Larissa — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+43
+η Λίτσα
+i litsa
+Litsa — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+44
+η Μαίρη
+i meri
+Mary — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+45
+ο Μανόλης
+o manolis
+Manolis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+46
+η Μάρθα
+i martha
+Martha — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+47
+η Μαρία
+i maria
+Maria — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+48
+η Μαριάννα
+i marianna
+Marianna — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+49
+η Μαρίνα
+i marina
+Marina — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+50
+ο Μάριος
+o marios
+Marios — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+51
+η Μίρκα
+i mirka
+Mirka — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+52
+ο Μιχάλης
+o mihalis
+Michael — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+53
+ο Μπάμπης
+o bambis
+Babis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+54
+ο Νεκτάριος
+o nektarios
+Nektarios — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+55
+η Νίκη
+i niki
+Niki — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+56
+ο Νίκος
+o nikos
+Nikos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+57
+η Ντίνα
+i dina
+Dina — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+58
+η Ξάνθη
+i xanthi
+Xanthi — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+59
+ο Πέτρος
+o petros
+Petros — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+60
+η Πλατεία Συντάγματος
+i platia sindagmatos
+Syntagma Constitution Square — noun, feminine — F4 · -ος feminine — only the article shows the gender
+
+61
+ο Ουίλιαμ Σαίξπηρ
+o ouiliam sexpir
+William Shakespeare — noun, masculine — irregular — learn its forms one by one
+
+62
+ο Σαμ
+o sam
+Sam — noun, masculine — irregular — learn its forms one by one
+
+63
+η Σοφία
+i sofia
+Sophia — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+64
+η Σωτηρία
+i sotiria
+Sotiria — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+65
+η Τάνια
+i tania
+Tania — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+66
+ο Τάσος
+o tasos
+Tassos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+67
+η Τασούλα
+i tasoula
+Tassoula — noun, feminine — F1 · -α (της -ας, οι -ες)
+
+68
+τα τρία πόδια Χαλκιδικής
+ta tria podia halkidikis
+three fingers of Chalkidiki — expression — learn it whole
+
+69
+η Τρίπολη
+i tripoli
+Tripoli — noun, feminine — F2 · -η (της -ης, οι -ες)
+
+70
+ο Βασίλης Τσιτσάνης
+o vasilis tsitsanis
+Vassilis Tsitsanis — noun, masculine — M2 · -ης (τον -η, οι -ες)
+
+71
+ο Φάμπιο
+o fambio
+Fabio — noun, masculine — irregular — learn its forms one by one
+
+72
+ο Χαράλαμπος
+o haralambos
+Charalambos — noun, masculine — M3 · -ος (τον -ο, του -ου, οι -οι)
+
+73
+η Χαρίκλεια
+i hariklia
+Chariklia — noun, feminine — F1 · -α (της -ας, οι -ες)
