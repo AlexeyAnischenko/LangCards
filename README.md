@@ -39,11 +39,15 @@ Editing `langcards.html` directly is a mistake — the next build overwrites it.
 - **Shuffled, not sampled**: the pack is shuffled once and then walked in order, so every
   card comes up before any card comes up twice. Reaching the end reshuffles and starts a
   fresh pass — running out of unseen cards is the only way to see one again
-- **Session tallies**: the progress line counts the cards you have worked through and the
-  ones you marked known, with the percentage. They count the current round, not the whole
-  session: a known card leaves the pack, so a card still there on the second round is one
-  you did not know, and carrying the numbers over would count it twice against the same
-  knowns. The round number appears from the second round on
+- **Round tallies**: the progress line reads `73 of 80 displayed, 24 known, 33 %` — how far
+  through the round you are, how many of those you marked known, and the percentage. The
+  round's total is fixed when the round starts, so it does *not* match the `of Y` in
+  `Card X of Y`: marking a card known takes it out of the pack, but it has already been
+  shown, so `Y` shrinks while the round still has the same number of cards to get through.
+  The round ends when the last of them is shown, and both tallies reset — a known card
+  cannot come back, so a card still there next round is one you did not know, and carrying
+  the numbers over would count it twice against the same knowns. The round number appears
+  from the second round on
 - **Debug Information**: Optional detailed parsing information for troubleshooting
 
 ## Hearing the cards

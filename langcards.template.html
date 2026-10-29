@@ -636,7 +636,8 @@ Translation: Excuse me.</pre>
     <div id="flashcard-ui" style="display: none;">
       <div class="progress">
         Card <span id="current-card">0</span> of <span id="total-cards">0</span>.
-        <span class="tally"><span id="cards-seen">0</span> displayed,
+        <span class="tally"><span id="cards-seen">0</span> of <span
+        id="pass-size">0</span> displayed,
         <span id="cards-known">0</span> known, <span id="known-ratio">—</span><span
         id="pass-no"></span></span>
       </div>
@@ -702,6 +703,7 @@ Translation: Excuse me.</pre>
     let cardsKnown = 0;
     let currentCounted = false;
     let passNumber = 1;
+    let passSize = 0;
 
     // DOM Elements
     const fileInput = document.getElementById('file-input');
@@ -718,6 +720,7 @@ Translation: Excuse me.</pre>
     const cardsKnownElement = document.getElementById('cards-known');
     const knownRatioElement = document.getElementById('known-ratio');
     const passNumberElement = document.getElementById('pass-no');
+    const passSizeElement = document.getElementById('pass-size');
     const cardNumberElement = document.getElementById('card-number');
     const greekText = document.getElementById('greek-text');
     const transcriptionText = document.getElementById('transcription-text');
@@ -890,6 +893,7 @@ Translation: Excuse me.</pre>
 
     function updateTally() {
       cardsSeenElement.textContent = cardsSeen;
+      passSizeElement.textContent = passSize;
       cardsKnownElement.textContent = cardsKnown;
       knownRatioElement.textContent = cardsSeen
         ? Math.round(100 * cardsKnown / cardsSeen) + ' %'
@@ -904,6 +908,7 @@ Translation: Excuse me.</pre>
       cardsKnown = 0;
       currentCounted = false;
       passNumber = 1;
+      passSize = cards.length;
       updateTally();
     }
 
@@ -958,6 +963,7 @@ Translation: Excuse me.</pre>
         cardsSeen = 0;
         cardsKnown = 0;
         passNumber++;
+        passSize = cards.length;
         updateTally();
       }
 
