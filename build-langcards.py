@@ -40,6 +40,10 @@ DICTS = [
     # words the B1 book uses 3+ times that none of the A2 material covers
     ('b1add',   'klik-b1-additions-3times.txt',
                 u'KLIK B1 additions — new words, 3+ times'),
+    # stock phrases for the two A2 writing tasks, an informal letter and a
+    # more formal text, following the topics the past papers set
+    ('writing', 'greek-a2-writing-100-phrases.txt',
+                u'A2 writing — 100 phrases for letters & announcements'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()

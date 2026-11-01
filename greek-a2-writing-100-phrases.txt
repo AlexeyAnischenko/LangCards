@@ -1,0 +1,499 @@
+1
+Λευκωσία, 15 Μαΐου 2025
+Lefkosia, 15 Maiou 2025
+Nicosia, 15 May 2025 — top right; the month in the genitive | INFORMAL · opening
+
+2
+Γεια σου, Νίκο!
+Yia sou, Niko!
+Hi Nikos! — the name in the vocative: Νίκος → Νίκο | INFORMAL · opening
+
+3
+Αγαπητή μου Ελένη,
+Agapiti mou Eleni,
+My dear Eleni, | INFORMAL · opening
+
+4
+Πώς είσαι; Εγώ είμαι πολύ καλά.
+Pos ise? Ego ime poli kala.
+How are you? I am very well. | INFORMAL · opening
+
+5
+Πώς πέρασες το Σαββατοκύριακο;
+Pos perases to Savvatokiriako?
+How was your weekend? | INFORMAL · opening
+
+6
+Ελπίζω να είσαι καλά.
+Elpizo na ise kala.
+I hope you are well. | INFORMAL · opening
+
+7
+Συγγνώμη που δεν σου έγραψα τόσο καιρό.
+Singnomi pou den sou egrapsa toso kero.
+Sorry I haven't written to you for so long. | INFORMAL · opening
+
+8
+Ευχαριστώ πολύ για το γράμμα σου.
+Efharisto poli yia to gramma sou.
+Thank you very much for your letter. | INFORMAL · opening
+
+9
+Χάρηκα πολύ που πήρα το μήνυμά σου.
+Harika poli pou pira to minima sou.
+I was very glad to get your message. | INFORMAL · opening
+
+10
+Σου γράφω για να σου πω τα νέα μου.
+Sou grafo yia na sou po ta nea mou.
+I'm writing to tell you my news. | INFORMAL · reason
+
+11
+Έχω πολύ καλά νέα!
+Eho poli kala nea!
+I have very good news! | INFORMAL · reason
+
+12
+Δεν είμαι πολύ καλά.
+Den ime poli kala.
+I'm not very well. — opener for bad news | INFORMAL · reason
+
+13
+Θέλω να σου πω τι έγινε την προηγούμενη εβδομάδα.
+Thelo na sou po ti eyine tin proigoumeni evdomada.
+I want to tell you what happened last week. | INFORMAL · reason
+
+14
+Πριν από λίγες μέρες είχα ένα ατύχημα.
+Prin apo liyes meres iha ena atihima.
+A few days ago I had an accident. | INFORMAL · news · accident
+
+15
+Έπεσα από το ποδήλατο και έσπασα το χέρι μου.
+Epesa apo to podilato ke espasa to heri mou.
+I fell off my bike and broke my arm. | INFORMAL · news · accident
+
+16
+Πήγα αμέσως στο νοσοκομείο.
+Piga amesos sto nosokomio.
+I went to the hospital straight away. | INFORMAL · news · accident
+
+17
+Τώρα είμαι καλύτερα, αλλά πρέπει να μείνω στο σπίτι μια εβδομάδα.
+Tora ime kalitera, alla prepi na mino sto spiti mia evdomada.
+Now I am better, but I have to stay at home for a week. | INFORMAL · news · accident
+
+18
+Ξεκίνησα μαθήματα πιάνου.
+Xekinisa mathimata pianou.
+I have started piano lessons. | INFORMAL · news · lessons
+
+19
+Έχω μάθημα δύο φορές την εβδομάδα.
+Eho mathima dio fores tin evdomada.
+I have a lesson twice a week. | INFORMAL · news · lessons
+
+20
+Η δασκάλα μου είναι πολύ καλή και υπομονετική.
+I daskala mou ine poli kali ke ipomonetiki.
+My teacher is very good and patient. | INFORMAL · news · lessons
+
+21
+Είμαι πολύ ευχαριστημένος με τα μαθήματα.
+Ime poli efharistimenos me ta mathimata.
+I'm very pleased with the lessons. — a woman writes ευχαριστημένη | INFORMAL · news · lessons
+
+22
+Κέρδισα το πρώτο βραβείο σε έναν διαγωνισμό!
+Kerdisa to proto vravio se enan diagonismo!
+I won first prize in a competition! | INFORMAL · news · prize
+
+23
+Ο διαγωνισμός έγινε στο Δημαρχείο τον περασμένο μήνα.
+O diagonismos eyine sto Dimarhio ton perasmeno mina.
+The competition took place at the Town Hall last month. | INFORMAL · news · prize
+
+24
+Το βράδυ γιορτάσαμε με τους φίλους μου.
+To vradi yiortasame me tous filous mou.
+In the evening we celebrated with my friends. | INFORMAL · news · prize
+
+25
+Το Σάββατο πήγα σε ένα καινούριο εστιατόριο με την οικογένειά μου.
+To Savvato piga se ena kenourio estiatorio me tin ikoyenia mou.
+On Saturday I went to a new restaurant with my family. | INFORMAL · news · outing
+
+26
+Φάγαμε ψάρι και σαλάτα. Όλα ήταν πολύ νόστιμα.
+Fagame psari ke salata. Ola itan poli nostima.
+We ate fish and salad. Everything was very tasty. | INFORMAL · news · outing
+
+27
+Πληρώσαμε μόνο 20 ευρώ ο καθένας.
+Plirosame mono 20 evro o kathenas.
+We paid only 20 euros each. | INFORMAL · news · outing
+
+28
+Μετά πήγαμε βόλτα στην παραλία.
+Meta pigame volta stin paralia.
+Afterwards we went for a walk on the beach. | INFORMAL · news · outing
+
+29
+Μου άρεσε πολύ το φαγητό.
+Mou arese poli to fayito.
+I liked the food a lot. | INFORMAL · news · outing
+
+30
+Πέρασα πολύ ωραία.
+Perasa poli orea.
+I had a really good time. | INFORMAL · feelings
+
+31
+Ήταν μια υπέροχη μέρα!
+Itan mia iperohi mera!
+It was a wonderful day! | INFORMAL · feelings
+
+32
+Ήμουν πολύ χαρούμενος.
+Imoun poli haroumenos.
+I was very happy. — a woman writes χαρούμενη | INFORMAL · feelings
+
+33
+Δυστυχώς, ο καιρός δεν ήταν καλός.
+Distihos, o keros den itan kalos.
+Unfortunately, the weather wasn't good. | INFORMAL · feelings
+
+34
+Πρέπει να πας κι εσύ!
+Prepi na pas ki esi!
+You must go too! | INFORMAL · to your friend
+
+35
+Θέλεις να έρθεις μαζί μου την επόμενη φορά;
+Thelis na erthis mazi mou tin epomeni fora?
+Do you want to come with me next time? | INFORMAL · to your friend
+
+36
+Τι λες; Πάμε μαζί το Σάββατο;
+Ti les? Pame mazi to Savvato?
+What do you say? Shall we go together on Saturday? | INFORMAL · to your friend
+
+37
+Εσύ τι κάνεις; Πώς πάει η δουλειά;
+Esi ti kanis? Pos pai i doulia?
+And you, how are you doing? How's work going? | INFORMAL · to your friend
+
+38
+Πες μου τα νέα σου!
+Pes mou ta nea sou!
+Tell me your news! | INFORMAL · to your friend
+
+39
+Γράψε μου σύντομα!
+Grapse mou sindoma!
+Write to me soon! | INFORMAL · closing
+
+40
+Περιμένω το γράμμα σου.
+Perimeno to gramma sou.
+I'm waiting for your letter. | INFORMAL · closing
+
+41
+Τα λέμε σύντομα!
+Ta leme sindoma!
+See you soon! / Talk soon! | INFORMAL · closing
+
+42
+Χαιρετίσματα στην οικογένειά σου.
+Heretismata stin ikoyenia sou.
+Say hello to your family. | INFORMAL · closing
+
+43
+Πολλά φιλιά,
+Polla filia,
+Lots of love, (lit. many kisses) | INFORMAL · closing
+
+44
+Ο φίλος σου, Πέτρος
+O filos sou, Petros
+Your friend, Petros — a woman: Η φίλη σου, Μαρία. Sign with an invented name, never your own (exam rule) | INFORMAL · closing
+
+45
+Αγαπητέ κύριε Παπαδόπουλε,
+Agapite kirie Papadopoule,
+Dear Mr Papadopoulos, — the surname in the vocative: -ος → -ε | FORMAL · opening
+
+46
+Αγαπητή κυρία Γεωργίου,
+Agapiti kiria Yeoryiou,
+Dear Mrs Georgiou, | FORMAL · opening
+
+47
+Αγαπητοί κύριε και κυρία Δέλλιου,
+Agapiti kirie ke kiria Delliou,
+Dear Mr and Mrs Delliou, — from the 2016 exam (host family) | FORMAL · opening
+
+48
+Αξιότιμε κύριε / Αξιότιμη κυρία,
+Axiotime kirie / Axiotimi kiria,
+Dear Sir / Madam, — very formal, to someone you do not know | FORMAL · opening
+
+49
+Αγαπητοί φίλοι,
+Agapiti fili,
+Dear friends, — for an announcement or a forum post | FORMAL · opening
+
+50
+Σας γράφω για να σας ευχαριστήσω για την υπέροχη βραδιά.
+Sas grafo yia na sas efharistiso yia tin iperohi vradia.
+I'm writing to thank you for the wonderful evening. | FORMAL · reason
+
+51
+Σας γράφω για να σας πω πότε θα φτάσω.
+Sas grafo yia na sas po pote tha ftaso.
+I'm writing to tell you when I will arrive. | FORMAL · reason
+
+52
+Σας ευχαριστώ πολύ για τη βοήθειά σας.
+Sas efharisto poli yia ti voithia sas.
+Thank you very much for your help. | FORMAL · thank you
+
+53
+Σας ευχαριστώ για το υπέροχο δώρο.
+Sas efharisto yia to iperoho doro.
+Thank you for the wonderful present. | FORMAL · thank you
+
+54
+Σας ευχαριστώ για την πρόσκληση.
+Sas efharisto yia tin prosklisi.
+Thank you for the invitation. | FORMAL · thank you
+
+55
+Σας ευχαριστώ πολύ για τη φιλοξενία.
+Sas efharisto poli yia ti filoxenia.
+Thank you very much for your hospitality. | FORMAL · thank you
+
+56
+Πέρασα πολύ ωραία στο σπίτι σας.
+Perasa poli orea sto spiti sas.
+I had a lovely time at your house. | FORMAL · thank you
+
+57
+Δεν θα ξεχάσω ποτέ αυτές τις μέρες.
+Den tha xehaso pote aftes tis meres.
+I will never forget these days. | FORMAL · thank you
+
+58
+Ήταν μεγάλη χαρά για μένα να σας γνωρίσω.
+Itan megali hara yia mena na sas gnoriso.
+It was a great pleasure for me to meet you. | FORMAL · thank you
+
+59
+Συγχαρητήρια για τον γάμο σας!
+Sigharitiria yia ton gamo sas!
+Congratulations on your wedding! | FORMAL · congratulations
+
+60
+Να ζήσετε!
+Na zisete!
+The traditional wish to a newly married couple (lit. may you live!) | FORMAL · congratulations
+
+61
+Συγχαρητήρια για το μωρό! Να σας ζήσει!
+Sigharitiria yia to moro! Na sas zisi!
+Congratulations on the baby! — Να σας ζήσει = may it live for you, the standard wish for a birth | FORMAL · congratulations
+
+62
+Συγχαρητήρια για τη νέα σας δουλειά!
+Sigharitiria yia ti nea sas doulia!
+Congratulations on your new job! | FORMAL · congratulations
+
+63
+Συγχαρητήρια για το πτυχίο σου!
+Sigharitiria yia to ptihio sou!
+Congratulations on your degree! — σου: to a friend | FORMAL · congratulations
+
+64
+Χρόνια πολλά για τα γενέθλιά σας!
+Hronia polla yia ta yenethlia sas!
+Happy birthday! (lit. many years) | FORMAL · congratulations
+
+65
+Χρόνια πολλά για τη γιορτή σας!
+Hronia polla yia ti yiorti sas!
+Happy name day! | FORMAL · congratulations
+
+66
+Σας εύχομαι υγεία και ευτυχία.
+Sas efhome iyia ke eftihia.
+I wish you health and happiness. | FORMAL · congratulations
+
+67
+Σας εύχομαι καλή επιτυχία στη νέα σας δουλειά.
+Sas efhome kali epitihia sti nea sas doulia.
+I wish you every success in your new job. | FORMAL · congratulations
+
+68
+Καλή αρχή!
+Kali arhi!
+Good luck with the new start! — new job, school, home | FORMAL · congratulations
+
+69
+Θα ήθελα να σας προσκαλέσω στα γενέθλιά μου.
+Tha ithela na sas proskaleso sta yenethlia mou.
+I would like to invite you to my birthday party. | FORMAL · invitation
+
+70
+Σας προσκαλούμε στον γάμο μας, το Σάββατο 10 Ιουνίου.
+Sas proskaloume ston gamo mas, to Savvato 10 Iouniou.
+We invite you to our wedding, on Saturday 10 June. | FORMAL · invitation
+
+71
+Η γιορτή θα γίνει στο σπίτι μου, στις 8 το βράδυ.
+I yiorti tha yini sto spiti mou, stis 8 to vradi.
+The party will be at my house, at 8 in the evening. | FORMAL · invitation
+
+72
+Παρακαλώ, ενημερώστε με αν μπορείτε να έρθετε.
+Parakalo, enimeroste me an borite na erthete.
+Please let me know if you can come. | FORMAL · invitation
+
+73
+Δυστυχώς, δεν μπορώ να έρθω, γιατί έχω δουλειά.
+Distihos, den boro na ertho, yiati eho doulia.
+Unfortunately, I can't come, because I have work. | FORMAL · saying no
+
+74
+Λυπάμαι πολύ, αλλά εκείνη τη μέρα δουλεύω.
+Lipame poli, alla ekini ti mera doulevo.
+I'm very sorry, but I'm working that day. | FORMAL · saying no
+
+75
+Θα φτάσω στην Αθήνα στις 3 Ιουλίου με το αεροπλάνο.
+Tha ftaso stin Athina stis 3 Iouliou me to aeroplano.
+I will arrive in Athens on 3 July by plane. | FORMAL · about you
+
+76
+Θα μείνω τρεις εβδομάδες στο σπίτι σας.
+Tha mino tris evdomades sto spiti sas.
+I will stay at your house for three weeks. | FORMAL · about you
+
+77
+Είμαι τριάντα χρονών και δουλεύω ως μηχανικός.
+Ime trianda hronon ke doulevo os mihanikos.
+I am thirty years old and I work as an engineer. | FORMAL · about you
+
+78
+Μου αρέσει πολύ το διάβασμα και το κολύμπι.
+Mou aresi poli to diavasma ke to kolimbi.
+I really like reading and swimming. | FORMAL · about you
+
+79
+Τρώω σχεδόν τα πάντα, αλλά δεν τρώω κρέας.
+Troo shedon ta panda, alla den troo kreas.
+I eat almost everything, but I don't eat meat. | FORMAL · about you
+
+80
+ΑΝΑΚΟΙΝΩΣΗ
+Anakinosi
+ANNOUNCEMENT — the title, in capitals | FORMAL · announcement
+
+81
+Σας αρέσει η φωτογραφία;
+Sas aresi i fotografia?
+Do you like photography? — a question to open with, from the 2015 exam | FORMAL · announcement
+
+82
+Η ομάδα μας οργανώνει μαθήματα φωτογραφίας.
+I omada mas organoni mathimata fotografias.
+Our group is organising photography lessons. | FORMAL · announcement
+
+83
+Τα μαθήματα ξεκινούν τη Δευτέρα 5 Οκτωβρίου.
+Ta mathimata xekinoun ti Deftera 5 Oktovriou.
+The lessons start on Monday 5 October. | FORMAL · announcement
+
+84
+Τα μαθήματα θα γίνονται κάθε Τρίτη και Πέμπτη, από τις 6 έως τις 8 το απόγευμα.
+Ta mathimata tha yinonde kathe Triti ke Pembti, apo tis 6 eos tis 8 to apoyevma.
+The lessons will take place every Tuesday and Thursday, from 6 to 8 in the evening. | FORMAL · announcement
+
+85
+Θα γίνουν στο Πολιτιστικό Κέντρο του Δήμου.
+Tha yinoun sto Politistiko Kendro tou Dimou.
+They will take place at the Municipality's Cultural Centre. | FORMAL · announcement
+
+86
+Η τιμή είναι 50 ευρώ τον μήνα.
+I timi ine 50 evro ton mina.
+The price is 50 euros a month. | FORMAL · announcement
+
+87
+Η συμμετοχή είναι δωρεάν.
+I simmetohi ine dorean.
+Taking part is free. | FORMAL · announcement
+
+88
+Μπορούν να έρθουν μικροί και μεγάλοι.
+Boroun na erthoun mikri ke megali.
+Young and old can come. | FORMAL · announcement
+
+89
+Στο τέλος των μαθημάτων θα κάνουμε μια έκθεση φωτογραφίας.
+Sto telos ton mathimaton tha kanoume mia ekthesi fotografias.
+At the end of the lessons we will hold a photography exhibition. | FORMAL · announcement
+
+90
+Για περισσότερες πληροφορίες, τηλεφωνήστε στο 22 123456.
+Yia perissoteres plirofories, tilefoniste sto 22 123456.
+For more information, call 22 123456. | FORMAL · announcement
+
+91
+Σας περιμένουμε!
+Sas perimenoume!
+We look forward to seeing you! (lit. we are waiting for you) | FORMAL · announcement
+
+92
+Η πόλη μου βρίσκεται στο νότιο μέρος της Κύπρου, κοντά στη θάλασσα.
+I poli mou vriskete sto notio meros tis Kiprou, konda sti thalassa.
+My city is in the south of Cyprus, near the sea. | FORMAL · your city
+
+93
+Τον χειμώνα ο καιρός είναι ήπιος και το καλοκαίρι κάνει πολλή ζέστη.
+Ton himona o keros ine ipios ke to kalokeri kani polli zesti.
+In winter the weather is mild and in summer it is very hot. | FORMAL · your city
+
+94
+Τα πιο γνωστά αξιοθέατα είναι το κάστρο και το μουσείο.
+Ta pio gnosta axiotheata ine to kastro ke to mousio.
+The best-known sights are the castle and the museum. | FORMAL · your city
+
+95
+Σας προσκαλούμε να έρθετε εκδρομή στην πόλη μας!
+Sas proskaloume na erthete ekdromi stin poli mas!
+We invite you to come on a trip to our city! | FORMAL · your city
+
+96
+Περιμένω την απάντησή σας.
+Perimeno tin apandisi sas.
+I look forward to your reply. | FORMAL · closing
+
+97
+Ευχαριστώ εκ των προτέρων.
+Efharisto ek ton proteron.
+Thank you in advance. | FORMAL · closing
+
+98
+Με εκτίμηση,
+Me ektimisi,
+Yours sincerely, — the most formal | FORMAL · closing
+
+99
+Με φιλικούς χαιρετισμούς,
+Me filikous heretismous,
+Kind regards, | FORMAL · closing
+
+100
+Με θερμούς χαιρετισμούς,
+Me thermous heretismous,
+Warm regards, | FORMAL · closing
