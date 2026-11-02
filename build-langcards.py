@@ -44,6 +44,9 @@ DICTS = [
     # more formal text, following the topics the past papers set
     ('writing', 'greek-a2-writing-100-phrases.txt',
                 u'A2 writing — 100 phrases for letters & announcements'),
+    # the aorist of 167 KLIK A2 verbs, every person: εγώ έγραψα ... αυτοί έγραψαν
+    ('aorist',  'greek-a2-aorist-verbs.txt',
+                u'A2 verbs — aorist (past), all persons'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()

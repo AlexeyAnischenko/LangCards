@@ -1,0 +1,5009 @@
+1
+εγώ είδα
+ego ida
+I saw | βλέπω · aorist
+
+2
+εσύ είδες
+esi ides
+you (one person) saw | βλέπω · aorist
+
+3
+αυτός είδε
+aftos ide
+he saw | βλέπω · aorist
+
+4
+εμείς είδαμε
+emis idame
+we saw | βλέπω · aorist
+
+5
+εσείς είδατε
+esis idate
+you (several / polite) saw | βλέπω · aorist
+
+6
+αυτοί είδαν
+afti idan
+they saw | βλέπω · aorist
+
+7
+εγώ είπα
+ego ipa
+I said | λέω · aorist
+
+8
+εσύ είπες
+esi ipes
+you (one person) said | λέω · aorist
+
+9
+αυτή είπε
+afti ipe
+she said | λέω · aorist
+
+10
+εμείς είπαμε
+emis ipame
+we said | λέω · aorist
+
+11
+εσείς είπατε
+esis ipate
+you (several / polite) said | λέω · aorist
+
+12
+αυτοί είπαν
+afti ipan
+they said | λέω · aorist
+
+13
+εγώ ήρθα
+ego irtha
+I came | έρχομαι · aorist
+
+14
+εσύ ήρθες
+esi irthes
+you (one person) came | έρχομαι · aorist
+
+15
+αυτός ήρθε
+aftos irthe
+he came | έρχομαι · aorist
+
+16
+εμείς ήρθαμε
+emis irthame
+we came | έρχομαι · aorist
+
+17
+εσείς ήρθατε
+esis irthate
+you (several / polite) came | έρχομαι · aorist
+
+18
+αυτοί ήρθαν
+afti irthan
+they came | έρχομαι · aorist
+
+19
+εγώ πήγα
+ego piga
+I went | πηγαίνω · aorist
+
+20
+εσύ πήγες
+esi piyes
+you (one person) went | πηγαίνω · aorist
+
+21
+αυτή πήγε
+afti piye
+she went | πηγαίνω · aorist
+
+22
+εμείς πήγαμε
+emis pigame
+we went | πηγαίνω · aorist
+
+23
+εσείς πήγατε
+esis pigate
+you (several / polite) went | πηγαίνω · aorist
+
+24
+αυτοί πήγαν
+afti pigan
+they went | πηγαίνω · aorist
+
+25
+εγώ έφαγα
+ego efaga
+I ate | τρώω · aorist
+
+26
+εσύ έφαγες
+esi efayes
+you (one person) ate | τρώω · aorist
+
+27
+αυτός έφαγε
+aftos efaye
+he ate | τρώω · aorist
+
+28
+εμείς φάγαμε
+emis fagame
+we ate | τρώω · aorist
+
+29
+εσείς φάγατε
+esis fagate
+you (several / polite) ate | τρώω · aorist
+
+30
+αυτοί έφαγαν
+afti efagan
+they ate | τρώω · aorist
+
+31
+εγώ ήπια
+ego ipia
+I drank | πίνω · aorist
+
+32
+εσύ ήπιες
+esi ipies
+you (one person) drank | πίνω · aorist
+
+33
+αυτή ήπιε
+afti ipie
+she drank | πίνω · aorist
+
+34
+εμείς ήπιαμε
+emis ipiame
+we drank | πίνω · aorist
+
+35
+εσείς ήπιατε
+esis ipiate
+you (several / polite) drank | πίνω · aorist
+
+36
+αυτοί ήπιαν
+afti ipian
+they drank | πίνω · aorist
+
+37
+εγώ πήρα
+ego pira
+I took | παίρνω · aorist
+
+38
+εσύ πήρες
+esi pires
+you (one person) took | παίρνω · aorist
+
+39
+αυτός πήρε
+aftos pire
+he took | παίρνω · aorist
+
+40
+εμείς πήραμε
+emis pirame
+we took | παίρνω · aorist
+
+41
+εσείς πήρατε
+esis pirate
+you (several / polite) took | παίρνω · aorist
+
+42
+αυτοί πήραν
+afti piran
+they took | παίρνω · aorist
+
+43
+εγώ βρήκα
+ego vrika
+I found | βρίσκω · aorist
+
+44
+εσύ βρήκες
+esi vrikes
+you (one person) found | βρίσκω · aorist
+
+45
+αυτή βρήκε
+afti vrike
+she found | βρίσκω · aorist
+
+46
+εμείς βρήκαμε
+emis vrikame
+we found | βρίσκω · aorist
+
+47
+εσείς βρήκατε
+esis vrikate
+you (several / polite) found | βρίσκω · aorist
+
+48
+αυτοί βρήκαν
+afti vrikan
+they found | βρίσκω · aorist
+
+49
+εγώ μπήκα
+ego bika
+I went in | μπαίνω · aorist
+
+50
+εσύ μπήκες
+esi bikes
+you (one person) went in | μπαίνω · aorist
+
+51
+αυτός μπήκε
+aftos bike
+he went in | μπαίνω · aorist
+
+52
+εμείς μπήκαμε
+emis bikame
+we went in | μπαίνω · aorist
+
+53
+εσείς μπήκατε
+esis bikate
+you (several / polite) went in | μπαίνω · aorist
+
+54
+αυτοί μπήκαν
+afti bikan
+they went in | μπαίνω · aorist
+
+55
+εγώ βγήκα
+ego vyika
+I went out | βγαίνω · aorist
+
+56
+εσύ βγήκες
+esi vyikes
+you (one person) went out | βγαίνω · aorist
+
+57
+αυτή βγήκε
+afti vyike
+she went out | βγαίνω · aorist
+
+58
+εμείς βγήκαμε
+emis vyikame
+we went out | βγαίνω · aorist
+
+59
+εσείς βγήκατε
+esis vyikate
+you (several / polite) went out | βγαίνω · aorist
+
+60
+αυτοί βγήκαν
+afti vyikan
+they went out | βγαίνω · aorist
+
+61
+εγώ ανέβηκα
+ego anevika
+I went up | ανεβαίνω · aorist
+
+62
+εσύ ανέβηκες
+esi anevikes
+you (one person) went up | ανεβαίνω · aorist
+
+63
+αυτός ανέβηκε
+aftos anevike
+he went up | ανεβαίνω · aorist
+
+64
+εμείς ανεβήκαμε
+emis anevikame
+we went up | ανεβαίνω · aorist
+
+65
+εσείς ανεβήκατε
+esis anevikate
+you (several / polite) went up | ανεβαίνω · aorist
+
+66
+αυτοί ανέβηκαν
+afti anevikan
+they went up | ανεβαίνω · aorist
+
+67
+εγώ κατέβηκα
+ego katevika
+I went down | κατεβαίνω · aorist
+
+68
+εσύ κατέβηκες
+esi katevikes
+you (one person) went down | κατεβαίνω · aorist
+
+69
+αυτή κατέβηκε
+afti katevike
+she went down | κατεβαίνω · aorist
+
+70
+εμείς κατεβήκαμε
+emis katevikame
+we went down | κατεβαίνω · aorist
+
+71
+εσείς κατεβήκατε
+esis katevikate
+you (several / polite) went down | κατεβαίνω · aorist
+
+72
+αυτοί κατέβηκαν
+afti katevikan
+they went down | κατεβαίνω · aorist
+
+73
+εγώ έδωσα
+ego edosa
+I gave | δίνω · aorist
+
+74
+εσύ έδωσες
+esi edoses
+you (one person) gave | δίνω · aorist
+
+75
+αυτός έδωσε
+aftos edose
+he gave | δίνω · aorist
+
+76
+εμείς δώσαμε
+emis dosame
+we gave | δίνω · aorist
+
+77
+εσείς δώσατε
+esis dosate
+you (several / polite) gave | δίνω · aorist
+
+78
+αυτοί έδωσαν
+afti edosan
+they gave | δίνω · aorist
+
+79
+εγώ έβαλα
+ego evala
+I put | βάζω · aorist
+
+80
+εσύ έβαλες
+esi evales
+you (one person) put | βάζω · aorist
+
+81
+αυτή έβαλε
+afti evale
+she put | βάζω · aorist
+
+82
+εμείς βάλαμε
+emis valame
+we put | βάζω · aorist
+
+83
+εσείς βάλατε
+esis valate
+you (several / polite) put | βάζω · aorist
+
+84
+αυτοί έβαλαν
+afti evalan
+they put | βάζω · aorist
+
+85
+εγώ έβγαλα
+ego evgala
+I took off | βγάζω · aorist
+
+86
+εσύ έβγαλες
+esi evgales
+you (one person) took off | βγάζω · aorist
+
+87
+αυτός έβγαλε
+aftos evgale
+he took off | βγάζω · aorist
+
+88
+εμείς βγάλαμε
+emis vgalame
+we took off | βγάζω · aorist
+
+89
+εσείς βγάλατε
+esis vgalate
+you (several / polite) took off | βγάζω · aorist
+
+90
+αυτοί έβγαλαν
+afti evgalan
+they took off | βγάζω · aorist
+
+91
+εγώ έμαθα
+ego ematha
+I learned | μαθαίνω · aorist
+
+92
+εσύ έμαθες
+esi emathes
+you (one person) learned | μαθαίνω · aorist
+
+93
+αυτή έμαθε
+afti emathe
+she learned | μαθαίνω · aorist
+
+94
+εμείς μάθαμε
+emis mathame
+we learned | μαθαίνω · aorist
+
+95
+εσείς μάθατε
+esis mathate
+you (several / polite) learned | μαθαίνω · aorist
+
+96
+αυτοί έμαθαν
+afti emathan
+they learned | μαθαίνω · aorist
+
+97
+εγώ κατάλαβα
+ego katalava
+I understood | καταλαβαίνω · aorist
+
+98
+εσύ κατάλαβες
+esi katalaves
+you (one person) understood | καταλαβαίνω · aorist
+
+99
+αυτός κατάλαβε
+aftos katalave
+he understood | καταλαβαίνω · aorist
+
+100
+εμείς καταλάβαμε
+emis katalavame
+we understood | καταλαβαίνω · aorist
+
+101
+εσείς καταλάβατε
+esis katalavate
+you (several / polite) understood | καταλαβαίνω · aorist
+
+102
+αυτοί κατάλαβαν
+afti katalavan
+they understood | καταλαβαίνω · aorist
+
+103
+εγώ πρόλαβα
+ego prolava
+I made it in time | προλαβαίνω · aorist
+
+104
+εσύ πρόλαβες
+esi prolaves
+you (one person) made it in time | προλαβαίνω · aorist
+
+105
+αυτή πρόλαβε
+afti prolave
+she made it in time | προλαβαίνω · aorist
+
+106
+εμείς προλάβαμε
+emis prolavame
+we made it in time | προλαβαίνω · aorist
+
+107
+εσείς προλάβατε
+esis prolavate
+you (several / polite) made it in time | προλαβαίνω · aorist
+
+108
+αυτοί πρόλαβαν
+afti prolavan
+they made it in time | προλαβαίνω · aorist
+
+109
+εγώ έπαθα
+ego epatha
+I suffered | παθαίνω · aorist
+
+110
+εσύ έπαθες
+esi epathes
+you (one person) suffered | παθαίνω · aorist
+
+111
+αυτός έπαθε
+aftos epathe
+he suffered | παθαίνω · aorist
+
+112
+εμείς πάθαμε
+emis pathame
+we suffered | παθαίνω · aorist
+
+113
+εσείς πάθατε
+esis pathate
+you (several / polite) suffered | παθαίνω · aorist
+
+114
+αυτοί έπαθαν
+afti epathan
+they suffered | παθαίνω · aorist
+
+115
+εγώ πέθανα
+ego pethana
+I died | πεθαίνω · aorist
+
+116
+εσύ πέθανες
+esi pethanes
+you (one person) died | πεθαίνω · aorist
+
+117
+αυτή πέθανε
+afti pethane
+she died | πεθαίνω · aorist
+
+118
+εμείς πεθάναμε
+emis pethaname
+we died | πεθαίνω · aorist
+
+119
+εσείς πεθάνατε
+esis pethanate
+you (several / polite) died | πεθαίνω · aorist
+
+120
+αυτοί πέθαναν
+afti pethanan
+they died | πεθαίνω · aorist
+
+121
+εγώ έμεινα
+ego emina
+I stayed | μένω · aorist
+
+122
+εσύ έμεινες
+esi emines
+you (one person) stayed | μένω · aorist
+
+123
+αυτός έμεινε
+aftos emine
+he stayed | μένω · aorist
+
+124
+εμείς μείναμε
+emis miname
+we stayed | μένω · aorist
+
+125
+εσείς μείνατε
+esis minate
+you (several / polite) stayed | μένω · aorist
+
+126
+αυτοί έμειναν
+afti eminan
+they stayed | μένω · aorist
+
+127
+εγώ έφυγα
+ego efiga
+I left | φεύγω · aorist
+
+128
+εσύ έφυγες
+esi efiyes
+you (one person) left | φεύγω · aorist
+
+129
+αυτή έφυγε
+afti efiye
+she left | φεύγω · aorist
+
+130
+εμείς φύγαμε
+emis figame
+we left | φεύγω · aorist
+
+131
+εσείς φύγατε
+esis figate
+you (several / polite) left | φεύγω · aorist
+
+132
+αυτοί έφυγαν
+afti efigan
+they left | φεύγω · aorist
+
+133
+εγώ έφερα
+ego efera
+I brought | φέρνω · aorist
+
+134
+εσύ έφερες
+esi eferes
+you (one person) brought | φέρνω · aorist
+
+135
+αυτός έφερε
+aftos efere
+he brought | φέρνω · aorist
+
+136
+εμείς φέραμε
+emis ferame
+we brought | φέρνω · aorist
+
+137
+εσείς φέρατε
+esis ferate
+you (several / polite) brought | φέρνω · aorist
+
+138
+αυτοί έφεραν
+afti eferan
+they brought | φέρνω · aorist
+
+139
+εγώ κατάφερα
+ego katafera
+I managed | καταφέρνω · aorist
+
+140
+εσύ κατάφερες
+esi kataferes
+you (one person) managed | καταφέρνω · aorist
+
+141
+αυτή κατάφερε
+afti katafere
+she managed | καταφέρνω · aorist
+
+142
+εμείς καταφέραμε
+emis kataferame
+we managed | καταφέρνω · aorist
+
+143
+εσείς καταφέρατε
+esis kataferate
+you (several / polite) managed | καταφέρνω · aorist
+
+144
+αυτοί κατάφεραν
+afti kataferan
+they managed | καταφέρνω · aorist
+
+145
+εγώ έστειλα
+ego estila
+I sent | στέλνω · aorist
+
+146
+εσύ έστειλες
+esi estiles
+you (one person) sent | στέλνω · aorist
+
+147
+αυτός έστειλε
+aftos estile
+he sent | στέλνω · aorist
+
+148
+εμείς στείλαμε
+emis stilame
+we sent | στέλνω · aorist
+
+149
+εσείς στείλατε
+esis stilate
+you (several / polite) sent | στέλνω · aorist
+
+150
+αυτοί έστειλαν
+afti estilan
+they sent | στέλνω · aorist
+
+151
+εγώ παρήγγειλα
+ego paringila
+I ordered | παραγγέλνω · aorist
+
+152
+εσύ παρήγγειλες
+esi paringiles
+you (one person) ordered | παραγγέλνω · aorist
+
+153
+αυτή παρήγγειλε
+afti paringile
+she ordered | παραγγέλνω · aorist
+
+154
+εμείς παραγγείλαμε
+emis parangilame
+we ordered | παραγγέλνω · aorist
+
+155
+εσείς παραγγείλατε
+esis parangilate
+you (several / polite) ordered | παραγγέλνω · aorist
+
+156
+αυτοί παρήγγειλαν
+afti paringilan
+they ordered | παραγγέλνω · aorist
+
+157
+εγώ έπλυνα
+ego eplina
+I washed | πλένω · aorist
+
+158
+εσύ έπλυνες
+esi eplines
+you (one person) washed | πλένω · aorist
+
+159
+αυτός έπλυνε
+aftos epline
+he washed | πλένω · aorist
+
+160
+εμείς πλύναμε
+emis pliname
+we washed | πλένω · aorist
+
+161
+εσείς πλύνατε
+esis plinate
+you (several / polite) washed | πλένω · aorist
+
+162
+αυτοί έπλυναν
+afti eplinan
+they washed | πλένω · aorist
+
+163
+εγώ έπεσα
+ego epesa
+I fell | πέφτω · aorist
+
+164
+εσύ έπεσες
+esi epeses
+you (one person) fell | πέφτω · aorist
+
+165
+αυτή έπεσε
+afti epese
+she fell | πέφτω · aorist
+
+166
+εμείς πέσαμε
+emis pesame
+we fell | πέφτω · aorist
+
+167
+εσείς πέσατε
+esis pesate
+you (several / polite) fell | πέφτω · aorist
+
+168
+αυτοί έπεσαν
+afti epesan
+they fell | πέφτω · aorist
+
+169
+εγώ έκαψα
+ego ekapsa
+I burned | καίω · aorist
+
+170
+εσύ έκαψες
+esi ekapses
+you (one person) burned | καίω · aorist
+
+171
+αυτός έκαψε
+aftos ekapse
+he burned | καίω · aorist
+
+172
+εμείς κάψαμε
+emis kapsame
+we burned | καίω · aorist
+
+173
+εσείς κάψατε
+esis kapsate
+you (several / polite) burned | καίω · aorist
+
+174
+αυτοί έκαψαν
+afti ekapsan
+they burned | καίω · aorist
+
+175
+εγώ περίμενα
+ego perimena
+I waited | περιμένω · aorist
+
+176
+εσύ περίμενες
+esi perimenes
+you (one person) waited | περιμένω · aorist
+
+177
+αυτή περίμενε
+afti perimene
+she waited | περιμένω · aorist
+
+178
+εμείς περιμέναμε
+emis perimename
+we waited | περιμένω · aorist
+
+179
+εσείς περιμένατε
+esis perimenate
+you (several / polite) waited | περιμένω · aorist
+
+180
+αυτοί περίμεναν
+afti perimenan
+they waited | περιμένω · aorist
+
+181
+εγώ έκανα
+ego ekana
+I did | κάνω · aorist
+
+182
+εσύ έκανες
+esi ekanes
+you (one person) did | κάνω · aorist
+
+183
+αυτός έκανε
+aftos ekane
+he did | κάνω · aorist
+
+184
+εμείς κάναμε
+emis kaname
+we did | κάνω · aorist
+
+185
+εσείς κάνατε
+esis kanate
+you (several / polite) did | κάνω · aorist
+
+186
+αυτοί έκαναν
+afti ekanan
+they did | κάνω · aorist
+
+187
+εγώ μπόρεσα
+ego boresa
+I was able to | μπορώ · aorist
+
+188
+εσύ μπόρεσες
+esi boreses
+you (one person) was able to | μπορώ · aorist
+
+189
+αυτή μπόρεσε
+afti borese
+she was able to | μπορώ · aorist
+
+190
+εμείς μπορέσαμε
+emis boresame
+we was able to | μπορώ · aorist
+
+191
+εσείς μπορέσατε
+esis boresate
+you (several / polite) was able to | μπορώ · aorist
+
+192
+αυτοί μπόρεσαν
+afti boresan
+they was able to | μπορώ · aorist
+
+193
+εγώ κάλεσα
+ego kalesa
+I invited | καλώ · aorist
+
+194
+εσύ κάλεσες
+esi kaleses
+you (one person) invited | καλώ · aorist
+
+195
+αυτός κάλεσε
+aftos kalese
+he invited | καλώ · aorist
+
+196
+εμείς καλέσαμε
+emis kalesame
+we invited | καλώ · aorist
+
+197
+εσείς καλέσατε
+esis kalesate
+you (several / polite) invited | καλώ · aorist
+
+198
+αυτοί κάλεσαν
+afti kalesan
+they invited | καλώ · aorist
+
+199
+εγώ επανέλαβα
+ego epanelava
+I repeated | επαναλαμβάνω · aorist
+
+200
+εσύ επανέλαβες
+esi epanelaves
+you (one person) repeated | επαναλαμβάνω · aorist
+
+201
+αυτή επανέλαβε
+afti epanelave
+she repeated | επαναλαμβάνω · aorist
+
+202
+εμείς επαναλάβαμε
+emis epanalavame
+we repeated | επαναλαμβάνω · aorist
+
+203
+εσείς επαναλάβατε
+esis epanalavate
+you (several / polite) repeated | επαναλαμβάνω · aorist
+
+204
+αυτοί επανέλαβαν
+afti epanelavan
+they repeated | επαναλαμβάνω · aorist
+
+205
+εγώ πρότεινα
+ego protina
+I suggested | προτείνω · aorist
+
+206
+εσύ πρότεινες
+esi protines
+you (one person) suggested | προτείνω · aorist
+
+207
+αυτός πρότεινε
+aftos protine
+he suggested | προτείνω · aorist
+
+208
+εμείς προτείναμε
+emis protiname
+we suggested | προτείνω · aorist
+
+209
+εσείς προτείνατε
+esis protinate
+you (several / polite) suggested | προτείνω · aorist
+
+210
+αυτοί πρότειναν
+afti protinan
+they suggested | προτείνω · aorist
+
+211
+εγώ σύγκρινα
+ego singrina
+I compared | συγκρίνω · aorist
+
+212
+εσύ σύγκρινες
+esi singrines
+you (one person) compared | συγκρίνω · aorist
+
+213
+αυτή σύγκρινε
+afti singrine
+she compared | συγκρίνω · aorist
+
+214
+εμείς συγκρίναμε
+emis singriname
+we compared | συγκρίνω · aorist
+
+215
+εσείς συγκρίνατε
+esis singrinate
+you (several / polite) compared | συγκρίνω · aorist
+
+216
+αυτοί σύγκριναν
+afti singrinan
+they compared | συγκρίνω · aorist
+
+217
+εγώ σέρβιρα
+ego servira
+I served | σερβίρω · aorist
+
+218
+εσύ σέρβιρες
+esi servires
+you (one person) served | σερβίρω · aorist
+
+219
+αυτός σέρβιρε
+aftos servire
+he served | σερβίρω · aorist
+
+220
+εμείς σερβίραμε
+emis servirame
+we served | σερβίρω · aorist
+
+221
+εσείς σερβίρατε
+esis servirate
+you (several / polite) served | σερβίρω · aorist
+
+222
+αυτοί σέρβιραν
+afti serviran
+they served | σερβίρω · aorist
+
+223
+εγώ έγραψα
+ego egrapsa
+I wrote | γράφω · aorist
+
+224
+εσύ έγραψες
+esi egrapses
+you (one person) wrote | γράφω · aorist
+
+225
+αυτή έγραψε
+afti egrapse
+she wrote | γράφω · aorist
+
+226
+εμείς γράψαμε
+emis grapsame
+we wrote | γράφω · aorist
+
+227
+εσείς γράψατε
+esis grapsate
+you (several / polite) wrote | γράφω · aorist
+
+228
+αυτοί έγραψαν
+afti egrapsan
+they wrote | γράφω · aorist
+
+229
+εγώ περιέγραψα
+ego periegrapsa
+I described | περιγράφω · aorist
+
+230
+εσύ περιέγραψες
+esi periegrapses
+you (one person) described | περιγράφω · aorist
+
+231
+αυτός περιέγραψε
+aftos periegrapse
+he described | περιγράφω · aorist
+
+232
+εμείς περιγράψαμε
+emis perigrapsame
+we described | περιγράφω · aorist
+
+233
+εσείς περιγράψατε
+esis perigrapsate
+you (several / polite) described | περιγράφω · aorist
+
+234
+αυτοί περιέγραψαν
+afti periegrapsan
+they described | περιγράφω · aorist
+
+235
+εγώ επέστρεψα
+ego epestrepsa
+I returned | επιστρέφω · aorist
+
+236
+εσύ επέστρεψες
+esi epestrepses
+you (one person) returned | επιστρέφω · aorist
+
+237
+αυτή επέστρεψε
+afti epestrepse
+she returned | επιστρέφω · aorist
+
+238
+εμείς επιστρέψαμε
+emis epistrepsame
+we returned | επιστρέφω · aorist
+
+239
+εσείς επιστρέψατε
+esis epistrepsate
+you (several / polite) returned | επιστρέφω · aorist
+
+240
+αυτοί επέστρεψαν
+afti epestrepsan
+they returned | επιστρέφω · aorist
+
+241
+εγώ έβαψα
+ego evapsa
+I painted | βάφω · aorist
+
+242
+εσύ έβαψες
+esi evapses
+you (one person) painted | βάφω · aorist
+
+243
+αυτός έβαψε
+aftos evapse
+he painted | βάφω · aorist
+
+244
+εμείς βάψαμε
+emis vapsame
+we painted | βάφω · aorist
+
+245
+εσείς βάψατε
+esis vapsate
+you (several / polite) painted | βάφω · aorist
+
+246
+αυτοί έβαψαν
+afti evapsan
+they painted | βάφω · aorist
+
+247
+εγώ έκοψα
+ego ekopsa
+I cut | κόβω · aorist
+
+248
+εσύ έκοψες
+esi ekopses
+you (one person) cut | κόβω · aorist
+
+249
+αυτή έκοψε
+afti ekopse
+she cut | κόβω · aorist
+
+250
+εμείς κόψαμε
+emis kopsame
+we cut | κόβω · aorist
+
+251
+εσείς κόψατε
+esis kopsate
+you (several / polite) cut | κόβω · aorist
+
+252
+αυτοί έκοψαν
+afti ekopsan
+they cut | κόβω · aorist
+
+253
+εγώ έκρυψα
+ego ekripsa
+I hid | κρύβω · aorist
+
+254
+εσύ έκρυψες
+esi ekripses
+you (one person) hid | κρύβω · aorist
+
+255
+αυτός έκρυψε
+aftos ekripse
+he hid | κρύβω · aorist
+
+256
+εμείς κρύψαμε
+emis kripsame
+we hid | κρύβω · aorist
+
+257
+εσείς κρύψατε
+esis kripsate
+you (several / polite) hid | κρύβω · aorist
+
+258
+αυτοί έκρυψαν
+afti ekripsan
+they hid | κρύβω · aorist
+
+259
+εγώ έλειψα
+ego elipsa
+I was away | λείπω · aorist
+
+260
+εσύ έλειψες
+esi elipses
+you (one person) was away | λείπω · aorist
+
+261
+αυτή έλειψε
+afti elipse
+she was away | λείπω · aorist
+
+262
+εμείς λείψαμε
+emis lipsame
+we was away | λείπω · aorist
+
+263
+εσείς λείψατε
+esis lipsate
+you (several / polite) was away | λείπω · aorist
+
+264
+αυτοί έλειψαν
+afti elipsan
+they was away | λείπω · aorist
+
+265
+εγώ δούλεψα
+ego doulepsa
+I worked | δουλεύω · aorist
+
+266
+εσύ δούλεψες
+esi doulepses
+you (one person) worked | δουλεύω · aorist
+
+267
+αυτός δούλεψε
+aftos doulepse
+he worked | δουλεύω · aorist
+
+268
+εμείς δουλέψαμε
+emis doulepsame
+we worked | δουλεύω · aorist
+
+269
+εσείς δουλέψατε
+esis doulepsate
+you (several / polite) worked | δουλεύω · aorist
+
+270
+αυτοί δούλεψαν
+afti doulepsan
+they worked | δουλεύω · aorist
+
+271
+εγώ μαγείρεψα
+ego mayirepsa
+I cooked | μαγειρεύω · aorist
+
+272
+εσύ μαγείρεψες
+esi mayirepses
+you (one person) cooked | μαγειρεύω · aorist
+
+273
+αυτή μαγείρεψε
+afti mayirepse
+she cooked | μαγειρεύω · aorist
+
+274
+εμείς μαγειρέψαμε
+emis mayirepsame
+we cooked | μαγειρεύω · aorist
+
+275
+εσείς μαγειρέψατε
+esis mayirepsate
+you (several / polite) cooked | μαγειρεύω · aorist
+
+276
+αυτοί μαγείρεψαν
+afti mayirepsan
+they cooked | μαγειρεύω · aorist
+
+277
+εγώ ταξίδεψα
+ego taxidepsa
+I travelled | ταξιδεύω · aorist
+
+278
+εσύ ταξίδεψες
+esi taxidepses
+you (one person) travelled | ταξιδεύω · aorist
+
+279
+αυτός ταξίδεψε
+aftos taxidepse
+he travelled | ταξιδεύω · aorist
+
+280
+εμείς ταξιδέψαμε
+emis taxidepsame
+we travelled | ταξιδεύω · aorist
+
+281
+εσείς ταξιδέψατε
+esis taxidepsate
+you (several / polite) travelled | ταξιδεύω · aorist
+
+282
+αυτοί ταξίδεψαν
+afti taxidepsan
+they travelled | ταξιδεύω · aorist
+
+283
+εγώ χόρεψα
+ego horepsa
+I danced | χορεύω · aorist
+
+284
+εσύ χόρεψες
+esi horepses
+you (one person) danced | χορεύω · aorist
+
+285
+αυτή χόρεψε
+afti horepse
+she danced | χορεύω · aorist
+
+286
+εμείς χορέψαμε
+emis horepsame
+we danced | χορεύω · aorist
+
+287
+εσείς χορέψατε
+esis horepsate
+you (several / polite) danced | χορεύω · aorist
+
+288
+αυτοί χόρεψαν
+afti horepsan
+they danced | χορεύω · aorist
+
+289
+εγώ πίστεψα
+ego pistepsa
+I believed | πιστεύω · aorist
+
+290
+εσύ πίστεψες
+esi pistepses
+you (one person) believed | πιστεύω · aorist
+
+291
+αυτός πίστεψε
+aftos pistepse
+he believed | πιστεύω · aorist
+
+292
+εμείς πιστέψαμε
+emis pistepsame
+we believed | πιστεύω · aorist
+
+293
+εσείς πιστέψατε
+esis pistepsate
+you (several / polite) believed | πιστεύω · aorist
+
+294
+αυτοί πίστεψαν
+afti pistepsan
+they believed | πιστεύω · aorist
+
+295
+εγώ μάζεψα
+ego mazepsa
+I collected | μαζεύω · aorist
+
+296
+εσύ μάζεψες
+esi mazepses
+you (one person) collected | μαζεύω · aorist
+
+297
+αυτή μάζεψε
+afti mazepse
+she collected | μαζεύω · aorist
+
+298
+εμείς μαζέψαμε
+emis mazepsame
+we collected | μαζεύω · aorist
+
+299
+εσείς μαζέψατε
+esis mazepsate
+you (several / polite) collected | μαζεύω · aorist
+
+300
+αυτοί μάζεψαν
+afti mazepsan
+they collected | μαζεύω · aorist
+
+301
+εγώ ξόδεψα
+ego xodepsa
+I spent | ξοδεύω · aorist
+
+302
+εσύ ξόδεψες
+esi xodepses
+you (one person) spent | ξοδεύω · aorist
+
+303
+αυτός ξόδεψε
+aftos xodepse
+he spent | ξοδεύω · aorist
+
+304
+εμείς ξοδέψαμε
+emis xodepsame
+we spent | ξοδεύω · aorist
+
+305
+εσείς ξοδέψατε
+esis xodepsate
+you (several / polite) spent | ξοδεύω · aorist
+
+306
+αυτοί ξόδεψαν
+afti xodepsan
+they spent | ξοδεύω · aorist
+
+307
+εγώ άνοιξα
+ego anixa
+I opened | ανοίγω · aorist
+
+308
+εσύ άνοιξες
+esi anixes
+you (one person) opened | ανοίγω · aorist
+
+309
+αυτή άνοιξε
+afti anixe
+she opened | ανοίγω · aorist
+
+310
+εμείς ανοίξαμε
+emis anixame
+we opened | ανοίγω · aorist
+
+311
+εσείς ανοίξατε
+esis anixate
+you (several / polite) opened | ανοίγω · aorist
+
+312
+αυτοί άνοιξαν
+afti anixan
+they opened | ανοίγω · aorist
+
+313
+εγώ διάλεξα
+ego dialexa
+I chose | διαλέγω · aorist
+
+314
+εσύ διάλεξες
+esi dialexes
+you (one person) chose | διαλέγω · aorist
+
+315
+αυτός διάλεξε
+aftos dialexe
+he chose | διαλέγω · aorist
+
+316
+εμείς διαλέξαμε
+emis dialexame
+we chose | διαλέγω · aorist
+
+317
+εσείς διαλέξατε
+esis dialexate
+you (several / polite) chose | διαλέγω · aorist
+
+318
+αυτοί διάλεξαν
+afti dialexan
+they chose | διαλέγω · aorist
+
+319
+εγώ επέλεξα
+ego epelexa
+I selected | επιλέγω · aorist
+
+320
+εσύ επέλεξες
+esi epelexes
+you (one person) selected | επιλέγω · aorist
+
+321
+αυτή επέλεξε
+afti epelexe
+she selected | επιλέγω · aorist
+
+322
+εμείς επιλέξαμε
+emis epilexame
+we selected | επιλέγω · aorist
+
+323
+εσείς επιλέξατε
+esis epilexate
+you (several / polite) selected | επιλέγω · aorist
+
+324
+αυτοί επέλεξαν
+afti epelexan
+they selected | επιλέγω · aorist
+
+325
+εγώ έτρεξα
+ego etrexa
+I ran | τρέχω · aorist
+
+326
+εσύ έτρεξες
+esi etrexes
+you (one person) ran | τρέχω · aorist
+
+327
+αυτός έτρεξε
+aftos etrexe
+he ran | τρέχω · aorist
+
+328
+εμείς τρέξαμε
+emis trexame
+we ran | τρέχω · aorist
+
+329
+εσείς τρέξατε
+esis trexate
+you (several / polite) ran | τρέχω · aorist
+
+330
+αυτοί έτρεξαν
+afti etrexan
+they ran | τρέχω · aorist
+
+331
+εγώ πρόσεξα
+ego prosexa
+I paid attention | προσέχω · aorist
+
+332
+εσύ πρόσεξες
+esi prosexes
+you (one person) paid attention | προσέχω · aorist
+
+333
+αυτή πρόσεξε
+afti prosexe
+she paid attention | προσέχω · aorist
+
+334
+εμείς προσέξαμε
+emis prosexame
+we paid attention | προσέχω · aorist
+
+335
+εσείς προσέξατε
+esis prosexate
+you (several / polite) paid attention | προσέχω · aorist
+
+336
+αυτοί πρόσεξαν
+afti prosexan
+they paid attention | προσέχω · aorist
+
+337
+εγώ έδειξα
+ego edixa
+I showed | δείχνω · aorist
+
+338
+εσύ έδειξες
+esi edixes
+you (one person) showed | δείχνω · aorist
+
+339
+αυτός έδειξε
+aftos edixe
+he showed | δείχνω · aorist
+
+340
+εμείς δείξαμε
+emis dixame
+we showed | δείχνω · aorist
+
+341
+εσείς δείξατε
+esis dixate
+you (several / polite) showed | δείχνω · aorist
+
+342
+αυτοί έδειξαν
+afti edixan
+they showed | δείχνω · aorist
+
+343
+εγώ έψαξα
+ego epsaxa
+I looked for | ψάχνω · aorist
+
+344
+εσύ έψαξες
+esi epsaxes
+you (one person) looked for | ψάχνω · aorist
+
+345
+αυτή έψαξε
+afti epsaxe
+she looked for | ψάχνω · aorist
+
+346
+εμείς ψάξαμε
+emis psaxame
+we looked for | ψάχνω · aorist
+
+347
+εσείς ψάξατε
+esis psaxate
+you (several / polite) looked for | ψάχνω · aorist
+
+348
+αυτοί έψαξαν
+afti epsaxan
+they looked for | ψάχνω · aorist
+
+349
+εγώ έφτιαξα
+ego eftiaxa
+I made | φτιάχνω · aorist
+
+350
+εσύ έφτιαξες
+esi eftiaxes
+you (one person) made | φτιάχνω · aorist
+
+351
+αυτός έφτιαξε
+aftos eftiaxe
+he made | φτιάχνω · aorist
+
+352
+εμείς φτιάξαμε
+emis ftiaxame
+we made | φτιάχνω · aorist
+
+353
+εσείς φτιάξατε
+esis ftiaxate
+you (several / polite) made | φτιάχνω · aorist
+
+354
+αυτοί έφτιαξαν
+afti eftiaxan
+they made | φτιάχνω · aorist
+
+355
+εγώ έριξα
+ego erixa
+I threw | ρίχνω · aorist
+
+356
+εσύ έριξες
+esi erixes
+you (one person) threw | ρίχνω · aorist
+
+357
+αυτή έριξε
+afti erixe
+she threw | ρίχνω · aorist
+
+358
+εμείς ρίξαμε
+emis rixame
+we threw | ρίχνω · aorist
+
+359
+εσείς ρίξατε
+esis rixate
+you (several / polite) threw | ρίχνω · aorist
+
+360
+αυτοί έριξαν
+afti erixan
+they threw | ρίχνω · aorist
+
+361
+εγώ έπαιξα
+ego epexa
+I played | παίζω · aorist
+
+362
+εσύ έπαιξες
+esi epexes
+you (one person) played | παίζω · aorist
+
+363
+αυτός έπαιξε
+aftos epexe
+he played | παίζω · aorist
+
+364
+εμείς παίξαμε
+emis pexame
+we played | παίζω · aorist
+
+365
+εσείς παίξατε
+esis pexate
+you (several / polite) played | παίζω · aorist
+
+366
+αυτοί έπαιξαν
+afti epexan
+they played | παίζω · aorist
+
+367
+εγώ άλλαξα
+ego allaxa
+I changed | αλλάζω · aorist
+
+368
+εσύ άλλαξες
+esi allaxes
+you (one person) changed | αλλάζω · aorist
+
+369
+αυτή άλλαξε
+afti allaxe
+she changed | αλλάζω · aorist
+
+370
+εμείς αλλάξαμε
+emis allaxame
+we changed | αλλάζω · aorist
+
+371
+εσείς αλλάξατε
+esis allaxate
+you (several / polite) changed | αλλάζω · aorist
+
+372
+αυτοί άλλαξαν
+afti allaxan
+they changed | αλλάζω · aorist
+
+373
+εγώ κοίταξα
+ego kitaxa
+I looked at | κοιτάζω · aorist
+
+374
+εσύ κοίταξες
+esi kitaxes
+you (one person) looked at | κοιτάζω · aorist
+
+375
+αυτός κοίταξε
+aftos kitaxe
+he looked at | κοιτάζω · aorist
+
+376
+εμείς κοιτάξαμε
+emis kitaxame
+we looked at | κοιτάζω · aorist
+
+377
+εσείς κοιτάξατε
+esis kitaxate
+you (several / polite) looked at | κοιτάζω · aorist
+
+378
+αυτοί κοίταξαν
+afti kitaxan
+they looked at | κοιτάζω · aorist
+
+379
+εγώ πέταξα
+ego petaxa
+I threw away | πετάω · aorist
+
+380
+εσύ πέταξες
+esi petaxes
+you (one person) threw away | πετάω · aorist
+
+381
+αυτή πέταξε
+afti petaxe
+she threw away | πετάω · aorist
+
+382
+εμείς πετάξαμε
+emis petaxame
+we threw away | πετάω · aorist
+
+383
+εσείς πετάξατε
+esis petaxate
+you (several / polite) threw away | πετάω · aorist
+
+384
+αυτοί πέταξαν
+afti petaxan
+they threw away | πετάω · aorist
+
+385
+εγώ αγόρασα
+ego agorasa
+I bought | αγοράζω · aorist
+
+386
+εσύ αγόρασες
+esi agorases
+you (one person) bought | αγοράζω · aorist
+
+387
+αυτός αγόρασε
+aftos agorase
+he bought | αγοράζω · aorist
+
+388
+εμείς αγοράσαμε
+emis agorasame
+we bought | αγοράζω · aorist
+
+389
+εσείς αγοράσατε
+esis agorasate
+you (several / polite) bought | αγοράζω · aorist
+
+390
+αυτοί αγόρασαν
+afti agorasan
+they bought | αγοράζω · aorist
+
+391
+εγώ διάβασα
+ego diavasa
+I read | διαβάζω · aorist
+
+392
+εσύ διάβασες
+esi diavases
+you (one person) read | διαβάζω · aorist
+
+393
+αυτή διάβασε
+afti diavase
+she read | διαβάζω · aorist
+
+394
+εμείς διαβάσαμε
+emis diavasame
+we read | διαβάζω · aorist
+
+395
+εσείς διαβάσατε
+esis diavasate
+you (several / polite) read | διαβάζω · aorist
+
+396
+αυτοί διάβασαν
+afti diavasan
+they read | διαβάζω · aorist
+
+397
+εγώ ετοίμασα
+ego etimasa
+I prepared | ετοιμάζω · aorist
+
+398
+εσύ ετοίμασες
+esi etimases
+you (one person) prepared | ετοιμάζω · aorist
+
+399
+αυτός ετοίμασε
+aftos etimase
+he prepared | ετοιμάζω · aorist
+
+400
+εμείς ετοιμάσαμε
+emis etimasame
+we prepared | ετοιμάζω · aorist
+
+401
+εσείς ετοιμάσατε
+esis etimasate
+you (several / polite) prepared | ετοιμάζω · aorist
+
+402
+αυτοί ετοίμασαν
+afti etimasan
+they prepared | ετοιμάζω · aorist
+
+403
+εγώ προετοίμασα
+ego proetimasa
+I prepared in advance | προετοιμάζω · aorist
+
+404
+εσύ προετοίμασες
+esi proetimases
+you (one person) prepared in advance | προετοιμάζω · aorist
+
+405
+αυτή προετοίμασε
+afti proetimase
+she prepared in advance | προετοιμάζω · aorist
+
+406
+εμείς προετοιμάσαμε
+emis proetimasame
+we prepared in advance | προετοιμάζω · aorist
+
+407
+εσείς προετοιμάσατε
+esis proetimasate
+you (several / polite) prepared in advance | προετοιμάζω · aorist
+
+408
+αυτοί προετοίμασαν
+afti proetimasan
+they prepared in advance | προετοιμάζω · aorist
+
+409
+εγώ δοκίμασα
+ego dokimasa
+I tried | δοκιμάζω · aorist
+
+410
+εσύ δοκίμασες
+esi dokimases
+you (one person) tried | δοκιμάζω · aorist
+
+411
+αυτός δοκίμασε
+aftos dokimase
+he tried | δοκιμάζω · aorist
+
+412
+εμείς δοκιμάσαμε
+emis dokimasame
+we tried | δοκιμάζω · aorist
+
+413
+εσείς δοκιμάσατε
+esis dokimasate
+you (several / polite) tried | δοκιμάζω · aorist
+
+414
+αυτοί δοκίμασαν
+afti dokimasan
+they tried | δοκιμάζω · aorist
+
+415
+εγώ σπούδασα
+ego spoudasa
+I studied | σπουδάζω · aorist
+
+416
+εσύ σπούδασες
+esi spoudases
+you (one person) studied | σπουδάζω · aorist
+
+417
+αυτή σπούδασε
+afti spoudase
+she studied | σπουδάζω · aorist
+
+418
+εμείς σπουδάσαμε
+emis spoudasame
+we studied | σπουδάζω · aorist
+
+419
+εσείς σπουδάσατε
+esis spoudasate
+you (several / polite) studied | σπουδάζω · aorist
+
+420
+αυτοί σπούδασαν
+afti spoudasan
+they studied | σπουδάζω · aorist
+
+421
+εγώ νοίκιασα
+ego nikiasa
+I rented | νοικιάζω · aorist
+
+422
+εσύ νοίκιασες
+esi nikiases
+you (one person) rented | νοικιάζω · aorist
+
+423
+αυτός νοίκιασε
+aftos nikiase
+he rented | νοικιάζω · aorist
+
+424
+εμείς νοικιάσαμε
+emis nikiasame
+we rented | νοικιάζω · aorist
+
+425
+εσείς νοικιάσατε
+esis nikiasate
+you (several / polite) rented | νοικιάζω · aorist
+
+426
+αυτοί νοίκιασαν
+afti nikiasan
+they rented | νοικιάζω · aorist
+
+427
+εγώ γιόρτασα
+ego yiortasa
+I celebrated | γιορτάζω · aorist
+
+428
+εσύ γιόρτασες
+esi yiortases
+you (one person) celebrated | γιορτάζω · aorist
+
+429
+αυτή γιόρτασε
+afti yiortase
+she celebrated | γιορτάζω · aorist
+
+430
+εμείς γιορτάσαμε
+emis yiortasame
+we celebrated | γιορτάζω · aorist
+
+431
+εσείς γιορτάσατε
+esis yiortasate
+you (several / polite) celebrated | γιορτάζω · aorist
+
+432
+αυτοί γιόρτασαν
+afti yiortasan
+they celebrated | γιορτάζω · aorist
+
+433
+εγώ διασκέδασα
+ego diaskedasa
+I had fun | διασκεδάζω · aorist
+
+434
+εσύ διασκέδασες
+esi diaskedases
+you (one person) had fun | διασκεδάζω · aorist
+
+435
+αυτός διασκέδασε
+aftos diaskedase
+he had fun | διασκεδάζω · aorist
+
+436
+εμείς διασκεδάσαμε
+emis diaskedasame
+we had fun | διασκεδάζω · aorist
+
+437
+εσείς διασκεδάσατε
+esis diaskedasate
+you (several / polite) had fun | διασκεδάζω · aorist
+
+438
+αυτοί διασκέδασαν
+afti diaskedasan
+they had fun | διασκεδάζω · aorist
+
+439
+εγώ σχεδίασα
+ego shediasa
+I planned | σχεδιάζω · aorist
+
+440
+εσύ σχεδίασες
+esi shediases
+you (one person) planned | σχεδιάζω · aorist
+
+441
+αυτή σχεδίασε
+afti shediase
+she planned | σχεδιάζω · aorist
+
+442
+εμείς σχεδιάσαμε
+emis shediasame
+we planned | σχεδιάζω · aorist
+
+443
+εσείς σχεδιάσατε
+esis shediasate
+you (several / polite) planned | σχεδιάζω · aorist
+
+444
+αυτοί σχεδίασαν
+afti shediasan
+they planned | σχεδιάζω · aorist
+
+445
+εγώ νευρίασα
+ego nevriasa
+I got angry | νευριάζω · aorist
+
+446
+εσύ νευρίασες
+esi nevriases
+you (one person) got angry | νευριάζω · aorist
+
+447
+αυτός νευρίασε
+aftos nevriase
+he got angry | νευριάζω · aorist
+
+448
+εμείς νευριάσαμε
+emis nevriasame
+we got angry | νευριάζω · aorist
+
+449
+εσείς νευριάσατε
+esis nevriasate
+you (several / polite) got angry | νευριάζω · aorist
+
+450
+αυτοί νευρίασαν
+afti nevriasan
+they got angry | νευριάζω · aorist
+
+451
+εγώ έσπασα
+ego espasa
+I broke | σπάζω · aorist
+
+452
+εσύ έσπασες
+esi espases
+you (one person) broke | σπάζω · aorist
+
+453
+αυτή έσπασε
+afti espase
+she broke | σπάζω · aorist
+
+454
+εμείς σπάσαμε
+emis spasame
+we broke | σπάζω · aorist
+
+455
+εσείς σπάσατε
+esis spasate
+you (several / polite) broke | σπάζω · aorist
+
+456
+αυτοί έσπασαν
+afti espasan
+they broke | σπάζω · aorist
+
+457
+εγώ άρχισα
+ego arhisa
+I began | αρχίζω · aorist
+
+458
+εσύ άρχισες
+esi arhises
+you (one person) began | αρχίζω · aorist
+
+459
+αυτός άρχισε
+aftos arhise
+he began | αρχίζω · aorist
+
+460
+εμείς αρχίσαμε
+emis arhisame
+we began | αρχίζω · aorist
+
+461
+εσείς αρχίσατε
+esis arhisate
+you (several / polite) began | αρχίζω · aorist
+
+462
+αυτοί άρχισαν
+afti arhisan
+they began | αρχίζω · aorist
+
+463
+εγώ αποφάσισα
+ego apofasisa
+I decided | αποφασίζω · aorist
+
+464
+εσύ αποφάσισες
+esi apofasises
+you (one person) decided | αποφασίζω · aorist
+
+465
+αυτή αποφάσισε
+afti apofasise
+she decided | αποφασίζω · aorist
+
+466
+εμείς αποφασίσαμε
+emis apofasisame
+we decided | αποφασίζω · aorist
+
+467
+εσείς αποφασίσατε
+esis apofasisate
+you (several / polite) decided | αποφασίζω · aorist
+
+468
+αυτοί αποφάσισαν
+afti apofasisan
+they decided | αποφασίζω · aorist
+
+469
+εγώ γέμισα
+ego yemisa
+I filled | γεμίζω · aorist
+
+470
+εσύ γέμισες
+esi yemises
+you (one person) filled | γεμίζω · aorist
+
+471
+αυτός γέμισε
+aftos yemise
+he filled | γεμίζω · aorist
+
+472
+εμείς γεμίσαμε
+emis yemisame
+we filled | γεμίζω · aorist
+
+473
+εσείς γεμίσατε
+esis yemisate
+you (several / polite) filled | γεμίζω · aorist
+
+474
+αυτοί γέμισαν
+afti yemisan
+they filled | γεμίζω · aorist
+
+475
+εγώ γνώρισα
+ego gnorisa
+I got to know | γνωρίζω · aorist
+
+476
+εσύ γνώρισες
+esi gnorises
+you (one person) got to know | γνωρίζω · aorist
+
+477
+αυτή γνώρισε
+afti gnorise
+she got to know | γνωρίζω · aorist
+
+478
+εμείς γνωρίσαμε
+emis gnorisame
+we got to know | γνωρίζω · aorist
+
+479
+εσείς γνωρίσατε
+esis gnorisate
+you (several / polite) got to know | γνωρίζω · aorist
+
+480
+αυτοί γνώρισαν
+afti gnorisan
+they got to know | γνωρίζω · aorist
+
+481
+εγώ γύρισα
+ego girisa
+I came back | γυρίζω · aorist
+
+482
+εσύ γύρισες
+esi girises
+you (one person) came back | γυρίζω · aorist
+
+483
+αυτός γύρισε
+aftos girise
+he came back | γυρίζω · aorist
+
+484
+εμείς γυρίσαμε
+emis yirisame
+we came back | γυρίζω · aorist
+
+485
+εσείς γυρίσατε
+esis yirisate
+you (several / polite) came back | γυρίζω · aorist
+
+486
+αυτοί γύρισαν
+afti girisan
+they came back | γυρίζω · aorist
+
+487
+εγώ έλπισα
+ego elpisa
+I hoped | ελπίζω · aorist
+
+488
+εσύ έλπισες
+esi elpises
+you (one person) hoped | ελπίζω · aorist
+
+489
+αυτή έλπισε
+afti elpise
+she hoped | ελπίζω · aorist
+
+490
+εμείς ελπίσαμε
+emis elpisame
+we hoped | ελπίζω · aorist
+
+491
+εσείς ελπίσατε
+esis elpisate
+you (several / polite) hoped | ελπίζω · aorist
+
+492
+αυτοί έλπισαν
+afti elpisan
+they hoped | ελπίζω · aorist
+
+493
+εγώ ζωγράφισα
+ego zografisa
+I drew | ζωγραφίζω · aorist
+
+494
+εσύ ζωγράφισες
+esi zografises
+you (one person) drew | ζωγραφίζω · aorist
+
+495
+αυτός ζωγράφισε
+aftos zografise
+he drew | ζωγραφίζω · aorist
+
+496
+εμείς ζωγραφίσαμε
+emis zografisame
+we drew | ζωγραφίζω · aorist
+
+497
+εσείς ζωγραφίσατε
+esis zografisate
+you (several / polite) drew | ζωγραφίζω · aorist
+
+498
+αυτοί ζωγράφισαν
+afti zografisan
+they drew | ζωγραφίζω · aorist
+
+499
+εγώ θύμισα
+ego thimisa
+I reminded | θυμίζω · aorist
+
+500
+εσύ θύμισες
+esi thimises
+you (one person) reminded | θυμίζω · aorist
+
+501
+αυτή θύμισε
+afti thimise
+she reminded | θυμίζω · aorist
+
+502
+εμείς θυμίσαμε
+emis thimisame
+we reminded | θυμίζω · aorist
+
+503
+εσείς θυμίσατε
+esis thimisate
+you (several / polite) reminded | θυμίζω · aorist
+
+504
+αυτοί θύμισαν
+afti thimisan
+they reminded | θυμίζω · aorist
+
+505
+εγώ καθάρισα
+ego katharisa
+I cleaned | καθαρίζω · aorist
+
+506
+εσύ καθάρισες
+esi katharises
+you (one person) cleaned | καθαρίζω · aorist
+
+507
+αυτός καθάρισε
+aftos katharise
+he cleaned | καθαρίζω · aorist
+
+508
+εμείς καθαρίσαμε
+emis katharisame
+we cleaned | καθαρίζω · aorist
+
+509
+εσείς καθαρίσατε
+esis katharisate
+you (several / polite) cleaned | καθαρίζω · aorist
+
+510
+αυτοί καθάρισαν
+afti katharisan
+they cleaned | καθαρίζω · aorist
+
+511
+εγώ κέρδισα
+ego kerdisa
+I won | κερδίζω · aorist
+
+512
+εσύ κέρδισες
+esi kerdises
+you (one person) won | κερδίζω · aorist
+
+513
+αυτή κέρδισε
+afti kerdise
+she won | κερδίζω · aorist
+
+514
+εμείς κερδίσαμε
+emis kerdisame
+we won | κερδίζω · aorist
+
+515
+εσείς κερδίσατε
+esis kerdisate
+you (several / polite) won | κερδίζω · aorist
+
+516
+αυτοί κέρδισαν
+afti kerdisan
+they won | κερδίζω · aorist
+
+517
+εγώ μετακόμισα
+ego metakomisa
+I moved house | μετακομίζω · aorist
+
+518
+εσύ μετακόμισες
+esi metakomises
+you (one person) moved house | μετακομίζω · aorist
+
+519
+αυτός μετακόμισε
+aftos metakomise
+he moved house | μετακομίζω · aorist
+
+520
+εμείς μετακομίσαμε
+emis metakomisame
+we moved house | μετακομίζω · aorist
+
+521
+εσείς μετακομίσατε
+esis metakomisate
+you (several / polite) moved house | μετακομίζω · aorist
+
+522
+αυτοί μετακόμισαν
+afti metakomisan
+they moved house | μετακομίζω · aorist
+
+523
+εγώ νόμισα
+ego nomisa
+I thought | νομίζω · aorist
+
+524
+εσύ νόμισες
+esi nomises
+you (one person) thought | νομίζω · aorist
+
+525
+αυτή νόμισε
+afti nomise
+she thought | νομίζω · aorist
+
+526
+εμείς νομίσαμε
+emis nomisame
+we thought | νομίζω · aorist
+
+527
+εσείς νομίσατε
+esis nomisate
+you (several / polite) thought | νομίζω · aorist
+
+528
+αυτοί νόμισαν
+afti nomisan
+they thought | νομίζω · aorist
+
+529
+εγώ συνέχισα
+ego sinehisa
+I continued | συνεχίζω · aorist
+
+530
+εσύ συνέχισες
+esi sinehises
+you (one person) continued | συνεχίζω · aorist
+
+531
+αυτός συνέχισε
+aftos sinehise
+he continued | συνεχίζω · aorist
+
+532
+εμείς συνεχίσαμε
+emis sinehisame
+we continued | συνεχίζω · aorist
+
+533
+εσείς συνεχίσατε
+esis sinehisate
+you (several / polite) continued | συνεχίζω · aorist
+
+534
+αυτοί συνέχισαν
+afti sinehisan
+they continued | συνεχίζω · aorist
+
+535
+εγώ φρόντισα
+ego frondisa
+I took care of | φροντίζω · aorist
+
+536
+εσύ φρόντισες
+esi frondises
+you (one person) took care of | φροντίζω · aorist
+
+537
+αυτή φρόντισε
+afti frondise
+she took care of | φροντίζω · aorist
+
+538
+εμείς φροντίσαμε
+emis frondisame
+we took care of | φροντίζω · aorist
+
+539
+εσείς φροντίσατε
+esis frondisate
+you (several / polite) took care of | φροντίζω · aorist
+
+540
+αυτοί φρόντισαν
+afti frondisan
+they took care of | φροντίζω · aorist
+
+541
+εγώ ψώνισα
+ego psonisa
+I did the shopping | ψωνίζω · aorist
+
+542
+εσύ ψώνισες
+esi psonises
+you (one person) did the shopping | ψωνίζω · aorist
+
+543
+αυτός ψώνισε
+aftos psonise
+he did the shopping | ψωνίζω · aorist
+
+544
+εμείς ψωνίσαμε
+emis psonisame
+we did the shopping | ψωνίζω · aorist
+
+545
+εσείς ψωνίσατε
+esis psonisate
+you (several / polite) did the shopping | ψωνίζω · aorist
+
+546
+αυτοί ψώνισαν
+afti psonisan
+they did the shopping | ψωνίζω · aorist
+
+547
+εγώ έζησα
+ego ezisa
+I lived | ζω · aorist
+
+548
+εσύ έζησες
+esi ezises
+you (one person) lived | ζω · aorist
+
+549
+αυτή έζησε
+afti ezise
+she lived | ζω · aorist
+
+550
+εμείς ζήσαμε
+emis zisame
+we lived | ζω · aorist
+
+551
+εσείς ζήσατε
+esis zisate
+you (several / polite) lived | ζω · aorist
+
+552
+αυτοί έζησαν
+afti ezisan
+they lived | ζω · aorist
+
+553
+εγώ άφησα
+ego afisa
+I left behind | αφήνω · aorist
+
+554
+εσύ άφησες
+esi afises
+you (one person) left behind | αφήνω · aorist
+
+555
+αυτός άφησε
+aftos afise
+he left behind | αφήνω · aorist
+
+556
+εμείς αφήσαμε
+emis afisame
+we left behind | αφήνω · aorist
+
+557
+εσείς αφήσατε
+esis afisate
+you (several / polite) left behind | αφήνω · aorist
+
+558
+αυτοί άφησαν
+afti afisan
+they left behind | αφήνω · aorist
+
+559
+εγώ έσβησα
+ego esvisa
+I switched off | σβήνω · aorist
+
+560
+εσύ έσβησες
+esi esvises
+you (one person) switched off | σβήνω · aorist
+
+561
+αυτή έσβησε
+afti esvise
+she switched off | σβήνω · aorist
+
+562
+εμείς σβήσαμε
+emis svisame
+we switched off | σβήνω · aorist
+
+563
+εσείς σβήσατε
+esis svisate
+you (several / polite) switched off | σβήνω · aorist
+
+564
+αυτοί έσβησαν
+afti esvisan
+they switched off | σβήνω · aorist
+
+565
+εγώ σύστησα
+ego sistisa
+I introduced | συστήνω · aorist
+
+566
+εσύ σύστησες
+esi sistises
+you (one person) introduced | συστήνω · aorist
+
+567
+αυτός σύστησε
+aftos sistise
+he introduced | συστήνω · aorist
+
+568
+εμείς συστήσαμε
+emis sistisame
+we introduced | συστήνω · aorist
+
+569
+εσείς συστήσατε
+esis sistisate
+you (several / polite) introduced | συστήνω · aorist
+
+570
+αυτοί σύστησαν
+afti sistisan
+they introduced | συστήνω · aorist
+
+571
+εγώ άκουσα
+ego akousa
+I heard | ακούω · aorist
+
+572
+εσύ άκουσες
+esi akouses
+you (one person) heard | ακούω · aorist
+
+573
+αυτή άκουσε
+afti akouse
+she heard | ακούω · aorist
+
+574
+εμείς ακούσαμε
+emis akousame
+we heard | ακούω · aorist
+
+575
+εσείς ακούσατε
+esis akousate
+you (several / polite) heard | ακούω · aorist
+
+576
+αυτοί άκουσαν
+afti akousan
+they heard | ακούω · aorist
+
+577
+εγώ έφτασα
+ego eftasa
+I arrived | φτάνω · aorist
+
+578
+εσύ έφτασες
+esi eftases
+you (one person) arrived | φτάνω · aorist
+
+579
+αυτός έφτασε
+aftos eftase
+he arrived | φτάνω · aorist
+
+580
+εμείς φτάσαμε
+emis ftasame
+we arrived | φτάνω · aorist
+
+581
+εσείς φτάσατε
+esis ftasate
+you (several / polite) arrived | φτάνω · aorist
+
+582
+αυτοί έφτασαν
+afti eftasan
+they arrived | φτάνω · aorist
+
+583
+εγώ έχασα
+ego ehasa
+I lost | χάνω · aorist
+
+584
+εσύ έχασες
+esi ehases
+you (one person) lost | χάνω · aorist
+
+585
+αυτή έχασε
+afti ehase
+she lost | χάνω · aorist
+
+586
+εμείς χάσαμε
+emis hasame
+we lost | χάνω · aorist
+
+587
+εσείς χάσατε
+esis hasate
+you (several / polite) lost | χάνω · aorist
+
+588
+αυτοί έχασαν
+afti ehasan
+they lost | χάνω · aorist
+
+589
+εγώ έκλεισα
+ego eklisa
+I closed | κλείνω · aorist
+
+590
+εσύ έκλεισες
+esi eklises
+you (one person) closed | κλείνω · aorist
+
+591
+αυτός έκλεισε
+aftos eklise
+he closed | κλείνω · aorist
+
+592
+εμείς κλείσαμε
+emis klisame
+we closed | κλείνω · aorist
+
+593
+εσείς κλείσατε
+esis klisate
+you (several / polite) closed | κλείνω · aorist
+
+594
+αυτοί έκλεισαν
+afti eklisan
+they closed | κλείνω · aorist
+
+595
+εγώ πρόσθεσα
+ego prosthesa
+I added | προσθέτω · aorist
+
+596
+εσύ πρόσθεσες
+esi prostheses
+you (one person) added | προσθέτω · aorist
+
+597
+αυτή πρόσθεσε
+afti prosthese
+she added | προσθέτω · aorist
+
+598
+εμείς προσθέσαμε
+emis prosthesame
+we added | προσθέτω · aorist
+
+599
+εσείς προσθέσατε
+esis prosthesate
+you (several / polite) added | προσθέτω · aorist
+
+600
+αυτοί πρόσθεσαν
+afti prosthesan
+they added | προσθέτω · aorist
+
+601
+εγώ πλήρωσα
+ego plirosa
+I paid | πληρώνω · aorist
+
+602
+εσύ πλήρωσες
+esi pliroses
+you (one person) paid | πληρώνω · aorist
+
+603
+αυτός πλήρωσε
+aftos plirose
+he paid | πληρώνω · aorist
+
+604
+εμείς πληρώσαμε
+emis plirosame
+we paid | πληρώνω · aorist
+
+605
+εσείς πληρώσατε
+esis plirosate
+you (several / polite) paid | πληρώνω · aorist
+
+606
+αυτοί πλήρωσαν
+afti plirosan
+they paid | πληρώνω · aorist
+
+607
+εγώ τελείωσα
+ego teliosa
+I finished | τελειώνω · aorist
+
+608
+εσύ τελείωσες
+esi telioses
+you (one person) finished | τελειώνω · aorist
+
+609
+αυτή τελείωσε
+afti teliose
+she finished | τελειώνω · aorist
+
+610
+εμείς τελειώσαμε
+emis teliosame
+we finished | τελειώνω · aorist
+
+611
+εσείς τελειώσατε
+esis teliosate
+you (several / polite) finished | τελειώνω · aorist
+
+612
+αυτοί τελείωσαν
+afti teliosan
+they finished | τελειώνω · aorist
+
+613
+εγώ διόρθωσα
+ego diorthosa
+I corrected | διορθώνω · aorist
+
+614
+εσύ διόρθωσες
+esi diorthoses
+you (one person) corrected | διορθώνω · aorist
+
+615
+αυτός διόρθωσε
+aftos diorthose
+he corrected | διορθώνω · aorist
+
+616
+εμείς διορθώσαμε
+emis diorthosame
+we corrected | διορθώνω · aorist
+
+617
+εσείς διορθώσατε
+esis diorthosate
+you (several / polite) corrected | διορθώνω · aorist
+
+618
+αυτοί διόρθωσαν
+afti diorthosan
+they corrected | διορθώνω · aorist
+
+619
+εγώ μεγάλωσα
+ego megalosa
+I grew up | μεγαλώνω · aorist
+
+620
+εσύ μεγάλωσες
+esi megaloses
+you (one person) grew up | μεγαλώνω · aorist
+
+621
+αυτή μεγάλωσε
+afti megalose
+she grew up | μεγαλώνω · aorist
+
+622
+εμείς μεγαλώσαμε
+emis megalosame
+we grew up | μεγαλώνω · aorist
+
+623
+εσείς μεγαλώσατε
+esis megalosate
+you (several / polite) grew up | μεγαλώνω · aorist
+
+624
+αυτοί μεγάλωσαν
+afti megalosan
+they grew up | μεγαλώνω · aorist
+
+625
+εγώ μάλωσα
+ego malosa
+I quarrelled | μαλώνω · aorist
+
+626
+εσύ μάλωσες
+esi maloses
+you (one person) quarrelled | μαλώνω · aorist
+
+627
+αυτός μάλωσε
+aftos malose
+he quarrelled | μαλώνω · aorist
+
+628
+εμείς μαλώσαμε
+emis malosame
+we quarrelled | μαλώνω · aorist
+
+629
+εσείς μαλώσατε
+esis malosate
+you (several / polite) quarrelled | μαλώνω · aorist
+
+630
+αυτοί μάλωσαν
+afti malosan
+they quarrelled | μαλώνω · aorist
+
+631
+εγώ συμπλήρωσα
+ego simblirosa
+I filled in | συμπληρώνω · aorist
+
+632
+εσύ συμπλήρωσες
+esi simbliroses
+you (one person) filled in | συμπληρώνω · aorist
+
+633
+αυτή συμπλήρωσε
+afti simblirose
+she filled in | συμπληρώνω · aorist
+
+634
+εμείς συμπληρώσαμε
+emis simblirosame
+we filled in | συμπληρώνω · aorist
+
+635
+εσείς συμπληρώσατε
+esis simblirosate
+you (several / polite) filled in | συμπληρώνω · aorist
+
+636
+αυτοί συμπλήρωσαν
+afti simblirosan
+they filled in | συμπληρώνω · aorist
+
+637
+εγώ σημείωσα
+ego simiosa
+I wrote down | σημειώνω · aorist
+
+638
+εσύ σημείωσες
+esi simioses
+you (one person) wrote down | σημειώνω · aorist
+
+639
+αυτός σημείωσε
+aftos simiose
+he wrote down | σημειώνω · aorist
+
+640
+εμείς σημειώσαμε
+emis simiosame
+we wrote down | σημειώνω · aorist
+
+641
+εσείς σημειώσατε
+esis simiosate
+you (several / polite) wrote down | σημειώνω · aorist
+
+642
+αυτοί σημείωσαν
+afti simiosan
+they wrote down | σημειώνω · aorist
+
+643
+εγώ κρύωσα
+ego kriosa
+I got cold | κρυώνω · aorist
+
+644
+εσύ κρύωσες
+esi krioses
+you (one person) got cold | κρυώνω · aorist
+
+645
+αυτή κρύωσε
+afti kriose
+she got cold | κρυώνω · aorist
+
+646
+εμείς κρυώσαμε
+emis kriosame
+we got cold | κρυώνω · aorist
+
+647
+εσείς κρυώσατε
+esis kriosate
+you (several / polite) got cold | κρυώνω · aorist
+
+648
+αυτοί κρύωσαν
+afti kriosan
+they got cold | κρυώνω · aorist
+
+649
+εγώ έστρωσα
+ego estrosa
+I laid the table | στρώνω · aorist
+
+650
+εσύ έστρωσες
+esi estroses
+you (one person) laid the table | στρώνω · aorist
+
+651
+αυτός έστρωσε
+aftos estrose
+he laid the table | στρώνω · aorist
+
+652
+εμείς στρώσαμε
+emis strosame
+we laid the table | στρώνω · aorist
+
+653
+εσείς στρώσατε
+esis strosate
+you (several / polite) laid the table | στρώνω · aorist
+
+654
+αυτοί έστρωσαν
+afti estrosan
+they laid the table | στρώνω · aorist
+
+655
+εγώ ένιωσα
+ego eniosa
+I felt | νιώθω · aorist
+
+656
+εσύ ένιωσες
+esi enioses
+you (one person) felt | νιώθω · aorist
+
+657
+αυτή ένιωσε
+afti eniose
+she felt | νιώθω · aorist
+
+658
+εμείς νιώσαμε
+emis niosame
+we felt | νιώθω · aorist
+
+659
+εσείς νιώσατε
+esis niosate
+you (several / polite) felt | νιώθω · aorist
+
+660
+αυτοί ένιωσαν
+afti eniosan
+they felt | νιώθω · aorist
+
+661
+εγώ αγάπησα
+ego agapisa
+I loved | αγαπάω · aorist
+
+662
+εσύ αγάπησες
+esi agapises
+you (one person) loved | αγαπάω · aorist
+
+663
+αυτός αγάπησε
+aftos agapise
+he loved | αγαπάω · aorist
+
+664
+εμείς αγαπήσαμε
+emis agapisame
+we loved | αγαπάω · aorist
+
+665
+εσείς αγαπήσατε
+esis agapisate
+you (several / polite) loved | αγαπάω · aorist
+
+666
+αυτοί αγάπησαν
+afti agapisan
+they loved | αγαπάω · aorist
+
+667
+εγώ απάντησα
+ego apandisa
+I answered | απαντάω · aorist
+
+668
+εσύ απάντησες
+esi apandises
+you (one person) answered | απαντάω · aorist
+
+669
+αυτή απάντησε
+afti apandise
+she answered | απαντάω · aorist
+
+670
+εμείς απαντήσαμε
+emis apandisame
+we answered | απαντάω · aorist
+
+671
+εσείς απαντήσατε
+esis apandisate
+you (several / polite) answered | απαντάω · aorist
+
+672
+αυτοί απάντησαν
+afti apandisan
+they answered | απαντάω · aorist
+
+673
+εγώ βοήθησα
+ego voithisa
+I helped | βοηθάω · aorist
+
+674
+εσύ βοήθησες
+esi voithises
+you (one person) helped | βοηθάω · aorist
+
+675
+αυτός βοήθησε
+aftos voithise
+he helped | βοηθάω · aorist
+
+676
+εμείς βοηθήσαμε
+emis voithisame
+we helped | βοηθάω · aorist
+
+677
+εσείς βοηθήσατε
+esis voithisate
+you (several / polite) helped | βοηθάω · aorist
+
+678
+αυτοί βοήθησαν
+afti voithisan
+they helped | βοηθάω · aorist
+
+679
+εγώ ζήτησα
+ego zitisa
+I asked for | ζητάω · aorist
+
+680
+εσύ ζήτησες
+esi zitises
+you (one person) asked for | ζητάω · aorist
+
+681
+αυτή ζήτησε
+afti zitise
+she asked for | ζητάω · aorist
+
+682
+εμείς ζητήσαμε
+emis zitisame
+we asked for | ζητάω · aorist
+
+683
+εσείς ζητήσατε
+esis zitisate
+you (several / polite) asked for | ζητάω · aorist
+
+684
+αυτοί ζήτησαν
+afti zitisan
+they asked for | ζητάω · aorist
+
+685
+εγώ κράτησα
+ego kratisa
+I held | κρατάω · aorist
+
+686
+εσύ κράτησες
+esi kratises
+you (one person) held | κρατάω · aorist
+
+687
+αυτός κράτησε
+aftos kratise
+he held | κρατάω · aorist
+
+688
+εμείς κρατήσαμε
+emis kratisame
+we held | κρατάω · aorist
+
+689
+εσείς κρατήσατε
+esis kratisate
+you (several / polite) held | κρατάω · aorist
+
+690
+αυτοί κράτησαν
+afti kratisan
+they held | κρατάω · aorist
+
+691
+εγώ μίλησα
+ego milisa
+I spoke | μιλάω · aorist
+
+692
+εσύ μίλησες
+esi milises
+you (one person) spoke | μιλάω · aorist
+
+693
+αυτή μίλησε
+afti milise
+she spoke | μιλάω · aorist
+
+694
+εμείς μιλήσαμε
+emis milisame
+we spoke | μιλάω · aorist
+
+695
+εσείς μιλήσατε
+esis milisate
+you (several / polite) spoke | μιλάω · aorist
+
+696
+αυτοί μίλησαν
+afti milisan
+they spoke | μιλάω · aorist
+
+697
+εγώ ξεκίνησα
+ego xekinisa
+I set off | ξεκινάω · aorist
+
+698
+εσύ ξεκίνησες
+esi xekinises
+you (one person) set off | ξεκινάω · aorist
+
+699
+αυτός ξεκίνησε
+aftos xekinise
+he set off | ξεκινάω · aorist
+
+700
+εμείς ξεκινήσαμε
+emis xekinisame
+we set off | ξεκινάω · aorist
+
+701
+εσείς ξεκινήσατε
+esis xekinisate
+you (several / polite) set off | ξεκινάω · aorist
+
+702
+αυτοί ξεκίνησαν
+afti xekinisan
+they set off | ξεκινάω · aorist
+
+703
+εγώ ξύπνησα
+ego xipnisa
+I woke up | ξυπνάω · aorist
+
+704
+εσύ ξύπνησες
+esi xipnises
+you (one person) woke up | ξυπνάω · aorist
+
+705
+αυτή ξύπνησε
+afti xipnise
+she woke up | ξυπνάω · aorist
+
+706
+εμείς ξυπνήσαμε
+emis xipnisame
+we woke up | ξυπνάω · aorist
+
+707
+εσείς ξυπνήσατε
+esis xipnisate
+you (several / polite) woke up | ξυπνάω · aorist
+
+708
+αυτοί ξύπνησαν
+afti xipnisan
+they woke up | ξυπνάω · aorist
+
+709
+εγώ περπάτησα
+ego perpatisa
+I walked | περπατάω · aorist
+
+710
+εσύ περπάτησες
+esi perpatises
+you (one person) walked | περπατάω · aorist
+
+711
+αυτός περπάτησε
+aftos perpatise
+he walked | περπατάω · aorist
+
+712
+εμείς περπατήσαμε
+emis perpatisame
+we walked | περπατάω · aorist
+
+713
+εσείς περπατήσατε
+esis perpatisate
+you (several / polite) walked | περπατάω · aorist
+
+714
+αυτοί περπάτησαν
+afti perpatisan
+they walked | περπατάω · aorist
+
+715
+εγώ πούλησα
+ego poulisa
+I sold | πουλάω · aorist
+
+716
+εσύ πούλησες
+esi poulises
+you (one person) sold | πουλάω · aorist
+
+717
+αυτή πούλησε
+afti poulise
+she sold | πουλάω · aorist
+
+718
+εμείς πουλήσαμε
+emis poulisame
+we sold | πουλάω · aorist
+
+719
+εσείς πουλήσατε
+esis poulisate
+you (several / polite) sold | πουλάω · aorist
+
+720
+αυτοί πούλησαν
+afti poulisan
+they sold | πουλάω · aorist
+
+721
+εγώ προτίμησα
+ego protimisa
+I preferred | προτιμάω · aorist
+
+722
+εσύ προτίμησες
+esi protimises
+you (one person) preferred | προτιμάω · aorist
+
+723
+αυτός προτίμησε
+aftos protimise
+he preferred | προτιμάω · aorist
+
+724
+εμείς προτιμήσαμε
+emis protimisame
+we preferred | προτιμάω · aorist
+
+725
+εσείς προτιμήσατε
+esis protimisate
+you (several / polite) preferred | προτιμάω · aorist
+
+726
+αυτοί προτίμησαν
+afti protimisan
+they preferred | προτιμάω · aorist
+
+727
+εγώ ρώτησα
+ego rotisa
+I asked | ρωτάω · aorist
+
+728
+εσύ ρώτησες
+esi rotises
+you (one person) asked | ρωτάω · aorist
+
+729
+αυτή ρώτησε
+afti rotise
+she asked | ρωτάω · aorist
+
+730
+εμείς ρωτήσαμε
+emis rotisame
+we asked | ρωτάω · aorist
+
+731
+εσείς ρωτήσατε
+esis rotisate
+you (several / polite) asked | ρωτάω · aorist
+
+732
+αυτοί ρώτησαν
+afti rotisan
+they asked | ρωτάω · aorist
+
+733
+εγώ σταμάτησα
+ego stamatisa
+I stopped | σταματάω · aorist
+
+734
+εσύ σταμάτησες
+esi stamatises
+you (one person) stopped | σταματάω · aorist
+
+735
+αυτός σταμάτησε
+aftos stamatise
+he stopped | σταματάω · aorist
+
+736
+εμείς σταματήσαμε
+emis stamatisame
+we stopped | σταματάω · aorist
+
+737
+εσείς σταματήσατε
+esis stamatisate
+you (several / polite) stopped | σταματάω · aorist
+
+738
+αυτοί σταμάτησαν
+afti stamatisan
+they stopped | σταματάω · aorist
+
+739
+εγώ συζήτησα
+ego sizitisa
+I discussed | συζητάω · aorist
+
+740
+εσύ συζήτησες
+esi sizitises
+you (one person) discussed | συζητάω · aorist
+
+741
+αυτή συζήτησε
+afti sizitise
+she discussed | συζητάω · aorist
+
+742
+εμείς συζητήσαμε
+emis sizitisame
+we discussed | συζητάω · aorist
+
+743
+εσείς συζητήσατε
+esis sizitisate
+you (several / polite) discussed | συζητάω · aorist
+
+744
+αυτοί συζήτησαν
+afti sizitisan
+they discussed | συζητάω · aorist
+
+745
+εγώ συνάντησα
+ego sinandisa
+I met | συναντάω · aorist
+
+746
+εσύ συνάντησες
+esi sinandises
+you (one person) met | συναντάω · aorist
+
+747
+αυτός συνάντησε
+aftos sinandise
+he met | συναντάω · aorist
+
+748
+εμείς συναντήσαμε
+emis sinandisame
+we met | συναντάω · aorist
+
+749
+εσείς συναντήσατε
+esis sinandisate
+you (several / polite) met | συναντάω · aorist
+
+750
+αυτοί συνάντησαν
+afti sinandisan
+they met | συναντάω · aorist
+
+751
+εγώ τραγούδησα
+ego tragoudisa
+I sang | τραγουδάω · aorist
+
+752
+εσύ τραγούδησες
+esi tragoudises
+you (one person) sang | τραγουδάω · aorist
+
+753
+αυτή τραγούδησε
+afti tragoudise
+she sang | τραγουδάω · aorist
+
+754
+εμείς τραγουδήσαμε
+emis tragoudisame
+we sang | τραγουδάω · aorist
+
+755
+εσείς τραγουδήσατε
+esis tragoudisate
+you (several / polite) sang | τραγουδάω · aorist
+
+756
+αυτοί τραγούδησαν
+afti tragoudisan
+they sang | τραγουδάω · aorist
+
+757
+εγώ φίλησα
+ego filisa
+I kissed | φιλάω · aorist
+
+758
+εσύ φίλησες
+esi filises
+you (one person) kissed | φιλάω · aorist
+
+759
+αυτός φίλησε
+aftos filise
+he kissed | φιλάω · aorist
+
+760
+εμείς φιλήσαμε
+emis filisame
+we kissed | φιλάω · aorist
+
+761
+εσείς φιλήσατε
+esis filisate
+you (several / polite) kissed | φιλάω · aorist
+
+762
+αυτοί φίλησαν
+afti filisan
+they kissed | φιλάω · aorist
+
+763
+εγώ χαιρέτησα
+ego heretisa
+I greeted | χαιρετάω · aorist
+
+764
+εσύ χαιρέτησες
+esi heretises
+you (one person) greeted | χαιρετάω · aorist
+
+765
+αυτή χαιρέτησε
+afti heretise
+she greeted | χαιρετάω · aorist
+
+766
+εμείς χαιρετήσαμε
+emis heretisame
+we greeted | χαιρετάω · aorist
+
+767
+εσείς χαιρετήσατε
+esis heretisate
+you (several / polite) greeted | χαιρετάω · aorist
+
+768
+αυτοί χαιρέτησαν
+afti heretisan
+they greeted | χαιρετάω · aorist
+
+769
+εγώ χτύπησα
+ego htipisa
+I knocked | χτυπάω · aorist
+
+770
+εσύ χτύπησες
+esi htipises
+you (one person) knocked | χτυπάω · aorist
+
+771
+αυτός χτύπησε
+aftos htipise
+he knocked | χτυπάω · aorist
+
+772
+εμείς χτυπήσαμε
+emis htipisame
+we knocked | χτυπάω · aorist
+
+773
+εσείς χτυπήσατε
+esis htipisate
+you (several / polite) knocked | χτυπάω · aorist
+
+774
+αυτοί χτύπησαν
+afti htipisan
+they knocked | χτυπάω · aorist
+
+775
+εγώ κόλλησα
+ego kollisa
+I caught (a cold) | κολλάω · aorist
+
+776
+εσύ κόλλησες
+esi kollises
+you (one person) caught (a cold) | κολλάω · aorist
+
+777
+αυτή κόλλησε
+afti kollise
+she caught (a cold) | κολλάω · aorist
+
+778
+εμείς κολλήσαμε
+emis kollisame
+we caught (a cold) | κολλάω · aorist
+
+779
+εσείς κολλήσατε
+esis kollisate
+you (several / polite) caught (a cold) | κολλάω · aorist
+
+780
+αυτοί κόλλησαν
+afti kollisan
+they caught (a cold) | κολλάω · aorist
+
+781
+εγώ ακολούθησα
+ego akolouthisa
+I followed | ακολουθώ · aorist
+
+782
+εσύ ακολούθησες
+esi akolouthises
+you (one person) followed | ακολουθώ · aorist
+
+783
+αυτός ακολούθησε
+aftos akolouthise
+he followed | ακολουθώ · aorist
+
+784
+εμείς ακολουθήσαμε
+emis akolouthisame
+we followed | ακολουθώ · aorist
+
+785
+εσείς ακολουθήσατε
+esis akolouthisate
+you (several / polite) followed | ακολουθώ · aorist
+
+786
+αυτοί ακολούθησαν
+afti akolouthisan
+they followed | ακολουθώ · aorist
+
+787
+εγώ άργησα
+ego aryisa
+I was late | αργώ · aorist
+
+788
+εσύ άργησες
+esi aryises
+you (one person) was late | αργώ · aorist
+
+789
+αυτή άργησε
+afti aryise
+she was late | αργώ · aorist
+
+790
+εμείς αργήσαμε
+emis aryisame
+we was late | αργώ · aorist
+
+791
+εσείς αργήσατε
+esis aryisate
+you (several / polite) was late | αργώ · aorist
+
+792
+αυτοί άργησαν
+afti aryisan
+they was late | αργώ · aorist
+
+793
+εγώ εξήγησα
+ego exiyisa
+I explained | εξηγώ · aorist
+
+794
+εσύ εξήγησες
+esi exiyises
+you (one person) explained | εξηγώ · aorist
+
+795
+αυτός εξήγησε
+aftos exiyise
+he explained | εξηγώ · aorist
+
+796
+εμείς εξηγήσαμε
+emis exiyisame
+we explained | εξηγώ · aorist
+
+797
+εσείς εξηγήσατε
+esis exiyisate
+you (several / polite) explained | εξηγώ · aorist
+
+798
+αυτοί εξήγησαν
+afti exiyisan
+they explained | εξηγώ · aorist
+
+799
+εγώ επικοινώνησα
+ego epikinonisa
+I got in touch | επικοινωνώ · aorist
+
+800
+εσύ επικοινώνησες
+esi epikinonises
+you (one person) got in touch | επικοινωνώ · aorist
+
+801
+αυτή επικοινώνησε
+afti epikinonise
+she got in touch | επικοινωνώ · aorist
+
+802
+εμείς επικοινωνήσαμε
+emis epikinonisame
+we got in touch | επικοινωνώ · aorist
+
+803
+εσείς επικοινωνήσατε
+esis epikinonisate
+you (several / polite) got in touch | επικοινωνώ · aorist
+
+804
+αυτοί επικοινώνησαν
+afti epikinonisan
+they got in touch | επικοινωνώ · aorist
+
+805
+εγώ ευχαρίστησα
+ego efharistisa
+I thanked | ευχαριστώ · aorist
+
+806
+εσύ ευχαρίστησες
+esi efharistises
+you (one person) thanked | ευχαριστώ · aorist
+
+807
+αυτός ευχαρίστησε
+aftos efharistise
+he thanked | ευχαριστώ · aorist
+
+808
+εμείς ευχαριστήσαμε
+emis efharistisame
+we thanked | ευχαριστώ · aorist
+
+809
+εσείς ευχαριστήσατε
+esis efharistisate
+you (several / polite) thanked | ευχαριστώ · aorist
+
+810
+αυτοί ευχαρίστησαν
+afti efharistisan
+they thanked | ευχαριστώ · aorist
+
+811
+εγώ οδήγησα
+ego odiyisa
+I drove | οδηγώ · aorist
+
+812
+εσύ οδήγησες
+esi odiyises
+you (one person) drove | οδηγώ · aorist
+
+813
+αυτή οδήγησε
+afti odiyise
+she drove | οδηγώ · aorist
+
+814
+εμείς οδηγήσαμε
+emis odiyisame
+we drove | οδηγώ · aorist
+
+815
+εσείς οδηγήσατε
+esis odiyisate
+you (several / polite) drove | οδηγώ · aorist
+
+816
+αυτοί οδήγησαν
+afti odiyisan
+they drove | οδηγώ · aorist
+
+817
+εγώ παρακολούθησα
+ego parakolouthisa
+I watched | παρακολουθώ · aorist
+
+818
+εσύ παρακολούθησες
+esi parakolouthises
+you (one person) watched | παρακολουθώ · aorist
+
+819
+αυτός παρακολούθησε
+aftos parakolouthise
+he watched | παρακολουθώ · aorist
+
+820
+εμείς παρακολουθήσαμε
+emis parakolouthisame
+we watched | παρακολουθώ · aorist
+
+821
+εσείς παρακολουθήσατε
+esis parakolouthisate
+you (several / polite) watched | παρακολουθώ · aorist
+
+822
+αυτοί παρακολούθησαν
+afti parakolouthisan
+they watched | παρακολουθώ · aorist
+
+823
+εγώ προσπάθησα
+ego prospathisa
+I tried hard | προσπαθώ · aorist
+
+824
+εσύ προσπάθησες
+esi prospathises
+you (one person) tried hard | προσπαθώ · aorist
+
+825
+αυτή προσπάθησε
+afti prospathise
+she tried hard | προσπαθώ · aorist
+
+826
+εμείς προσπαθήσαμε
+emis prospathisame
+we tried hard | προσπαθώ · aorist
+
+827
+εσείς προσπαθήσατε
+esis prospathisate
+you (several / polite) tried hard | προσπαθώ · aorist
+
+828
+αυτοί προσπάθησαν
+afti prospathisan
+they tried hard | προσπαθώ · aorist
+
+829
+εγώ συμφώνησα
+ego simfonisa
+I agreed | συμφωνώ · aorist
+
+830
+εσύ συμφώνησες
+esi simfonises
+you (one person) agreed | συμφωνώ · aorist
+
+831
+αυτός συμφώνησε
+aftos simfonise
+he agreed | συμφωνώ · aorist
+
+832
+εμείς συμφωνήσαμε
+emis simfonisame
+we agreed | συμφωνώ · aorist
+
+833
+εσείς συμφωνήσατε
+esis simfonisate
+you (several / polite) agreed | συμφωνώ · aorist
+
+834
+αυτοί συμφώνησαν
+afti simfonisan
+they agreed | συμφωνώ · aorist
+
+835
+εγώ διαφώνησα
+ego diafonisa
+I disagreed | διαφωνώ · aorist
+
+836
+εσύ διαφώνησες
+esi diafonises
+you (one person) disagreed | διαφωνώ · aorist
+
+837
+αυτή διαφώνησε
+afti diafonise
+she disagreed | διαφωνώ · aorist
+
+838
+εμείς διαφωνήσαμε
+emis diafonisame
+we disagreed | διαφωνώ · aorist
+
+839
+εσείς διαφωνήσατε
+esis diafonisate
+you (several / polite) disagreed | διαφωνώ · aorist
+
+840
+αυτοί διαφώνησαν
+afti diafonisan
+they disagreed | διαφωνώ · aorist
+
+841
+εγώ τηλεφώνησα
+ego tilefonisa
+I phoned | τηλεφωνώ · aorist
+
+842
+εσύ τηλεφώνησες
+esi tilefonises
+you (one person) phoned | τηλεφωνώ · aorist
+
+843
+αυτός τηλεφώνησε
+aftos tilefonise
+he phoned | τηλεφωνώ · aorist
+
+844
+εμείς τηλεφωνήσαμε
+emis tilefonisame
+we phoned | τηλεφωνώ · aorist
+
+845
+εσείς τηλεφωνήσατε
+esis tilefonisate
+you (several / polite) phoned | τηλεφωνώ · aorist
+
+846
+αυτοί τηλεφώνησαν
+afti tilefonisan
+they phoned | τηλεφωνώ · aorist
+
+847
+εγώ φιλοξένησα
+ego filoxenisa
+I had as a guest | φιλοξενώ · aorist
+
+848
+εσύ φιλοξένησες
+esi filoxenises
+you (one person) had as a guest | φιλοξενώ · aorist
+
+849
+αυτή φιλοξένησε
+afti filoxenise
+she had as a guest | φιλοξενώ · aorist
+
+850
+εμείς φιλοξενήσαμε
+emis filoxenisame
+we had as a guest | φιλοξενώ · aorist
+
+851
+εσείς φιλοξενήσατε
+esis filoxenisate
+you (several / polite) had as a guest | φιλοξενώ · aorist
+
+852
+αυτοί φιλοξένησαν
+afti filoxenisan
+they had as a guest | φιλοξενώ · aorist
+
+853
+εγώ χρησιμοποίησα
+ego hrisimopiisa
+I used | χρησιμοποιώ · aorist
+
+854
+εσύ χρησιμοποίησες
+esi hrisimopiises
+you (one person) used | χρησιμοποιώ · aorist
+
+855
+αυτός χρησιμοποίησε
+aftos hrisimopiise
+he used | χρησιμοποιώ · aorist
+
+856
+εμείς χρησιμοποιήσαμε
+emis hrisimopiisame
+we used | χρησιμοποιώ · aorist
+
+857
+εσείς χρησιμοποιήσατε
+esis hrisimopiisate
+you (several / polite) used | χρησιμοποιώ · aorist
+
+858
+αυτοί χρησιμοποίησαν
+afti hrisimopiisan
+they used | χρησιμοποιώ · aorist
+
+859
+εγώ ξέχασα
+ego xehasa
+I forgot | ξεχνάω · aorist
+
+860
+εσύ ξέχασες
+esi xehases
+you (one person) forgot | ξεχνάω · aorist
+
+861
+αυτή ξέχασε
+afti xehase
+she forgot | ξεχνάω · aorist
+
+862
+εμείς ξεχάσαμε
+emis xehasame
+we forgot | ξεχνάω · aorist
+
+863
+εσείς ξεχάσατε
+esis xehasate
+you (several / polite) forgot | ξεχνάω · aorist
+
+864
+αυτοί ξέχασαν
+afti xehasan
+they forgot | ξεχνάω · aorist
+
+865
+εγώ πέρασα
+ego perasa
+I passed | περνάω · aorist
+
+866
+εσύ πέρασες
+esi perases
+you (one person) passed | περνάω · aorist
+
+867
+αυτός πέρασε
+aftos perase
+he passed | περνάω · aorist
+
+868
+εμείς περάσαμε
+emis perasame
+we passed | περνάω · aorist
+
+869
+εσείς περάσατε
+esis perasate
+you (several / polite) passed | περνάω · aorist
+
+870
+αυτοί πέρασαν
+afti perasan
+they passed | περνάω · aorist
+
+871
+εγώ πείνασα
+ego pinasa
+I got hungry | πεινάω · aorist
+
+872
+εσύ πείνασες
+esi pinases
+you (one person) got hungry | πεινάω · aorist
+
+873
+αυτή πείνασε
+afti pinase
+she got hungry | πεινάω · aorist
+
+874
+εμείς πεινάσαμε
+emis pinasame
+we got hungry | πεινάω · aorist
+
+875
+εσείς πεινάσατε
+esis pinasate
+you (several / polite) got hungry | πεινάω · aorist
+
+876
+αυτοί πείνασαν
+afti pinasan
+they got hungry | πεινάω · aorist
+
+877
+εγώ χάλασα
+ego halasa
+I broke down | χαλάω · aorist
+
+878
+εσύ χάλασες
+esi halases
+you (one person) broke down | χαλάω · aorist
+
+879
+αυτός χάλασε
+aftos halase
+he broke down | χαλάω · aorist
+
+880
+εμείς χαλάσαμε
+emis halasame
+we broke down | χαλάω · aorist
+
+881
+εσείς χαλάσατε
+esis halasate
+you (several / polite) broke down | χαλάω · aorist
+
+882
+αυτοί χάλασαν
+afti halasan
+they broke down | χαλάω · aorist
+
+883
+εγώ φόρεσα
+ego foresa
+I wore | φοράω · aorist
+
+884
+εσύ φόρεσες
+esi foreses
+you (one person) wore | φοράω · aorist
+
+885
+αυτή φόρεσε
+afti forese
+she wore | φοράω · aorist
+
+886
+εμείς φορέσαμε
+emis foresame
+we wore | φοράω · aorist
+
+887
+εσείς φορέσατε
+esis foresate
+you (several / polite) wore | φοράω · aorist
+
+888
+αυτοί φόρεσαν
+afti foresan
+they wore | φοράω · aorist
+
+889
+εγώ πόνεσα
+ego ponesa
+I was in pain | πονάω · aorist
+
+890
+εσύ πόνεσες
+esi poneses
+you (one person) was in pain | πονάω · aorist
+
+891
+αυτός πόνεσε
+aftos ponese
+he was in pain | πονάω · aorist
+
+892
+εμείς πονέσαμε
+emis ponesame
+we was in pain | πονάω · aorist
+
+893
+εσείς πονέσατε
+esis ponesate
+you (several / polite) was in pain | πονάω · aorist
+
+894
+αυτοί πόνεσαν
+afti ponesan
+they was in pain | πονάω · aorist
+
+895
+εγώ κάθισα
+ego kathisa
+I sat down | κάθομαι · aorist
+
+896
+εσύ κάθισες
+esi kathises
+you (one person) sat down | κάθομαι · aorist
+
+897
+αυτή κάθισε
+afti kathise
+she sat down | κάθομαι · aorist
+
+898
+εμείς καθίσαμε
+emis kathisame
+we sat down | κάθομαι · aorist
+
+899
+εσείς καθίσατε
+esis kathisate
+you (several / polite) sat down | κάθομαι · aorist
+
+900
+αυτοί κάθισαν
+afti kathisan
+they sat down | κάθομαι · aorist
+
+901
+εγώ έγινα
+ego eyina
+I became | γίνομαι · aorist
+
+902
+εσύ έγινες
+esi eyines
+you (one person) became | γίνομαι · aorist
+
+903
+αυτός έγινε
+aftos eyine
+he became | γίνομαι · aorist
+
+904
+εμείς γίναμε
+emis yiname
+we became | γίνομαι · aorist
+
+905
+εσείς γίνατε
+esis yinate
+you (several / polite) became | γίνομαι · aorist
+
+906
+αυτοί έγιναν
+afti eyinan
+they became | γίνομαι · aorist
+
+907
+εγώ κοιμήθηκα
+ego kimithika
+I slept | κοιμάμαι · aorist
+
+908
+εσύ κοιμήθηκες
+esi kimithikes
+you (one person) slept | κοιμάμαι · aorist
+
+909
+αυτή κοιμήθηκε
+afti kimithike
+she slept | κοιμάμαι · aorist
+
+910
+εμείς κοιμηθήκαμε
+emis kimithikame
+we slept | κοιμάμαι · aorist
+
+911
+εσείς κοιμηθήκατε
+esis kimithikate
+you (several / polite) slept | κοιμάμαι · aorist
+
+912
+αυτοί κοιμήθηκαν
+afti kimithikan
+they slept | κοιμάμαι · aorist
+
+913
+εγώ θυμήθηκα
+ego thimithika
+I remembered | θυμάμαι · aorist
+
+914
+εσύ θυμήθηκες
+esi thimithikes
+you (one person) remembered | θυμάμαι · aorist
+
+915
+αυτός θυμήθηκε
+aftos thimithike
+he remembered | θυμάμαι · aorist
+
+916
+εμείς θυμηθήκαμε
+emis thimithikame
+we remembered | θυμάμαι · aorist
+
+917
+εσείς θυμηθήκατε
+esis thimithikate
+you (several / polite) remembered | θυμάμαι · aorist
+
+918
+αυτοί θυμήθηκαν
+afti thimithikan
+they remembered | θυμάμαι · aorist
+
+919
+εγώ φοβήθηκα
+ego fovithika
+I got scared | φοβάμαι · aorist
+
+920
+εσύ φοβήθηκες
+esi fovithikes
+you (one person) got scared | φοβάμαι · aorist
+
+921
+αυτή φοβήθηκε
+afti fovithike
+she got scared | φοβάμαι · aorist
+
+922
+εμείς φοβηθήκαμε
+emis fovithikame
+we got scared | φοβάμαι · aorist
+
+923
+εσείς φοβηθήκατε
+esis fovithikate
+you (several / polite) got scared | φοβάμαι · aorist
+
+924
+αυτοί φοβήθηκαν
+afti fovithikan
+they got scared | φοβάμαι · aorist
+
+925
+εγώ λυπήθηκα
+ego lipithika
+I felt sorry | λυπάμαι · aorist
+
+926
+εσύ λυπήθηκες
+esi lipithikes
+you (one person) felt sorry | λυπάμαι · aorist
+
+927
+αυτός λυπήθηκε
+aftos lipithike
+he felt sorry | λυπάμαι · aorist
+
+928
+εμείς λυπηθήκαμε
+emis lipithikame
+we felt sorry | λυπάμαι · aorist
+
+929
+εσείς λυπηθήκατε
+esis lipithikate
+you (several / polite) felt sorry | λυπάμαι · aorist
+
+930
+αυτοί λυπήθηκαν
+afti lipithikan
+they felt sorry | λυπάμαι · aorist
+
+931
+εγώ χάρηκα
+ego harika
+I was glad | χαίρομαι · aorist
+
+932
+εσύ χάρηκες
+esi harikes
+you (one person) was glad | χαίρομαι · aorist
+
+933
+αυτή χάρηκε
+afti harike
+she was glad | χαίρομαι · aorist
+
+934
+εμείς χαρήκαμε
+emis harikame
+we was glad | χαίρομαι · aorist
+
+935
+εσείς χαρήκατε
+esis harikate
+you (several / polite) was glad | χαίρομαι · aorist
+
+936
+αυτοί χάρηκαν
+afti harikan
+they was glad | χαίρομαι · aorist
+
+937
+εγώ φάνηκα
+ego fanika
+I seemed | φαίνομαι · aorist
+
+938
+εσύ φάνηκες
+esi fanikes
+you (one person) seemed | φαίνομαι · aorist
+
+939
+αυτός φάνηκε
+aftos fanike
+he seemed | φαίνομαι · aorist
+
+940
+εμείς φανήκαμε
+emis fanikame
+we seemed | φαίνομαι · aorist
+
+941
+εσείς φανήκατε
+esis fanikate
+you (several / polite) seemed | φαίνομαι · aorist
+
+942
+αυτοί φάνηκαν
+afti fanikan
+they seemed | φαίνομαι · aorist
+
+943
+εγώ σκέφτηκα
+ego skeftika
+I thought about | σκέφτομαι · aorist
+
+944
+εσύ σκέφτηκες
+esi skeftikes
+you (one person) thought about | σκέφτομαι · aorist
+
+945
+αυτή σκέφτηκε
+afti skeftike
+she thought about | σκέφτομαι · aorist
+
+946
+εμείς σκεφτήκαμε
+emis skeftikame
+we thought about | σκέφτομαι · aorist
+
+947
+εσείς σκεφτήκατε
+esis skeftikate
+you (several / polite) thought about | σκέφτομαι · aorist
+
+948
+αυτοί σκέφτηκαν
+afti skeftikan
+they thought about | σκέφτομαι · aorist
+
+949
+εγώ αισθάνθηκα
+ego esthanthika
+I felt (a feeling) | αισθάνομαι · aorist
+
+950
+εσύ αισθάνθηκες
+esi esthanthikes
+you (one person) felt (a feeling) | αισθάνομαι · aorist
+
+951
+αυτός αισθάνθηκε
+aftos esthanthike
+he felt (a feeling) | αισθάνομαι · aorist
+
+952
+εμείς αισθανθήκαμε
+emis esthanthikame
+we felt (a feeling) | αισθάνομαι · aorist
+
+953
+εσείς αισθανθήκατε
+esis esthanthikate
+you (several / polite) felt (a feeling) | αισθάνομαι · aorist
+
+954
+αυτοί αισθάνθηκαν
+afti esthanthikan
+they felt (a feeling) | αισθάνομαι · aorist
+
+955
+εγώ βρέθηκα
+ego vrethika
+I ended up | βρίσκομαι · aorist
+
+956
+εσύ βρέθηκες
+esi vrethikes
+you (one person) ended up | βρίσκομαι · aorist
+
+957
+αυτή βρέθηκε
+afti vrethike
+she ended up | βρίσκομαι · aorist
+
+958
+εμείς βρεθήκαμε
+emis vrethikame
+we ended up | βρίσκομαι · aorist
+
+959
+εσείς βρεθήκατε
+esis vrethikate
+you (several / polite) ended up | βρίσκομαι · aorist
+
+960
+αυτοί βρέθηκαν
+afti vrethikan
+they ended up | βρίσκομαι · aorist
+
+961
+εγώ επισκέφτηκα
+ego episkeftika
+I visited | επισκέπτομαι · aorist
+
+962
+εσύ επισκέφτηκες
+esi episkeftikes
+you (one person) visited | επισκέπτομαι · aorist
+
+963
+αυτός επισκέφτηκε
+aftos episkeftike
+he visited | επισκέπτομαι · aorist
+
+964
+εμείς επισκεφτήκαμε
+emis episkeftikame
+we visited | επισκέπτομαι · aorist
+
+965
+εσείς επισκεφτήκατε
+esis episkeftikate
+you (several / polite) visited | επισκέπτομαι · aorist
+
+966
+αυτοί επισκέφτηκαν
+afti episkeftikan
+they visited | επισκέπτομαι · aorist
+
+967
+εγώ ενδιαφέρθηκα
+ego endiaferthika
+I was interested | ενδιαφέρομαι · aorist
+
+968
+εσύ ενδιαφέρθηκες
+esi endiaferthikes
+you (one person) was interested | ενδιαφέρομαι · aorist
+
+969
+αυτή ενδιαφέρθηκε
+afti endiaferthike
+she was interested | ενδιαφέρομαι · aorist
+
+970
+εμείς ενδιαφερθήκαμε
+emis endiaferthikame
+we was interested | ενδιαφέρομαι · aorist
+
+971
+εσείς ενδιαφερθήκατε
+esis endiaferthikate
+you (several / polite) was interested | ενδιαφέρομαι · aorist
+
+972
+αυτοί ενδιαφέρθηκαν
+afti endiaferthikan
+they was interested | ενδιαφέρομαι · aorist
+
+973
+εγώ χρειάστηκα
+ego hriastika
+I needed | χρειάζομαι · aorist
+
+974
+εσύ χρειάστηκες
+esi hriastikes
+you (one person) needed | χρειάζομαι · aorist
+
+975
+αυτός χρειάστηκε
+aftos hriastike
+he needed | χρειάζομαι · aorist
+
+976
+εμείς χρειαστήκαμε
+emis hriastikame
+we needed | χρειάζομαι · aorist
+
+977
+εσείς χρειαστήκατε
+esis hriastikate
+you (several / polite) needed | χρειάζομαι · aorist
+
+978
+αυτοί χρειάστηκαν
+afti hriastikan
+they needed | χρειάζομαι · aorist
+
+979
+εγώ ξεκουράστηκα
+ego xekourastika
+I rested | ξεκουράζομαι · aorist
+
+980
+εσύ ξεκουράστηκες
+esi xekourastikes
+you (one person) rested | ξεκουράζομαι · aorist
+
+981
+αυτή ξεκουράστηκε
+afti xekourastike
+she rested | ξεκουράζομαι · aorist
+
+982
+εμείς ξεκουραστήκαμε
+emis xekourastikame
+we rested | ξεκουράζομαι · aorist
+
+983
+εσείς ξεκουραστήκατε
+esis xekourastikate
+you (several / polite) rested | ξεκουράζομαι · aorist
+
+984
+αυτοί ξεκουράστηκαν
+afti xekourastikan
+they rested | ξεκουράζομαι · aorist
+
+985
+εγώ ντύθηκα
+ego dithika
+I got dressed | ντύνομαι · aorist
+
+986
+εσύ ντύθηκες
+esi dithikes
+you (one person) got dressed | ντύνομαι · aorist
+
+987
+αυτός ντύθηκε
+aftos dithike
+he got dressed | ντύνομαι · aorist
+
+988
+εμείς ντυθήκαμε
+emis dithikame
+we got dressed | ντύνομαι · aorist
+
+989
+εσείς ντυθήκατε
+esis dithikate
+you (several / polite) got dressed | ντύνομαι · aorist
+
+990
+αυτοί ντύθηκαν
+afti dithikan
+they got dressed | ντύνομαι · aorist
+
+991
+εγώ παντρεύτηκα
+ego pandreftika
+I got married | παντρεύομαι · aorist
+
+992
+εσύ παντρεύτηκες
+esi pandreftikes
+you (one person) got married | παντρεύομαι · aorist
+
+993
+αυτή παντρεύτηκε
+afti pandreftike
+she got married | παντρεύομαι · aorist
+
+994
+εμείς παντρευτήκαμε
+emis pandreftikame
+we got married | παντρεύομαι · aorist
+
+995
+εσείς παντρευτήκατε
+esis pandreftikate
+you (several / polite) got married | παντρεύομαι · aorist
+
+996
+αυτοί παντρεύτηκαν
+afti pandreftikan
+they got married | παντρεύομαι · aorist
+
+997
+εγώ ονειρεύτηκα
+ego onireftika
+I dreamed | ονειρεύομαι · aorist
+
+998
+εσύ ονειρεύτηκες
+esi onireftikes
+you (one person) dreamed | ονειρεύομαι · aorist
+
+999
+αυτός ονειρεύτηκε
+aftos onireftike
+he dreamed | ονειρεύομαι · aorist
+
+1000
+εμείς ονειρευτήκαμε
+emis onireftikame
+we dreamed | ονειρεύομαι · aorist
+
+1001
+εσείς ονειρευτήκατε
+esis onireftikate
+you (several / polite) dreamed | ονειρεύομαι · aorist
+
+1002
+αυτοί ονειρεύτηκαν
+afti onireftikan
+they dreamed | ονειρεύομαι · aorist
