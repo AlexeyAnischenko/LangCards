@@ -47,6 +47,10 @@ DICTS = [
     # the aorist of 167 KLIK A2 verbs, every person: εγώ έγραψα ... αυτοί έγραψαν
     ('aorist',  'greek-a2-aorist-verbs.txt',
                 u'A2 verbs — aorist (past), all persons'),
+    # fill-in deck: a time word + present on the front (Σήμερα ο Νίκος
+    # γράφει.), the same sentence in the aorist behind (Χθες ο Νίκος έγραψε.)
+    ('aorist3k', 'greek-a2-present-to-aorist-3000.txt',
+                u'A2 verbs — present → aorist with time words (3,000)'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
