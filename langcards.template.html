@@ -1174,7 +1174,8 @@ Translation: Excuse me.</pre>
 
       if (!showGreek || showTranslation) {
         englishText.textContent = currentCard.english;
-        if (currentCard.paradigm) {
+        // only once revealed: on an English-first card the table is the answer
+        if (currentCard.paradigm && showTranslation) {
           const box = document.createElement('span');
           box.className = 'paradigm';
           box.textContent = currentCard.paradigm;   // textContent: never markup

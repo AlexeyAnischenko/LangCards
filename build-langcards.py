@@ -51,6 +51,10 @@ DICTS = [
     # γράφει.), the same sentence in the aorist behind (Χθες ο Νίκος έγραψε.)
     ('aorist3k', 'greek-a2-present-to-aorist-3000.txt',
                 u'A2 verbs — present → aorist with time words (3,000)'),
+    # every KLIK A1/A2/exam verb whose past or future breaks the rules: the
+    # present singular in front, both pasts in all persons + θα behind
+    ('irreg',   'greek-a2-irregular-verbs.txt',
+                u'A2 irregular verbs — past simple, past continuous, future'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
