@@ -1,0 +1,249 @@
+1
+είμαι · είσαι · είναι
+ime · ise · ine
+I am |        past simple  past continuous | εγώ    —            ήμουν | εσύ    —            ήσουν | αυτός  —            ήταν | εμείς  —            ήμασταν | εσείς  —            ήσασταν | αυτοί  —            ήταν | EN     —            I was | θα     είμαι  = I will be | ⚠ no aorist: ήμουν is the only past, for both "was" and "was being"
+
+2
+έχω · έχεις · έχει
+eho · ehis · ehi
+I have |        past simple  past continuous | εγώ    —            είχα | εσύ    —            είχες | αυτός  —            είχε | εμείς  —            είχαμε | εσείς  —            είχατε | αυτοί  —            είχαν | EN     —            I had | θα     έχω  = I will have | ⚠ no aorist: είχα is the only past
+
+3
+λέω · λες · λέει
+leo · les · lei
+I say |        past simple  past continuous | εγώ    είπα         έλεγα | εσύ    είπες        έλεγες | αυτός  είπε         έλεγε | εμείς  είπαμε       λέγαμε | εσείς  είπατε       λέγατε | αυτοί  είπαν        έλεγαν | EN     I said       I was saying | θα     πω, πεις, πει, πούμε, πείτε, πουν  = I will say | ⚠ the past continuous takes a γ: έλεγα
+
+4
+κάνω · κάνεις · κάνει
+kano · kanis · kani
+I do |        past simple  past continuous | εγώ    έκανα        έκανα | εσύ    έκανες       έκανες | αυτός  έκανε        έκανε | εμείς  κάναμε       κάναμε | εσείς  κάνατε       κάνατε | αυτοί  έκαναν       έκαναν | EN     I did        I was doing | θα     κάνω  = I will do | ⚠ past simple and past continuous look the same
+
+5
+μπορώ · μπορείς · μπορεί
+boro · boris · bori
+I can |        past simple  past continuous | εγώ    μπόρεσα      μπορούσα | εσύ    μπόρεσες     μπορούσες | αυτός  μπόρεσε      μπορούσε | εμείς  μπορέσαμε    μπορούσαμε | εσείς  μπορέσατε    μπορούσατε | αυτοί  μπόρεσαν     μπορούσαν | EN     I could      I could | θα     μπορέσω  = I will be able to | ⚠ θα μπορώ is also common
+
+6
+ξέρω · ξέρεις · ξέρει
+xero · xeris · xeri
+I know |        past simple  past continuous | εγώ    —            ήξερα | εσύ    —            ήξερες | αυτός  —            ήξερε | εμείς  —            ξέραμε | εσείς  —            ξέρατε | αυτοί  —            ήξεραν | EN     —            I knew | θα     ξέρω  = I will know | ⚠ no aorist: ήξερα is the only past; ή- only where stressed
+
+7
+θέλω · θέλεις · θέλει
+thelo · thelis · theli
+I want |        past simple  past continuous | εγώ    θέλησα       ήθελα | εσύ    θέλησες      ήθελες | αυτός  θέλησε       ήθελε | εμείς  θελήσαμε     θέλαμε | εσείς  θελήσατε     θέλατε | αυτοί  θέλησαν      ήθελαν | EN     I wanted     I wanted | θα     θέλω  = I will want | ⚠ ή- in the past continuous; θα θελήσω exists but θα θέλω is what people say
+
+8
+πάω · πας · πάει
+pao · pas · pai
+I go |        past simple  past continuous | εγώ    πήγα         πήγαινα | εσύ    πήγες        πήγαινες | αυτός  πήγε         πήγαινε | εμείς  πήγαμε       πηγαίναμε | εσείς  πήγατε       πηγαίνατε | αυτοί  πήγαν        πήγαιναν | EN     I went       I was going | θα     πάω, πας, πάει, πάμε, πάτε, πάνε  = I will go | ⚠ also πηγαίνω, πηγαίνεις, πηγαίνει - same past
+
+9
+βλέπω · βλέπεις · βλέπει
+vlepo · vlepis · vlepi
+I see |        past simple  past continuous | εγώ    είδα         έβλεπα | εσύ    είδες        έβλεπες | αυτός  είδε         έβλεπε | εμείς  είδαμε       βλέπαμε | εσείς  είδατε       βλέπατε | αυτοί  είδαν        έβλεπαν | EN     I saw        I was seeing | θα     δω, δεις, δει, δούμε, δείτε, δουν  = I will see | ⚠ the ει- of είδα stays in every person
+
+10
+βρίσκω · βρίσκεις · βρίσκει
+vrisko · vriskis · vriski
+I find |        past simple  past continuous | εγώ    βρήκα        έβρισκα | εσύ    βρήκες       έβρισκες | αυτός  βρήκε        έβρισκε | εμείς  βρήκαμε      βρίσκαμε | εσείς  βρήκατε      βρίσκατε | αυτοί  βρήκαν       έβρισκαν | EN     I found      I was finding | θα     βρω, βρεις, βρει, βρούμε, βρείτε, βρουν  = I will find
+
+11
+παίρνω · παίρνεις · παίρνει
+perno · pernis · perni
+I take |        past simple  past continuous | εγώ    πήρα         έπαιρνα | εσύ    πήρες        έπαιρνες | αυτός  πήρε         έπαιρνε | εμείς  πήραμε       παίρναμε | εσείς  πήρατε       παίρνατε | αυτοί  πήραν        έπαιρναν | EN     I took       I was taking | θα     πάρω  = I will take | ⚠ past πήρα with η, future πάρω with α
+
+12
+υπάρχω · υπάρχεις · υπάρχει
+iparho · iparhis · iparhi
+I exist |        past simple  past continuous | εγώ    υπήρξα       υπήρχα | εσύ    υπήρξες      υπήρχες | αυτός  υπήρξε       υπήρχε | εμείς  υπήρξαμε     υπήρχαμε | εσείς  υπήρξατε     υπήρχατε | αυτοί  υπήρξαν      υπήρχαν | EN     I existed    I existed | θα     υπάρξω  = I will exist | ⚠ ά becomes ή in both pasts
+
+13
+έρχομαι · έρχεσαι · έρχεται
+erhome · erhese · erhete
+I come |        past simple  past continuous | εγώ    ήρθα         ερχόμουν | εσύ    ήρθες        ερχόσουν | αυτός  ήρθε         ερχόταν | εμείς  ήρθαμε       ερχόμασταν | εσείς  ήρθατε       ερχόσασταν | αυτοί  ήρθαν        έρχονταν | EN     I came       I was coming | θα     έρθω  = I will come | ⚠ -μαι in the present and past continuous, active endings in the past simple
+
+14
+γίνομαι · γίνεσαι · γίνεται
+yinome · yinese · yinete
+I become |        past simple  past continuous | εγώ    έγινα        γινόμουν | εσύ    έγινες       γινόσουν | αυτός  έγινε        γινόταν | εμείς  γίναμε       γινόμασταν | εσείς  γίνατε       γινόσασταν | αυτοί  έγιναν       γίνονταν | EN     I became     I was becoming | θα     γίνω  = I will become | ⚠ active endings in the past simple
+
+15
+παρακαλώ · παρακαλείς · παρακαλεί
+parakalo · parakalis · parakali
+I ask |        past simple   past continuous | εγώ    παρακάλεσα    παρακαλούσα | εσύ    παρακάλεσες   παρακαλούσες | αυτός  παρακάλεσε    παρακαλούσε | εμείς  παρακαλέσαμε  παρακαλούσαμε | εσείς  παρακαλέσατε  παρακαλούσατε | αυτοί  παρακάλεσαν   παρακαλούσαν | EN     I asked       I was asking | θα     παρακαλέσω  = I will ask | ⚠ like καλώ
+
+16
+περιμένω · περιμένεις · περιμένει
+perimeno · perimenis · perimeni
+I wait |        past simple  past continuous | εγώ    περίμενα     περίμενα | εσύ    περίμενες    περίμενες | αυτός  περίμενε     περίμενε | εμείς  περιμέναμε   περιμέναμε | εσείς  περιμένατε   περιμένατε | αυτοί  περίμεναν    περίμεναν | EN     I waited     I was waiting | θα     περιμένω  = I will wait | ⚠ past simple and past continuous look the same
+
+17
+καταλαβαίνω · καταλαβαίνεις · καταλαβαίνει
+katalaveno · katalavenis · katalaveni
+I understand |        past simple   past continuous | εγώ    κατάλαβα      καταλάβαινα | εσύ    κατάλαβες     καταλάβαινες | αυτός  κατάλαβε      καταλάβαινε | εμείς  καταλάβαμε    καταλαβαίναμε | εσείς  καταλάβατε    καταλαβαίνατε | αυτοί  κατάλαβαν     καταλάβαιναν | EN     I understood  I was understanding | θα     καταλάβω  = I will understand
+
+18
+δίνω · δίνεις · δίνει
+dino · dinis · dini
+I give |        past simple  past continuous | εγώ    έδωσα        έδινα | εσύ    έδωσες       έδινες | αυτός  έδωσε        έδινε | εμείς  δώσαμε       δίναμε | εσείς  δώσατε       δίνατε | αυτοί  έδωσαν       έδιναν | EN     I gave       I was giving | θα     δώσω  = I will give | ⚠ the past simple has ω: έδωσα
+
+19
+φεύγω · φεύγεις · φεύγει
+fevgo · fevyis · fevyi
+I leave |        past simple  past continuous | εγώ    έφυγα        έφευγα | εσύ    έφυγες       έφευγες | αυτός  έφυγε        έφευγε | εμείς  φύγαμε       φεύγαμε | εσείς  φύγατε       φεύγατε | αυτοί  έφυγαν       έφευγαν | EN     I left       I was leaving | θα     φύγω  = I will leave | ⚠ ευ becomes υ
+
+20
+ακούω · ακούς · ακούει
+akouo · akous · akoui
+I hear |        past simple  past continuous | εγώ    άκουσα       άκουγα | εσύ    άκουσες      άκουγες | αυτός  άκουσε       άκουγε | εμείς  ακούσαμε     ακούγαμε | εσείς  ακούσατε     ακούγατε | αυτοί  άκουσαν      άκουγαν | EN     I heard      I was hearing | θα     ακούσω  = I will hear | ⚠ the past continuous takes a γ: άκουγα
+
+21
+φαίνομαι · φαίνεσαι · φαίνεται
+fenome · fenese · fenete
+I seem |        past simple  past continuous | εγώ    φάνηκα       φαινόμουν | εσύ    φάνηκες      φαινόσουν | αυτός  φάνηκε       φαινόταν | εμείς  φανήκαμε     φαινόμασταν | εσείς  φανήκατε     φαινόσασταν | αυτοί  φάνηκαν      φαίνονταν | EN     I seemed     I seemed | θα     φανώ  = I will seem | ⚠ αι becomes α
+
+22
+βγαίνω · βγαίνεις · βγαίνει
+vgeno · vgenis · vgeni
+I go out |        past simple  past continuous | εγώ    βγήκα        έβγαινα | εσύ    βγήκες       έβγαινες | αυτός  βγήκε        έβγαινε | εμείς  βγήκαμε      βγαίναμε | εσείς  βγήκατε      βγαίνατε | αυτοί  βγήκαν       έβγαιναν | EN     I went out   I was going out | θα     βγω, βγεις, βγει, βγούμε, βγείτε, βγουν  = I will go out
+
+23
+βάζω · βάζεις · βάζει
+vazo · vazis · vazi
+I put |        past simple  past continuous | εγώ    έβαλα        έβαζα | εσύ    έβαλες       έβαζες | αυτός  έβαλε        έβαζε | εμείς  βάλαμε       βάζαμε | εσείς  βάλατε       βάζατε | αυτοί  έβαλαν       έβαζαν | EN     I put        I was putting | θα     βάλω  = I will put | ⚠ ζ becomes λ
+
+24
+μπαίνω · μπαίνεις · μπαίνει
+beno · benis · beni
+I go in |        past simple  past continuous | εγώ    μπήκα        έμπαινα | εσύ    μπήκες       έμπαινες | αυτός  μπήκε        έμπαινε | εμείς  μπήκαμε      μπαίναμε | εσείς  μπήκατε      μπαίνατε | αυτοί  μπήκαν       έμπαιναν | EN     I went in    I was going in | θα     μπω, μπεις, μπει, μπούμε, μπείτε, μπουν  = I will go in
+
+25
+περνάω · περνάς · περνάει
+pernao · pernas · pernai
+I pass |        past simple  past continuous | εγώ    πέρασα       περνούσα | εσύ    πέρασες      περνούσες | αυτός  πέρασε       περνούσε | εμείς  περάσαμε     περνούσαμε | εσείς  περάσατε     περνούσατε | αυτοί  πέρασαν      περνούσαν | EN     I passed     I was passing | θα     περάσω  = I will pass | ⚠ the ν drops: περ-άσα
+
+26
+φέρνω · φέρνεις · φέρνει
+ferno · fernis · ferni
+I bring |        past simple  past continuous | εγώ    έφερα        έφερνα | εσύ    έφερες       έφερνες | αυτός  έφερε        έφερνε | εμείς  φέραμε       φέρναμε | εσείς  φέρατε       φέρνατε | αυτοί  έφεραν       έφερναν | EN     I brought    I was bringing | θα     φέρω  = I will bring | ⚠ the ν drops, no σ
+
+27
+πεθαίνω · πεθαίνεις · πεθαίνει
+petheno · pethenis · petheni
+I die |        past simple  past continuous | εγώ    πέθανα       πέθαινα | εσύ    πέθανες      πέθαινες | αυτός  πέθανε       πέθαινε | εμείς  πεθάναμε     πεθαίναμε | εσείς  πεθάνατε     πεθαίνατε | αυτοί  πέθαναν      πέθαιναν | EN     I died       I was dying | θα     πεθάνω  = I will die
+
+28
+τρώω · τρως · τρώει
+troo · tros · troi
+I eat |        past simple  past continuous | εγώ    έφαγα        έτρωγα | εσύ    έφαγες       έτρωγες | αυτός  έφαγε        έτρωγε | εμείς  φάγαμε       τρώγαμε | εσείς  φάγατε       τρώγατε | αυτοί  έφαγαν       έτρωγαν | EN     I ate        I was eating | θα     φάω, φας, φάει, φάμε, φάτε, φάνε  = I will eat | ⚠ the past continuous takes a γ: έτρωγα
+
+29
+μένω · μένεις · μένει
+meno · menis · meni
+I stay |        past simple  past continuous | εγώ    έμεινα       έμενα | εσύ    έμεινες      έμενες | αυτός  έμεινε       έμενε | εμείς  μείναμε      μέναμε | εσείς  μείνατε      μένατε | αυτοί  έμειναν      έμεναν | EN     I stayed     I was staying | θα     μείνω  = I will stay | ⚠ ε becomes ει, no σ
+
+30
+μαθαίνω · μαθαίνεις · μαθαίνει
+matheno · mathenis · matheni
+I learn |        past simple  past continuous | εγώ    έμαθα        μάθαινα | εσύ    έμαθες       μάθαινες | αυτός  έμαθε        μάθαινε | εμείς  μάθαμε       μαθαίναμε | εσείς  μάθατε       μαθαίνατε | αυτοί  έμαθαν       μάθαιναν | EN     I learned    I was learning | θα     μάθω  = I will learn
+
+31
+σημαίνω · σημαίνεις · σημαίνει
+simeno · simenis · simeni
+I mean |        past simple  past continuous | εγώ    σήμανα       σήμαινα | εσύ    σήμανες      σήμαινες | αυτός  σήμανε       σήμαινε | εμείς  σημάναμε     σημαίναμε | εσείς  σημάνατε     σημαίνατε | αυτοί  σήμαναν      σήμαιναν | EN     I meant      I meant | θα     σημάνω  = I will mean | ⚠ mostly 3rd person: τι σημαίνει; τι σήμαινε;
+
+32
+χαίρομαι · χαίρεσαι · χαίρεται
+herome · herese · herete
+I am glad |        past simple  past continuous | εγώ    χάρηκα       χαιρόμουν | εσύ    χάρηκες      χαιρόσουν | αυτός  χάρηκε       χαιρόταν | εμείς  χαρήκαμε     χαιρόμασταν | εσείς  χαρήκατε     χαιρόσασταν | αυτοί  χάρηκαν      χαίρονταν | EN     I was glad   I was glad | θα     χαρώ  = I will be glad | ⚠ αι becomes α
+
+33
+βρίσκομαι · βρίσκεσαι · βρίσκεται
+vriskome · vriskese · vriskete
+I am (somewhere) |        past simple        past continuous | εγώ    βρέθηκα            βρισκόμουν | εσύ    βρέθηκες           βρισκόσουν | αυτός  βρέθηκε            βρισκόταν | εμείς  βρεθήκαμε          βρισκόμασταν | εσείς  βρεθήκατε          βρισκόσασταν | αυτοί  βρέθηκαν           βρίσκονταν | EN     I was (somewhere)  I was (somewhere) | θα     βρεθώ  = I will be (somewhere) | ⚠ ι becomes ε
+
+34
+παίζω · παίζεις · παίζει
+pezo · pezis · pezi
+I play |        past simple  past continuous | εγώ    έπαιξα       έπαιζα | εσύ    έπαιξες      έπαιζες | αυτός  έπαιξε       έπαιζε | εμείς  παίξαμε      παίζαμε | εσείς  παίξατε      παίζατε | αυτοί  έπαιξαν      έπαιζαν | EN     I played     I was playing | θα     παίξω  = I will play
+
+35
+βγάζω · βγάζεις · βγάζει
+vgazo · vgazis · vgazi
+I take out |        past simple  past continuous | εγώ    έβγαλα       έβγαζα | εσύ    έβγαλες      έβγαζες | αυτός  έβγαλε       έβγαζε | εμείς  βγάλαμε      βγάζαμε | εσείς  βγάλατε      βγάζατε | αυτοί  έβγαλαν      έβγαζαν | EN     I took out   I was taking out | θα     βγάλω  = I will take out | ⚠ ζ becomes λ
+
+36
+στέλνω · στέλνεις · στέλνει
+stelno · stelnis · stelni
+I send |        past simple  past continuous | εγώ    έστειλα      έστελνα | εσύ    έστειλες     έστελνες | αυτός  έστειλε      έστελνε | εμείς  στείλαμε     στέλναμε | εσείς  στείλατε     στέλνατε | αυτοί  έστειλαν     έστελναν | EN     I sent       I was sending | θα     στείλω  = I will send | ⚠ ε becomes ει, the ν drops
+
+37
+ζω · ζεις · ζει
+zo · zis · zi
+I live |        past simple  past continuous | εγώ    έζησα        ζούσα | εσύ    έζησες       ζούσες | αυτός  έζησε        ζούσε | εμείς  ζήσαμε       ζούσαμε | εσείς  ζήσατε       ζούσατε | αυτοί  έζησαν       ζούσαν | EN     I lived      I was living | θα     ζήσω  = I will live | ⚠ one syllable in the present: ζω, ζεις, ζει
+
+38
+γυρνάω · γυρνάς · γυρνάει
+yirnao · yirnas · yirnai
+I come back |        past simple  past continuous | εγώ    γύρισα       γυρνούσα | εσύ    γύρισες      γυρνούσες | αυτός  γύρισε       γυρνούσε | εμείς  γυρίσαμε     γυρνούσαμε | εσείς  γυρίσατε     γυρνούσατε | αυτοί  γύρισαν      γυρνούσαν | EN     I came back  I was coming back | θα     γυρίσω  = I will come back | ⚠ the past simple comes from γυρίζω
+
+39
+πίνω · πίνεις · πίνει
+pino · pinis · pini
+I drink |        past simple  past continuous | εγώ    ήπια         έπινα | εσύ    ήπιες        έπινες | αυτός  ήπιε         έπινε | εμείς  ήπιαμε       πίναμε | εσείς  ήπιατε       πίνατε | αυτοί  ήπιαν        έπιναν | EN     I drank      I was drinking | θα     πιω, πιεις, πιει, πιούμε, πιείτε, πιουν  = I will drink | ⚠ the ή- of ήπια stays in every person
+
+40
+καταφέρνω · καταφέρνεις · καταφέρνει
+kataferno · katafernis · kataferni
+I manage |        past simple  past continuous | εγώ    κατάφερα     κατάφερνα | εσύ    κατάφερες    κατάφερνες | αυτός  κατάφερε     κατάφερνε | εμείς  καταφέραμε   καταφέρναμε | εσείς  καταφέρατε   καταφέρνατε | αυτοί  κατάφεραν    κατάφερναν | EN     I managed    I was managing | θα     καταφέρω  = I will manage | ⚠ like φέρνω
+
+41
+αλλάζω · αλλάζεις · αλλάζει
+allazo · allazis · allazi
+I change |        past simple  past continuous | εγώ    άλλαξα       άλλαζα | εσύ    άλλαξες      άλλαζες | αυτός  άλλαξε       άλλαζε | εμείς  αλλάξαμε     αλλάζαμε | εσείς  αλλάξατε     αλλάζατε | αυτοί  άλλαξαν      άλλαζαν | EN     I changed    I was changing | θα     αλλάξω  = I will change
+
+42
+καλώ · καλείς · καλεί
+kalo · kalis · kali
+I invite |        past simple  past continuous | εγώ    κάλεσα       καλούσα | εσύ    κάλεσες      καλούσες | αυτός  κάλεσε       καλούσε | εμείς  καλέσαμε     καλούσαμε | εσείς  καλέσατε     καλούσατε | αυτοί  κάλεσαν      καλούσαν | EN     I invited    I was inviting | θα     καλέσω  = I will invite
+
+43
+ξεχνάω · ξεχνάς · ξεχνάει
+xehnao · xehnas · xehnai
+I forget |        past simple  past continuous | εγώ    ξέχασα       ξεχνούσα | εσύ    ξέχασες      ξεχνούσες | αυτός  ξέχασε       ξεχνούσε | εμείς  ξεχάσαμε     ξεχνούσαμε | εσείς  ξεχάσατε     ξεχνούσατε | αυτοί  ξέχασαν      ξεχνούσαν | EN     I forgot     I was forgetting | θα     ξεχάσω  = I will forget | ⚠ the ν drops: ξεχ-άσα
+
+44
+πέφτω · πέφτεις · πέφτει
+pefto · peftis · pefti
+I fall |        past simple  past continuous | εγώ    έπεσα        έπεφτα | εσύ    έπεσες       έπεφτες | αυτός  έπεσε        έπεφτε | εμείς  πέσαμε       πέφταμε | εσείς  πέσατε       πέφτατε | αυτοί  έπεσαν       έπεφταν | EN     I fell       I was falling | θα     πέσω  = I will fall | ⚠ φτ gives σ, not ψ
+
+45
+κάθομαι · κάθεσαι · κάθεται
+kathome · kathese · kathete
+I sit |        past simple  past continuous | εγώ    κάθισα       καθόμουν | εσύ    κάθισες      καθόσουν | αυτός  κάθισε       καθόταν | εμείς  καθίσαμε     καθόμασταν | εσείς  καθίσατε     καθόσασταν | αυτοί  κάθισαν      κάθονταν | EN     I sat        I was sitting | θα     καθίσω  = I will sit | ⚠ active endings; spoken future θα κάτσω
+
+46
+φοράω · φοράς · φοράει
+forao · foras · forai
+I wear |        past simple  past continuous | εγώ    φόρεσα       φορούσα | εσύ    φόρεσες      φορούσες | αυτός  φόρεσε       φορούσε | εμείς  φορέσαμε     φορούσαμε | εσείς  φορέσατε     φορούσατε | αυτοί  φόρεσαν      φορούσαν | EN     I wore       I was wearing | θα     φορέσω  = I will wear
+
+47
+υπόσχομαι · υπόσχεσαι · υπόσχεται
+iposhome · iposhese · iposhete
+I promise |        past simple   past continuous | εγώ    υποσχέθηκα    υποσχόμουν | εσύ    υποσχέθηκες   υποσχόσουν | αυτός  υποσχέθηκε    υποσχόταν | εμείς  υποσχεθήκαμε  υποσχόμασταν | εσείς  υποσχεθήκατε  υποσχόσασταν | αυτοί  υποσχέθηκαν   υπόσχονταν | EN     I promised    I was promising | θα     υποσχεθώ  = I will promise | ⚠ -έθηκα
+
+48
+αισθάνομαι · αισθάνεσαι · αισθάνεται
+esthanome · esthanese · esthanete
+I feel |        past simple   past continuous | εγώ    αισθάνθηκα    αισθανόμουν | εσύ    αισθάνθηκες   αισθανόσουν | αυτός  αισθάνθηκε    αισθανόταν | εμείς  αισθανθήκαμε  αισθανόμασταν | εσείς  αισθανθήκατε  αισθανόσασταν | αυτοί  αισθάνθηκαν   αισθάνονταν | EN     I felt        I felt | θα     αισθανθώ  = I will feel | ⚠ the ν stays: -νθηκα
+
+49
+κοιτάζω · κοιτάζεις · κοιτάζει
+kitazo · kitazis · kitazi
+I look at |        past simple  past continuous | εγώ    κοίταξα      κοίταζα | εσύ    κοίταξες     κοίταζες | αυτός  κοίταξε      κοίταζε | εμείς  κοιτάξαμε    κοιτάζαμε | εσείς  κοιτάξατε    κοιτάζατε | αυτοί  κοίταξαν     κοίταζαν | EN     I looked at  I was looking at | θα     κοιτάξω  = I will look at | ⚠ also κοιτάω / κοιτώ - same past simple
+
+50
+πετάω · πετάς · πετάει
+petao · petas · petai
+I throw |        past simple  past continuous | εγώ    πέταξα       πετούσα | εσύ    πέταξες      πετούσες | αυτός  πέταξε       πετούσε | εμείς  πετάξαμε     πετούσαμε | εσείς  πετάξατε     πετούσατε | αυτοί  πέταξαν      πετούσαν | EN     I threw      I was throwing | θα     πετάξω  = I will throw | ⚠ -άω but ξ, not -ησα

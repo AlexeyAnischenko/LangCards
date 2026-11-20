@@ -21,6 +21,7 @@ verb, 1sg + 3pl); future 1sg with θα. The other persons are mechanical.
 
 Outputs
   ../greek-a2-irregular-verbs.txt                      the LangCards deck
+  ../greek-a2-irregular-verbs-top50.txt                the 50 most common of them
   ../../Greek-A2-Basics/grammar/data/irregular-verbs.tsv  the grid's data
 
 Run from anywhere:  python tools/irregulardeck.py
@@ -40,6 +41,19 @@ BASICS = os.path.join(os.path.dirname(LC), 'Greek-A2-Basics')
 TSV = os.path.join(BASICS, 'grammar', 'data', 'irregular-verbs.tsv')
 XLSX = os.path.join(BASICS, 'support-materials', 'KLIK A1+A2 dictionary.xlsx')
 A2GLOSS = os.path.join(LC, 'klik-a2-vocabulary.txt')
+OUT_TOP = os.path.join(LC, 'greek-a2-irregular-verbs-top50.txt')
+
+# The 50 most common verbs of the list, most common first. Ranked 2026-11-20 by
+# the summed counts of every form on the card (present singular, both pasts in
+# all persons, the future) in the OpenSubtitles 2018 Greek frequency list
+# (github.com/hermitdave/FrequencyWords, el_50k) - spoken Greek, not textbook.
+TOP50 = u"""
+είμαι έχω λέω κάνω μπορώ ξέρω θέλω πάω βλέπω βρίσκω παίρνω υπάρχω έρχομαι
+γίνομαι παρακαλώ περιμένω καταλαβαίνω δίνω φεύγω ακούω φαίνομαι βγαίνω βάζω μπαίνω
+περνάω φέρνω πεθαίνω τρώω μένω μαθαίνω σημαίνω χαίρομαι βρίσκομαι παίζω βγάζω στέλνω
+ζω γυρνάω πίνω καταφέρνω αλλάζω καλώ ξεχνάω πέφτω κάθομαι φοράω υπόσχομαι αισθάνομαι
+κοιτάζω πετάω
+""".split()
 
 GROUPS = [
     ('core', 'Irregular stem — learn these by heart'),
@@ -407,6 +421,17 @@ def main():
                                                 u' | '.join(lines)))
     io.open(OUT, 'w', encoding='utf-8', newline='\n').write(u'\n'.join(out))
     print('%d cards -> %s' % (len(cards), OUT))
+
+    # the top-50 deck: same cards, most common verb first
+    assert len(TOP50) == 50 and len(set(TOP50)) == 50
+    by_pres = {v['pres']: c for v, c in zip(verbs, cards)}
+    assert set(TOP50) <= set(by_pres), set(TOP50) - set(by_pres)
+    out = []
+    for i, p in enumerate(TOP50, 1):
+        front, lat, eng, lines = by_pres[p]
+        out.append(u'%d\n%s\n%s\n%s | %s\n' % (i, front, lat, eng, u' | '.join(lines)))
+    io.open(OUT_TOP, 'w', encoding='utf-8', newline='\n').write(u'\n'.join(out))
+    print('%d cards -> %s' % (len(TOP50), OUT_TOP))
 
     if os.path.isdir(os.path.dirname(TSV)):
         head = [u'group', u'present', u'meaning', u'past simple', u'past continuous',

@@ -55,6 +55,9 @@ DICTS = [
     # present singular in front, both pasts in all persons + θα behind
     ('irreg',   'greek-a2-irregular-verbs.txt',
                 u'A2 irregular verbs — past simple, past continuous, future'),
+    # the 50 most common of those, most common first
+    ('irreg50', 'greek-a2-irregular-verbs-top50.txt',
+                u'A2 irregular verbs — top 50 most common'),
 ]
 
 s = io.open(SRC, encoding='utf-8').read()
